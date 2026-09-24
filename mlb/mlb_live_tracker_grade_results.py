@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-mlb_live_tracker_grade_results.py
+mlb_spread_live_tracker_grade_results_v2.py
 
 Grades ungraded rows in MLB_PROSPECTIVE_TRACKER_V1.sqlite3 against real
 final scores, pulled directly from statsapi.mlb.com using each pick's
