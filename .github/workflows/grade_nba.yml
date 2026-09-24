@@ -1,25 +1,79 @@
-name: Grade NBA picks
+name: NBA picks and grading
+
 on:
   schedule:
-    - cron: '0 */3 * * *'
-  workflow_dispatch: {}
+    - cron: '0 */3 * * *'   # grade every 3 hours
+    - cron: '0 15 * * *'    # lock picks once a day, 11am ET
+  workflow_dispatch: {}      # manual run does both
+
 permissions:
   contents: write
+
+concurrency:
+  group: nba-db              # never let two runs write the database at once
+  cancel-in-progress: false
+
 jobs:
-  grade:
+  nba:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install certifi pandas numpy scikit-learn
+
+      - name: Put the season files where the scripts expect them
+        run: ln -sfn "$GITHUB_WORKSPACE/nba" "$GITHUB_WORKSPACE/data"
+
       - name: Grade picks
         working-directory: nba
         run: python3 nba_live_tracker_grade_results.py
+
+      - name: Decide whether this run locks picks
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "0 15 * * *" ]; then
+            echo "lock=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "lock=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch live odds
+        id: odds
+        if: steps.mode.outputs.lock == 'true'
+        working-directory: nba
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          set +e
+          python3 nba_fetch_odds.py --out live/NBA_ODDS_LIVE.csv --hours-ahead 72 > "$RUNNER_TEMP/odds.log" 2>&1
+          rc=$?
+          set -e
+          cat "$RUNNER_TEMP/odds.log"
+          if [ $rc -eq 0 ]; then
+            echo "have_games=true" >> "$GITHUB_OUTPUT"
+          elif grep -q "No odds rows in the next" "$RUNNER_TEMP/odds.log"; then
+            echo "No NBA games with posted odds in the next 72 hours -- nothing to lock today."
+            echo "have_games=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Odds fetch failed for a reason other than 'no games' -- stopping so it gets noticed."
+            exit $rc
+          fi
+
+      - name: Lock picks
+        if: steps.odds.outputs.have_games == 'true'
+        working-directory: nba
+        run: python3 nba_live_tracker_lock.py --odds live/NBA_ODDS_LIVE.csv
+
       - name: Commit and push if the database changed
+        if: always()           # keep any grading/locking that succeeded even if a later step failed
         run: |
           git config user.name "sports-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add nba/NBA_PROSPECTIVE_TRACKER_V1.sqlite3
-          git diff --cached --quiet || git commit -m "NBA automated grading run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git diff --cached --quiet || git commit -m "NBA automated run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push

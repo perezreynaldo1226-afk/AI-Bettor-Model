@@ -1,30 +1,92 @@
-name: Grade MLB picks
+name: MLB picks and grading
+
 on:
   schedule:
-    - cron: '0 */3 * * *'
-  workflow_dispatch: {}
+    - cron: '0 */3 * * *'   # grade every 3 hours
+    - cron: '30 14 * * *'   # lock today's picks once a day, 10:30am ET
+  workflow_dispatch: {}      # manual run does both
+
 permissions:
   contents: write
+
+concurrency:
+  group: mlb-db              # never let two runs write the database at once
+  cancel-in-progress: false
+
 jobs:
-  grade:
+  mlb:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install dependencies
-        run: pip install certifi
+        run: pip install certifi pandas numpy scikit-learn
+
       - name: Grade moneyline picks
         working-directory: mlb
         run: python3 mlb_live_tracker_grade_results.py
+
       - name: Grade spread picks
         working-directory: mlb
         run: python3 mlb_spread_live_tracker_grade_results_v2.py
+
+      - name: Decide whether this run locks picks
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "30 14 * * *" ]; then
+            echo "lock=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "lock=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Put the training data where the lock scripts expect it
+        if: steps.mode.outputs.lock == 'true'
+        run: |
+          mkdir -p ../MLB_AI_MODEL/data
+          ln -sfn "$GITHUB_WORKSPACE/mlb" ../MLB_AI_MODEL/data/retrosheet_basic
+          ls -la ../MLB_AI_MODEL/data/retrosheet_basic/teamstats.csv ../MLB_AI_MODEL/data/retrosheet_basic/pitching.csv
+
+      - name: Fetch live odds
+        id: odds
+        if: steps.mode.outputs.lock == 'true'
+        working-directory: mlb
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          set +e
+          python3 fetch_mlb_odds_v3.py --out live/MLB_ODDS_LIVE.csv --markets h2h,spreads --hours-ahead 16 > "$RUNNER_TEMP/odds.log" 2>&1
+          rc=$?
+          set -e
+          cat "$RUNNER_TEMP/odds.log"
+          if [ $rc -eq 0 ]; then
+            echo "have_games=true" >> "$GITHUB_OUTPUT"
+          elif grep -q "No odds rows in the next" "$RUNNER_TEMP/odds.log"; then
+            echo "No MLB games with posted odds in the next 16 hours -- nothing to lock today."
+            echo "have_games=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Odds fetch failed for a reason other than 'no games' -- stopping so it gets noticed."
+            exit $rc
+          fi
+
+      - name: Lock moneyline picks
+        if: steps.odds.outputs.have_games == 'true'
+        working-directory: mlb
+        run: python3 mlb_live_tracker_lock_v3.py --odds live/MLB_ODDS_LIVE.csv
+
+      - name: Lock run-line picks
+        if: steps.odds.outputs.have_games == 'true'
+        working-directory: mlb
+        run: python3 mlb_spread_live_lock_v1.py --odds live/MLB_ODDS_LIVE.csv
+
       - name: Commit and push if the database changed
+        if: always()           # keep any grading/locking that succeeded even if a later step failed
         run: |
           git config user.name "sports-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add mlb/MLB_PROSPECTIVE_TRACKER_V1.sqlite3
-          git diff --cached --quiet || git commit -m "MLB automated grading run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git diff --cached --quiet || git commit -m "MLB automated run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
