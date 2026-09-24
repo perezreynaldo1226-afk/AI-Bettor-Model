@@ -17,7 +17,7 @@ jobs:
         run: pip install certifi
       - name: Grade moneyline picks
         working-directory: mlb
-        run: python3 mlb_live_tracker_grade_results.py
+        run: python3 mlb_live_tracker_grade_results_v2.py
       - name: Grade spread picks
         working-directory: mlb
         run: python3 mlb_spread_live_tracker_grade_results_v2.py
