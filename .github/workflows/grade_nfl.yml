@@ -1,0 +1,27 @@
+name: Grade NFL picks
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install pandas
+      - name: Grade picks
+        working-directory: nfl
+        run: python3 PROSPECTIVE_TRACKER_V1_1_GRADE_RESULTS.py
+      - name: Commit and push if the database changed
+        run: |
+          git config user.name "sports-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add nfl/PROSPECTIVE_TRACKER_V1_1.sqlite3
+          git diff --cached --quiet || git commit -m "NFL automated grading run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
