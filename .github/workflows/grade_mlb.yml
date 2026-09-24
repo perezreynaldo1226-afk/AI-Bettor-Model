@@ -82,11 +82,17 @@ jobs:
         working-directory: mlb
         run: python3 mlb_spread_live_lock_v1.py --odds live/MLB_ODDS_LIVE.csv
 
+      - name: Export app data for Lineboard
+        if: always()
+        working-directory: mlb
+        run: python3 export_lineboard_mlb.py
+
       - name: Commit and push if the database changed
         if: always()           # keep any grading/locking that succeeded even if a later step failed
         run: |
           git config user.name "sports-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add mlb/MLB_PROSPECTIVE_TRACKER_V1.sqlite3
+          if [ -f mlb/lineboard_export.json ]; then git add mlb/lineboard_export.json; fi
           git diff --cached --quiet || git commit -m "MLB automated run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push

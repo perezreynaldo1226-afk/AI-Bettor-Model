@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       lock:
-        description: 'Also lock picks for the coming week? (leave off unless the weekly lock failed)'
+        description: 'Also lock picks for the coming week? (only when a re-lock is needed; replaces that week''s official picks for games not started yet)'
         type: boolean
         default: false
 
@@ -32,8 +32,9 @@ jobs:
         run: pip install pandas==2.3.3 numpy==2.5.3 scikit-learn==1.9.1 joblib==1.6.0 nflreadpy==0.1.5 polars==1.44.2 pyarrow==25.0.1 certifi
 
       - name: Grade picks
+        continue-on-error: true    # a scores-feed hiccup must never block the weekly lock
         working-directory: nfl
-        run: python3 PROSPECTIVE_TRACKER_V1_1_GRADE_RESULTS.py
+        run: python3 PROSPECTIVE_TRACKER_V1_2_GRADE_RESULTS.py
 
       - name: Decide whether this run locks picks
         id: mode
@@ -85,10 +86,15 @@ jobs:
         if: steps.mode.outputs.lock == 'true'
         working-directory: nfl
         run: >-
-          python3 PROSPECTIVE_TRACKER_V1_4_LOG_PICKS.py
+          python3 PROSPECTIVE_TRACKER_V1_5_LOG_PICKS.py
           --features ../NFL_AI_MODEL_1_0/live/pregame/MODEL_1_0_UPCOMING_WINNER_63_V62_3.csv
           --odds ../NFL_AI_MODEL_1_0/live/sportsbook/WEEK_ODDS_LIVE.csv
           --season ${{ steps.feat.outputs.season }} --week ${{ steps.feat.outputs.week }}
+
+      - name: Export app data for Lineboard
+        if: always()
+        working-directory: nfl
+        run: python3 export_lineboard_nfl.py
 
       - name: Commit and push if the database changed
         if: always()           # keep any grading/locking that succeeded even if a later step failed
@@ -96,5 +102,6 @@ jobs:
           git config user.name "sports-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add nfl/PROSPECTIVE_TRACKER_V1_1.sqlite3
+          if [ -f nfl/lineboard_export.json ]; then git add nfl/lineboard_export.json; fi
           git diff --cached --quiet || git commit -m "NFL automated run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
