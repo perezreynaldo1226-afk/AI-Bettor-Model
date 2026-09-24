@@ -20,7 +20,7 @@ jobs:
         run: python3 mlb_live_tracker_grade_results.py
       - name: Grade spread picks
         working-directory: mlb
-        run: python3 mlb_spread_live_tracker_grade_results.py
+        run: python3 mlb_spread_live_tracker_grade_results_v2.py
       - name: Commit and push if the database changed
         run: |
           git config user.name "sports-tracker-bot"
