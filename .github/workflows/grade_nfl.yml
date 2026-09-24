@@ -1,27 +1,100 @@
-name: Grade NFL picks
+name: NFL picks and grading
+
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch: {}
+    - cron: '0 */6 * * *'   # grade every 6 hours
+    - cron: '0 17 * * 3'    # lock the coming week once, Wednesdays 1pm ET
+  workflow_dispatch:
+    inputs:
+      lock:
+        description: 'Also lock picks for the coming week? (leave off unless the weekly lock failed)'
+        type: boolean
+        default: false
+
 permissions:
   contents: write
+
+concurrency:
+  group: nfl-db              # never let two runs write the database at once
+  cancel-in-progress: false
+
 jobs:
-  grade:
+  nfl:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install pandas
+          python-version: '3.13'
+
+      - name: Install the exact versions the frozen model was built with
+        run: pip install pandas==2.3.3 numpy==2.5.3 scikit-learn==1.9.1 joblib==1.6.0 nflreadpy==0.1.5 polars==1.44.2 pyarrow==25.0.1 certifi
+
       - name: Grade picks
         working-directory: nfl
         run: python3 PROSPECTIVE_TRACKER_V1_1_GRADE_RESULTS.py
+
+      - name: Decide whether this run locks picks
+        id: mode
+        run: |
+          # A manual run only locks if you tick the box: NFL keeps every snapshot and
+          # grades the latest one, so an extra lock would replace that week's official pick.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.lock }}" = "true" ]; then
+            echo "lock=true" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "0 17 * * 3" ]; then
+            echo "lock=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "lock=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Unpack the frozen model and point the scripts at it
+        if: steps.mode.outputs.lock == 'true'
+        run: |
+          unzip -q -o nfl/NFL_AI_MODEL_1_0_bundle.zip -d "$GITHUB_WORKSPACE"
+          mkdir -p "$HOME/Desktop"
+          ln -sfn "$GITHUB_WORKSPACE" "$HOME/Desktop/Sport Bet"
+
+      - name: Verify the frozen Model 1.0 files are untouched
+        if: steps.mode.outputs.lock == 'true'
+        working-directory: NFL_AI_MODEL_1_0/artifacts
+        run: |
+          sha256sum -c <<'EOF'
+          9dbd54c8596ed5aa97e7d7d6ac2c1e07673d0da8bd1258e01d983857426ccddb  WINNER_EPA_CORE_LR_PRE2026.joblib
+          611c967fc788510b71aa2e8a3511679b66c5c45137e4735c13507617b2dc6db0  SPREAD_MKT_EPA_HGB_DEPLOYMENT_REFIT_PRE2026.joblib
+          02a759f3dd3c00eb7115d0fb9ef3c9798e8794251053e9efac870313186765fb  DECISION_AI_LIVE_STATE_PRE2026.joblib
+          EOF
+
+      - name: Build this week's features (V62.3, includes its own replay certification)
+        id: feat
+        if: steps.mode.outputs.lock == 'true'
+        working-directory: nfl
+        run: |
+          python3 NFL_AI_UPCOMING_EXACT_REPLAY_CERT_V62_3.py
+          python3 -c "import pandas as pd; d=pd.read_csv('../NFL_AI_MODEL_1_0/live/pregame/MODEL_1_0_UPCOMING_WINNER_63_V62_3.csv'); print(f'season={int(d.season.iloc[0])}'); print(f'week={int(d.week.iloc[0])}')" >> "$GITHUB_OUTPUT"
+          cat "$GITHUB_OUTPUT"
+
+      - name: Fetch live odds for that week
+        if: steps.mode.outputs.lock == 'true'
+        working-directory: nfl
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python3 fetch_week_odds.py --season ${{ steps.feat.outputs.season }} --week ${{ steps.feat.outputs.week }} --out ../NFL_AI_MODEL_1_0/live/sportsbook/WEEK_ODDS_LIVE.csv
+
+      - name: Lock picks (all four deciders)
+        if: steps.mode.outputs.lock == 'true'
+        working-directory: nfl
+        run: >-
+          python3 PROSPECTIVE_TRACKER_V1_4_LOG_PICKS.py
+          --features ../NFL_AI_MODEL_1_0/live/pregame/MODEL_1_0_UPCOMING_WINNER_63_V62_3.csv
+          --odds ../NFL_AI_MODEL_1_0/live/sportsbook/WEEK_ODDS_LIVE.csv
+          --season ${{ steps.feat.outputs.season }} --week ${{ steps.feat.outputs.week }}
+
       - name: Commit and push if the database changed
+        if: always()           # keep any grading/locking that succeeded even if a later step failed
         run: |
           git config user.name "sports-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add nfl/PROSPECTIVE_TRACKER_V1_1.sqlite3
-          git diff --cached --quiet || git commit -m "NFL automated grading run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git diff --cached --quiet || git commit -m "NFL automated run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
