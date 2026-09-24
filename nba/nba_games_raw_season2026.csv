@@ -1,0 +1,1327 @@
+event_id,date_utc,fetch_date,season_type,home_team,away_team,home_points,away_points,played,status_detail
+401809243,2025-10-21T23:30Z,2025-10-21,2,Oklahoma City Thunder,Houston Rockets,125,124,True,Final/2OT
+401809244,2025-10-22T02:00Z,2025-10-21,2,Los Angeles Lakers,Golden State Warriors,109,119,True,Final
+401809234,2025-10-22T23:00Z,2025-10-22,2,New York Knicks,Cleveland Cavaliers,119,111,True,Final
+401809933,2025-10-22T23:00Z,2025-10-22,2,Charlotte Hornets,Brooklyn Nets,136,117,True,Final
+401809934,2025-10-22T23:00Z,2025-10-22,2,Orlando Magic,Miami Heat,125,121,True,Final
+401809935,2025-10-22T23:30Z,2025-10-22,2,Atlanta Hawks,Toronto Raptors,118,138,True,Final
+401809936,2025-10-22T23:30Z,2025-10-22,2,Boston Celtics,Philadelphia 76ers,116,117,True,Final
+401809937,2025-10-23T00:00Z,2025-10-22,2,Chicago Bulls,Detroit Pistons,115,111,True,Final
+401809938,2025-10-23T00:00Z,2025-10-22,2,Memphis Grizzlies,New Orleans Pelicans,128,122,True,Final
+401809939,2025-10-23T00:00Z,2025-10-22,2,Milwaukee Bucks,Washington Wizards,133,120,True,Final
+401809940,2025-10-23T01:00Z,2025-10-22,2,Utah Jazz,LA Clippers,129,108,True,Final
+401809235,2025-10-23T01:47Z,2025-10-22,2,Dallas Mavericks,San Antonio Spurs,92,125,True,Final
+401809941,2025-10-23T02:00Z,2025-10-22,2,Phoenix Suns,Sacramento Kings,120,116,True,Final
+401809942,2025-10-23T02:00Z,2025-10-22,2,Portland Trail Blazers,Minnesota Timberwolves,114,118,True,Final
+401809236,2025-10-23T23:30Z,2025-10-23,2,Indiana Pacers,Oklahoma City Thunder,135,141,True,Final/2OT
+401809237,2025-10-24T02:17Z,2025-10-23,2,Golden State Warriors,Denver Nuggets,137,131,True,Final/OT
+401809946,2025-10-24T22:30Z,2025-10-24,2,Toronto Raptors,Milwaukee Bucks,116,122,True,Final
+401809943,2025-10-24T23:00Z,2025-10-24,2,Orlando Magic,Atlanta Hawks,107,111,True,Final
+401809944,2025-10-24T23:30Z,2025-10-24,2,Brooklyn Nets,Cleveland Cavaliers,124,131,True,Final
+401809945,2025-10-24T23:30Z,2025-10-24,2,New York Knicks,Boston Celtics,105,95,True,Final
+401809947,2025-10-25T00:00Z,2025-10-24,2,Houston Rockets,Detroit Pistons,111,115,True,Final
+401809948,2025-10-25T00:00Z,2025-10-24,2,Memphis Grizzlies,Miami Heat,114,146,True,Final
+401809949,2025-10-25T00:00Z,2025-10-24,2,New Orleans Pelicans,San Antonio Spurs,116,120,True,Final/OT
+401809950,2025-10-25T00:30Z,2025-10-24,2,Dallas Mavericks,Washington Wizards,107,117,True,Final
+401809951,2025-10-25T02:00Z,2025-10-24,2,Los Angeles Lakers,Minnesota Timberwolves,128,110,True,Final
+401809952,2025-10-25T02:00Z,2025-10-24,2,Portland Trail Blazers,Golden State Warriors,139,119,True,Final
+401809953,2025-10-25T02:00Z,2025-10-24,2,Sacramento Kings,Utah Jazz,105,104,True,Final
+401809954,2025-10-25T02:30Z,2025-10-24,2,LA Clippers,Phoenix Suns,129,102,True,Final
+401809955,2025-10-25T23:00Z,2025-10-25,2,Orlando Magic,Chicago Bulls,98,110,True,Final
+401809956,2025-10-25T23:30Z,2025-10-25,2,Atlanta Hawks,Oklahoma City Thunder,100,117,True,Final
+401809957,2025-10-25T23:30Z,2025-10-25,2,Philadelphia 76ers,Charlotte Hornets,125,121,True,Final
+401809958,2025-10-26T00:00Z,2025-10-25,2,Memphis Grizzlies,Indiana Pacers,128,103,True,Final
+401809959,2025-10-26T01:00Z,2025-10-25,2,Denver Nuggets,Phoenix Suns,133,111,True,Final
+401809960,2025-10-26T18:00Z,2025-10-26,2,San Antonio Spurs,Brooklyn Nets,118,107,True,Final
+401809961,2025-10-26T19:30Z,2025-10-26,2,Detroit Pistons,Boston Celtics,119,113,True,Final
+401809962,2025-10-26T22:00Z,2025-10-26,2,Cleveland Cavaliers,Milwaukee Bucks,118,113,True,Final
+401809963,2025-10-26T22:00Z,2025-10-26,2,Miami Heat,New York Knicks,115,107,True,Final
+401809964,2025-10-26T22:00Z,2025-10-26,2,Washington Wizards,Charlotte Hornets,113,139,True,Final
+401809965,2025-10-26T23:00Z,2025-10-26,2,Minnesota Timberwolves,Indiana Pacers,114,110,True,Final
+401809966,2025-10-26T23:30Z,2025-10-26,2,Dallas Mavericks,Toronto Raptors,139,129,True,Final
+401809967,2025-10-27T01:00Z,2025-10-26,2,LA Clippers,Portland Trail Blazers,114,107,True,Final
+401809968,2025-10-27T01:00Z,2025-10-26,2,Sacramento Kings,Los Angeles Lakers,120,127,True,Final
+401809245,2025-10-27T23:00Z,2025-10-27,2,Detroit Pistons,Cleveland Cavaliers,95,116,True,Final
+401809969,2025-10-27T23:00Z,2025-10-27,2,Philadelphia 76ers,Orlando Magic,136,124,True,Final
+401809970,2025-10-28T00:00Z,2025-10-27,2,Chicago Bulls,Atlanta Hawks,128,123,True,Final
+401809971,2025-10-28T00:00Z,2025-10-27,2,Houston Rockets,Brooklyn Nets,137,109,True,Final
+401809972,2025-10-28T00:00Z,2025-10-27,2,New Orleans Pelicans,Boston Celtics,90,122,True,Final
+401809973,2025-10-28T00:00Z,2025-10-27,2,San Antonio Spurs,Toronto Raptors,121,103,True,Final
+401809974,2025-10-28T00:30Z,2025-10-27,2,Dallas Mavericks,Oklahoma City Thunder,94,101,True,Final
+401809975,2025-10-28T01:00Z,2025-10-27,2,Utah Jazz,Phoenix Suns,138,134,True,Final/OT
+401809246,2025-10-28T01:30Z,2025-10-27,2,Minnesota Timberwolves,Denver Nuggets,114,127,True,Final
+401809976,2025-10-28T02:00Z,2025-10-27,2,Golden State Warriors,Memphis Grizzlies,131,118,True,Final
+401809977,2025-10-28T02:30Z,2025-10-27,2,Los Angeles Lakers,Portland Trail Blazers,108,122,True,Final
+401809978,2025-10-28T23:00Z,2025-10-28,2,Washington Wizards,Philadelphia 76ers,134,139,True,Final/OT
+401809979,2025-10-28T23:30Z,2025-10-28,2,Miami Heat,Charlotte Hornets,144,117,True,Final
+401809980,2025-10-29T00:00Z,2025-10-28,2,Milwaukee Bucks,New York Knicks,121,111,True,Final
+401809981,2025-10-29T00:00Z,2025-10-28,2,Oklahoma City Thunder,Sacramento Kings,107,101,True,Final
+401809982,2025-10-29T03:00Z,2025-10-28,2,Golden State Warriors,LA Clippers,98,79,True,Final
+401809986,2025-10-29T22:30Z,2025-10-29,2,Toronto Raptors,Houston Rockets,121,139,True,Final
+401809983,2025-10-29T23:00Z,2025-10-29,2,Boston Celtics,Cleveland Cavaliers,125,105,True,Final
+401809984,2025-10-29T23:00Z,2025-10-29,2,Detroit Pistons,Orlando Magic,135,116,True,Final
+401809985,2025-10-29T23:30Z,2025-10-29,2,Brooklyn Nets,Atlanta Hawks,112,117,True,Final
+401809987,2025-10-30T00:00Z,2025-10-29,2,Chicago Bulls,Sacramento Kings,126,113,True,Final
+401809988,2025-10-30T00:30Z,2025-10-29,2,Dallas Mavericks,Indiana Pacers,107,105,True,Final
+401809989,2025-10-30T01:00Z,2025-10-29,2,Denver Nuggets,New Orleans Pelicans,122,88,True,Final
+401809990,2025-10-30T01:00Z,2025-10-29,2,Utah Jazz,Portland Trail Blazers,134,136,True,Final
+401809991,2025-10-30T01:30Z,2025-10-29,2,Minnesota Timberwolves,Los Angeles Lakers,115,116,True,Final
+401809992,2025-10-30T02:00Z,2025-10-29,2,Phoenix Suns,Memphis Grizzlies,113,114,True,Final
+401809993,2025-10-30T23:00Z,2025-10-30,2,Charlotte Hornets,Orlando Magic,107,123,True,Final
+401809994,2025-10-31T00:00Z,2025-10-30,2,Milwaukee Bucks,Golden State Warriors,120,110,True,Final
+401809995,2025-10-31T00:00Z,2025-10-30,2,Oklahoma City Thunder,Washington Wizards,127,108,True,Final
+401809996,2025-10-31T00:30Z,2025-10-30,2,San Antonio Spurs,Miami Heat,107,101,True,Final
+401809502,2025-10-31T23:00Z,2025-10-31,2,Indiana Pacers,Atlanta Hawks,108,128,True,Final
+401809503,2025-10-31T23:00Z,2025-10-31,2,Philadelphia 76ers,Boston Celtics,108,109,True,Final
+401809504,2025-10-31T23:30Z,2025-10-31,2,Cleveland Cavaliers,Toronto Raptors,101,112,True,Final
+401809505,2025-11-01T00:00Z,2025-10-31,2,Chicago Bulls,New York Knicks,135,125,True,Final
+401809506,2025-11-01T01:30Z,2025-10-31,2,Memphis Grizzlies,Los Angeles Lakers,112,117,True,Final
+401809507,2025-11-01T02:00Z,2025-10-31,2,Phoenix Suns,Utah Jazz,118,96,True,Final
+401809508,2025-11-01T02:00Z,2025-10-31,2,Portland Trail Blazers,Denver Nuggets,109,107,True,Final
+401809509,2025-11-01T02:30Z,2025-10-31,2,LA Clippers,New Orleans Pelicans,126,124,True,Final
+401809997,2025-11-01T21:00Z,2025-11-01,2,Milwaukee Bucks,Sacramento Kings,133,135,True,Final
+401809998,2025-11-01T22:00Z,2025-11-01,2,Charlotte Hornets,Minnesota Timberwolves,105,122,True,Final
+401809999,2025-11-01T23:00Z,2025-11-01,2,Indiana Pacers,Golden State Warriors,114,109,True,Final
+401810000,2025-11-01T23:00Z,2025-11-01,2,Washington Wizards,Orlando Magic,94,125,True,Final
+401810001,2025-11-02T00:00Z,2025-11-01,2,Boston Celtics,Houston Rockets,101,128,True,Final
+401810002,2025-11-02T02:00Z,2025-11-01,2,Detroit Pistons,Dallas Mavericks,122,110,True,Final
+401810003,2025-11-02T20:30Z,2025-11-02,2,Oklahoma City Thunder,New Orleans Pelicans,137,106,True,Final
+401810004,2025-11-02T23:00Z,2025-11-02,2,Brooklyn Nets,Philadelphia 76ers,105,129,True,Final
+401810005,2025-11-02T23:00Z,2025-11-02,2,Charlotte Hornets,Utah Jazz,126,103,True,Final
+401810006,2025-11-02T23:00Z,2025-11-02,2,Cleveland Cavaliers,Atlanta Hawks,117,109,True,Final
+401810007,2025-11-02T23:00Z,2025-11-02,2,Toronto Raptors,Memphis Grizzlies,117,104,True,Final
+401810008,2025-11-03T00:00Z,2025-11-02,2,New York Knicks,Chicago Bulls,128,116,True,Final
+401810009,2025-11-03T01:00Z,2025-11-02,2,Phoenix Suns,San Antonio Spurs,130,118,True,Final
+401810010,2025-11-03T02:30Z,2025-11-02,2,Los Angeles Lakers,Miami Heat,130,120,True,Final
+401810011,2025-11-04T00:00Z,2025-11-03,2,Brooklyn Nets,Minnesota Timberwolves,109,125,True,Final
+401810012,2025-11-04T00:00Z,2025-11-03,2,Indiana Pacers,Milwaukee Bucks,115,117,True,Final
+401810013,2025-11-04T00:30Z,2025-11-03,2,Boston Celtics,Utah Jazz,103,105,True,Final
+401810014,2025-11-04T00:30Z,2025-11-03,2,New York Knicks,Washington Wizards,119,102,True,Final
+401810015,2025-11-04T01:00Z,2025-11-03,2,Houston Rockets,Dallas Mavericks,110,102,True,Final
+401810016,2025-11-04T01:00Z,2025-11-03,2,Memphis Grizzlies,Detroit Pistons,106,114,True,Final
+401810017,2025-11-04T02:00Z,2025-11-03,2,Denver Nuggets,Sacramento Kings,130,124,True,Final
+401810018,2025-11-04T03:00Z,2025-11-03,2,Portland Trail Blazers,Los Angeles Lakers,115,123,True,Final
+401810019,2025-11-04T03:30Z,2025-11-03,2,LA Clippers,Miami Heat,119,120,True,Final
+401810020,2025-11-05T00:30Z,2025-11-04,2,Toronto Raptors,Milwaukee Bucks,128,100,True,Final
+401810021,2025-11-05T01:00Z,2025-11-04,2,Atlanta Hawks,Orlando Magic,127,112,True,Final
+401810022,2025-11-05T01:00Z,2025-11-04,2,Chicago Bulls,Philadelphia 76ers,113,111,True,Final
+401810023,2025-11-05T01:00Z,2025-11-04,2,New Orleans Pelicans,Charlotte Hornets,116,112,True,Final
+401810024,2025-11-05T03:00Z,2025-11-04,2,Golden State Warriors,Phoenix Suns,118,107,True,Final
+401810025,2025-11-05T04:00Z,2025-11-04,2,LA Clippers,Oklahoma City Thunder,107,126,True,Final
+401810026,2025-11-06T00:00Z,2025-11-05,2,Cleveland Cavaliers,Philadelphia 76ers,132,121,True,Final
+401810027,2025-11-06T00:00Z,2025-11-05,2,Detroit Pistons,Utah Jazz,114,103,True,Final
+401810028,2025-11-06T00:00Z,2025-11-05,2,Indiana Pacers,Brooklyn Nets,103,112,True,Final
+401810029,2025-11-06T00:30Z,2025-11-05,2,Boston Celtics,Washington Wizards,136,107,True,Final
+401810030,2025-11-06T00:30Z,2025-11-05,2,New York Knicks,Minnesota Timberwolves,137,114,True,Final
+401810031,2025-11-06T01:00Z,2025-11-05,2,Memphis Grizzlies,Houston Rockets,109,124,True,Final
+401810032,2025-11-06T01:30Z,2025-11-05,2,Dallas Mavericks,New Orleans Pelicans,99,101,True,Final
+401810033,2025-11-06T02:00Z,2025-11-05,2,Denver Nuggets,Miami Heat,122,112,True,Final
+401810034,2025-11-06T03:00Z,2025-11-05,2,Los Angeles Lakers,San Antonio Spurs,118,116,True,Final
+401810035,2025-11-06T03:00Z,2025-11-05,2,Portland Trail Blazers,Oklahoma City Thunder,121,119,True,Final
+401810036,2025-11-06T03:00Z,2025-11-05,2,Sacramento Kings,Golden State Warriors,121,116,True,Final
+401810037,2025-11-07T02:00Z,2025-11-06,2,Phoenix Suns,LA Clippers,115,102,True,Final
+401809510,2025-11-08T00:00Z,2025-11-07,2,Orlando Magic,Boston Celtics,123,110,True,Final
+401809511,2025-11-08T00:00Z,2025-11-07,2,Washington Wizards,Cleveland Cavaliers,115,148,True,Final
+401809512,2025-11-08T00:30Z,2025-11-07,2,Atlanta Hawks,Toronto Raptors,97,109,True,Final
+401809773,2025-11-08T00:30Z,2025-11-07,2,Brooklyn Nets,Detroit Pistons,107,125,True,Final
+401809774,2025-11-08T00:30Z,2025-11-07,2,San Antonio Spurs,Houston Rockets,121,110,True,Final
+401809775,2025-11-08T01:00Z,2025-11-07,2,Miami Heat,Charlotte Hornets,126,108,True,Final
+401809776,2025-11-08T01:00Z,2025-11-07,2,Memphis Grizzlies,Dallas Mavericks,118,104,True,Final
+401809777,2025-11-08T01:00Z,2025-11-07,2,Milwaukee Bucks,Chicago Bulls,126,110,True,Final
+401809778,2025-11-08T01:00Z,2025-11-07,2,Minnesota Timberwolves,Utah Jazz,137,97,True,Final
+401809779,2025-11-08T03:00Z,2025-11-07,2,Denver Nuggets,Golden State Warriors,129,104,True,Final
+401809780,2025-11-08T03:00Z,2025-11-07,2,Sacramento Kings,Oklahoma City Thunder,101,132,True,Final
+401810038,2025-11-09T00:00Z,2025-11-08,2,Washington Wizards,Dallas Mavericks,105,111,True,Final
+401810039,2025-11-09T00:30Z,2025-11-08,2,Philadelphia 76ers,Toronto Raptors,130,120,True,Final
+401810040,2025-11-09T01:00Z,2025-11-08,2,Atlanta Hawks,Los Angeles Lakers,122,102,True,Final
+401810041,2025-11-09T01:00Z,2025-11-08,2,Cleveland Cavaliers,Chicago Bulls,128,122,True,Final
+401810042,2025-11-09T01:00Z,2025-11-08,2,Miami Heat,Portland Trail Blazers,136,131,True,Final
+401810043,2025-11-09T01:00Z,2025-11-08,2,San Antonio Spurs,New Orleans Pelicans,126,119,True,Final
+401810044,2025-11-09T02:00Z,2025-11-08,2,Denver Nuggets,Indiana Pacers,117,100,True,Final
+401810045,2025-11-09T03:30Z,2025-11-08,2,LA Clippers,Phoenix Suns,103,114,True,Final
+401810046,2025-11-09T20:30Z,2025-11-09,2,Milwaukee Bucks,Houston Rockets,115,122,True,Final
+401810047,2025-11-09T23:00Z,2025-11-09,2,New York Knicks,Brooklyn Nets,134,98,True,Final
+401810048,2025-11-09T23:00Z,2025-11-09,2,Orlando Magic,Boston Celtics,107,111,True,Final
+401810049,2025-11-09T23:00Z,2025-11-09,2,Memphis Grizzlies,Oklahoma City Thunder,100,114,True,Final
+401810050,2025-11-10T00:30Z,2025-11-09,2,Philadelphia 76ers,Detroit Pistons,108,111,True,Final
+401810051,2025-11-10T01:30Z,2025-11-09,2,Golden State Warriors,Indiana Pacers,114,83,True,Final
+401810052,2025-11-10T02:00Z,2025-11-09,2,Sacramento Kings,Minnesota Timberwolves,117,144,True,Final
+401810053,2025-11-11T00:00Z,2025-11-10,2,Charlotte Hornets,Los Angeles Lakers,111,121,True,Final
+401810054,2025-11-11T00:00Z,2025-11-10,2,Detroit Pistons,Washington Wizards,137,135,True,Final/OT
+401810055,2025-11-11T00:00Z,2025-11-10,2,Orlando Magic,Portland Trail Blazers,115,112,True,Final
+401810056,2025-11-11T00:30Z,2025-11-10,2,Miami Heat,Cleveland Cavaliers,140,138,True,Final/OT
+401810057,2025-11-11T01:00Z,2025-11-10,2,Chicago Bulls,San Antonio Spurs,117,121,True,Final
+401810058,2025-11-11T01:30Z,2025-11-10,2,Dallas Mavericks,Milwaukee Bucks,114,116,True,Final
+401810059,2025-11-11T02:00Z,2025-11-10,2,Phoenix Suns,New Orleans Pelicans,121,98,True,Final
+401810060,2025-11-11T02:00Z,2025-11-10,2,Utah Jazz,Minnesota Timberwolves,113,120,True,Final
+401810061,2025-11-11T03:30Z,2025-11-10,2,LA Clippers,Atlanta Hawks,102,105,True,Final
+401810062,2025-11-12T00:30Z,2025-11-11,2,Brooklyn Nets,Toronto Raptors,109,119,True,Final
+401810063,2025-11-12T00:30Z,2025-11-11,2,New York Knicks,Memphis Grizzlies,133,120,True,Final
+401810064,2025-11-12T01:00Z,2025-11-11,2,Philadelphia 76ers,Boston Celtics,102,100,True,Final
+401810065,2025-11-12T01:00Z,2025-11-11,2,Oklahoma City Thunder,Golden State Warriors,126,102,True,Final
+401810066,2025-11-12T02:00Z,2025-11-11,2,Utah Jazz,Indiana Pacers,152,128,True,Final
+401810067,2025-11-12T04:00Z,2025-11-11,2,Sacramento Kings,Denver Nuggets,108,122,True,Final
+401810068,2025-11-13T00:00Z,2025-11-12,2,Charlotte Hornets,Milwaukee Bucks,111,100,True,Final
+401810069,2025-11-13T00:00Z,2025-11-12,2,Detroit Pistons,Chicago Bulls,124,113,True,Final
+401810070,2025-11-13T00:00Z,2025-11-12,2,New York Knicks,Orlando Magic,107,124,True,Final
+401810071,2025-11-13T00:30Z,2025-11-12,2,Boston Celtics,Memphis Grizzlies,131,95,True,Final
+401810072,2025-11-13T00:30Z,2025-11-12,2,Miami Heat,Cleveland Cavaliers,116,130,True,Final
+401810073,2025-11-13T01:00Z,2025-11-12,2,Houston Rockets,Washington Wizards,135,112,True,Final
+401810074,2025-11-13T01:00Z,2025-11-12,2,New Orleans Pelicans,Portland Trail Blazers,117,125,True,Final
+401810075,2025-11-13T01:00Z,2025-11-12,2,San Antonio Spurs,Golden State Warriors,120,125,True,Final
+401810076,2025-11-13T01:30Z,2025-11-12,2,Dallas Mavericks,Phoenix Suns,114,123,True,Final
+401810077,2025-11-13T02:47Z,2025-11-12,2,Oklahoma City Thunder,Los Angeles Lakers,121,92,True,Final
+401810078,2025-11-13T03:00Z,2025-11-12,2,Sacramento Kings,Atlanta Hawks,100,133,True,Final
+401810079,2025-11-13T03:30Z,2025-11-12,2,LA Clippers,Denver Nuggets,116,130,True,Final
+401810080,2025-11-14T00:00Z,2025-11-13,2,Cleveland Cavaliers,Toronto Raptors,113,126,True,Final
+401810081,2025-11-14T02:00Z,2025-11-13,2,Phoenix Suns,Indiana Pacers,133,98,True,Final
+401810082,2025-11-14T02:00Z,2025-11-13,2,Utah Jazz,Atlanta Hawks,122,132,True,Final
+401809781,2025-11-15T00:00Z,2025-11-14,2,New York Knicks,Miami Heat,140,132,True,Final
+401809782,2025-11-15T00:00Z,2025-11-14,2,Orlando Magic,Brooklyn Nets,105,98,True,Final
+401809783,2025-11-15T00:30Z,2025-11-14,2,Detroit Pistons,Philadelphia 76ers,114,105,True,Final
+401809784,2025-11-15T01:00Z,2025-11-14,2,Houston Rockets,Portland Trail Blazers,140,116,True,Final
+401809785,2025-11-15T01:00Z,2025-11-14,2,Milwaukee Bucks,Charlotte Hornets,147,134,True,Final/OT
+401809786,2025-11-15T01:00Z,2025-11-14,2,Minnesota Timberwolves,Sacramento Kings,124,110,True,Final
+401809787,2025-11-15T01:00Z,2025-11-14,2,New Orleans Pelicans,Los Angeles Lakers,104,118,True,Final
+401809788,2025-11-15T01:30Z,2025-11-14,2,Dallas Mavericks,LA Clippers,127,133,True,Final/2OT
+401809789,2025-11-15T02:30Z,2025-11-14,2,San Antonio Spurs,Golden State Warriors,108,109,True,Final
+401810083,2025-11-15T22:00Z,2025-11-15,2,Cleveland Cavaliers,Memphis Grizzlies,108,100,True,Final
+401810084,2025-11-16T00:00Z,2025-11-15,2,Charlotte Hornets,Oklahoma City Thunder,96,109,True,Final
+401810085,2025-11-16T00:00Z,2025-11-15,2,Indiana Pacers,Toronto Raptors,111,129,True,Final
+401810086,2025-11-16T01:00Z,2025-11-15,2,Milwaukee Bucks,Los Angeles Lakers,95,119,True,Final
+401810087,2025-11-16T01:00Z,2025-11-15,2,Minnesota Timberwolves,Denver Nuggets,112,123,True,Final
+401810088,2025-11-16T20:30Z,2025-11-16,2,Boston Celtics,LA Clippers,121,118,True,Final
+401810089,2025-11-16T21:00Z,2025-11-16,2,San Antonio Spurs,Sacramento Kings,123,110,True,Final
+401810090,2025-11-16T23:00Z,2025-11-16,2,Washington Wizards,Brooklyn Nets,106,129,True,Final
+401810091,2025-11-17T00:00Z,2025-11-16,2,Houston Rockets,Orlando Magic,117,113,True,Final/OT
+401810092,2025-11-17T00:00Z,2025-11-16,2,New Orleans Pelicans,Golden State Warriors,106,124,True,Final
+401810093,2025-11-17T00:30Z,2025-11-16,2,Dallas Mavericks,Portland Trail Blazers,138,133,True,Final/OT
+401810094,2025-11-17T01:00Z,2025-11-16,2,Phoenix Suns,Atlanta Hawks,122,124,True,Final
+401810095,2025-11-17T01:00Z,2025-11-16,2,Utah Jazz,Chicago Bulls,150,147,True,Final/2OT
+401810096,2025-11-18T00:00Z,2025-11-17,2,Cleveland Cavaliers,Milwaukee Bucks,118,106,True,Final
+401810097,2025-11-18T00:00Z,2025-11-17,2,Detroit Pistons,Indiana Pacers,127,112,True,Final
+401810098,2025-11-18T00:00Z,2025-11-17,2,Philadelphia 76ers,LA Clippers,110,108,True,Final
+401810099,2025-11-18T00:30Z,2025-11-17,2,Miami Heat,New York Knicks,115,113,True,Final
+401810100,2025-11-18T00:30Z,2025-11-17,2,Toronto Raptors,Charlotte Hornets,110,108,True,Final
+401810101,2025-11-18T01:00Z,2025-11-17,2,Minnesota Timberwolves,Dallas Mavericks,120,96,True,Final
+401810102,2025-11-18T01:00Z,2025-11-17,2,New Orleans Pelicans,Oklahoma City Thunder,109,126,True,Final
+401810103,2025-11-18T02:00Z,2025-11-17,2,Denver Nuggets,Chicago Bulls,127,130,True,Final
+401810104,2025-11-19T00:00Z,2025-11-18,2,Orlando Magic,Golden State Warriors,121,113,True,Final
+401810105,2025-11-19T00:30Z,2025-11-18,2,Brooklyn Nets,Boston Celtics,99,113,True,Final
+401810106,2025-11-19T00:30Z,2025-11-18,2,Atlanta Hawks,Detroit Pistons,112,120,True,Final
+401810107,2025-11-19T01:00Z,2025-11-18,2,San Antonio Spurs,Memphis Grizzlies,111,101,True,Final
+401810108,2025-11-19T03:30Z,2025-11-18,2,Los Angeles Lakers,Utah Jazz,140,126,True,Final
+401810109,2025-11-19T04:00Z,2025-11-18,2,Portland Trail Blazers,Phoenix Suns,110,127,True,Final
+401810110,2025-11-20T00:00Z,2025-11-19,2,Cleveland Cavaliers,Houston Rockets,104,114,True,Final
+401810111,2025-11-20T00:00Z,2025-11-19,2,Indiana Pacers,Charlotte Hornets,127,118,True,Final
+401810113,2025-11-20T00:00Z,2025-11-19,2,Philadelphia 76ers,Toronto Raptors,112,121,True,Final
+401810112,2025-11-20T00:30Z,2025-11-19,2,Miami Heat,Golden State Warriors,110,96,True,Final
+401810114,2025-11-20T01:00Z,2025-11-19,2,Minnesota Timberwolves,Washington Wizards,120,109,True,Final
+401810115,2025-11-20T01:00Z,2025-11-19,2,New Orleans Pelicans,Denver Nuggets,118,125,True,Final
+401810116,2025-11-20T01:00Z,2025-11-19,2,Oklahoma City Thunder,Sacramento Kings,113,99,True,Final
+401810117,2025-11-20T02:30Z,2025-11-19,2,Dallas Mavericks,New York Knicks,111,113,True,Final
+401810118,2025-11-20T03:00Z,2025-11-19,2,Portland Trail Blazers,Chicago Bulls,121,122,True,Final
+401810119,2025-11-21T00:00Z,2025-11-20,2,Orlando Magic,LA Clippers,129,101,True,Final
+401810120,2025-11-21T01:00Z,2025-11-20,2,Memphis Grizzlies,Sacramento Kings,137,96,True,Final
+401810121,2025-11-21T01:00Z,2025-11-20,2,Milwaukee Bucks,Philadelphia 76ers,114,123,True,Final/OT
+401810122,2025-11-21T01:00Z,2025-11-20,2,San Antonio Spurs,Atlanta Hawks,135,126,True,Final
+401809790,2025-11-22T00:00Z,2025-11-21,2,Cleveland Cavaliers,Indiana Pacers,120,109,True,Final
+401809791,2025-11-22T00:30Z,2025-11-21,2,Boston Celtics,Brooklyn Nets,105,113,True,Final
+401809792,2025-11-22T00:30Z,2025-11-21,2,Toronto Raptors,Washington Wizards,140,110,True,Final
+401809793,2025-11-22T01:00Z,2025-11-21,2,Chicago Bulls,Miami Heat,107,143,True,Final
+401809794,2025-11-22T01:30Z,2025-11-21,2,Dallas Mavericks,New Orleans Pelicans,118,115,True,Final
+401809795,2025-11-22T02:00Z,2025-11-21,2,Phoenix Suns,Minnesota Timberwolves,114,113,True,Final
+401809796,2025-11-22T02:30Z,2025-11-21,2,Houston Rockets,Denver Nuggets,109,112,True,Final
+401809797,2025-11-22T03:00Z,2025-11-21,2,Utah Jazz,Oklahoma City Thunder,112,144,True,Final
+401809798,2025-11-22T03:00Z,2025-11-21,2,Golden State Warriors,Portland Trail Blazers,123,127,True,Final
+401810123,2025-11-22T18:00Z,2025-11-22,2,Charlotte Hornets,LA Clippers,116,131,True,Final
+401810124,2025-11-22T22:00Z,2025-11-22,2,Orlando Magic,New York Knicks,133,121,True,Final
+401810125,2025-11-23T00:00Z,2025-11-22,2,New Orleans Pelicans,Atlanta Hawks,98,115,True,Final
+401810126,2025-11-23T01:00Z,2025-11-22,2,Chicago Bulls,Washington Wizards,121,120,True,Final
+401810127,2025-11-23T01:00Z,2025-11-22,2,Milwaukee Bucks,Detroit Pistons,116,129,True,Final
+401810128,2025-11-23T01:30Z,2025-11-22,2,Dallas Mavericks,Memphis Grizzlies,96,102,True,Final
+401810129,2025-11-23T03:00Z,2025-11-22,2,Denver Nuggets,Sacramento Kings,123,128,True,Final
+401810130,2025-11-23T18:00Z,2025-11-23,2,Philadelphia 76ers,Miami Heat,117,127,True,Final
+401810131,2025-11-23T23:00Z,2025-11-23,2,Atlanta Hawks,Charlotte Hornets,113,110,True,Final
+401810132,2025-11-23T23:00Z,2025-11-23,2,Boston Celtics,Orlando Magic,138,129,True,Final
+401810133,2025-11-23T23:00Z,2025-11-23,2,Cleveland Cavaliers,LA Clippers,120,105,True,Final
+401810134,2025-11-23T23:00Z,2025-11-23,2,Toronto Raptors,Brooklyn Nets,119,109,True,Final
+401810135,2025-11-24T00:00Z,2025-11-23,2,Oklahoma City Thunder,Portland Trail Blazers,122,95,True,Final
+401810136,2025-11-24T01:00Z,2025-11-23,2,Phoenix Suns,San Antonio Spurs,111,102,True,Final
+401810137,2025-11-24T01:00Z,2025-11-23,2,Utah Jazz,Los Angeles Lakers,106,108,True,Final
+401810138,2025-11-25T00:00Z,2025-11-24,2,Indiana Pacers,Detroit Pistons,117,122,True,Final
+401810139,2025-11-25T00:00Z,2025-11-24,2,Toronto Raptors,Cleveland Cavaliers,110,99,True,Final
+401810140,2025-11-25T00:30Z,2025-11-24,2,Brooklyn Nets,New York Knicks,100,113,True,Final
+401810141,2025-11-25T00:30Z,2025-11-24,2,Miami Heat,Dallas Mavericks,106,102,True,Final
+401810142,2025-11-25T01:00Z,2025-11-24,2,Memphis Grizzlies,Denver Nuggets,115,125,True,Final
+401810143,2025-11-25T01:00Z,2025-11-24,2,Milwaukee Bucks,Portland Trail Blazers,103,115,True,Final
+401810144,2025-11-25T01:00Z,2025-11-24,2,New Orleans Pelicans,Chicago Bulls,143,130,True,Final
+401810145,2025-11-25T02:30Z,2025-11-24,2,Phoenix Suns,Houston Rockets,92,114,True,Final
+401810146,2025-11-25T03:00Z,2025-11-24,2,Golden State Warriors,Utah Jazz,134,117,True,Final
+401810147,2025-11-25T03:00Z,2025-11-24,2,Sacramento Kings,Minnesota Timberwolves,117,112,True,Final/OT
+401809799,2025-11-26T00:00Z,2025-11-25,2,Washington Wizards,Atlanta Hawks,132,113,True,Final
+401809800,2025-11-26T01:00Z,2025-11-25,2,Philadelphia 76ers,Orlando Magic,103,144,True,Final
+401809801,2025-11-26T04:00Z,2025-11-25,2,Los Angeles Lakers,LA Clippers,135,118,True,Final
+401809802,2025-11-26T22:00Z,2025-11-26,2,Boston Celtics,Detroit Pistons,117,114,True,Final
+401809803,2025-11-27T00:00Z,2025-11-26,2,Charlotte Hornets,New York Knicks,101,129,True,Final
+401809804,2025-11-27T00:30Z,2025-11-26,2,Miami Heat,Milwaukee Bucks,106,103,True,Final
+401809805,2025-11-27T00:30Z,2025-11-26,2,Toronto Raptors,Indiana Pacers,97,95,True,Final
+401809806,2025-11-27T00:30Z,2025-11-26,2,Oklahoma City Thunder,Minnesota Timberwolves,113,105,True,Final
+401809807,2025-11-27T01:00Z,2025-11-26,2,New Orleans Pelicans,Memphis Grizzlies,128,133,True,Final/OT
+401809808,2025-11-27T03:00Z,2025-11-26,2,Golden State Warriors,Houston Rockets,100,104,True,Final
+401809809,2025-11-27T03:00Z,2025-11-26,2,Portland Trail Blazers,San Antonio Spurs,102,115,True,Final
+401809810,2025-11-27T03:00Z,2025-11-26,2,Sacramento Kings,Phoenix Suns,100,112,True,Final
+401809811,2025-11-29T00:30Z,2025-11-28,2,Atlanta Hawks,Cleveland Cavaliers,130,123,True,Final
+401809812,2025-11-29T00:30Z,2025-11-28,2,Brooklyn Nets,Philadelphia 76ers,103,115,True,Final
+401809813,2025-11-29T00:30Z,2025-11-28,2,Charlotte Hornets,Chicago Bulls,123,116,True,Final
+401809814,2025-11-29T00:30Z,2025-11-28,2,Detroit Pistons,Orlando Magic,109,112,True,Final
+401809815,2025-11-29T00:30Z,2025-11-28,2,Indiana Pacers,Washington Wizards,119,86,True,Final
+401809816,2025-11-29T00:30Z,2025-11-28,2,New York Knicks,Milwaukee Bucks,118,109,True,Final
+401809817,2025-11-29T02:30Z,2025-11-28,2,Oklahoma City Thunder,Phoenix Suns,123,119,True,Final
+401809818,2025-11-29T02:30Z,2025-11-28,2,Denver Nuggets,San Antonio Spurs,136,139,True,Final
+401809819,2025-11-29T02:30Z,2025-11-28,2,Utah Jazz,Sacramento Kings,128,119,True,Final
+401809820,2025-11-29T03:00Z,2025-11-28,2,Los Angeles Lakers,Dallas Mavericks,129,119,True,Final
+401809821,2025-11-29T03:00Z,2025-11-28,2,LA Clippers,Memphis Grizzlies,107,112,True,Final
+401810148,2025-11-29T22:00Z,2025-11-29,2,Minnesota Timberwolves,Boston Celtics,119,115,True,Final
+401810149,2025-11-29T23:00Z,2025-11-29,2,Charlotte Hornets,Toronto Raptors,118,111,True,Final/OT
+401810150,2025-11-30T00:30Z,2025-11-29,2,Indiana Pacers,Chicago Bulls,103,101,True,Final
+401810151,2025-11-30T01:00Z,2025-11-29,2,Miami Heat,Detroit Pistons,135,138,True,Final
+401810152,2025-11-30T01:00Z,2025-11-29,2,Milwaukee Bucks,Brooklyn Nets,116,99,True,Final
+401810153,2025-11-30T01:30Z,2025-11-29,2,Golden State Warriors,New Orleans Pelicans,104,96,True,Final
+401810154,2025-11-30T02:00Z,2025-11-29,2,Phoenix Suns,Denver Nuggets,112,130,True,Final
+401810155,2025-11-30T03:00Z,2025-11-29,2,LA Clippers,Dallas Mavericks,110,114,True,Final
+401810156,2025-11-30T20:00Z,2025-11-30,2,Utah Jazz,Houston Rockets,101,129,True,Final
+401810157,2025-11-30T23:00Z,2025-11-30,2,Cleveland Cavaliers,Boston Celtics,115,117,True,Final
+401810158,2025-11-30T23:00Z,2025-11-30,2,New York Knicks,Toronto Raptors,116,94,True,Final
+401810159,2025-11-30T23:00Z,2025-11-30,2,Philadelphia 76ers,Atlanta Hawks,134,142,True,Final/2OT
+401810160,2025-11-30T23:00Z,2025-11-30,2,Portland Trail Blazers,Oklahoma City Thunder,115,123,True,Final
+401810161,2025-12-01T00:00Z,2025-11-30,2,Minnesota Timberwolves,San Antonio Spurs,125,112,True,Final
+401810162,2025-12-01T02:00Z,2025-11-30,2,Sacramento Kings,Memphis Grizzlies,107,115,True,Final
+401810163,2025-12-01T02:30Z,2025-11-30,2,Los Angeles Lakers,New Orleans Pelicans,133,121,True,Final
+401810164,2025-12-02T00:00Z,2025-12-01,2,Detroit Pistons,Atlanta Hawks,99,98,True,Final
+401810165,2025-12-02T00:00Z,2025-12-01,2,Indiana Pacers,Cleveland Cavaliers,119,135,True,Final
+401810166,2025-12-02T00:00Z,2025-12-01,2,Washington Wizards,Milwaukee Bucks,129,126,True,Final
+401810167,2025-12-02T00:30Z,2025-12-01,2,Brooklyn Nets,Charlotte Hornets,116,103,True,Final
+401810168,2025-12-02T00:30Z,2025-12-01,2,Miami Heat,LA Clippers,140,123,True,Final
+401810169,2025-12-02T00:30Z,2025-12-01,2,Orlando Magic,Chicago Bulls,125,120,True,Final
+401810170,2025-12-02T02:00Z,2025-12-01,2,Denver Nuggets,Dallas Mavericks,121,131,True,Final
+401810171,2025-12-02T02:00Z,2025-12-01,2,Utah Jazz,Houston Rockets,133,125,True,Final
+401810172,2025-12-02T03:00Z,2025-12-01,2,Los Angeles Lakers,Phoenix Suns,108,125,True,Final
+401810173,2025-12-03T00:00Z,2025-12-02,2,Philadelphia 76ers,Washington Wizards,121,102,True,Final
+401810174,2025-12-03T00:30Z,2025-12-02,2,Toronto Raptors,Portland Trail Blazers,121,118,True,Final
+401810175,2025-12-03T01:00Z,2025-12-02,2,Boston Celtics,New York Knicks,123,117,True,Final
+401810176,2025-12-03T01:00Z,2025-12-02,2,New Orleans Pelicans,Minnesota Timberwolves,142,149,True,Final/OT
+401810177,2025-12-03T01:00Z,2025-12-02,2,San Antonio Spurs,Memphis Grizzlies,126,119,True,Final
+401810178,2025-12-03T04:00Z,2025-12-02,2,Golden State Warriors,Oklahoma City Thunder,112,124,True,Final
+401810179,2025-12-04T00:00Z,2025-12-03,2,Cleveland Cavaliers,Portland Trail Blazers,110,122,True,Final
+401810180,2025-12-04T00:00Z,2025-12-03,2,Indiana Pacers,Denver Nuggets,120,135,True,Final
+401810181,2025-12-04T00:00Z,2025-12-03,2,Orlando Magic,San Antonio Spurs,112,114,True,Final
+401810182,2025-12-04T00:30Z,2025-12-03,2,Atlanta Hawks,LA Clippers,92,115,True,Final
+401810183,2025-12-04T00:30Z,2025-12-03,2,New York Knicks,Charlotte Hornets,119,104,True,Final
+401810184,2025-12-04T01:00Z,2025-12-03,2,Chicago Bulls,Brooklyn Nets,103,113,True,Final
+401810185,2025-12-04T01:00Z,2025-12-03,2,Houston Rockets,Sacramento Kings,121,95,True,Final
+401810186,2025-12-04T01:00Z,2025-12-03,2,Milwaukee Bucks,Detroit Pistons,113,109,True,Final
+401810187,2025-12-04T01:30Z,2025-12-03,2,Dallas Mavericks,Miami Heat,118,108,True,Final
+401810188,2025-12-05T00:00Z,2025-12-04,2,Philadelphia 76ers,Golden State Warriors,99,98,True,Final
+401810189,2025-12-05T00:00Z,2025-12-04,2,Washington Wizards,Boston Celtics,101,146,True,Final
+401810190,2025-12-05T00:30Z,2025-12-04,2,Brooklyn Nets,Utah Jazz,110,123,True,Final
+401810191,2025-12-05T00:30Z,2025-12-04,2,Toronto Raptors,Los Angeles Lakers,120,123,True,Final
+401810192,2025-12-05T01:00Z,2025-12-04,2,New Orleans Pelicans,Minnesota Timberwolves,116,125,True,Final
+401810193,2025-12-06T00:00Z,2025-12-05,2,Boston Celtics,Los Angeles Lakers,126,105,True,Final
+401810194,2025-12-06T00:00Z,2025-12-05,2,Orlando Magic,Miami Heat,106,105,True,Final
+401810195,2025-12-06T00:30Z,2025-12-05,2,Atlanta Hawks,Denver Nuggets,133,134,True,Final
+401810196,2025-12-06T00:30Z,2025-12-05,2,Cleveland Cavaliers,San Antonio Spurs,130,117,True,Final
+401810197,2025-12-06T00:30Z,2025-12-05,2,Detroit Pistons,Portland Trail Blazers,122,116,True,Final
+401810198,2025-12-06T00:30Z,2025-12-05,2,New York Knicks,Utah Jazz,146,112,True,Final
+401810199,2025-12-06T00:30Z,2025-12-05,2,Toronto Raptors,Charlotte Hornets,86,111,True,Final
+401810200,2025-12-06T01:00Z,2025-12-05,2,Chicago Bulls,Indiana Pacers,105,120,True,Final
+401810201,2025-12-06T01:00Z,2025-12-05,2,Houston Rockets,Phoenix Suns,117,98,True,Final
+401810202,2025-12-06T01:00Z,2025-12-05,2,Memphis Grizzlies,LA Clippers,107,98,True,Final
+401810203,2025-12-06T01:00Z,2025-12-05,2,Milwaukee Bucks,Philadelphia 76ers,101,116,True,Final
+401810204,2025-12-06T02:30Z,2025-12-05,2,Oklahoma City Thunder,Dallas Mavericks,132,111,True,Final
+401810205,2025-12-06T22:00Z,2025-12-06,2,Brooklyn Nets,New Orleans Pelicans,119,101,True,Final
+401810206,2025-12-07T00:00Z,2025-12-06,2,Washington Wizards,Atlanta Hawks,116,131,True,Final
+401810207,2025-12-07T00:30Z,2025-12-06,2,Cleveland Cavaliers,Golden State Warriors,94,99,True,Final
+401810208,2025-12-07T00:30Z,2025-12-06,2,Detroit Pistons,Milwaukee Bucks,124,112,True,Final
+401810209,2025-12-07T01:00Z,2025-12-06,2,Miami Heat,Sacramento Kings,111,127,True,Final
+401810210,2025-12-07T01:00Z,2025-12-06,2,Minnesota Timberwolves,LA Clippers,109,106,True,Final
+401810211,2025-12-07T01:30Z,2025-12-06,2,Dallas Mavericks,Houston Rockets,122,109,True,Final
+401810212,2025-12-07T17:00Z,2025-12-07,2,New York Knicks,Orlando Magic,106,100,True,Final
+401810213,2025-12-07T20:30Z,2025-12-07,2,Toronto Raptors,Boston Celtics,113,121,True,Final
+401810214,2025-12-07T23:00Z,2025-12-07,2,Charlotte Hornets,Denver Nuggets,106,115,True,Final
+401810215,2025-12-07T23:00Z,2025-12-07,2,Memphis Grizzlies,Portland Trail Blazers,119,96,True,Final
+401810216,2025-12-08T00:00Z,2025-12-07,2,Chicago Bulls,Golden State Warriors,91,123,True,Final
+401810217,2025-12-08T00:30Z,2025-12-07,2,Philadelphia 76ers,Los Angeles Lakers,108,112,True,Final
+401810218,2025-12-08T01:00Z,2025-12-07,2,Utah Jazz,Oklahoma City Thunder,101,131,True,Final
+401810219,2025-12-09T00:00Z,2025-12-08,2,Indiana Pacers,Sacramento Kings,116,105,True,Final
+401810220,2025-12-09T00:30Z,2025-12-08,2,Minnesota Timberwolves,Phoenix Suns,105,108,True,Final
+401810221,2025-12-09T01:00Z,2025-12-08,2,New Orleans Pelicans,San Antonio Spurs,132,135,True,Final
+401809833,2025-12-09T23:00Z,2025-12-09,2,Orlando Magic,Miami Heat,117,108,True,Final
+401809834,2025-12-10T01:30Z,2025-12-09,2,Toronto Raptors,New York Knicks,101,117,True,Final
+401809835,2025-12-11T00:30Z,2025-12-10,2,Oklahoma City Thunder,Phoenix Suns,138,89,True,Final
+401809836,2025-12-11T03:00Z,2025-12-10,2,Los Angeles Lakers,San Antonio Spurs,119,132,True,Final
+401836746,2025-12-12T01:00Z,2025-12-11,2,Houston Rockets,LA Clippers,115,113,True,Final
+401836747,2025-12-12T01:00Z,2025-12-11,2,Milwaukee Bucks,Boston Celtics,116,101,True,Final
+401836748,2025-12-12T01:00Z,2025-12-11,2,New Orleans Pelicans,Portland Trail Blazers,143,120,True,Final
+401836749,2025-12-12T03:00Z,2025-12-11,2,Sacramento Kings,Denver Nuggets,105,136,True,Final
+401836750,2025-12-13T00:00Z,2025-12-12,2,Charlotte Hornets,Chicago Bulls,126,129,True,Final
+401836751,2025-12-13T00:00Z,2025-12-12,2,Detroit Pistons,Atlanta Hawks,142,115,True,Final
+401836752,2025-12-13T00:00Z,2025-12-12,2,Philadelphia 76ers,Indiana Pacers,115,105,True,Final
+401836753,2025-12-13T00:00Z,2025-12-12,2,Washington Wizards,Cleveland Cavaliers,126,130,True,Final
+401836754,2025-12-13T01:00Z,2025-12-12,2,Memphis Grizzlies,Utah Jazz,126,130,True,Final
+401836795,2025-12-13T01:30Z,2025-12-12,2,Dallas Mavericks,Brooklyn Nets,119,111,True,Final
+401836796,2025-12-13T03:00Z,2025-12-12,2,Golden State Warriors,Minnesota Timberwolves,120,127,True,Final
+401809837,2025-12-13T22:30Z,2025-12-13,2,Orlando Magic,New York Knicks,120,132,True,Final
+401809838,2025-12-14T02:00Z,2025-12-13,2,Oklahoma City Thunder,San Antonio Spurs,109,111,True,Final
+401836797,2025-12-14T20:00Z,2025-12-14,2,Indiana Pacers,Washington Wizards,89,108,True,Final
+401836799,2025-12-14T20:30Z,2025-12-14,2,Cleveland Cavaliers,Charlotte Hornets,111,119,True,Final/OT
+401836798,2025-12-14T23:00Z,2025-12-14,2,Atlanta Hawks,Philadelphia 76ers,120,117,True,Final
+401836800,2025-12-14T23:00Z,2025-12-14,2,Brooklyn Nets,Milwaukee Bucks,127,82,True,Final
+401836801,2025-12-15T00:00Z,2025-12-14,2,Minnesota Timberwolves,Sacramento Kings,117,103,True,Final
+401836804,2025-12-15T00:00Z,2025-12-14,2,Chicago Bulls,New Orleans Pelicans,104,114,True,Final
+401839699,2025-12-15T01:00Z,2025-12-14,2,Phoenix Suns,Los Angeles Lakers,114,116,True,Final
+401836802,2025-12-15T02:00Z,2025-12-14,2,Portland Trail Blazers,Golden State Warriors,136,131,True,Final
+401836803,2025-12-16T00:00Z,2025-12-15,2,Boston Celtics,Detroit Pistons,105,112,True,Final
+401839023,2025-12-16T00:30Z,2025-12-15,2,Miami Heat,Toronto Raptors,96,106,True,Final
+401836805,2025-12-16T02:00Z,2025-12-15,2,Utah Jazz,Dallas Mavericks,140,133,True,Final/OT
+401836806,2025-12-16T02:30Z,2025-12-15,2,Denver Nuggets,Houston Rockets,128,125,True,Final/OT
+401836807,2025-12-16T03:30Z,2025-12-15,2,LA Clippers,Memphis Grizzlies,103,121,True,Final
+401809839,2025-12-17T01:30Z,2025-12-16,2,New York Knicks,San Antonio Spurs,124,113,True,Final
+401810222,2025-12-18T01:00Z,2025-12-17,2,Chicago Bulls,Cleveland Cavaliers,127,111,True,Final
+401810223,2025-12-18T01:00Z,2025-12-17,2,Minnesota Timberwolves,Memphis Grizzlies,110,116,True,Final
+401810226,2025-12-19T00:00Z,2025-12-18,2,Charlotte Hornets,Atlanta Hawks,133,126,True,Final
+401810227,2025-12-19T00:00Z,2025-12-18,2,Indiana Pacers,New York Knicks,113,114,True,Final
+401810228,2025-12-19T00:30Z,2025-12-18,2,Brooklyn Nets,Miami Heat,95,106,True,Final
+401810224,2025-12-19T01:00Z,2025-12-18,2,Oklahoma City Thunder,LA Clippers,122,101,True,Final
+401810225,2025-12-19T01:00Z,2025-12-18,2,San Antonio Spurs,Washington Wizards,119,94,True,Final
+401810229,2025-12-19T01:00Z,2025-12-18,2,Milwaukee Bucks,Toronto Raptors,105,111,True,Final
+401810230,2025-12-19T01:00Z,2025-12-18,2,New Orleans Pelicans,Houston Rockets,133,128,True,Final/OT
+401810231,2025-12-19T01:30Z,2025-12-18,2,Dallas Mavericks,Detroit Pistons,116,114,True,Final/OT
+401810232,2025-12-19T02:00Z,2025-12-18,2,Denver Nuggets,Orlando Magic,126,115,True,Final
+401810233,2025-12-19T02:00Z,2025-12-18,2,Phoenix Suns,Golden State Warriors,99,98,True,Final
+401810234,2025-12-19T02:00Z,2025-12-18,2,Utah Jazz,Los Angeles Lakers,135,143,True,Final
+401810235,2025-12-19T03:00Z,2025-12-18,2,Portland Trail Blazers,Sacramento Kings,134,133,True,Final/OT
+401810236,2025-12-20T00:00Z,2025-12-19,2,Boston Celtics,Miami Heat,129,116,True,Final
+401810237,2025-12-20T00:00Z,2025-12-19,2,New York Knicks,Philadelphia 76ers,107,116,True,Final
+401810238,2025-12-20T00:30Z,2025-12-19,2,Atlanta Hawks,San Antonio Spurs,98,126,True,Final
+401810239,2025-12-20T00:30Z,2025-12-19,2,Cleveland Cavaliers,Chicago Bulls,125,136,True,Final
+401810240,2025-12-20T02:30Z,2025-12-19,2,Minnesota Timberwolves,Oklahoma City Thunder,112,107,True,Final
+401810241,2025-12-20T22:00Z,2025-12-20,2,Denver Nuggets,Houston Rockets,101,115,True,Final
+401810242,2025-12-21T00:00Z,2025-12-20,2,Philadelphia 76ers,Dallas Mavericks,121,114,True,Final
+401810243,2025-12-21T00:00Z,2025-12-20,2,Toronto Raptors,Boston Celtics,96,112,True,Final
+401810244,2025-12-21T00:00Z,2025-12-20,2,New Orleans Pelicans,Indiana Pacers,128,109,True,Final
+401810245,2025-12-21T00:30Z,2025-12-20,2,Detroit Pistons,Charlotte Hornets,112,86,True,Final
+401810246,2025-12-21T01:00Z,2025-12-20,2,Memphis Grizzlies,Washington Wizards,122,130,True,Final
+401810247,2025-12-21T01:30Z,2025-12-20,2,Golden State Warriors,Phoenix Suns,119,116,True,Final
+401810248,2025-12-21T02:30Z,2025-12-20,2,Utah Jazz,Orlando Magic,127,128,True,Final/OT
+401810249,2025-12-21T03:00Z,2025-12-20,2,Sacramento Kings,Portland Trail Blazers,93,98,True,Final
+401810250,2025-12-21T03:30Z,2025-12-20,2,LA Clippers,Los Angeles Lakers,103,88,True,Final
+401810251,2025-12-21T20:30Z,2025-12-21,2,Atlanta Hawks,Chicago Bulls,150,152,True,Final
+401810252,2025-12-21T23:00Z,2025-12-21,2,Brooklyn Nets,Toronto Raptors,96,81,True,Final
+401810253,2025-12-21T23:00Z,2025-12-21,2,New York Knicks,Miami Heat,132,125,True,Final
+401810254,2025-12-22T00:00Z,2025-12-21,2,Washington Wizards,San Antonio Spurs,113,124,True,Final
+401810255,2025-12-22T00:00Z,2025-12-21,2,Minnesota Timberwolves,Milwaukee Bucks,103,100,True,Final
+401810256,2025-12-22T03:00Z,2025-12-21,2,Sacramento Kings,Houston Rockets,125,124,True,Final/OT
+401810257,2025-12-23T00:00Z,2025-12-22,2,Cleveland Cavaliers,Charlotte Hornets,139,132,True,Final
+401810258,2025-12-23T00:30Z,2025-12-22,2,Boston Celtics,Indiana Pacers,103,95,True,Final
+401810259,2025-12-23T01:00Z,2025-12-22,2,New Orleans Pelicans,Dallas Mavericks,119,113,True,Final
+401810260,2025-12-23T02:00Z,2025-12-22,2,Denver Nuggets,Utah Jazz,135,112,True,Final
+401810261,2025-12-23T02:30Z,2025-12-22,2,Oklahoma City Thunder,Memphis Grizzlies,119,103,True,Final
+401810262,2025-12-23T03:00Z,2025-12-22,2,Golden State Warriors,Orlando Magic,120,97,True,Final
+401810263,2025-12-23T03:00Z,2025-12-22,2,Portland Trail Blazers,Detroit Pistons,102,110,True,Final
+401810264,2025-12-24T00:00Z,2025-12-23,2,Charlotte Hornets,Washington Wizards,126,109,True,Final
+401810265,2025-12-24T00:00Z,2025-12-23,2,Philadelphia 76ers,Brooklyn Nets,106,114,True,Final
+401810266,2025-12-24T00:30Z,2025-12-23,2,Atlanta Hawks,Chicago Bulls,123,126,True,Final
+401810267,2025-12-24T00:30Z,2025-12-23,2,Cleveland Cavaliers,New Orleans Pelicans,141,118,True,Final
+401810268,2025-12-24T00:30Z,2025-12-23,2,Indiana Pacers,Milwaukee Bucks,94,111,True,Final
+401810269,2025-12-24T00:30Z,2025-12-23,2,Miami Heat,Toronto Raptors,91,112,True,Final
+401810270,2025-12-24T01:00Z,2025-12-23,2,Dallas Mavericks,Denver Nuggets,131,130,True,Final
+401810271,2025-12-24T01:00Z,2025-12-23,2,Minnesota Timberwolves,New York Knicks,115,104,True,Final
+401810272,2025-12-24T01:30Z,2025-12-23,2,San Antonio Spurs,Oklahoma City Thunder,130,110,True,Final
+401810273,2025-12-24T02:00Z,2025-12-23,2,Phoenix Suns,Los Angeles Lakers,132,108,True,Final
+401810274,2025-12-24T02:00Z,2025-12-23,2,Utah Jazz,Memphis Grizzlies,128,137,True,Final
+401810275,2025-12-24T03:00Z,2025-12-23,2,Portland Trail Blazers,Orlando Magic,106,110,True,Final
+401810276,2025-12-24T03:00Z,2025-12-23,2,Sacramento Kings,Detroit Pistons,127,136,True,Final
+401810277,2025-12-24T03:30Z,2025-12-23,2,LA Clippers,Houston Rockets,128,108,True,Final
+401809238,2025-12-25T17:00Z,2025-12-25,2,New York Knicks,Cleveland Cavaliers,126,124,True,Final
+401809239,2025-12-25T19:30Z,2025-12-25,2,Oklahoma City Thunder,San Antonio Spurs,102,117,True,Final
+401809240,2025-12-25T22:17Z,2025-12-25,2,Golden State Warriors,Dallas Mavericks,126,116,True,Final
+401809241,2025-12-26T01:00Z,2025-12-25,2,Los Angeles Lakers,Houston Rockets,96,119,True,Final
+401809242,2025-12-26T03:30Z,2025-12-25,2,Denver Nuggets,Minnesota Timberwolves,142,138,True,Final/OT
+401810278,2025-12-27T00:00Z,2025-12-26,2,Atlanta Hawks,Miami Heat,111,126,True,Final
+401810279,2025-12-27T00:00Z,2025-12-26,2,Orlando Magic,Charlotte Hornets,105,120,True,Final
+401810280,2025-12-27T00:00Z,2025-12-26,2,Washington Wizards,Toronto Raptors,138,117,True,Final
+401810281,2025-12-27T00:00Z,2025-12-26,2,Indiana Pacers,Boston Celtics,122,140,True,Final
+401810282,2025-12-27T00:30Z,2025-12-26,2,Chicago Bulls,Philadelphia 76ers,109,102,True,Final
+401810283,2025-12-27T01:00Z,2025-12-26,2,Memphis Grizzlies,Milwaukee Bucks,125,104,True,Final
+401810284,2025-12-27T01:00Z,2025-12-26,2,New Orleans Pelicans,Phoenix Suns,108,115,True,Final
+401810285,2025-12-27T02:30Z,2025-12-26,2,Utah Jazz,Detroit Pistons,131,129,True,Final
+401810286,2025-12-27T03:00Z,2025-12-26,2,Portland Trail Blazers,LA Clippers,103,119,True,Final
+401810287,2025-12-27T22:00Z,2025-12-27,2,Sacramento Kings,Dallas Mavericks,113,107,True,Final
+401810288,2025-12-28T00:00Z,2025-12-27,2,Orlando Magic,Denver Nuggets,127,126,True,Final
+401810289,2025-12-28T00:00Z,2025-12-27,2,New Orleans Pelicans,Phoenix Suns,114,123,True,Final
+401810290,2025-12-28T01:00Z,2025-12-27,2,Atlanta Hawks,New York Knicks,125,128,True,Final
+401810291,2025-12-28T01:00Z,2025-12-27,2,Miami Heat,Indiana Pacers,142,116,True,Final
+401810292,2025-12-28T01:00Z,2025-12-27,2,Chicago Bulls,Milwaukee Bucks,103,112,True,Final
+401810293,2025-12-28T01:00Z,2025-12-27,2,Houston Rockets,Cleveland Cavaliers,117,100,True,Final
+401810294,2025-12-28T01:00Z,2025-12-27,2,Minnesota Timberwolves,Brooklyn Nets,107,123,True,Final
+401810295,2025-12-28T01:00Z,2025-12-27,2,San Antonio Spurs,Utah Jazz,114,127,True,Final
+401810296,2025-12-28T20:30Z,2025-12-28,2,Toronto Raptors,Golden State Warriors,141,127,True,Final/OT
+401810297,2025-12-28T20:30Z,2025-12-28,2,Oklahoma City Thunder,Philadelphia 76ers,129,104,True,Final
+401810298,2025-12-28T23:00Z,2025-12-28,2,Washington Wizards,Memphis Grizzlies,116,112,True,Final
+401810299,2025-12-28T23:00Z,2025-12-28,2,Portland Trail Blazers,Boston Celtics,114,108,True,Final
+401810300,2025-12-29T02:00Z,2025-12-28,2,LA Clippers,Detroit Pistons,112,99,True,Final
+401810301,2025-12-29T02:30Z,2025-12-28,2,Los Angeles Lakers,Sacramento Kings,125,101,True,Final
+401810302,2025-12-30T00:00Z,2025-12-29,2,Charlotte Hornets,Milwaukee Bucks,113,123,True,Final
+401810303,2025-12-30T00:00Z,2025-12-29,2,Washington Wizards,Phoenix Suns,101,115,True,Final
+401810304,2025-12-30T00:30Z,2025-12-29,2,Brooklyn Nets,Golden State Warriors,107,120,True,Final
+401810305,2025-12-30T00:30Z,2025-12-29,2,Miami Heat,Denver Nuggets,147,123,True,Final
+401810306,2025-12-30T00:30Z,2025-12-29,2,Toronto Raptors,Orlando Magic,107,106,True,Final
+401810307,2025-12-30T01:00Z,2025-12-29,2,Chicago Bulls,Minnesota Timberwolves,101,136,True,Final
+401810308,2025-12-30T01:00Z,2025-12-29,2,Houston Rockets,Indiana Pacers,126,119,True,Final
+401810309,2025-12-30T01:00Z,2025-12-29,2,New Orleans Pelicans,New York Knicks,125,130,True,Final
+401810310,2025-12-30T01:00Z,2025-12-29,2,Oklahoma City Thunder,Atlanta Hawks,140,129,True,Final
+401810311,2025-12-30T01:00Z,2025-12-29,2,San Antonio Spurs,Cleveland Cavaliers,101,113,True,Final
+401810312,2025-12-30T03:30Z,2025-12-29,2,Portland Trail Blazers,Dallas Mavericks,125,122,True,Final
+401810313,2025-12-31T01:00Z,2025-12-30,2,Memphis Grizzlies,Philadelphia 76ers,136,139,True,Final/OT
+401810314,2025-12-31T02:00Z,2025-12-30,2,Utah Jazz,Boston Celtics,119,129,True,Final
+401810315,2025-12-31T03:30Z,2025-12-30,2,Los Angeles Lakers,Detroit Pistons,106,128,True,Final
+401810316,2025-12-31T04:00Z,2025-12-30,2,LA Clippers,Sacramento Kings,131,90,True,Final
+401810317,2025-12-31T18:00Z,2025-12-31,2,Charlotte Hornets,Golden State Warriors,125,132,True,Final
+401810318,2025-12-31T20:00Z,2025-12-31,2,Atlanta Hawks,Minnesota Timberwolves,126,102,True,Final
+401810319,2025-12-31T20:00Z,2025-12-31,2,Indiana Pacers,Orlando Magic,110,112,True,Final
+401810320,2025-12-31T20:30Z,2025-12-31,2,Cleveland Cavaliers,Phoenix Suns,129,113,True,Final
+401810321,2026-01-01T00:00Z,2025-12-31,2,Chicago Bulls,New Orleans Pelicans,134,118,True,Final
+401810322,2026-01-01T00:00Z,2025-12-31,2,San Antonio Spurs,New York Knicks,134,132,True,Final
+401810323,2026-01-01T00:30Z,2025-12-31,2,Toronto Raptors,Denver Nuggets,103,106,True,Final
+401810324,2026-01-01T01:00Z,2025-12-31,2,Milwaukee Bucks,Washington Wizards,113,114,True,Final
+401810325,2026-01-01T01:00Z,2025-12-31,2,Oklahoma City Thunder,Portland Trail Blazers,124,95,True,Final
+401810326,2026-01-01T23:00Z,2026-01-01,2,Brooklyn Nets,Houston Rockets,96,120,True,Final
+401810327,2026-01-02T00:00Z,2026-01-01,2,Detroit Pistons,Miami Heat,112,118,True,Final
+401810328,2026-01-02T01:30Z,2026-01-01,2,Dallas Mavericks,Philadelphia 76ers,108,123,True,Final
+401810329,2026-01-02T03:00Z,2026-01-01,2,Sacramento Kings,Boston Celtics,106,120,True,Final
+401810330,2026-01-02T03:30Z,2026-01-01,2,LA Clippers,Utah Jazz,118,101,True,Final
+401810331,2026-01-03T00:00Z,2026-01-02,2,Indiana Pacers,San Antonio Spurs,113,123,True,Final
+401810332,2026-01-03T00:00Z,2026-01-02,2,Washington Wizards,Brooklyn Nets,119,99,True,Final
+401810333,2026-01-03T00:30Z,2026-01-02,2,Cleveland Cavaliers,Denver Nuggets,113,108,True,Final
+401810334,2026-01-03T00:30Z,2026-01-02,2,New York Knicks,Atlanta Hawks,99,111,True,Final
+401810335,2026-01-03T01:00Z,2026-01-02,2,Chicago Bulls,Orlando Magic,121,114,True,Final
+401810336,2026-01-03T01:00Z,2026-01-02,2,Milwaukee Bucks,Charlotte Hornets,122,121,True,Final
+401810337,2026-01-03T01:00Z,2026-01-02,2,New Orleans Pelicans,Portland Trail Blazers,109,122,True,Final
+401810338,2026-01-03T02:00Z,2026-01-02,2,Phoenix Suns,Sacramento Kings,129,102,True,Final
+401810339,2026-01-03T03:00Z,2026-01-02,2,Golden State Warriors,Oklahoma City Thunder,94,131,True,Final
+401810340,2026-01-03T03:30Z,2026-01-02,2,Los Angeles Lakers,Memphis Grizzlies,128,121,True,Final
+401810341,2026-01-03T22:00Z,2026-01-03,2,Miami Heat,Minnesota Timberwolves,115,125,True,Final
+401810342,2026-01-04T00:30Z,2026-01-03,2,New York Knicks,Philadelphia 76ers,119,130,True,Final
+401810343,2026-01-04T00:30Z,2026-01-03,2,Toronto Raptors,Atlanta Hawks,134,117,True,Final
+401810344,2026-01-04T01:00Z,2026-01-03,2,Chicago Bulls,Charlotte Hornets,99,112,True,Final
+401810345,2026-01-04T01:00Z,2026-01-03,2,San Antonio Spurs,Portland Trail Blazers,110,115,True,Final
+401810346,2026-01-04T01:30Z,2026-01-03,2,Dallas Mavericks,Houston Rockets,110,104,True,Final
+401810347,2026-01-04T03:00Z,2026-01-03,2,Golden State Warriors,Utah Jazz,123,114,True,Final
+401810348,2026-01-04T03:30Z,2026-01-03,2,LA Clippers,Boston Celtics,115,146,True,Final
+401810349,2026-01-04T19:00Z,2026-01-04,2,Cleveland Cavaliers,Detroit Pistons,110,114,True,Final
+401810350,2026-01-04T20:00Z,2026-01-04,2,Orlando Magic,Indiana Pacers,135,127,True,Final
+401810351,2026-01-04T20:30Z,2026-01-04,2,Brooklyn Nets,Denver Nuggets,127,115,True,Final
+401810352,2026-01-04T23:00Z,2026-01-04,2,Miami Heat,New Orleans Pelicans,125,106,True,Final
+401810353,2026-01-04T23:00Z,2026-01-04,2,Washington Wizards,Minnesota Timberwolves,115,141,True,Final
+401810354,2026-01-05T01:00Z,2026-01-04,2,Phoenix Suns,Oklahoma City Thunder,108,105,True,Final
+401810355,2026-01-05T02:00Z,2026-01-04,2,Sacramento Kings,Milwaukee Bucks,98,115,True,Final
+401810356,2026-01-05T02:30Z,2026-01-04,2,Los Angeles Lakers,Memphis Grizzlies,120,114,True,Final
+401810357,2026-01-06T00:00Z,2026-01-05,2,Detroit Pistons,New York Knicks,121,90,True,Final
+401810358,2026-01-06T00:30Z,2026-01-05,2,Boston Celtics,Chicago Bulls,115,101,True,Final
+401810359,2026-01-06T00:30Z,2026-01-05,2,Toronto Raptors,Atlanta Hawks,118,100,True,Final
+401810360,2026-01-06T01:00Z,2026-01-05,2,Houston Rockets,Phoenix Suns,100,97,True,Final
+401810361,2026-01-06T01:00Z,2026-01-05,2,Oklahoma City Thunder,Charlotte Hornets,97,124,True,Final
+401810362,2026-01-06T01:30Z,2026-01-05,2,Philadelphia 76ers,Denver Nuggets,124,125,True,Final/OT
+401810363,2026-01-06T03:00Z,2026-01-05,2,LA Clippers,Golden State Warriors,103,102,True,Final
+401810364,2026-01-06T03:00Z,2026-01-05,2,Portland Trail Blazers,Utah Jazz,137,117,True,Final
+401810365,2026-01-07T00:00Z,2026-01-06,2,Indiana Pacers,Cleveland Cavaliers,116,120,True,Final
+401810366,2026-01-07T00:00Z,2026-01-06,2,Washington Wizards,Orlando Magic,120,112,True,Final
+401810367,2026-01-07T01:00Z,2026-01-06,2,Memphis Grizzlies,San Antonio Spurs,106,105,True,Final
+401810368,2026-01-07T01:00Z,2026-01-06,2,Minnesota Timberwolves,Miami Heat,122,94,True,Final
+401810369,2026-01-07T01:00Z,2026-01-06,2,New Orleans Pelicans,Los Angeles Lakers,103,111,True,Final
+401810370,2026-01-07T04:00Z,2026-01-06,2,Sacramento Kings,Dallas Mavericks,98,100,True,Final
+401810371,2026-01-08T00:00Z,2026-01-07,2,Charlotte Hornets,Toronto Raptors,96,97,True,Final
+401810372,2026-01-08T00:00Z,2026-01-07,2,Detroit Pistons,Chicago Bulls,108,93,True,Final
+401810373,2026-01-08T00:00Z,2026-01-07,2,Philadelphia 76ers,Washington Wizards,131,110,True,Final
+401810375,2026-01-08T00:00Z,2026-01-07,2,Boston Celtics,Denver Nuggets,110,114,True,Final
+401810374,2026-01-08T00:30Z,2026-01-07,2,Atlanta Hawks,New Orleans Pelicans,117,100,True,Final
+401810376,2026-01-08T00:30Z,2026-01-07,2,Brooklyn Nets,Orlando Magic,103,104,True,Final/OT
+401810377,2026-01-08T00:30Z,2026-01-07,2,New York Knicks,LA Clippers,123,111,True,Final
+401810379,2026-01-08T01:00Z,2026-01-07,2,Memphis Grizzlies,Phoenix Suns,98,117,True,Final
+401810380,2026-01-08T01:00Z,2026-01-07,2,Oklahoma City Thunder,Utah Jazz,129,125,True,Final/OT
+401810378,2026-01-08T02:30Z,2026-01-07,2,San Antonio Spurs,Los Angeles Lakers,107,91,True,Final
+401810381,2026-01-08T03:00Z,2026-01-07,2,Golden State Warriors,Milwaukee Bucks,120,113,True,Final
+401810382,2026-01-08T03:00Z,2026-01-07,2,Portland Trail Blazers,Houston Rockets,103,102,True,Final
+401810383,2026-01-09T00:00Z,2026-01-08,2,Charlotte Hornets,Indiana Pacers,112,114,True,Final
+401810384,2026-01-09T01:00Z,2026-01-08,2,Chicago Bulls,Miami Heat,,,False,Postponed
+401810385,2026-01-09T01:00Z,2026-01-08,2,Minnesota Timberwolves,Cleveland Cavaliers,131,122,True,Final
+401810386,2026-01-09T02:00Z,2026-01-08,2,Utah Jazz,Dallas Mavericks,116,114,True,Final
+401810387,2026-01-10T00:00Z,2026-01-09,2,Boston Celtics,Toronto Raptors,125,117,True,Final
+401810388,2026-01-10T00:00Z,2026-01-09,2,Orlando Magic,Philadelphia 76ers,91,103,True,Final
+401810389,2026-01-10T00:00Z,2026-01-09,2,Washington Wizards,New Orleans Pelicans,107,128,True,Final
+401810390,2026-01-10T00:30Z,2026-01-09,2,Brooklyn Nets,LA Clippers,105,121,True,Final
+401810391,2026-01-10T01:00Z,2026-01-09,2,Memphis Grizzlies,Oklahoma City Thunder,116,117,True,Final
+401810392,2026-01-10T02:00Z,2026-01-09,2,Denver Nuggets,Atlanta Hawks,87,110,True,Final
+401810393,2026-01-10T02:00Z,2026-01-09,2,Phoenix Suns,New York Knicks,112,107,True,Final
+401810394,2026-01-10T03:00Z,2026-01-09,2,Golden State Warriors,Sacramento Kings,137,103,True,Final
+401810395,2026-01-10T03:00Z,2026-01-09,2,Portland Trail Blazers,Houston Rockets,111,105,True,Final
+401810396,2026-01-10T03:30Z,2026-01-09,2,Los Angeles Lakers,Milwaukee Bucks,101,105,True,Final
+401810397,2026-01-10T18:00Z,2026-01-10,2,Cleveland Cavaliers,Minnesota Timberwolves,146,134,True,Final
+401810398,2026-01-11T00:00Z,2026-01-10,2,Indiana Pacers,Miami Heat,123,99,True,Final
+401810399,2026-01-11T00:30Z,2026-01-10,2,Detroit Pistons,LA Clippers,92,98,True,Final
+401810400,2026-01-11T01:00Z,2026-01-10,2,Boston Celtics,San Antonio Spurs,95,100,True,Final
+401810401,2026-01-11T01:00Z,2026-01-10,2,Chicago Bulls,Dallas Mavericks,125,107,True,Final
+401810402,2026-01-11T02:30Z,2026-01-10,2,Utah Jazz,Charlotte Hornets,95,150,True,Final
+401810403,2026-01-11T20:00Z,2026-01-11,2,Orlando Magic,New Orleans Pelicans,128,118,True,Final
+401810404,2026-01-11T20:30Z,2026-01-11,2,Memphis Grizzlies,Brooklyn Nets,103,98,True,Final
+401810405,2026-01-11T23:00Z,2026-01-11,2,Toronto Raptors,Philadelphia 76ers,116,115,True,Final/OT
+401810406,2026-01-11T23:00Z,2026-01-11,2,Portland Trail Blazers,New York Knicks,114,123,True,Final
+401810407,2026-01-12T00:00Z,2026-01-11,2,Minnesota Timberwolves,San Antonio Spurs,104,103,True,Final
+401810408,2026-01-12T00:00Z,2026-01-11,2,Oklahoma City Thunder,Miami Heat,124,112,True,Final
+401810409,2026-01-12T01:00Z,2026-01-11,2,Denver Nuggets,Milwaukee Bucks,108,104,True,Final
+401810410,2026-01-12T01:00Z,2026-01-11,2,Phoenix Suns,Washington Wizards,112,93,True,Final
+401810411,2026-01-12T01:30Z,2026-01-11,2,Golden State Warriors,Atlanta Hawks,111,124,True,Final
+401810412,2026-01-12T02:00Z,2026-01-11,2,Sacramento Kings,Houston Rockets,111,98,True,Final
+401810413,2026-01-13T00:00Z,2026-01-12,2,Cleveland Cavaliers,Utah Jazz,112,123,True,Final
+401810414,2026-01-13T00:30Z,2026-01-12,2,Indiana Pacers,Boston Celtics,98,96,True,Final
+401810415,2026-01-13T00:30Z,2026-01-12,2,Toronto Raptors,Philadelphia 76ers,102,115,True,Final
+401810416,2026-01-13T01:30Z,2026-01-12,2,Dallas Mavericks,Brooklyn Nets,113,105,True,Final
+401810417,2026-01-13T03:00Z,2026-01-12,2,Sacramento Kings,Los Angeles Lakers,124,112,True,Final
+401810418,2026-01-13T03:30Z,2026-01-12,2,LA Clippers,Charlotte Hornets,117,109,True,Final
+401810419,2026-01-14T00:30Z,2026-01-13,2,Miami Heat,Phoenix Suns,127,121,True,Final
+401810420,2026-01-14T01:00Z,2026-01-13,2,Houston Rockets,Chicago Bulls,119,113,True,Final
+401810421,2026-01-14T01:00Z,2026-01-13,2,Milwaukee Bucks,Minnesota Timberwolves,106,139,True,Final
+401810422,2026-01-14T01:00Z,2026-01-13,2,New Orleans Pelicans,Denver Nuggets,116,122,True,Final
+401810423,2026-01-14T01:00Z,2026-01-13,2,Oklahoma City Thunder,San Antonio Spurs,119,98,True,Final
+401810424,2026-01-14T03:30Z,2026-01-13,2,Los Angeles Lakers,Atlanta Hawks,141,116,True,Final
+401810425,2026-01-14T04:00Z,2026-01-13,2,Golden State Warriors,Portland Trail Blazers,119,97,True,Final
+401810426,2026-01-15T00:00Z,2026-01-14,2,Indiana Pacers,Toronto Raptors,101,115,True,Final
+401810427,2026-01-15T00:00Z,2026-01-14,2,Philadelphia 76ers,Cleveland Cavaliers,107,133,True,Final
+401810428,2026-01-15T01:00Z,2026-01-14,2,Chicago Bulls,Utah Jazz,128,126,True,Final
+401810429,2026-01-15T01:00Z,2026-01-14,2,New Orleans Pelicans,Brooklyn Nets,116,113,True,Final
+401810430,2026-01-15T02:30Z,2026-01-14,2,Dallas Mavericks,Denver Nuggets,109,118,True,Final
+401810431,2026-01-15T03:00Z,2026-01-14,2,Sacramento Kings,New York Knicks,112,101,True,Final
+401810432,2026-01-15T03:30Z,2026-01-14,2,LA Clippers,Washington Wizards,119,105,True,Final
+401810433,2026-01-15T19:00Z,2026-01-15,2,Orlando Magic,Memphis Grizzlies,118,111,True,Final
+401810434,2026-01-16T00:00Z,2026-01-15,2,Detroit Pistons,Phoenix Suns,108,105,True,Final
+401810435,2026-01-16T00:30Z,2026-01-15,2,Miami Heat,Boston Celtics,114,119,True,Final
+401810436,2026-01-16T00:30Z,2026-01-15,2,Houston Rockets,Oklahoma City Thunder,91,111,True,Final
+401810437,2026-01-16T01:00Z,2026-01-15,2,San Antonio Spurs,Milwaukee Bucks,119,101,True,Final
+401810438,2026-01-16T01:30Z,2026-01-15,2,Dallas Mavericks,Utah Jazz,144,122,True,Final
+401810439,2026-01-16T03:00Z,2026-01-15,2,Golden State Warriors,New York Knicks,126,113,True,Final
+401810440,2026-01-16T03:00Z,2026-01-15,2,Portland Trail Blazers,Atlanta Hawks,117,101,True,Final
+401810441,2026-01-16T03:30Z,2026-01-15,2,Los Angeles Lakers,Charlotte Hornets,117,135,True,Final
+401810443,2026-01-17T00:00Z,2026-01-16,2,Indiana Pacers,New Orleans Pelicans,127,119,True,Final
+401810444,2026-01-17T00:00Z,2026-01-16,2,Philadelphia 76ers,Cleveland Cavaliers,115,117,True,Final
+401810442,2026-01-17T00:30Z,2026-01-16,2,Brooklyn Nets,Chicago Bulls,112,109,True,Final
+401810445,2026-01-17T00:30Z,2026-01-16,2,Toronto Raptors,LA Clippers,117,121,True,Final/OT
+401810446,2026-01-17T02:30Z,2026-01-16,2,Houston Rockets,Minnesota Timberwolves,110,105,True,Final
+401810447,2026-01-17T03:00Z,2026-01-16,2,Sacramento Kings,Washington Wizards,128,115,True,Final
+401810448,2026-01-17T22:00Z,2026-01-17,2,Dallas Mavericks,Utah Jazz,138,120,True,Final
+401810449,2026-01-18T00:30Z,2026-01-17,2,Atlanta Hawks,Boston Celtics,106,132,True,Final
+401810450,2026-01-18T00:30Z,2026-01-17,2,Detroit Pistons,Indiana Pacers,121,78,True,Final
+401810451,2026-01-18T00:30Z,2026-01-17,2,New York Knicks,Phoenix Suns,99,106,True,Final
+401810452,2026-01-18T01:00Z,2026-01-17,2,Miami Heat,Oklahoma City Thunder,122,120,True,Final
+401810453,2026-01-18T01:00Z,2026-01-17,2,San Antonio Spurs,Minnesota Timberwolves,126,123,True,Final
+401810454,2026-01-18T01:30Z,2026-01-17,2,Golden State Warriors,Charlotte Hornets,136,116,True,Final
+401810455,2026-01-18T02:00Z,2026-01-17,2,Denver Nuggets,Washington Wizards,121,115,True,Final
+401810456,2026-01-18T03:00Z,2026-01-17,2,Portland Trail Blazers,Los Angeles Lakers,132,116,True,Final
+401810457,2026-01-18T17:00Z,2026-01-18,2,Memphis Grizzlies,Orlando Magic,126,109,True,Final
+401810458,2026-01-19T00:00Z,2026-01-18,2,Chicago Bulls,Brooklyn Nets,124,102,True,Final
+401810459,2026-01-19T00:00Z,2026-01-18,2,Houston Rockets,New Orleans Pelicans,119,110,True,Final
+401810460,2026-01-19T01:00Z,2026-01-18,2,Denver Nuggets,Charlotte Hornets,87,110,True,Final
+401810461,2026-01-19T02:00Z,2026-01-18,2,Sacramento Kings,Portland Trail Blazers,110,117,True,Final
+401810462,2026-01-19T02:30Z,2026-01-18,2,Los Angeles Lakers,Toronto Raptors,110,93,True,Final
+401809247,2026-01-19T18:00Z,2026-01-19,2,Atlanta Hawks,Milwaukee Bucks,110,112,True,Final
+401809248,2026-01-19T19:30Z,2026-01-19,2,Cleveland Cavaliers,Oklahoma City Thunder,104,136,True,Final
+401810463,2026-01-19T20:00Z,2026-01-19,2,Washington Wizards,LA Clippers,106,110,True,Final
+401809249,2026-01-19T22:00Z,2026-01-19,2,New York Knicks,Dallas Mavericks,97,114,True,Final
+401810466,2026-01-19T22:00Z,2026-01-19,2,San Antonio Spurs,Utah Jazz,123,110,True,Final
+401810464,2026-01-20T00:00Z,2026-01-19,2,Philadelphia 76ers,Indiana Pacers,113,104,True,Final
+401810465,2026-01-20T00:30Z,2026-01-19,2,Brooklyn Nets,Phoenix Suns,117,126,True,Final
+401809250,2026-01-20T01:00Z,2026-01-19,2,Detroit Pistons,Boston Celtics,104,103,True,Final
+401810467,2026-01-20T03:00Z,2026-01-19,2,Golden State Warriors,Miami Heat,135,112,True,Final
+401810468,2026-01-21T00:00Z,2026-01-20,2,Philadelphia 76ers,Phoenix Suns,110,116,True,Final
+401810469,2026-01-21T01:00Z,2026-01-20,2,Chicago Bulls,LA Clippers,138,110,True,Final
+401810470,2026-01-21T01:00Z,2026-01-20,2,Houston Rockets,San Antonio Spurs,111,106,True,Final
+401810471,2026-01-21T02:00Z,2026-01-20,2,Utah Jazz,Minnesota Timberwolves,127,122,True,Final
+401810472,2026-01-21T03:00Z,2026-01-20,2,Denver Nuggets,Los Angeles Lakers,107,115,True,Final
+401810473,2026-01-21T03:00Z,2026-01-20,2,Golden State Warriors,Toronto Raptors,127,145,True,Final
+401810474,2026-01-21T03:00Z,2026-01-20,2,Sacramento Kings,Miami Heat,117,130,True,Final
+401810475,2026-01-22T00:00Z,2026-01-21,2,Charlotte Hornets,Cleveland Cavaliers,87,94,True,Final
+401810476,2026-01-22T00:30Z,2026-01-21,2,Boston Celtics,Indiana Pacers,119,104,True,Final
+401810477,2026-01-22T00:30Z,2026-01-21,2,New York Knicks,Brooklyn Nets,120,66,True,Final
+401810478,2026-01-22T01:00Z,2026-01-21,2,Memphis Grizzlies,Atlanta Hawks,122,124,True,Final
+401810479,2026-01-22T01:00Z,2026-01-21,2,New Orleans Pelicans,Detroit Pistons,104,112,True,Final
+401810480,2026-01-22T02:30Z,2026-01-21,2,Milwaukee Bucks,Oklahoma City Thunder,102,122,True,Final
+401810481,2026-01-22T03:00Z,2026-01-21,2,Sacramento Kings,Toronto Raptors,109,122,True,Final
+401810482,2026-01-23T00:00Z,2026-01-22,2,Orlando Magic,Charlotte Hornets,97,124,True,Final
+401810483,2026-01-23T00:00Z,2026-01-22,2,Philadelphia 76ers,Houston Rockets,128,122,True,Final/OT
+401810484,2026-01-23T00:00Z,2026-01-22,2,Washington Wizards,Denver Nuggets,97,107,True,Final
+401810485,2026-01-23T00:30Z,2026-01-22,2,Dallas Mavericks,Golden State Warriors,123,115,True,Final
+401810486,2026-01-23T01:00Z,2026-01-22,2,Minnesota Timberwolves,Chicago Bulls,115,120,True,Final
+401810487,2026-01-23T02:00Z,2026-01-22,2,Utah Jazz,San Antonio Spurs,109,126,True,Final
+401810488,2026-01-23T03:00Z,2026-01-22,2,LA Clippers,Los Angeles Lakers,112,104,True,Final
+401810489,2026-01-23T03:00Z,2026-01-22,2,Portland Trail Blazers,Miami Heat,127,110,True,Final
+401810490,2026-01-24T00:00Z,2026-01-23,2,Detroit Pistons,Houston Rockets,104,111,True,Final
+401810491,2026-01-24T00:30Z,2026-01-23,2,Atlanta Hawks,Phoenix Suns,110,103,True,Final
+401810492,2026-01-24T00:30Z,2026-01-23,2,Brooklyn Nets,Boston Celtics,126,130,True,Final/2OT
+401810493,2026-01-24T00:30Z,2026-01-23,2,Cleveland Cavaliers,Sacramento Kings,123,118,True,Final
+401810494,2026-01-24T01:00Z,2026-01-23,2,Memphis Grizzlies,New Orleans Pelicans,127,133,True,Final
+401810496,2026-01-24T01:00Z,2026-01-23,2,Oklahoma City Thunder,Indiana Pacers,114,117,True,Final
+401810495,2026-01-24T02:30Z,2026-01-23,2,Milwaukee Bucks,Denver Nuggets,100,102,True,Final
+401810497,2026-01-24T03:00Z,2026-01-23,2,Portland Trail Blazers,Toronto Raptors,98,110,True,Final
+401810500,2026-01-24T17:00Z,2026-01-24,2,Charlotte Hornets,Washington Wizards,119,115,True,Final
+401810498,2026-01-24T20:00Z,2026-01-24,2,Philadelphia 76ers,New York Knicks,109,112,True,Final
+401810499,2026-01-24T22:30Z,2026-01-24,2,Minnesota Timberwolves,Golden State Warriors,,,False,Postponed
+401810501,2026-01-25T00:00Z,2026-01-24,2,Orlando Magic,Cleveland Cavaliers,105,119,True,Final
+401810502,2026-01-25T01:00Z,2026-01-24,2,Chicago Bulls,Boston Celtics,114,111,True,Final
+401810503,2026-01-25T01:30Z,2026-01-24,2,Dallas Mavericks,Los Angeles Lakers,110,116,True,Final
+401810504,2026-01-25T02:30Z,2026-01-24,2,Utah Jazz,Miami Heat,116,147,True,Final
+401810505,2026-01-25T20:00Z,2026-01-25,2,Detroit Pistons,Sacramento Kings,139,116,True,Final
+401810506,2026-01-25T20:30Z,2026-01-25,2,Memphis Grizzlies,Denver Nuggets,,,False,Postponed
+401857824,2026-01-25T22:30Z,2026-01-25,2,Minnesota Timberwolves,Golden State Warriors,85,111,True,Final
+401810507,2026-01-26T00:00Z,2026-01-25,2,Milwaukee Bucks,Dallas Mavericks,,,False,Postponed
+401810508,2026-01-26T00:00Z,2026-01-25,2,Oklahoma City Thunder,Toronto Raptors,101,103,True,Final
+401810509,2026-01-26T00:00Z,2026-01-25,2,San Antonio Spurs,New Orleans Pelicans,95,104,True,Final
+401810510,2026-01-26T01:00Z,2026-01-25,2,Phoenix Suns,Miami Heat,102,111,True,Final
+401810511,2026-01-26T02:00Z,2026-01-25,2,LA Clippers,Brooklyn Nets,126,89,True,Final
+401810514,2026-01-26T18:30Z,2026-01-26,2,Atlanta Hawks,Indiana Pacers,132,116,True,Final
+401810512,2026-01-26T20:00Z,2026-01-26,2,Charlotte Hornets,Philadelphia 76ers,130,93,True,Final
+401810513,2026-01-27T00:00Z,2026-01-26,2,Cleveland Cavaliers,Orlando Magic,114,98,True,Final
+401810515,2026-01-27T01:00Z,2026-01-26,2,Boston Celtics,Portland Trail Blazers,102,94,True,Final
+401810516,2026-01-27T01:00Z,2026-01-26,2,Chicago Bulls,Los Angeles Lakers,118,129,True,Final
+401810517,2026-01-27T01:00Z,2026-01-26,2,Houston Rockets,Memphis Grizzlies,108,99,True,Final
+401810518,2026-01-27T02:30Z,2026-01-26,2,Minnesota Timberwolves,Golden State Warriors,108,83,True,Final
+401810519,2026-01-28T00:00Z,2026-01-27,2,Washington Wizards,Portland Trail Blazers,115,111,True,Final
+401810520,2026-01-28T00:30Z,2026-01-27,2,New York Knicks,Sacramento Kings,103,87,True,Final
+401810521,2026-01-28T01:00Z,2026-01-27,2,Philadelphia 76ers,Milwaukee Bucks,139,122,True,Final
+401810522,2026-01-28T01:00Z,2026-01-27,2,Oklahoma City Thunder,New Orleans Pelicans,104,95,True,Final
+401810523,2026-01-28T02:00Z,2026-01-27,2,Denver Nuggets,Detroit Pistons,107,109,True,Final
+401810524,2026-01-28T02:00Z,2026-01-27,2,Phoenix Suns,Brooklyn Nets,106,102,True,Final
+401810525,2026-01-28T03:00Z,2026-01-27,2,Utah Jazz,LA Clippers,103,115,True,Final
+401810526,2026-01-29T00:00Z,2026-01-28,2,Cleveland Cavaliers,Los Angeles Lakers,129,99,True,Final
+401810527,2026-01-29T00:00Z,2026-01-28,2,Indiana Pacers,Chicago Bulls,113,110,True,Final
+401810528,2026-01-29T00:30Z,2026-01-28,2,Boston Celtics,Atlanta Hawks,106,117,True,Final
+401810529,2026-01-29T00:30Z,2026-01-28,2,Miami Heat,Orlando Magic,124,133,True,Final
+401810530,2026-01-29T00:30Z,2026-01-28,2,Toronto Raptors,New York Knicks,92,119,True,Final
+401810531,2026-01-29T01:00Z,2026-01-28,2,Memphis Grizzlies,Charlotte Hornets,97,112,True,Final
+401810532,2026-01-29T01:30Z,2026-01-28,2,Dallas Mavericks,Minnesota Timberwolves,105,118,True,Final
+401810533,2026-01-29T02:00Z,2026-01-28,2,Utah Jazz,Golden State Warriors,124,140,True,Final
+401810534,2026-01-29T02:42Z,2026-01-28,2,Houston Rockets,San Antonio Spurs,99,111,True,Final
+401810535,2026-01-30T00:00Z,2026-01-29,2,Philadelphia 76ers,Sacramento Kings,113,111,True,Final
+401810536,2026-01-30T00:00Z,2026-01-29,2,Washington Wizards,Milwaukee Bucks,109,99,True,Final
+401810537,2026-01-30T01:00Z,2026-01-29,2,Atlanta Hawks,Houston Rockets,86,104,True,Final
+401850920,2026-01-30T01:00Z,2026-01-29,2,Chicago Bulls,Miami Heat,113,116,True,Final
+401810538,2026-01-30T01:30Z,2026-01-29,2,Dallas Mavericks,Charlotte Hornets,121,123,True,Final
+401810539,2026-01-30T02:00Z,2026-01-29,2,Denver Nuggets,Brooklyn Nets,107,103,True,Final
+401810540,2026-01-30T02:00Z,2026-01-29,2,Phoenix Suns,Detroit Pistons,114,96,True,Final
+401810541,2026-01-30T02:30Z,2026-01-29,2,Minnesota Timberwolves,Oklahoma City Thunder,123,111,True,Final
+401810543,2026-01-31T00:00Z,2026-01-30,2,Washington Wizards,Los Angeles Lakers,111,142,True,Final
+401810542,2026-01-31T00:30Z,2026-01-30,2,Orlando Magic,Toronto Raptors,130,120,True,Final
+401810544,2026-01-31T00:30Z,2026-01-30,2,Boston Celtics,Sacramento Kings,112,93,True,Final
+401810545,2026-01-31T00:30Z,2026-01-30,2,New York Knicks,Portland Trail Blazers,127,97,True,Final
+401810546,2026-01-31T00:30Z,2026-01-30,2,New Orleans Pelicans,Memphis Grizzlies,114,106,True,Final
+401810548,2026-01-31T02:00Z,2026-01-30,2,Phoenix Suns,Cleveland Cavaliers,126,113,True,Final
+401810550,2026-01-31T02:00Z,2026-01-30,2,Denver Nuggets,LA Clippers,122,109,True,Final
+401810549,2026-01-31T02:30Z,2026-01-30,2,Utah Jazz,Brooklyn Nets,99,109,True,Final
+401810551,2026-01-31T03:00Z,2026-01-30,2,Golden State Warriors,Detroit Pistons,124,131,True,Final
+401810552,2026-01-31T17:00Z,2026-01-31,2,Charlotte Hornets,San Antonio Spurs,111,106,True,Final
+401810553,2026-02-01T00:00Z,2026-01-31,2,Indiana Pacers,Atlanta Hawks,129,124,True,Final
+401810554,2026-02-01T00:30Z,2026-01-31,2,Philadelphia 76ers,New Orleans Pelicans,124,114,True,Final
+401810547,2026-02-01T01:00Z,2026-01-31,2,Miami Heat,Chicago Bulls,118,125,True,Final
+401810555,2026-02-01T01:00Z,2026-01-31,2,Memphis Grizzlies,Minnesota Timberwolves,114,131,True,Final
+401810556,2026-02-01T01:30Z,2026-01-31,2,Houston Rockets,Dallas Mavericks,111,107,True,Final
+401810557,2026-02-01T20:30Z,2026-02-01,2,Boston Celtics,Milwaukee Bucks,107,79,True,Final
+401810559,2026-02-01T23:00Z,2026-02-01,2,Detroit Pistons,Brooklyn Nets,130,77,True,Final
+401810560,2026-02-01T23:00Z,2026-02-01,2,Miami Heat,Chicago Bulls,134,91,True,Final
+401810561,2026-02-01T23:00Z,2026-02-01,2,Toronto Raptors,Utah Jazz,107,100,True,Final
+401810562,2026-02-01T23:00Z,2026-02-01,2,Washington Wizards,Sacramento Kings,116,112,True,Final
+401810563,2026-02-02T00:00Z,2026-02-01,2,New York Knicks,Los Angeles Lakers,112,100,True,Final
+401810564,2026-02-02T01:00Z,2026-02-01,2,Phoenix Suns,LA Clippers,93,117,True,Final
+401810558,2026-02-02T02:00Z,2026-02-01,2,San Antonio Spurs,Orlando Magic,112,103,True,Final
+401810565,2026-02-02T02:00Z,2026-02-01,2,Portland Trail Blazers,Cleveland Cavaliers,111,130,True,Final
+401810566,2026-02-02T02:30Z,2026-02-01,2,Denver Nuggets,Oklahoma City Thunder,111,121,True,Final
+401810567,2026-02-02T20:00Z,2026-02-02,2,Charlotte Hornets,New Orleans Pelicans,102,95,True,Final
+401810568,2026-02-03T00:00Z,2026-02-02,2,Indiana Pacers,Houston Rockets,114,118,True,Final
+401810569,2026-02-03T00:30Z,2026-02-02,2,Memphis Grizzlies,Minnesota Timberwolves,137,128,True,Final
+401810570,2026-02-03T03:00Z,2026-02-02,2,LA Clippers,Philadelphia 76ers,113,128,True,Final
+401810571,2026-02-04T00:00Z,2026-02-03,2,Detroit Pistons,Denver Nuggets,124,121,True,Final
+401810572,2026-02-04T00:00Z,2026-02-03,2,Indiana Pacers,Utah Jazz,122,131,True,Final
+401810573,2026-02-04T00:00Z,2026-02-03,2,Washington Wizards,New York Knicks,101,132,True,Final
+401810574,2026-02-04T00:30Z,2026-02-03,2,Brooklyn Nets,Los Angeles Lakers,109,125,True,Final
+401810575,2026-02-04T00:30Z,2026-02-03,2,Miami Heat,Atlanta Hawks,115,127,True,Final
+401810576,2026-02-04T01:00Z,2026-02-03,2,Dallas Mavericks,Boston Celtics,100,110,True,Final
+401810577,2026-02-04T01:00Z,2026-02-03,2,Milwaukee Bucks,Chicago Bulls,131,115,True,Final
+401810578,2026-02-04T01:00Z,2026-02-03,2,Oklahoma City Thunder,Orlando Magic,128,92,True,Final
+401810579,2026-02-04T03:00Z,2026-02-03,2,Golden State Warriors,Philadelphia 76ers,94,113,True,Final
+401810580,2026-02-04T04:00Z,2026-02-03,2,Portland Trail Blazers,Phoenix Suns,125,130,True,Final
+401810581,2026-02-05T00:00Z,2026-02-04,2,New York Knicks,Denver Nuggets,134,127,True,Final/2OT
+401810582,2026-02-05T00:30Z,2026-02-04,2,Toronto Raptors,Minnesota Timberwolves,126,128,True,Final
+401810583,2026-02-05T01:00Z,2026-02-04,2,Houston Rockets,Boston Celtics,93,114,True,Final
+401810584,2026-02-05T01:00Z,2026-02-04,2,Milwaukee Bucks,New Orleans Pelicans,141,137,True,Final/OT
+401810585,2026-02-05T02:30Z,2026-02-04,2,San Antonio Spurs,Oklahoma City Thunder,116,106,True,Final
+401810586,2026-02-05T03:00Z,2026-02-04,2,Sacramento Kings,Memphis Grizzlies,125,129,True,Final
+401810587,2026-02-05T03:30Z,2026-02-04,2,LA Clippers,Cleveland Cavaliers,91,124,True,Final
+401810588,2026-02-06T00:00Z,2026-02-05,2,Detroit Pistons,Washington Wizards,117,126,True,Final
+401810589,2026-02-06T00:00Z,2026-02-05,2,Orlando Magic,Brooklyn Nets,118,98,True,Final
+401810590,2026-02-06T00:30Z,2026-02-05,2,Atlanta Hawks,Utah Jazz,121,119,True,Final
+401810591,2026-02-06T00:30Z,2026-02-05,2,Toronto Raptors,Chicago Bulls,123,107,True,Final
+401810592,2026-02-06T01:00Z,2026-02-05,2,Houston Rockets,Charlotte Hornets,99,109,True,Final
+401810593,2026-02-06T01:30Z,2026-02-05,2,Dallas Mavericks,San Antonio Spurs,123,135,True,Final
+401810594,2026-02-06T03:00Z,2026-02-05,2,Phoenix Suns,Golden State Warriors,97,101,True,Final
+401810595,2026-02-06T03:00Z,2026-02-05,2,Los Angeles Lakers,Philadelphia 76ers,119,115,True,Final
+401810596,2026-02-07T00:30Z,2026-02-06,2,Boston Celtics,Miami Heat,98,96,True,Final
+401810597,2026-02-07T00:30Z,2026-02-06,2,Detroit Pistons,New York Knicks,118,80,True,Final
+401810598,2026-02-07T01:00Z,2026-02-06,2,Milwaukee Bucks,Indiana Pacers,105,99,True,Final
+401810599,2026-02-07T01:00Z,2026-02-06,2,Minnesota Timberwolves,New Orleans Pelicans,115,119,True,Final
+401810600,2026-02-07T03:00Z,2026-02-06,2,Portland Trail Blazers,Memphis Grizzlies,135,115,True,Final
+401810601,2026-02-07T03:00Z,2026-02-06,2,Sacramento Kings,LA Clippers,111,114,True,Final
+401810602,2026-02-07T20:00Z,2026-02-07,2,Brooklyn Nets,Washington Wizards,127,113,True,Final
+401810603,2026-02-07T20:30Z,2026-02-07,2,Oklahoma City Thunder,Houston Rockets,106,112,True,Final
+401810604,2026-02-07T23:00Z,2026-02-07,2,San Antonio Spurs,Dallas Mavericks,138,125,True,Final
+401810605,2026-02-08T00:00Z,2026-02-07,2,Orlando Magic,Utah Jazz,120,117,True,Final
+401810606,2026-02-08T00:30Z,2026-02-07,2,Atlanta Hawks,Charlotte Hornets,119,126,True,Final
+401810607,2026-02-08T01:00Z,2026-02-07,2,Chicago Bulls,Denver Nuggets,120,136,True,Final
+401810608,2026-02-08T01:30Z,2026-02-07,2,Los Angeles Lakers,Golden State Warriors,105,99,True,Final
+401810609,2026-02-08T02:00Z,2026-02-07,2,Phoenix Suns,Philadelphia 76ers,103,109,True,Final
+401810610,2026-02-08T03:00Z,2026-02-07,2,Portland Trail Blazers,Memphis Grizzlies,122,115,True,Final
+401810611,2026-02-08T03:00Z,2026-02-07,2,Sacramento Kings,Cleveland Cavaliers,126,132,True,Final
+401810612,2026-02-08T17:30Z,2026-02-08,2,Boston Celtics,New York Knicks,89,111,True,Final
+401810613,2026-02-08T19:00Z,2026-02-08,2,Washington Wizards,Miami Heat,101,132,True,Final
+401810614,2026-02-08T20:00Z,2026-02-08,2,Toronto Raptors,Indiana Pacers,122,104,True,Final
+401810615,2026-02-08T20:00Z,2026-02-08,2,Minnesota Timberwolves,LA Clippers,96,115,True,Final
+401810616,2026-02-10T00:00Z,2026-02-09,2,Charlotte Hornets,Detroit Pistons,104,110,True,Final
+401810617,2026-02-10T00:30Z,2026-02-09,2,Brooklyn Nets,Chicago Bulls,123,115,True,Final
+401810618,2026-02-10T00:30Z,2026-02-09,2,Miami Heat,Utah Jazz,111,115,True,Final
+401810619,2026-02-10T00:30Z,2026-02-09,2,Orlando Magic,Milwaukee Bucks,118,99,True,Final
+401810620,2026-02-10T01:00Z,2026-02-09,2,Minnesota Timberwolves,Atlanta Hawks,138,116,True,Final
+401810621,2026-02-10T01:00Z,2026-02-09,2,New Orleans Pelicans,Sacramento Kings,120,94,True,Final
+401810622,2026-02-10T02:00Z,2026-02-09,2,Denver Nuggets,Cleveland Cavaliers,117,119,True,Final
+401810623,2026-02-10T03:00Z,2026-02-09,2,Golden State Warriors,Memphis Grizzlies,114,113,True,Final
+401810624,2026-02-10T03:00Z,2026-02-09,2,Los Angeles Lakers,Oklahoma City Thunder,110,119,True,Final
+401810625,2026-02-10T03:00Z,2026-02-09,2,Portland Trail Blazers,Philadelphia 76ers,135,118,True,Final
+401810626,2026-02-11T00:30Z,2026-02-10,2,New York Knicks,Indiana Pacers,134,137,True,Final/OT
+401810627,2026-02-11T01:00Z,2026-02-10,2,Houston Rockets,LA Clippers,102,95,True,Final
+401810628,2026-02-11T02:00Z,2026-02-10,2,Phoenix Suns,Dallas Mavericks,120,111,True,Final
+401810629,2026-02-11T03:30Z,2026-02-10,2,Los Angeles Lakers,San Antonio Spurs,108,136,True,Final
+401810630,2026-02-12T00:00Z,2026-02-11,2,Charlotte Hornets,Atlanta Hawks,110,107,True,Final
+401810631,2026-02-12T00:00Z,2026-02-11,2,Cleveland Cavaliers,Washington Wizards,138,113,True,Final
+401810632,2026-02-12T00:00Z,2026-02-11,2,Orlando Magic,Milwaukee Bucks,108,116,True,Final
+401810633,2026-02-12T00:30Z,2026-02-11,2,Boston Celtics,Chicago Bulls,124,105,True,Final
+401810634,2026-02-12T00:30Z,2026-02-11,2,Brooklyn Nets,Indiana Pacers,110,115,True,Final
+401810635,2026-02-12T00:30Z,2026-02-11,2,Philadelphia 76ers,New York Knicks,89,138,True,Final
+401810636,2026-02-12T00:30Z,2026-02-11,2,Toronto Raptors,Detroit Pistons,95,113,True,Final
+401810637,2026-02-12T01:00Z,2026-02-11,2,Houston Rockets,LA Clippers,102,105,True,Final
+401810638,2026-02-12T01:00Z,2026-02-11,2,Minnesota Timberwolves,Portland Trail Blazers,133,109,True,Final
+401810639,2026-02-12T01:00Z,2026-02-11,2,New Orleans Pelicans,Miami Heat,111,123,True,Final
+401810640,2026-02-12T02:00Z,2026-02-11,2,Phoenix Suns,Oklahoma City Thunder,109,136,True,Final
+401810641,2026-02-12T02:00Z,2026-02-11,2,Utah Jazz,Sacramento Kings,121,93,True,Final
+401810642,2026-02-12T02:00Z,2026-02-11,2,Denver Nuggets,Memphis Grizzlies,122,116,True,Final
+401810643,2026-02-12T03:00Z,2026-02-11,2,Golden State Warriors,San Antonio Spurs,113,126,True,Final
+401810644,2026-02-13T00:30Z,2026-02-12,2,Oklahoma City Thunder,Milwaukee Bucks,93,110,True,Final
+401810645,2026-02-13T02:00Z,2026-02-12,2,Utah Jazz,Portland Trail Blazers,119,135,True,Final
+401810646,2026-02-13T03:00Z,2026-02-12,2,Los Angeles Lakers,Dallas Mavericks,124,104,True,Final
+401810647,2026-02-20T00:00Z,2026-02-19,2,Charlotte Hornets,Houston Rockets,101,105,True,Final
+401810648,2026-02-20T00:00Z,2026-02-19,2,Cleveland Cavaliers,Brooklyn Nets,112,84,True,Final
+401810649,2026-02-20T00:00Z,2026-02-19,2,Philadelphia 76ers,Atlanta Hawks,107,117,True,Final
+401810650,2026-02-20T00:00Z,2026-02-19,2,Washington Wizards,Indiana Pacers,112,105,True,Final
+401810651,2026-02-20T00:30Z,2026-02-19,2,New York Knicks,Detroit Pistons,111,126,True,Final
+401810652,2026-02-20T01:00Z,2026-02-19,2,Chicago Bulls,Toronto Raptors,101,110,True,Final
+401810653,2026-02-20T01:30Z,2026-02-19,2,San Antonio Spurs,Phoenix Suns,121,94,True,Final
+401810654,2026-02-20T03:00Z,2026-02-19,2,Golden State Warriors,Boston Celtics,110,121,True,Final
+401810655,2026-02-20T03:00Z,2026-02-19,2,Sacramento Kings,Orlando Magic,94,131,True,Final
+401810656,2026-02-20T03:30Z,2026-02-19,2,LA Clippers,Denver Nuggets,115,114,True,Final
+401810657,2026-02-21T00:00Z,2026-02-20,2,Charlotte Hornets,Cleveland Cavaliers,113,118,True,Final
+401810658,2026-02-21T00:00Z,2026-02-20,2,Washington Wizards,Indiana Pacers,131,118,True,Final
+401810659,2026-02-21T00:00Z,2026-02-20,2,Memphis Grizzlies,Utah Jazz,123,114,True,Final
+401810660,2026-02-21T00:30Z,2026-02-20,2,Atlanta Hawks,Miami Heat,97,128,True,Final
+401810661,2026-02-21T00:30Z,2026-02-20,2,Minnesota Timberwolves,Dallas Mavericks,122,111,True,Final
+401810662,2026-02-21T01:00Z,2026-02-20,2,New Orleans Pelicans,Milwaukee Bucks,118,139,True,Final
+401810663,2026-02-21T01:00Z,2026-02-20,2,Oklahoma City Thunder,Brooklyn Nets,105,86,True,Final
+401810665,2026-02-21T03:00Z,2026-02-20,2,Portland Trail Blazers,Denver Nuggets,103,157,True,Final
+401810664,2026-02-21T03:15Z,2026-02-20,2,Los Angeles Lakers,LA Clippers,125,122,True,Final
+401810666,2026-02-21T22:00Z,2026-02-21,2,Phoenix Suns,Orlando Magic,113,110,True,Final/2OT
+401810667,2026-02-22T00:00Z,2026-02-21,2,New Orleans Pelicans,Philadelphia 76ers,126,111,True,Final
+401810668,2026-02-22T01:00Z,2026-02-21,2,Miami Heat,Memphis Grizzlies,136,120,True,Final
+401810669,2026-02-22T01:00Z,2026-02-21,2,Chicago Bulls,Detroit Pistons,110,126,True,Final
+401810670,2026-02-22T01:00Z,2026-02-21,2,San Antonio Spurs,Sacramento Kings,139,122,True,Final
+401810671,2026-02-22T01:30Z,2026-02-21,2,New York Knicks,Houston Rockets,108,106,True,Final
+401810672,2026-02-22T18:00Z,2026-02-22,2,Oklahoma City Thunder,Cleveland Cavaliers,121,113,True,Final
+401810673,2026-02-22T20:30Z,2026-02-22,2,Atlanta Hawks,Brooklyn Nets,115,104,True,Final
+401810674,2026-02-22T20:30Z,2026-02-22,2,Milwaukee Bucks,Toronto Raptors,94,122,True,Final
+401810675,2026-02-22T20:30Z,2026-02-22,2,Golden State Warriors,Denver Nuggets,128,117,True,Final
+401810676,2026-02-22T22:00Z,2026-02-22,2,Indiana Pacers,Dallas Mavericks,130,134,True,Final
+401810677,2026-02-22T23:00Z,2026-02-22,2,Washington Wizards,Charlotte Hornets,112,129,True,Final
+401810678,2026-02-22T23:30Z,2026-02-22,2,Los Angeles Lakers,Boston Celtics,89,111,True,Final
+401810679,2026-02-23T00:00Z,2026-02-22,2,Minnesota Timberwolves,Philadelphia 76ers,108,135,True,Final
+401810680,2026-02-23T01:00Z,2026-02-22,2,Chicago Bulls,New York Knicks,99,105,True,Final
+401810681,2026-02-23T01:00Z,2026-02-22,2,Phoenix Suns,Portland Trail Blazers,77,92,True,Final
+401810682,2026-02-23T02:00Z,2026-02-22,2,LA Clippers,Orlando Magic,109,111,True,Final
+401810683,2026-02-24T00:00Z,2026-02-23,2,Detroit Pistons,San Antonio Spurs,103,114,True,Final
+401810684,2026-02-24T01:00Z,2026-02-23,2,Memphis Grizzlies,Sacramento Kings,114,123,True,Final
+401810685,2026-02-24T02:30Z,2026-02-23,2,Houston Rockets,Utah Jazz,125,105,True,Final
+401810686,2026-02-25T00:00Z,2026-02-24,2,Indiana Pacers,Philadelphia 76ers,114,135,True,Final
+401810687,2026-02-25T00:30Z,2026-02-24,2,Atlanta Hawks,Washington Wizards,119,98,True,Final
+401810688,2026-02-25T00:30Z,2026-02-24,2,Brooklyn Nets,Dallas Mavericks,114,123,True,Final
+401810689,2026-02-25T00:30Z,2026-02-24,2,Toronto Raptors,Oklahoma City Thunder,107,116,True,Final
+401810690,2026-02-25T00:30Z,2026-02-24,2,Cleveland Cavaliers,New York Knicks,109,94,True,Final
+401810691,2026-02-25T01:00Z,2026-02-24,2,Chicago Bulls,Charlotte Hornets,99,131,True,Final
+401810692,2026-02-25T01:00Z,2026-02-24,2,Milwaukee Bucks,Miami Heat,128,117,True,Final
+401810693,2026-02-25T01:00Z,2026-02-24,2,New Orleans Pelicans,Golden State Warriors,113,109,True,Final
+401810694,2026-02-25T02:00Z,2026-02-24,2,Phoenix Suns,Boston Celtics,81,97,True,Final
+401810696,2026-02-25T03:00Z,2026-02-24,2,Portland Trail Blazers,Minnesota Timberwolves,121,124,True,Final
+401810695,2026-02-25T03:30Z,2026-02-24,2,Los Angeles Lakers,Orlando Magic,109,110,True,Final
+401810697,2026-02-26T00:30Z,2026-02-25,2,Detroit Pistons,Oklahoma City Thunder,124,116,True,Final
+401810698,2026-02-26T00:30Z,2026-02-25,2,Toronto Raptors,San Antonio Spurs,107,110,True,Final
+401810699,2026-02-26T00:30Z,2026-02-25,2,Memphis Grizzlies,Golden State Warriors,112,133,True,Final
+401810700,2026-02-26T01:00Z,2026-02-25,2,Houston Rockets,Sacramento Kings,128,97,True,Final
+401810701,2026-02-26T01:00Z,2026-02-25,2,Milwaukee Bucks,Cleveland Cavaliers,118,116,True,Final
+401810702,2026-02-26T03:00Z,2026-02-25,2,Denver Nuggets,Boston Celtics,103,84,True,Final
+401810703,2026-02-27T00:00Z,2026-02-26,2,Indiana Pacers,Charlotte Hornets,109,133,True,Final
+401810704,2026-02-27T00:00Z,2026-02-26,2,Philadelphia 76ers,Miami Heat,124,117,True,Final
+401810705,2026-02-27T00:30Z,2026-02-26,2,Atlanta Hawks,Washington Wizards,126,96,True,Final
+401810706,2026-02-27T00:30Z,2026-02-26,2,Brooklyn Nets,San Antonio Spurs,110,126,True,Final
+401810707,2026-02-27T00:30Z,2026-02-26,2,Orlando Magic,Houston Rockets,108,113,True,Final
+401810708,2026-02-27T01:00Z,2026-02-26,2,Chicago Bulls,Portland Trail Blazers,112,121,True,Final
+401810709,2026-02-27T01:30Z,2026-02-26,2,Dallas Mavericks,Sacramento Kings,121,130,True,Final
+401810710,2026-02-27T02:00Z,2026-02-26,2,Phoenix Suns,Los Angeles Lakers,113,110,True,Final
+401810711,2026-02-27T02:00Z,2026-02-26,2,Utah Jazz,New Orleans Pelicans,118,129,True,Final
+401810712,2026-02-27T03:00Z,2026-02-26,2,LA Clippers,Minnesota Timberwolves,88,94,True,Final
+401810713,2026-02-28T00:00Z,2026-02-27,2,Detroit Pistons,Cleveland Cavaliers,122,119,True,Final/OT
+401810714,2026-02-28T00:30Z,2026-02-27,2,Boston Celtics,Brooklyn Nets,148,111,True,Final
+401810715,2026-02-28T01:00Z,2026-02-27,2,Milwaukee Bucks,New York Knicks,98,127,True,Final
+401810716,2026-02-28T01:30Z,2026-02-27,2,Dallas Mavericks,Memphis Grizzlies,105,124,True,Final
+401810717,2026-02-28T02:47Z,2026-02-27,2,Oklahoma City Thunder,Denver Nuggets,127,121,True,Final/OT
+401810718,2026-02-28T18:00Z,2026-02-28,2,Charlotte Hornets,Portland Trail Blazers,109,93,True,Final
+401810719,2026-02-28T20:30Z,2026-02-28,2,Miami Heat,Houston Rockets,115,105,True,Final
+401810720,2026-03-01T00:00Z,2026-02-28,2,Washington Wizards,Toronto Raptors,125,134,True,Final
+401810721,2026-03-01T01:30Z,2026-02-28,2,Golden State Warriors,Los Angeles Lakers,101,129,True,Final
+401810722,2026-03-01T02:30Z,2026-02-28,2,Utah Jazz,New Orleans Pelicans,105,115,True,Final
+401810723,2026-03-01T18:00Z,2026-03-01,2,New York Knicks,San Antonio Spurs,114,89,True,Final
+401810724,2026-03-01T20:30Z,2026-03-01,2,Brooklyn Nets,Cleveland Cavaliers,102,106,True,Final
+401810725,2026-03-01T20:30Z,2026-03-01,2,Chicago Bulls,Milwaukee Bucks,120,97,True,Final
+401810726,2026-03-01T20:30Z,2026-03-01,2,Denver Nuggets,Minnesota Timberwolves,108,117,True,Final
+401810727,2026-03-01T22:00Z,2026-03-01,2,Indiana Pacers,Memphis Grizzlies,106,125,True,Final
+401810728,2026-03-01T23:00Z,2026-03-01,2,Atlanta Hawks,Portland Trail Blazers,135,101,True,Final
+401810730,2026-03-01T23:00Z,2026-03-01,2,Orlando Magic,Detroit Pistons,92,106,True,Final
+401810729,2026-03-02T01:00Z,2026-03-01,2,Boston Celtics,Philadelphia 76ers,114,98,True,Final
+401810731,2026-03-02T01:00Z,2026-03-01,2,Dallas Mavericks,Oklahoma City Thunder,87,100,True,Final
+401810732,2026-03-02T02:00Z,2026-03-01,2,LA Clippers,New Orleans Pelicans,137,117,True,Final
+401810733,2026-03-02T02:30Z,2026-03-01,2,Los Angeles Lakers,Sacramento Kings,128,104,True,Final
+401810734,2026-03-03T00:00Z,2026-03-02,2,Washington Wizards,Houston Rockets,118,123,True,Final
+401810735,2026-03-03T00:30Z,2026-03-02,2,Milwaukee Bucks,Boston Celtics,81,108,True,Final
+401810736,2026-03-03T02:00Z,2026-03-02,2,Utah Jazz,Denver Nuggets,125,128,True,Final
+401810737,2026-03-03T03:00Z,2026-03-02,2,Golden State Warriors,LA Clippers,101,114,True,Final
+401810738,2026-03-04T00:00Z,2026-03-03,2,Charlotte Hornets,Dallas Mavericks,117,90,True,Final
+401810739,2026-03-04T00:00Z,2026-03-03,2,Cleveland Cavaliers,Detroit Pistons,113,109,True,Final
+401810740,2026-03-04T00:00Z,2026-03-03,2,Orlando Magic,Washington Wizards,126,109,True,Final
+401810741,2026-03-04T00:30Z,2026-03-03,2,Miami Heat,Brooklyn Nets,124,98,True,Final
+401810742,2026-03-04T00:30Z,2026-03-03,2,Toronto Raptors,New York Knicks,95,111,True,Final
+401810743,2026-03-04T01:00Z,2026-03-03,2,Philadelphia 76ers,San Antonio Spurs,91,131,True,Final
+401810744,2026-03-04T01:00Z,2026-03-03,2,Chicago Bulls,Oklahoma City Thunder,108,116,True,Final
+401810745,2026-03-04T01:00Z,2026-03-03,2,Minnesota Timberwolves,Memphis Grizzlies,117,110,True,Final
+401810746,2026-03-04T03:30Z,2026-03-03,2,Los Angeles Lakers,New Orleans Pelicans,110,101,True,Final
+401810747,2026-03-04T04:00Z,2026-03-03,2,Sacramento Kings,Phoenix Suns,103,114,True,Final
+401810748,2026-03-05T00:00Z,2026-03-04,2,New York Knicks,Oklahoma City Thunder,100,103,True,Final
+401810749,2026-03-05T00:30Z,2026-03-04,2,Boston Celtics,Charlotte Hornets,89,118,True,Final
+401810750,2026-03-05T00:30Z,2026-03-04,2,Philadelphia 76ers,Utah Jazz,106,102,True,Final
+401810751,2026-03-05T01:00Z,2026-03-04,2,Memphis Grizzlies,Portland Trail Blazers,114,122,True,Final
+401810752,2026-03-05T02:30Z,2026-03-04,2,Milwaukee Bucks,Atlanta Hawks,113,131,True,Final
+401810753,2026-03-05T03:30Z,2026-03-04,2,LA Clippers,Indiana Pacers,130,107,True,Final
+401810754,2026-03-06T00:00Z,2026-03-05,2,Orlando Magic,Dallas Mavericks,115,114,True,Final
+401810755,2026-03-06T00:00Z,2026-03-05,2,Washington Wizards,Utah Jazz,112,122,True,Final
+401810756,2026-03-06T00:30Z,2026-03-05,2,Miami Heat,Brooklyn Nets,126,110,True,Final
+401810757,2026-03-06T00:30Z,2026-03-05,2,Houston Rockets,Golden State Warriors,113,115,True,Final/OT
+401810758,2026-03-06T01:00Z,2026-03-05,2,Minnesota Timberwolves,Toronto Raptors,115,107,True,Final
+401810759,2026-03-06T01:00Z,2026-03-05,2,San Antonio Spurs,Detroit Pistons,121,106,True,Final
+401810760,2026-03-06T02:00Z,2026-03-05,2,Phoenix Suns,Chicago Bulls,103,105,True,Final
+401810761,2026-03-06T03:00Z,2026-03-05,2,Denver Nuggets,Los Angeles Lakers,120,113,True,Final
+401810762,2026-03-06T03:00Z,2026-03-05,2,Sacramento Kings,New Orleans Pelicans,123,133,True,Final
+401810763,2026-03-07T00:00Z,2026-03-06,2,Boston Celtics,Dallas Mavericks,120,100,True,Final
+401810764,2026-03-07T00:00Z,2026-03-06,2,Charlotte Hornets,Miami Heat,120,128,True,Final
+401810765,2026-03-07T01:00Z,2026-03-06,2,Houston Rockets,Portland Trail Blazers,106,99,True,Final
+401810766,2026-03-07T02:00Z,2026-03-06,2,Denver Nuggets,New York Knicks,103,142,True,Final
+401810767,2026-03-07T02:00Z,2026-03-06,2,Phoenix Suns,New Orleans Pelicans,118,116,True,Final
+401810768,2026-03-07T02:30Z,2026-03-06,2,San Antonio Spurs,LA Clippers,116,112,True,Final
+401810769,2026-03-07T03:30Z,2026-03-06,2,Los Angeles Lakers,Indiana Pacers,128,117,True,Final
+401810770,2026-03-07T20:00Z,2026-03-07,2,Minnesota Timberwolves,Orlando Magic,92,119,True,Final
+401810771,2026-03-07T23:00Z,2026-03-07,2,Detroit Pistons,Brooklyn Nets,105,107,True,Final
+401810772,2026-03-07T23:00Z,2026-03-07,2,Atlanta Hawks,Philadelphia 76ers,125,116,True,Final
+401810773,2026-03-08T01:00Z,2026-03-07,2,Memphis Grizzlies,LA Clippers,120,123,True,Final
+401810774,2026-03-08T01:00Z,2026-03-07,2,Milwaukee Bucks,Utah Jazz,113,99,True,Final
+401810775,2026-03-08T01:30Z,2026-03-07,2,Oklahoma City Thunder,Golden State Warriors,104,97,True,Final
+401810776,2026-03-08T17:00Z,2026-03-08,2,Cleveland Cavaliers,Boston Celtics,98,109,True,Final
+401810777,2026-03-08T19:30Z,2026-03-08,2,Los Angeles Lakers,New York Knicks,110,97,True,Final
+401810778,2026-03-08T22:00Z,2026-03-08,2,Miami Heat,Detroit Pistons,121,110,True,Final
+401810779,2026-03-08T22:00Z,2026-03-08,2,Toronto Raptors,Dallas Mavericks,122,92,True,Final
+401810780,2026-03-08T23:00Z,2026-03-08,2,New Orleans Pelicans,Washington Wizards,138,118,True,Final
+401810781,2026-03-09T00:00Z,2026-03-08,2,Milwaukee Bucks,Orlando Magic,91,130,True,Final
+401810782,2026-03-09T00:00Z,2026-03-08,2,San Antonio Spurs,Houston Rockets,145,120,True,Final
+401810784,2026-03-09T01:00Z,2026-03-08,2,Portland Trail Blazers,Indiana Pacers,131,111,True,Final
+401810785,2026-03-09T01:00Z,2026-03-08,2,Sacramento Kings,Chicago Bulls,126,110,True,Final
+401810783,2026-03-09T02:00Z,2026-03-08,2,Phoenix Suns,Charlotte Hornets,111,99,True,Final
+401810786,2026-03-09T23:00Z,2026-03-09,2,Cleveland Cavaliers,Philadelphia 76ers,115,101,True,Final
+401810787,2026-03-09T23:30Z,2026-03-09,2,Brooklyn Nets,Memphis Grizzlies,126,115,True,Final
+401810788,2026-03-09T23:30Z,2026-03-09,2,Oklahoma City Thunder,Denver Nuggets,129,126,True,Final
+401810789,2026-03-10T01:00Z,2026-03-09,2,Utah Jazz,Golden State Warriors,119,116,True,Final
+401810790,2026-03-10T02:00Z,2026-03-09,2,LA Clippers,New York Knicks,126,118,True,Final
+401810791,2026-03-10T23:00Z,2026-03-10,2,Philadelphia 76ers,Memphis Grizzlies,139,129,True,Final
+401810792,2026-03-10T23:30Z,2026-03-10,2,Brooklyn Nets,Detroit Pistons,100,138,True,Final
+401810793,2026-03-10T23:30Z,2026-03-10,2,Miami Heat,Washington Wizards,150,129,True,Final
+401810794,2026-03-10T23:30Z,2026-03-10,2,Atlanta Hawks,Dallas Mavericks,124,112,True,Final
+401810795,2026-03-11T00:00Z,2026-03-10,2,Houston Rockets,Toronto Raptors,113,99,True,Final
+401810796,2026-03-11T00:00Z,2026-03-10,2,Milwaukee Bucks,Phoenix Suns,114,129,True,Final
+401810797,2026-03-11T00:00Z,2026-03-10,2,San Antonio Spurs,Boston Celtics,125,116,True,Final
+401810798,2026-03-11T02:00Z,2026-03-10,2,Golden State Warriors,Chicago Bulls,124,130,True,Final/OT
+401810799,2026-03-11T02:00Z,2026-03-10,2,Portland Trail Blazers,Charlotte Hornets,101,103,True,Final
+401810800,2026-03-11T02:00Z,2026-03-10,2,Sacramento Kings,Indiana Pacers,114,109,True,Final
+401810801,2026-03-11T03:00Z,2026-03-10,2,Los Angeles Lakers,Minnesota Timberwolves,120,106,True,Final
+401810802,2026-03-11T23:30Z,2026-03-11,2,Orlando Magic,Cleveland Cavaliers,128,122,True,Final
+401810803,2026-03-12T00:00Z,2026-03-11,2,New Orleans Pelicans,Toronto Raptors,122,111,True,Final
+401810804,2026-03-12T01:00Z,2026-03-11,2,Utah Jazz,New York Knicks,117,134,True,Final
+401810805,2026-03-12T02:00Z,2026-03-11,2,Denver Nuggets,Houston Rockets,129,93,True,Final
+401810806,2026-03-12T02:00Z,2026-03-11,2,Sacramento Kings,Charlotte Hornets,109,117,True,Final
+401810807,2026-03-12T02:30Z,2026-03-11,2,LA Clippers,Minnesota Timberwolves,153,128,True,Final
+401810808,2026-03-12T23:00Z,2026-03-12,2,Detroit Pistons,Philadelphia 76ers,131,109,True,Final
+401810809,2026-03-12T23:00Z,2026-03-12,2,Indiana Pacers,Phoenix Suns,108,123,True,Final
+401810810,2026-03-12T23:00Z,2026-03-12,2,Orlando Magic,Washington Wizards,136,131,True,Final/OT
+401810811,2026-03-12T23:30Z,2026-03-12,2,Atlanta Hawks,Brooklyn Nets,108,97,True,Final
+401810812,2026-03-12T23:30Z,2026-03-12,2,Miami Heat,Milwaukee Bucks,112,105,True,Final
+401810966,2026-03-13T00:00Z,2026-03-12,2,Memphis Grizzlies,Dallas Mavericks,112,120,True,Final
+401810813,2026-03-13T01:00Z,2026-03-12,2,San Antonio Spurs,Denver Nuggets,131,136,True,Final
+401810814,2026-03-13T01:30Z,2026-03-12,2,Oklahoma City Thunder,Boston Celtics,104,102,True,Final
+401810815,2026-03-13T02:30Z,2026-03-12,2,Los Angeles Lakers,Chicago Bulls,142,130,True,Final
+401810816,2026-03-13T23:30Z,2026-03-13,2,Detroit Pistons,Memphis Grizzlies,126,110,True,Final
+401810817,2026-03-13T23:30Z,2026-03-13,2,Indiana Pacers,New York Knicks,92,101,True,Final
+401810818,2026-03-13T23:30Z,2026-03-13,2,Toronto Raptors,Phoenix Suns,122,115,True,Final
+401810820,2026-03-13T23:30Z,2026-03-13,2,Dallas Mavericks,Cleveland Cavaliers,105,138,True,Final
+401810819,2026-03-14T00:00Z,2026-03-13,2,Houston Rockets,New Orleans Pelicans,107,105,True,Final
+401810821,2026-03-14T02:00Z,2026-03-13,2,Golden State Warriors,Minnesota Timberwolves,117,127,True,Final
+401810822,2026-03-14T02:00Z,2026-03-13,2,Portland Trail Blazers,Utah Jazz,124,114,True,Final
+401810823,2026-03-14T02:30Z,2026-03-13,2,LA Clippers,Chicago Bulls,119,108,True,Final
+401810824,2026-03-14T17:00Z,2026-03-14,2,Philadelphia 76ers,Brooklyn Nets,104,97,True,Final
+401810825,2026-03-14T19:00Z,2026-03-14,2,Atlanta Hawks,Milwaukee Bucks,122,99,True,Final
+401810828,2026-03-14T19:30Z,2026-03-14,2,San Antonio Spurs,Charlotte Hornets,115,102,True,Final
+401810826,2026-03-14T22:00Z,2026-03-14,2,Boston Celtics,Washington Wizards,111,100,True,Final
+401810827,2026-03-15T00:00Z,2026-03-14,2,Miami Heat,Orlando Magic,117,121,True,Final
+401810829,2026-03-15T00:30Z,2026-03-14,2,Los Angeles Lakers,Denver Nuggets,127,125,True,Final/OT
+401810830,2026-03-15T02:30Z,2026-03-14,2,LA Clippers,Sacramento Kings,109,118,True,Final
+401810831,2026-03-15T17:00Z,2026-03-15,2,Oklahoma City Thunder,Minnesota Timberwolves,116,103,True,Final
+401810832,2026-03-15T19:30Z,2026-03-15,2,Cleveland Cavaliers,Dallas Mavericks,120,130,True,Final
+401810833,2026-03-15T19:30Z,2026-03-15,2,Toronto Raptors,Detroit Pistons,119,108,True,Final
+401810834,2026-03-15T19:30Z,2026-03-15,2,Milwaukee Bucks,Indiana Pacers,134,123,True,Final
+401810835,2026-03-15T22:00Z,2026-03-15,2,Philadelphia 76ers,Portland Trail Blazers,109,103,True,Final
+401810836,2026-03-16T00:00Z,2026-03-15,2,New York Knicks,Golden State Warriors,110,107,True,Final
+401810837,2026-03-16T02:00Z,2026-03-15,2,Sacramento Kings,Utah Jazz,116,111,True,Final
+401810838,2026-03-16T23:00Z,2026-03-16,2,Atlanta Hawks,Orlando Magic,124,112,True,Final
+401810839,2026-03-16T23:00Z,2026-03-16,2,Washington Wizards,Golden State Warriors,117,125,True,Final
+401810840,2026-03-16T23:30Z,2026-03-16,2,Brooklyn Nets,Portland Trail Blazers,95,114,True,Final
+401810841,2026-03-16T23:30Z,2026-03-16,2,Boston Celtics,Phoenix Suns,120,112,True,Final
+401810842,2026-03-17T00:00Z,2026-03-16,2,Chicago Bulls,Memphis Grizzlies,132,107,True,Final
+401810843,2026-03-17T00:00Z,2026-03-16,2,New Orleans Pelicans,Dallas Mavericks,129,111,True,Final
+401810844,2026-03-17T01:30Z,2026-03-16,2,Houston Rockets,Los Angeles Lakers,92,100,True,Final
+401810845,2026-03-17T02:00Z,2026-03-16,2,LA Clippers,San Antonio Spurs,115,119,True,Final
+401810846,2026-03-17T23:00Z,2026-03-17,2,Charlotte Hornets,Miami Heat,136,106,True,Final
+401810847,2026-03-17T23:00Z,2026-03-17,2,Orlando Magic,Oklahoma City Thunder,108,113,True,Final
+401810848,2026-03-17T23:00Z,2026-03-17,2,Washington Wizards,Detroit Pistons,117,130,True,Final
+401810849,2026-03-17T23:30Z,2026-03-17,2,New York Knicks,Indiana Pacers,136,110,True,Final
+401810850,2026-03-18T00:00Z,2026-03-17,2,Milwaukee Bucks,Cleveland Cavaliers,116,123,True,Final
+401810851,2026-03-18T00:00Z,2026-03-17,2,Minnesota Timberwolves,Phoenix Suns,116,104,True,Final
+401810852,2026-03-18T02:00Z,2026-03-17,2,Denver Nuggets,Philadelphia 76ers,124,96,True,Final
+401810853,2026-03-18T02:00Z,2026-03-17,2,Sacramento Kings,San Antonio Spurs,104,132,True,Final
+401810854,2026-03-18T23:00Z,2026-03-18,2,Boston Celtics,Golden State Warriors,120,99,True,Final
+401810855,2026-03-18T23:30Z,2026-03-18,2,Brooklyn Nets,Oklahoma City Thunder,92,121,True,Final
+401810856,2026-03-18T23:30Z,2026-03-18,2,Indiana Pacers,Portland Trail Blazers,119,127,True,Final
+401810857,2026-03-19T00:00Z,2026-03-18,2,Chicago Bulls,Toronto Raptors,109,139,True,Final
+401810859,2026-03-19T00:00Z,2026-03-18,2,Minnesota Timberwolves,Utah Jazz,147,111,True,Final
+401810860,2026-03-19T00:00Z,2026-03-18,2,New Orleans Pelicans,LA Clippers,124,109,True,Final
+401810861,2026-03-19T00:30Z,2026-03-18,2,Dallas Mavericks,Atlanta Hawks,120,135,True,Final
+401858693,2026-03-19T00:30Z,2026-03-18,2,Memphis Grizzlies,Denver Nuggets,125,118,True,Final
+401810862,2026-03-19T01:30Z,2026-03-18,2,Houston Rockets,Los Angeles Lakers,116,124,True,Final
+401810863,2026-03-19T23:00Z,2026-03-19,2,Charlotte Hornets,Orlando Magic,130,111,True,Final
+401810864,2026-03-19T23:00Z,2026-03-19,2,Washington Wizards,Detroit Pistons,95,117,True,Final
+401810865,2026-03-20T00:00Z,2026-03-19,2,Miami Heat,Los Angeles Lakers,126,134,True,Final
+401810866,2026-03-20T00:00Z,2026-03-19,2,Chicago Bulls,Cleveland Cavaliers,110,115,True,Final
+401810867,2026-03-20T00:00Z,2026-03-19,2,New Orleans Pelicans,LA Clippers,105,99,True,Final
+401810868,2026-03-20T00:00Z,2026-03-19,2,San Antonio Spurs,Phoenix Suns,101,100,True,Final
+401810869,2026-03-20T01:00Z,2026-03-19,2,Utah Jazz,Milwaukee Bucks,128,96,True,Final
+401810870,2026-03-20T02:00Z,2026-03-19,2,Sacramento Kings,Philadelphia 76ers,118,139,True,Final
+401810871,2026-03-20T23:30Z,2026-03-20,2,Brooklyn Nets,New York Knicks,92,93,True,Final
+401810872,2026-03-20T23:30Z,2026-03-20,2,Detroit Pistons,Golden State Warriors,115,101,True,Final
+401810873,2026-03-21T00:00Z,2026-03-20,2,Houston Rockets,Atlanta Hawks,117,95,True,Final
+401810874,2026-03-21T00:00Z,2026-03-20,2,Memphis Grizzlies,Boston Celtics,112,117,True,Final
+401810875,2026-03-21T00:00Z,2026-03-20,2,Minnesota Timberwolves,Portland Trail Blazers,104,108,True,Final
+401810876,2026-03-21T01:00Z,2026-03-20,2,Denver Nuggets,Toronto Raptors,121,115,True,Final
+401810877,2026-03-21T21:00Z,2026-03-21,2,Washington Wizards,Oklahoma City Thunder,111,132,True,Final
+401810878,2026-03-21T23:00Z,2026-03-21,2,Charlotte Hornets,Memphis Grizzlies,124,101,True,Final
+401810879,2026-03-21T23:00Z,2026-03-21,2,Orlando Magic,Los Angeles Lakers,104,105,True,Final
+401810880,2026-03-21T23:00Z,2026-03-21,2,New Orleans Pelicans,Cleveland Cavaliers,106,111,True,Final
+401810881,2026-03-22T00:00Z,2026-03-21,2,Atlanta Hawks,Golden State Warriors,126,110,True,Final
+401810882,2026-03-22T00:00Z,2026-03-21,2,Houston Rockets,Miami Heat,123,122,True,Final
+401810883,2026-03-22T00:00Z,2026-03-21,2,San Antonio Spurs,Indiana Pacers,134,119,True,Final
+401810884,2026-03-22T00:30Z,2026-03-21,2,Dallas Mavericks,LA Clippers,131,138,True,Final/OT
+401810885,2026-03-22T01:30Z,2026-03-21,2,Utah Jazz,Philadelphia 76ers,116,126,True,Final
+401810886,2026-03-22T02:00Z,2026-03-21,2,Phoenix Suns,Milwaukee Bucks,105,108,True,Final
+401810887,2026-03-22T21:00Z,2026-03-22,2,Denver Nuggets,Portland Trail Blazers,128,112,True,Final
+401810888,2026-03-22T22:00Z,2026-03-22,2,Sacramento Kings,Brooklyn Nets,126,122,True,Final
+401810889,2026-03-22T23:30Z,2026-03-22,2,New York Knicks,Washington Wizards,145,113,True,Final
+401810890,2026-03-23T00:00Z,2026-03-22,2,Boston Celtics,Minnesota Timberwolves,92,102,True,Final
+401810891,2026-03-23T01:00Z,2026-03-22,2,Phoenix Suns,Toronto Raptors,120,98,True,Final
+401810893,2026-03-23T23:00Z,2026-03-23,2,Detroit Pistons,Los Angeles Lakers,113,110,True,Final
+401810894,2026-03-23T23:00Z,2026-03-23,2,Orlando Magic,Indiana Pacers,126,128,True,Final
+401810895,2026-03-23T23:00Z,2026-03-23,2,Philadelphia 76ers,Oklahoma City Thunder,103,123,True,Final
+401810896,2026-03-23T23:00Z,2026-03-23,2,Miami Heat,San Antonio Spurs,111,136,True,Final
+401810892,2026-03-23T23:30Z,2026-03-23,2,Atlanta Hawks,Memphis Grizzlies,146,107,True,Final
+401810897,2026-03-24T00:00Z,2026-03-23,2,Chicago Bulls,Houston Rockets,132,124,True,Final
+401810898,2026-03-24T01:00Z,2026-03-23,2,Utah Jazz,Toronto Raptors,127,143,True,Final
+401810899,2026-03-24T01:30Z,2026-03-23,2,Dallas Mavericks,Golden State Warriors,131,137,True,Final/OT
+401810900,2026-03-24T02:00Z,2026-03-23,2,Portland Trail Blazers,Brooklyn Nets,134,99,True,Final
+401810901,2026-03-24T02:30Z,2026-03-23,2,LA Clippers,Milwaukee Bucks,129,96,True,Final
+401810902,2026-03-24T23:00Z,2026-03-24,2,Charlotte Hornets,Sacramento Kings,134,90,True,Final
+401810903,2026-03-24T23:30Z,2026-03-24,2,New York Knicks,New Orleans Pelicans,121,116,True,Final
+401810904,2026-03-25T00:00Z,2026-03-24,2,Cleveland Cavaliers,Orlando Magic,136,131,True,Final
+401810905,2026-03-25T03:00Z,2026-03-24,2,Phoenix Suns,Denver Nuggets,123,125,True,Final
+401810906,2026-03-25T23:00Z,2026-03-25,2,Detroit Pistons,Atlanta Hawks,129,130,True,Final/OT
+401810907,2026-03-25T23:00Z,2026-03-25,2,Indiana Pacers,Los Angeles Lakers,130,137,True,Final
+401810908,2026-03-25T23:00Z,2026-03-25,2,Philadelphia 76ers,Chicago Bulls,157,137,True,Final
+401810909,2026-03-25T23:30Z,2026-03-25,2,Boston Celtics,Oklahoma City Thunder,119,109,True,Final
+401810910,2026-03-25T23:30Z,2026-03-25,2,Cleveland Cavaliers,Miami Heat,103,120,True,Final
+401810911,2026-03-26T00:00Z,2026-03-25,2,Memphis Grizzlies,San Antonio Spurs,98,123,True,Final
+401810912,2026-03-26T01:00Z,2026-03-25,2,Utah Jazz,Washington Wizards,110,133,True,Final
+401810913,2026-03-26T01:42Z,2026-03-25,2,Minnesota Timberwolves,Houston Rockets,110,108,True,Final/OT
+401810914,2026-03-26T02:00Z,2026-03-25,2,Denver Nuggets,Dallas Mavericks,142,135,True,Final
+401810915,2026-03-26T02:00Z,2026-03-25,2,Golden State Warriors,Brooklyn Nets,109,106,True,Final
+401810916,2026-03-26T02:00Z,2026-03-25,2,Portland Trail Blazers,Milwaukee Bucks,130,99,True,Final
+401810917,2026-03-26T02:30Z,2026-03-25,2,LA Clippers,Toronto Raptors,119,94,True,Final
+401810918,2026-03-26T23:00Z,2026-03-26,2,Charlotte Hornets,New York Knicks,114,103,True,Final
+401810919,2026-03-26T23:00Z,2026-03-26,2,Detroit Pistons,New Orleans Pelicans,129,108,True,Final
+401810920,2026-03-26T23:00Z,2026-03-26,2,Orlando Magic,Sacramento Kings,121,117,True,Final
+401810921,2026-03-27T23:00Z,2026-03-27,2,Indiana Pacers,LA Clippers,113,114,True,Final
+401810922,2026-03-27T23:30Z,2026-03-27,2,Boston Celtics,Atlanta Hawks,109,102,True,Final
+401810923,2026-03-27T23:30Z,2026-03-27,2,Cleveland Cavaliers,Miami Heat,149,128,True,Final
+401810924,2026-03-28T00:00Z,2026-03-27,2,Memphis Grizzlies,Houston Rockets,109,119,True,Final
+401810925,2026-03-28T00:00Z,2026-03-27,2,Oklahoma City Thunder,Chicago Bulls,131,113,True,Final
+401810926,2026-03-28T00:30Z,2026-03-27,2,Toronto Raptors,New Orleans Pelicans,119,106,True,Final
+401810927,2026-03-28T01:00Z,2026-03-27,2,Denver Nuggets,Utah Jazz,135,129,True,Final
+401810928,2026-03-28T02:00Z,2026-03-27,2,Golden State Warriors,Washington Wizards,131,126,True,Final
+401810929,2026-03-28T02:00Z,2026-03-27,2,Portland Trail Blazers,Dallas Mavericks,93,100,True,Final
+401810930,2026-03-28T02:30Z,2026-03-27,2,Los Angeles Lakers,Brooklyn Nets,116,99,True,Final
+401810931,2026-03-28T19:00Z,2026-03-28,2,Milwaukee Bucks,San Antonio Spurs,95,127,True,Final
+401810935,2026-03-28T21:30Z,2026-03-28,2,Minnesota Timberwolves,Detroit Pistons,87,109,True,Final
+401810932,2026-03-28T22:00Z,2026-03-28,2,Charlotte Hornets,Philadelphia 76ers,114,118,True,Final
+401810933,2026-03-28T23:30Z,2026-03-28,2,Atlanta Hawks,Sacramento Kings,123,113,True,Final
+401810934,2026-03-29T00:00Z,2026-03-28,2,Memphis Grizzlies,Chicago Bulls,125,124,True,Final
+401810936,2026-03-29T02:00Z,2026-03-28,2,Phoenix Suns,Utah Jazz,134,109,True,Final
+401810937,2026-03-29T19:30Z,2026-03-29,2,Milwaukee Bucks,LA Clippers,113,127,True,Final
+401810938,2026-03-29T21:00Z,2026-03-29,2,Indiana Pacers,Miami Heat,135,118,True,Final
+401810939,2026-03-29T22:00Z,2026-03-29,2,Brooklyn Nets,Sacramento Kings,116,99,True,Final
+401810940,2026-03-29T22:00Z,2026-03-29,2,Charlotte Hornets,Boston Celtics,99,114,True,Final
+401810941,2026-03-29T22:00Z,2026-03-29,2,Toronto Raptors,Orlando Magic,139,87,True,Final
+401810942,2026-03-29T22:00Z,2026-03-29,2,Portland Trail Blazers,Washington Wizards,123,88,True,Final
+401810943,2026-03-29T23:00Z,2026-03-29,2,New Orleans Pelicans,Houston Rockets,102,134,True,Final
+401810944,2026-03-29T23:30Z,2026-03-29,2,Oklahoma City Thunder,New York Knicks,111,100,True,Final
+401810945,2026-03-30T02:00Z,2026-03-29,2,Denver Nuggets,Golden State Warriors,116,93,True,Final
+401810946,2026-03-30T23:00Z,2026-03-30,2,Miami Heat,Philadelphia 76ers,119,109,True,Final
+401810947,2026-03-30T23:30Z,2026-03-30,2,Atlanta Hawks,Boston Celtics,112,102,True,Final
+401810948,2026-03-31T00:00Z,2026-03-30,2,Memphis Grizzlies,Phoenix Suns,105,131,True,Final
+401810949,2026-03-31T00:00Z,2026-03-30,2,San Antonio Spurs,Chicago Bulls,129,114,True,Final
+401810950,2026-03-31T00:30Z,2026-03-30,2,Dallas Mavericks,Minnesota Timberwolves,94,124,True,Final
+401810951,2026-03-31T01:00Z,2026-03-30,2,Utah Jazz,Cleveland Cavaliers,113,122,True,Final
+401810952,2026-03-31T01:30Z,2026-03-30,2,Oklahoma City Thunder,Detroit Pistons,114,110,True,Final/OT
+401810953,2026-03-31T02:00Z,2026-03-30,2,Los Angeles Lakers,Washington Wizards,120,101,True,Final
+401810954,2026-03-31T23:00Z,2026-03-31,2,Orlando Magic,Phoenix Suns,115,111,True,Final
+401810955,2026-03-31T23:30Z,2026-03-31,2,Brooklyn Nets,Charlotte Hornets,86,117,True,Final
+401810956,2026-04-01T00:00Z,2026-03-31,2,Detroit Pistons,Toronto Raptors,127,116,True,Final
+401810957,2026-04-01T00:00Z,2026-03-31,2,Houston Rockets,New York Knicks,111,94,True,Final
+401858694,2026-04-01T00:00Z,2026-03-31,2,Milwaukee Bucks,Dallas Mavericks,123,99,True,Final
+401810958,2026-04-01T02:30Z,2026-03-31,2,Los Angeles Lakers,Cleveland Cavaliers,127,113,True,Final
+401810959,2026-04-01T03:00Z,2026-03-31,2,LA Clippers,Portland Trail Blazers,104,114,True,Final
+401810960,2026-04-01T23:00Z,2026-04-01,2,Washington Wizards,Philadelphia 76ers,131,153,True,Final
+401810962,2026-04-01T23:00Z,2026-04-01,2,Orlando Magic,Atlanta Hawks,101,130,True,Final
+401810961,2026-04-01T23:30Z,2026-04-01,2,Miami Heat,Boston Celtics,129,147,True,Final
+401810858,2026-04-02T00:00Z,2026-04-01,2,Memphis Grizzlies,New York Knicks,119,130,True,Final
+401810963,2026-04-02T00:00Z,2026-04-01,2,Toronto Raptors,Sacramento Kings,115,123,True,Final
+401810964,2026-04-02T00:00Z,2026-04-01,2,Chicago Bulls,Indiana Pacers,126,145,True,Final
+401810965,2026-04-02T00:00Z,2026-04-01,2,Houston Rockets,Milwaukee Bucks,119,113,True,Final
+401810967,2026-04-02T01:00Z,2026-04-01,2,Utah Jazz,Denver Nuggets,117,130,True,Final
+401810968,2026-04-02T02:00Z,2026-04-01,2,Golden State Warriors,San Antonio Spurs,113,127,True,Final
+401810969,2026-04-02T23:00Z,2026-04-02,2,Charlotte Hornets,Phoenix Suns,127,107,True,Final
+401810970,2026-04-02T23:00Z,2026-04-02,2,Detroit Pistons,Minnesota Timberwolves,113,108,True,Final
+401810971,2026-04-03T01:30Z,2026-04-02,2,Oklahoma City Thunder,Los Angeles Lakers,139,96,True,Final
+401810972,2026-04-03T02:00Z,2026-04-02,2,Golden State Warriors,Cleveland Cavaliers,111,118,True,Final
+401810973,2026-04-03T02:00Z,2026-04-02,2,Portland Trail Blazers,New Orleans Pelicans,118,106,True,Final
+401810974,2026-04-03T02:30Z,2026-04-02,2,LA Clippers,San Antonio Spurs,99,118,True,Final
+401810975,2026-04-03T23:00Z,2026-04-03,2,Charlotte Hornets,Indiana Pacers,129,108,True,Final
+401810976,2026-04-03T23:00Z,2026-04-03,2,Philadelphia 76ers,Minnesota Timberwolves,115,103,True,Final
+401810977,2026-04-03T23:30Z,2026-04-03,2,Brooklyn Nets,Atlanta Hawks,107,141,True,Final
+401810978,2026-04-03T23:30Z,2026-04-03,2,New York Knicks,Chicago Bulls,136,96,True,Final
+401810979,2026-04-04T00:00Z,2026-04-03,2,Houston Rockets,Utah Jazz,140,106,True,Final
+401810980,2026-04-04T00:00Z,2026-04-03,2,Memphis Grizzlies,Toronto Raptors,96,128,True,Final
+401810981,2026-04-04T00:00Z,2026-04-03,2,Milwaukee Bucks,Boston Celtics,101,133,True,Final
+401810982,2026-04-04T00:30Z,2026-04-03,2,Dallas Mavericks,Orlando Magic,127,138,True,Final
+401810983,2026-04-04T02:00Z,2026-04-03,2,Sacramento Kings,New Orleans Pelicans,117,113,True,Final
+401810984,2026-04-04T19:00Z,2026-04-04,2,Miami Heat,Washington Wizards,152,136,True,Final
+401810985,2026-04-04T19:00Z,2026-04-04,2,Denver Nuggets,San Antonio Spurs,136,134,True,Final/OT
+401810986,2026-04-04T23:00Z,2026-04-04,2,Philadelphia 76ers,Detroit Pistons,93,116,True,Final
+401810987,2026-04-05T19:30Z,2026-04-05,2,Boston Celtics,Toronto Raptors,115,101,True,Final
+401810988,2026-04-05T19:30Z,2026-04-05,2,Brooklyn Nets,Washington Wizards,121,115,True,Final
+401810989,2026-04-05T19:30Z,2026-04-05,2,Chicago Bulls,Phoenix Suns,110,120,True,Final
+401810990,2026-04-05T19:30Z,2026-04-05,2,Milwaukee Bucks,Memphis Grizzlies,131,115,True,Final
+401810991,2026-04-05T22:00Z,2026-04-05,2,Cleveland Cavaliers,Indiana Pacers,117,108,True,Final
+401810992,2026-04-05T23:00Z,2026-04-05,2,Minnesota Timberwolves,Charlotte Hornets,108,122,True,Final
+401810993,2026-04-05T23:00Z,2026-04-05,2,New Orleans Pelicans,Orlando Magic,108,112,True,Final
+401810994,2026-04-05T23:00Z,2026-04-05,2,Oklahoma City Thunder,Utah Jazz,146,111,True,Final
+401810995,2026-04-05T23:30Z,2026-04-05,2,Dallas Mavericks,Los Angeles Lakers,134,128,True,Final
+401810996,2026-04-06T01:00Z,2026-04-05,2,Sacramento Kings,LA Clippers,109,138,True,Final
+401810997,2026-04-06T02:00Z,2026-04-05,2,Golden State Warriors,Houston Rockets,116,117,True,Final
+401810998,2026-04-06T23:00Z,2026-04-06,2,Atlanta Hawks,New York Knicks,105,108,True,Final
+401810999,2026-04-06T23:00Z,2026-04-06,2,Orlando Magic,Detroit Pistons,123,107,True,Final
+401811000,2026-04-07T00:00Z,2026-04-06,2,Memphis Grizzlies,Cleveland Cavaliers,126,142,True,Final
+401811001,2026-04-07T00:00Z,2026-04-06,2,San Antonio Spurs,Philadelphia 76ers,115,102,True,Final
+401811002,2026-04-07T01:00Z,2026-04-06,2,Denver Nuggets,Portland Trail Blazers,137,132,True,Final/OT
+401811003,2026-04-07T23:00Z,2026-04-07,2,Washington Wizards,Chicago Bulls,98,129,True,Final
+401811007,2026-04-07T23:00Z,2026-04-07,2,Indiana Pacers,Minnesota Timberwolves,104,124,True,Final
+401811005,2026-04-07T23:30Z,2026-04-07,2,Brooklyn Nets,Milwaukee Bucks,96,90,True,Final
+401811006,2026-04-07T23:30Z,2026-04-07,2,Toronto Raptors,Miami Heat,121,95,True,Final
+401811004,2026-04-08T00:00Z,2026-04-07,2,Boston Celtics,Charlotte Hornets,113,102,True,Final
+401811008,2026-04-08T00:00Z,2026-04-07,2,New Orleans Pelicans,Utah Jazz,156,137,True,Final
+401811009,2026-04-08T02:00Z,2026-04-07,2,Golden State Warriors,Sacramento Kings,110,105,True,Final
+401811010,2026-04-08T02:30Z,2026-04-07,2,Los Angeles Lakers,Oklahoma City Thunder,87,123,True,Final
+401811011,2026-04-08T02:30Z,2026-04-07,2,LA Clippers,Dallas Mavericks,116,103,True,Final
+401811012,2026-04-08T03:00Z,2026-04-07,2,Phoenix Suns,Houston Rockets,105,119,True,Final
+401811013,2026-04-08T23:00Z,2026-04-08,2,Cleveland Cavaliers,Atlanta Hawks,122,116,True,Final
+401811014,2026-04-08T23:00Z,2026-04-08,2,Orlando Magic,Minnesota Timberwolves,132,120,True,Final
+401811015,2026-04-08T23:00Z,2026-04-08,2,Detroit Pistons,Milwaukee Bucks,137,111,True,Final
+401811017,2026-04-09T01:00Z,2026-04-08,2,Denver Nuggets,Memphis Grizzlies,136,119,True,Final
+401811016,2026-04-09T01:30Z,2026-04-08,2,San Antonio Spurs,Portland Trail Blazers,112,101,True,Final
+401811018,2026-04-09T02:00Z,2026-04-08,2,LA Clippers,Oklahoma City Thunder,110,128,True,Final
+401811019,2026-04-09T02:00Z,2026-04-08,2,Phoenix Suns,Dallas Mavericks,112,107,True,Final
+401811020,2026-04-09T23:00Z,2026-04-09,2,Toronto Raptors,Miami Heat,128,114,True,Final
+401811021,2026-04-09T23:00Z,2026-04-09,2,Washington Wizards,Chicago Bulls,108,119,True,Final
+401811022,2026-04-09T23:30Z,2026-04-09,2,Brooklyn Nets,Indiana Pacers,94,123,True,Final
+401811023,2026-04-09T23:30Z,2026-04-09,2,New York Knicks,Boston Celtics,112,106,True,Final
+401811024,2026-04-10T00:00Z,2026-04-09,2,Houston Rockets,Philadelphia 76ers,113,102,True,Final
+401811025,2026-04-10T02:00Z,2026-04-09,2,Golden State Warriors,Los Angeles Lakers,103,119,True,Final
+401811026,2026-04-10T23:00Z,2026-04-10,2,Charlotte Hornets,Detroit Pistons,100,118,True,Final
+401811027,2026-04-10T23:00Z,2026-04-10,2,Washington Wizards,Miami Heat,117,140,True,Final
+401811028,2026-04-10T23:00Z,2026-04-10,2,Atlanta Hawks,Cleveland Cavaliers,124,102,True,Final
+401811029,2026-04-10T23:30Z,2026-04-10,2,Boston Celtics,New Orleans Pelicans,144,118,True,Final
+401811030,2026-04-10T23:30Z,2026-04-10,2,Indiana Pacers,Philadelphia 76ers,94,105,True,Final
+401811031,2026-04-10T23:30Z,2026-04-10,2,New York Knicks,Toronto Raptors,112,95,True,Final
+401811032,2026-04-11T00:00Z,2026-04-10,2,Chicago Bulls,Orlando Magic,103,127,True,Final
+401811034,2026-04-11T00:00Z,2026-04-10,2,Milwaukee Bucks,Brooklyn Nets,125,108,True,Final
+401811035,2026-04-11T00:00Z,2026-04-10,2,San Antonio Spurs,Dallas Mavericks,139,120,True,Final
+401811037,2026-04-11T01:00Z,2026-04-10,2,Denver Nuggets,Oklahoma City Thunder,127,107,True,Final
+401811033,2026-04-11T01:30Z,2026-04-10,2,Houston Rockets,Minnesota Timberwolves,132,136,True,Final
+401811036,2026-04-11T01:30Z,2026-04-10,2,Utah Jazz,Memphis Grizzlies,147,101,True,Final
+401811038,2026-04-11T02:00Z,2026-04-10,2,Portland Trail Blazers,LA Clippers,116,97,True,Final
+401811039,2026-04-11T02:00Z,2026-04-10,2,Sacramento Kings,Golden State Warriors,124,118,True,Final
+401811040,2026-04-11T02:30Z,2026-04-10,2,Los Angeles Lakers,Phoenix Suns,101,73,True,Final
+401811041,2026-04-12T22:00Z,2026-04-12,2,Boston Celtics,Orlando Magic,113,108,True,Final
+401811042,2026-04-12T22:00Z,2026-04-12,2,Cleveland Cavaliers,Washington Wizards,130,117,True,Final
+401811043,2026-04-12T22:00Z,2026-04-12,2,Indiana Pacers,Detroit Pistons,121,133,True,Final
+401811044,2026-04-12T22:00Z,2026-04-12,2,Miami Heat,Atlanta Hawks,143,117,True,Final
+401811045,2026-04-12T22:00Z,2026-04-12,2,New York Knicks,Charlotte Hornets,96,110,True,Final
+401811046,2026-04-12T22:00Z,2026-04-12,2,Philadelphia 76ers,Milwaukee Bucks,126,106,True,Final
+401811047,2026-04-12T22:00Z,2026-04-12,2,Toronto Raptors,Brooklyn Nets,136,101,True,Final
+401811048,2026-04-13T00:30Z,2026-04-12,2,Dallas Mavericks,Chicago Bulls,149,128,True,Final
+401811049,2026-04-13T00:30Z,2026-04-12,2,Houston Rockets,Memphis Grizzlies,132,101,True,Final
+401811050,2026-04-13T00:30Z,2026-04-12,2,Minnesota Timberwolves,New Orleans Pelicans,132,126,True,Final
+401811051,2026-04-13T00:30Z,2026-04-12,2,Oklahoma City Thunder,Phoenix Suns,103,135,True,Final
+401811052,2026-04-13T00:30Z,2026-04-12,2,San Antonio Spurs,Denver Nuggets,118,128,True,Final
+401811053,2026-04-13T00:30Z,2026-04-12,2,Los Angeles Lakers,Utah Jazz,131,107,True,Final
+401811054,2026-04-13T00:30Z,2026-04-12,2,LA Clippers,Golden State Warriors,115,110,True,Final
+401811055,2026-04-13T00:30Z,2026-04-12,2,Portland Trail Blazers,Sacramento Kings,122,110,True,Final
+401866755,2026-04-14T23:30Z,2026-04-14,5,Charlotte Hornets,Miami Heat,127,126,True,Final/OT
+401866754,2026-04-15T02:00Z,2026-04-14,5,Phoenix Suns,Portland Trail Blazers,110,114,True,Final
+401866757,2026-04-15T23:30Z,2026-04-15,5,Philadelphia 76ers,Orlando Magic,109,97,True,Final
+401866756,2026-04-16T02:00Z,2026-04-15,5,LA Clippers,Golden State Warriors,121,126,True,Final
+401866758,2026-04-17T23:30Z,2026-04-17,5,Orlando Magic,Charlotte Hornets,121,90,True,Final
+401866759,2026-04-18T02:00Z,2026-04-17,5,Phoenix Suns,Golden State Warriors,111,96,True,Final
+401869187,2026-04-18T17:00Z,2026-04-18,3,Cleveland Cavaliers,Toronto Raptors,126,113,True,Final
+401869188,2026-04-18T19:30Z,2026-04-18,3,Denver Nuggets,Minnesota Timberwolves,116,105,True,Final
+401869189,2026-04-18T22:00Z,2026-04-18,3,New York Knicks,Atlanta Hawks,113,102,True,Final
+401869190,2026-04-19T00:30Z,2026-04-18,3,Los Angeles Lakers,Houston Rockets,107,98,True,Final
+401869191,2026-04-19T17:00Z,2026-04-19,3,Boston Celtics,Philadelphia 76ers,123,91,True,Final
+401869192,2026-04-19T19:30Z,2026-04-19,3,Oklahoma City Thunder,Phoenix Suns,119,84,True,Final
+401869193,2026-04-19T22:30Z,2026-04-19,3,Detroit Pistons,Orlando Magic,101,112,True,Final
+401869194,2026-04-20T01:00Z,2026-04-19,3,San Antonio Spurs,Portland Trail Blazers,111,98,True,Final
+401869369,2026-04-20T23:00Z,2026-04-20,3,Cleveland Cavaliers,Toronto Raptors,115,105,True,Final
+401869387,2026-04-21T00:00Z,2026-04-20,3,New York Knicks,Atlanta Hawks,106,107,True,Final
+401869395,2026-04-21T02:30Z,2026-04-20,3,Denver Nuggets,Minnesota Timberwolves,114,119,True,Final
+401869396,2026-04-21T23:00Z,2026-04-21,3,Boston Celtics,Philadelphia 76ers,97,111,True,Final
+401869378,2026-04-22T00:00Z,2026-04-21,3,San Antonio Spurs,Portland Trail Blazers,103,106,True,Final
+401869397,2026-04-22T02:30Z,2026-04-21,3,Los Angeles Lakers,Houston Rockets,101,94,True,Final
+401869411,2026-04-22T23:00Z,2026-04-22,3,Detroit Pistons,Orlando Magic,98,83,True,Final
+401869368,2026-04-23T01:30Z,2026-04-22,3,Oklahoma City Thunder,Phoenix Suns,120,107,True,Final
+401869389,2026-04-23T23:00Z,2026-04-23,3,Atlanta Hawks,New York Knicks,109,108,True,Final
+401869375,2026-04-24T00:00Z,2026-04-23,3,Toronto Raptors,Cleveland Cavaliers,126,104,True,Final
+401869398,2026-04-24T01:30Z,2026-04-23,3,Minnesota Timberwolves,Denver Nuggets,113,96,True,Final
+401869404,2026-04-24T23:00Z,2026-04-24,3,Philadelphia 76ers,Boston Celtics,100,108,True,Final
+401869400,2026-04-25T00:00Z,2026-04-24,3,Houston Rockets,Los Angeles Lakers,108,112,True,Final/OT
+401869382,2026-04-25T02:30Z,2026-04-24,3,Portland Trail Blazers,San Antonio Spurs,108,120,True,Final
+401869414,2026-04-25T17:00Z,2026-04-25,3,Orlando Magic,Detroit Pistons,113,105,True,Final
+401869370,2026-04-25T19:30Z,2026-04-25,3,Phoenix Suns,Oklahoma City Thunder,109,121,True,Final
+401869391,2026-04-25T22:00Z,2026-04-25,3,Atlanta Hawks,New York Knicks,98,114,True,Final
+401869399,2026-04-26T00:30Z,2026-04-25,3,Minnesota Timberwolves,Denver Nuggets,112,96,True,Final
+401869377,2026-04-26T17:00Z,2026-04-26,3,Toronto Raptors,Cleveland Cavaliers,93,89,True,Final
+401869385,2026-04-26T19:30Z,2026-04-26,3,Portland Trail Blazers,San Antonio Spurs,93,114,True,Final
+401869406,2026-04-26T23:00Z,2026-04-26,3,Philadelphia 76ers,Boston Celtics,96,128,True,Final
+401869405,2026-04-27T01:30Z,2026-04-26,3,Houston Rockets,Los Angeles Lakers,115,96,True,Final
+401869415,2026-04-28T00:00Z,2026-04-27,3,Orlando Magic,Detroit Pistons,94,88,True,Final
+401869373,2026-04-28T01:30Z,2026-04-27,3,Phoenix Suns,Oklahoma City Thunder,122,131,True,Final
+401869401,2026-04-28T02:30Z,2026-04-27,3,Denver Nuggets,Minnesota Timberwolves,125,113,True,Final
+401869408,2026-04-28T23:00Z,2026-04-28,3,Boston Celtics,Philadelphia 76ers,97,113,True,Final
+401869392,2026-04-29T00:00Z,2026-04-28,3,New York Knicks,Atlanta Hawks,126,97,True,Final
+401869386,2026-04-29T01:30Z,2026-04-28,3,San Antonio Spurs,Portland Trail Blazers,114,95,True,Final
+401869416,2026-04-29T23:00Z,2026-04-29,3,Detroit Pistons,Orlando Magic,116,109,True,Final
+401869380,2026-04-29T23:30Z,2026-04-29,3,Cleveland Cavaliers,Toronto Raptors,125,120,True,Final
+401869407,2026-04-30T02:00Z,2026-04-29,3,Los Angeles Lakers,Houston Rockets,93,99,True,Final
+401869393,2026-04-30T23:00Z,2026-04-30,3,Atlanta Hawks,New York Knicks,89,140,True,Final
+401869410,2026-05-01T00:00Z,2026-04-30,3,Philadelphia 76ers,Boston Celtics,106,93,True,Final
+401869402,2026-05-01T01:30Z,2026-04-30,3,Minnesota Timberwolves,Denver Nuggets,110,98,True,Final
+401869417,2026-05-01T23:00Z,2026-05-01,3,Orlando Magic,Detroit Pistons,79,93,True,Final
+401869381,2026-05-01T23:30Z,2026-05-01,3,Toronto Raptors,Cleveland Cavaliers,112,110,True,Final/OT
+401869409,2026-05-02T01:30Z,2026-05-01,3,Houston Rockets,Los Angeles Lakers,78,98,True,Final
+401869412,2026-05-02T23:30Z,2026-05-02,3,Boston Celtics,Philadelphia 76ers,100,109,True,Final
+401869418,2026-05-03T19:30Z,2026-05-03,3,Detroit Pistons,Orlando Magic,116,94,True,Final
+401869384,2026-05-03T23:30Z,2026-05-03,3,Cleveland Cavaliers,Toronto Raptors,114,102,True,Final
+401871159,2026-05-05T00:00Z,2026-05-04,3,New York Knicks,Philadelphia 76ers,137,98,True,Final
+401871152,2026-05-05T01:30Z,2026-05-04,3,San Antonio Spurs,Minnesota Timberwolves,102,104,True,Final
+401871333,2026-05-05T23:00Z,2026-05-05,3,Detroit Pistons,Cleveland Cavaliers,111,101,True,Final
+401871326,2026-05-06T00:30Z,2026-05-05,3,Oklahoma City Thunder,Los Angeles Lakers,108,90,True,Final
+401871160,2026-05-06T23:00Z,2026-05-06,3,New York Knicks,Philadelphia 76ers,108,102,True,Final
+401871153,2026-05-07T01:30Z,2026-05-06,3,San Antonio Spurs,Minnesota Timberwolves,133,95,True,Final
+401871334,2026-05-07T23:00Z,2026-05-07,3,Detroit Pistons,Cleveland Cavaliers,107,97,True,Final
+401871327,2026-05-08T01:30Z,2026-05-07,3,Oklahoma City Thunder,Los Angeles Lakers,125,107,True,Final
+401871161,2026-05-08T23:00Z,2026-05-08,3,Philadelphia 76ers,New York Knicks,94,108,True,Final
+401871154,2026-05-09T01:30Z,2026-05-08,3,Minnesota Timberwolves,San Antonio Spurs,108,115,True,Final
+401871335,2026-05-09T19:00Z,2026-05-09,3,Cleveland Cavaliers,Detroit Pistons,116,109,True,Final
+401871328,2026-05-10T00:30Z,2026-05-09,3,Los Angeles Lakers,Oklahoma City Thunder,108,131,True,Final
+401871162,2026-05-10T19:30Z,2026-05-10,3,Philadelphia 76ers,New York Knicks,114,144,True,Final
+401871155,2026-05-10T23:30Z,2026-05-10,3,Minnesota Timberwolves,San Antonio Spurs,114,109,True,Final
+401871336,2026-05-12T00:00Z,2026-05-11,3,Cleveland Cavaliers,Detroit Pistons,112,103,True,Final
+401871329,2026-05-12T02:30Z,2026-05-11,3,Los Angeles Lakers,Oklahoma City Thunder,110,115,True,Final
+401871156,2026-05-13T00:00Z,2026-05-12,3,San Antonio Spurs,Minnesota Timberwolves,126,97,True,Final
+401871337,2026-05-14T00:00Z,2026-05-13,3,Detroit Pistons,Cleveland Cavaliers,113,117,True,Final/OT
+401871338,2026-05-15T23:00Z,2026-05-15,3,Cleveland Cavaliers,Detroit Pistons,94,115,True,Final
+401871157,2026-05-16T01:30Z,2026-05-15,3,Minnesota Timberwolves,San Antonio Spurs,109,139,True,Final
+401871339,2026-05-18T00:00Z,2026-05-17,3,Detroit Pistons,Cleveland Cavaliers,94,125,True,Final
+401873197,2026-05-19T00:30Z,2026-05-18,3,Oklahoma City Thunder,San Antonio Spurs,115,122,True,Final/2OT
+401873341,2026-05-20T00:00Z,2026-05-19,3,New York Knicks,Cleveland Cavaliers,115,104,True,Final/OT
+401873198,2026-05-21T00:30Z,2026-05-20,3,Oklahoma City Thunder,San Antonio Spurs,122,113,True,Final
+401873342,2026-05-22T00:00Z,2026-05-21,3,New York Knicks,Cleveland Cavaliers,109,93,True,Final
+401873199,2026-05-23T00:30Z,2026-05-22,3,San Antonio Spurs,Oklahoma City Thunder,108,123,True,Final
+401873343,2026-05-24T00:00Z,2026-05-23,3,Cleveland Cavaliers,New York Knicks,108,121,True,Final
+401873200,2026-05-25T00:00Z,2026-05-24,3,San Antonio Spurs,Oklahoma City Thunder,103,82,True,Final
+401873344,2026-05-26T00:00Z,2026-05-25,3,Cleveland Cavaliers,New York Knicks,93,130,True,Final
+401873201,2026-05-27T00:30Z,2026-05-26,3,Oklahoma City Thunder,San Antonio Spurs,127,114,True,Final
+401873202,2026-05-29T00:30Z,2026-05-28,3,San Antonio Spurs,Oklahoma City Thunder,118,91,True,Final
+401873203,2026-05-31T00:00Z,2026-05-30,3,Oklahoma City Thunder,San Antonio Spurs,103,111,True,Final
+401859963,2026-06-04T00:30Z,2026-06-03,3,San Antonio Spurs,New York Knicks,95,105,True,Final
+401859964,2026-06-06T00:30Z,2026-06-05,3,San Antonio Spurs,New York Knicks,104,105,True,Final
+401859965,2026-06-09T00:30Z,2026-06-08,3,New York Knicks,San Antonio Spurs,111,115,True,Final
+401859966,2026-06-11T00:30Z,2026-06-10,3,New York Knicks,San Antonio Spurs,107,106,True,Final
+401859967,2026-06-14T00:30Z,2026-06-13,3,San Antonio Spurs,New York Knicks,90,94,True,Final
