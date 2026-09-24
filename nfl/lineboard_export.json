@@ -1,0 +1,1403 @@
+{
+ "docs": [
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "ATL",
+    "export_hash": "dc0449f968d93bb57766f5e85da16d9aeaa8c3476e04033dfd4ebc8cbe1dddcb",
+    "game_id": "2026_03_ATL_GB",
+    "home_team": "GB",
+    "kickoff_time": "2026-09-25T00:15:00Z",
+    "market": {
+     "moneyline_away": 210,
+     "moneyline_home": -260,
+     "spread_away_odds": -110,
+     "spread_home": -5.5,
+     "spread_home_odds": -110
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.5542330354380504,
+     "winner_side": "GB"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_ATL_GB"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "ATL",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5542330354380504,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "d5191bf2ec6b63a21787a48f2f0307a97bfc5c27e5adb649bc95c2eafb0fb795",
+    "game_id": "2026_03_ATL_GB",
+    "home_team": "GB",
+    "kickoff_time": "2026-09-25T00:15:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": 210,
+     "moneyline_home": -260,
+     "spread_away_odds": -110,
+     "spread_home": -5.5,
+     "spread_home_odds": -110
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "PASS",
+      "side": null
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "SPREAD",
+      "side": "AWAY"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_ATL_GB"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "SEA",
+    "export_hash": "c9dc42b9e01da6730a30fa684bd21f60334e802e993a692b6aa30da5050531b6",
+    "game_id": "2026_03_SEA_WAS",
+    "home_team": "WAS",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": -325,
+     "moneyline_home": 260,
+     "spread_away_odds": -120,
+     "spread_home": 7.0,
+     "spread_home_odds": -105
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.7421369997828733,
+     "winner_side": "SEA"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_SEA_WAS"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "SEA",
+    "decision": {
+     "action": "ML",
+     "prob": 0.7421369997828733,
+     "side": "SEA",
+     "tier": "top25"
+    },
+    "export_hash": "4e55af94b6457acaef00b0a0f014f7aacddd1c04bfb0d99e78c624370a01a783",
+    "game_id": "2026_03_SEA_WAS",
+    "home_team": "WAS",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -325,
+     "moneyline_home": 260,
+     "spread_away_odds": -120,
+     "spread_home": 7.0,
+     "spread_home_odds": -105
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_SEA_WAS"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CIN",
+    "export_hash": "1a6393a1b0b16eb769f080e98d4a80cf59f6882263fc6615eca25ae2eebbe944",
+    "game_id": "2026_03_CIN_PIT",
+    "home_team": "PIT",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": -185,
+     "moneyline_home": 155,
+     "spread_away_odds": -115,
+     "spread_home": 3.5,
+     "spread_home_odds": -105
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.6829942231937971,
+     "winner_side": "CIN"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_CIN_PIT"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CIN",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6829942231937971,
+     "side": "CIN",
+     "tier": "top50"
+    },
+    "export_hash": "ee24279eb2f3e51134d9828ff8061e48c894d9e0d5160091dc554c2e00a33608",
+    "game_id": "2026_03_CIN_PIT",
+    "home_team": "PIT",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -185,
+     "moneyline_home": 155,
+     "spread_away_odds": -115,
+     "spread_home": 3.5,
+     "spread_home_odds": -105
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "AWAY"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_CIN_PIT"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "NYJ",
+    "export_hash": "01a0441a4e39430d382108ee490ae17c3b63ba940dc7697097f6aa1e8296e50f",
+    "game_id": "2026_03_NYJ_DET",
+    "home_team": "DET",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": 250,
+     "moneyline_home": -325,
+     "spread_away_odds": -105,
+     "spread_home": -6.5,
+     "spread_home_odds": -115
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.7804465089004898,
+     "winner_side": "DET"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_NYJ_DET"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "NYJ",
+    "decision": {
+     "action": "ML",
+     "prob": 0.7804465089004898,
+     "side": "DET",
+     "tier": "top25"
+    },
+    "export_hash": "ada26a41907daf998b6cca1dd8f776b33188f751cead4a7c6e2666edb376357c",
+    "game_id": "2026_03_NYJ_DET",
+    "home_team": "DET",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": 250,
+     "moneyline_home": -325,
+     "spread_away_odds": -105,
+     "spread_home": -6.5,
+     "spread_home_odds": -115
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "PASS",
+      "side": null
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_NYJ_DET"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "KC",
+    "export_hash": "6572b5067528b7f2b52ecd8d20371332035e7abee61de510e18a75aeffd94c76",
+    "game_id": "2026_03_KC_MIA",
+    "home_team": "MIA",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": -800,
+     "moneyline_home": 525,
+     "spread_away_odds": -110,
+     "spread_home": 12.5,
+     "spread_home_odds": -110
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.6273754797137937,
+     "winner_side": "KC"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_KC_MIA"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "KC",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.6273754797137937,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "2840edd7afaed37a476f03b4b0b316518eff6369a1e9d235fa6128806e5925af",
+    "game_id": "2026_03_KC_MIA",
+    "home_team": "MIA",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -800,
+     "moneyline_home": 525,
+     "spread_away_odds": -110,
+     "spread_home": 12.5,
+     "spread_home_odds": -110
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_KC_MIA"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "NE",
+    "export_hash": "553e278d777625f471f45a3d5aad6c9123a82ceb6f5cf977e2b691b779250b17",
+    "game_id": "2026_03_NE_JAX",
+    "home_team": "JAX",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": 135,
+     "moneyline_home": -155,
+     "spread_away_odds": -120,
+     "spread_home": -3.0,
+     "spread_home_odds": -110
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.6298273689270547,
+     "winner_side": "JAX"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_NE_JAX"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "NE",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.6298273689270547,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "51a2fed5ac4d1af9a98ba25c13f090d3266176f9cd0f8a43a86eb09f2615f7d1",
+    "game_id": "2026_03_NE_JAX",
+    "home_team": "JAX",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": 135,
+     "moneyline_home": -155,
+     "spread_away_odds": -120,
+     "spread_home": -3.0,
+     "spread_home_odds": -110
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "PASS",
+      "side": null
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_NE_JAX"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "HOU",
+    "export_hash": "227829a555cadeebcf09b4e64a53c7d18b49f55c4a41878a3248f778adf4ff7d",
+    "game_id": "2026_03_HOU_IND",
+    "home_team": "IND",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": -150,
+     "moneyline_home": 130,
+     "spread_away_odds": -120,
+     "spread_home": 2.5,
+     "spread_home_odds": 100
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.610997045295046,
+     "winner_side": "HOU"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_HOU_IND"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "HOU",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.610997045295046,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "09564eba6e1ce6dd962d6cdb03c636f130dd3c4b4b07ffc646291bafd2fffac1",
+    "game_id": "2026_03_HOU_IND",
+    "home_team": "IND",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -150,
+     "moneyline_home": 130,
+     "spread_away_odds": -120,
+     "spread_home": 2.5,
+     "spread_home_odds": 100
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": {
+     "dogPoints": 2.5,
+     "dogTeam": "IND",
+     "strength": "strongest",
+     "tease": 10
+    },
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "SPREAD",
+      "side": "AWAY"
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "AWAY"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_HOU_IND"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CAR",
+    "export_hash": "c0c0c0cd26c4c87ad3728af20338924d929fefad47e3e258fc7ce345bc194fc1",
+    "game_id": "2026_03_CAR_CLE",
+    "home_team": "CLE",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": -155,
+     "moneyline_home": 130,
+     "spread_away_odds": -115,
+     "spread_home": 3.0,
+     "spread_home_odds": -115
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.5258973834653913,
+     "winner_side": "CLE"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_CAR_CLE"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CAR",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5258973834653913,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "c090336e1c35a0afae2a07debd6272a7bdbc6ecf950487f623e7cad12c0674e2",
+    "game_id": "2026_03_CAR_CLE",
+    "home_team": "CLE",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -155,
+     "moneyline_home": 130,
+     "spread_away_odds": -115,
+     "spread_home": 3.0,
+     "spread_home_odds": -115
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "ML",
+      "side": "HOME"
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_CAR_CLE"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "LAC",
+    "export_hash": "ab2007b02da744e40a8f1ed437b921dac83e70af18f8c98c69f6ec16c4ecbaab",
+    "game_id": "2026_03_LAC_BUF",
+    "home_team": "BUF",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": 275,
+     "moneyline_home": -350,
+     "spread_away_odds": -115,
+     "spread_home": -7.5,
+     "spread_home_odds": -105
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.833442223308784,
+     "winner_side": "BUF"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_LAC_BUF"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "LAC",
+    "decision": {
+     "action": "ML",
+     "prob": 0.833442223308784,
+     "side": "BUF",
+     "tier": "top25"
+    },
+    "export_hash": "7e4af694f739b65293cd7a38fac8a78f25fcd89cbbbfd53c612a7e53e5709732",
+    "game_id": "2026_03_LAC_BUF",
+    "home_team": "BUF",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": 275,
+     "moneyline_home": -350,
+     "spread_away_odds": -115,
+     "spread_home": -7.5,
+     "spread_home_odds": -105
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "PASS",
+      "side": null
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_LAC_BUF"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "TEN",
+    "export_hash": "7dd5eeef1416db2fbfee841fcf3b4140c70f71fc23d8364904526e8ef807e199",
+    "game_id": "2026_03_TEN_NYG",
+    "home_team": "NYG",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "market": {
+     "moneyline_away": 130,
+     "moneyline_home": -150,
+     "spread_away_odds": 100,
+     "spread_home": -2.5,
+     "spread_home_odds": -120
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.7365841691501023,
+     "winner_side": "NYG"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_TEN_NYG"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "TEN",
+    "decision": {
+     "action": "ML",
+     "prob": 0.7365841691501023,
+     "side": "NYG",
+     "tier": "top25"
+    },
+    "export_hash": "88978249bc8616bedc6c2562a0a82e5730a8f2fe94fe20d36bca070e610ea36d",
+    "game_id": "2026_03_TEN_NYG",
+    "home_team": "NYG",
+    "kickoff_time": "2026-09-27T17:00:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": 130,
+     "moneyline_home": -150,
+     "spread_away_odds": 100,
+     "spread_home": -2.5,
+     "spread_home_odds": -120
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": {
+     "dogPoints": 2.5,
+     "dogTeam": "TEN",
+     "strength": "strongest",
+     "tease": 10
+    },
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "ML",
+      "side": "HOME"
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_TEN_NYG"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "MIN",
+    "export_hash": "d04feea5d81b8f7f3eea9b5e25431a25ea2411b143fb486acae88a858c3f2b8e",
+    "game_id": "2026_03_MIN_TB",
+    "home_team": "TB",
+    "kickoff_time": "2026-09-27T20:05:00Z",
+    "market": {
+     "moneyline_away": -120,
+     "moneyline_home": 100,
+     "spread_away_odds": -105,
+     "spread_home": 1.5,
+     "spread_home_odds": -115
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.5556918677057474,
+     "winner_side": "MIN"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_MIN_TB"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "MIN",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5556918677057474,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "9074be886d96f36f551950c2f35e29392e939d727668c2c8bf00ba19e3fcca4a",
+    "game_id": "2026_03_MIN_TB",
+    "home_team": "TB",
+    "kickoff_time": "2026-09-27T20:05:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -120,
+     "moneyline_home": 100,
+     "spread_away_odds": -105,
+     "spread_home": 1.5,
+     "spread_home_odds": -115
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": {
+     "dogPoints": 1.5,
+     "dogTeam": "TB",
+     "strength": "marginal",
+     "tease": 6
+    },
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "PASS",
+      "side": null
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "AWAY"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_MIN_TB"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "ARI",
+    "export_hash": "3eaa9e3f29ac585ef19c06a3bb4d0cd6a4e8139f5a8efaccc4b4426eb634d2d7",
+    "game_id": "2026_03_ARI_SF",
+    "home_team": "SF",
+    "kickoff_time": "2026-09-27T20:05:00Z",
+    "market": {
+     "moneyline_away": 325,
+     "moneyline_home": -425,
+     "spread_away_odds": -110,
+     "spread_home": -8.5,
+     "spread_home_odds": -110
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.7930283090806152,
+     "winner_side": "SF"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_ARI_SF"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "ARI",
+    "decision": {
+     "action": "ML",
+     "prob": 0.7930283090806152,
+     "side": "SF",
+     "tier": "top25"
+    },
+    "export_hash": "d3736d6b91fbfc78697cfc184e8cfc3490b778491a818acf13d83f44f9673a85",
+    "game_id": "2026_03_ARI_SF",
+    "home_team": "SF",
+    "kickoff_time": "2026-09-27T20:05:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": 325,
+     "moneyline_home": -425,
+     "spread_away_odds": -110,
+     "spread_home": -8.5,
+     "spread_home_odds": -110
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "SPREAD",
+      "side": "AWAY"
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "SPREAD",
+      "side": "AWAY"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_ARI_SF"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "LV",
+    "export_hash": "142a8066c1e0a4b0cb9bc9eeec6262e8b3a063d4a5542bffe439b4cdf24b5df3",
+    "game_id": "2026_03_LV_NO",
+    "home_team": "NO",
+    "kickoff_time": "2026-09-27T20:25:00Z",
+    "market": {
+     "moneyline_away": 145,
+     "moneyline_home": -175,
+     "spread_away_odds": -110,
+     "spread_home": -3.0,
+     "spread_home_odds": -120
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.728315698007335,
+     "winner_side": "NO"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_LV_NO"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "LV",
+    "decision": {
+     "action": "ML",
+     "prob": 0.728315698007335,
+     "side": "NO",
+     "tier": "top25"
+    },
+    "export_hash": "55165c28cba58e10e83e1d3ca0646e3126d6270e03a3262d227429f0e6fa440f",
+    "game_id": "2026_03_LV_NO",
+    "home_team": "NO",
+    "kickoff_time": "2026-09-27T20:25:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": 145,
+     "moneyline_home": -175,
+     "spread_away_odds": -110,
+     "spread_home": -3.0,
+     "spread_home_odds": -120
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "PASS",
+      "side": null
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "SPREAD",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_LV_NO"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "BAL",
+    "export_hash": "e520163c57fc428fa726e0f3da01cce50f572f6ba702a08c33d748bac84e7c57",
+    "game_id": "2026_03_BAL_DAL",
+    "home_team": "DAL",
+    "kickoff_time": "2026-09-27T20:25:00Z",
+    "market": {
+     "moneyline_away": -185,
+     "moneyline_home": 150,
+     "spread_away_odds": -105,
+     "spread_home": 3.5,
+     "spread_home_odds": -115
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.5038762192651498,
+     "winner_side": "BAL"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_BAL_DAL"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "BAL",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5038762192651498,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "30920101464d6f0fb75669aa2948b59167fbe12a102a1005f4ac0e89918f8d80",
+    "game_id": "2026_03_BAL_DAL",
+    "home_team": "DAL",
+    "kickoff_time": "2026-09-27T20:25:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -185,
+     "moneyline_home": 150,
+     "spread_away_odds": -105,
+     "spread_home": 3.5,
+     "spread_home_odds": -115
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "PASS",
+      "side": null
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "AWAY"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_BAL_DAL"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "LA",
+    "export_hash": "f91e21502445aebf2df69b4ecb04e4e440e7202bb30e9297da101d0e1532e453",
+    "game_id": "2026_03_LA_DEN",
+    "home_team": "DEN",
+    "kickoff_time": "2026-09-28T00:20:00Z",
+    "market": {
+     "moneyline_away": -140,
+     "moneyline_home": 120,
+     "spread_away_odds": -115,
+     "spread_home": 2.5,
+     "spread_home_odds": -105
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.5733386057651415,
+     "winner_side": "LA"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_LA_DEN"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "LA",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5733386057651415,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "e77ef2990dbb148fe1d6de2491a019b05f505c05a3ff3a5c35fc93a66550a3d0",
+    "game_id": "2026_03_LA_DEN",
+    "home_team": "DEN",
+    "kickoff_time": "2026-09-28T00:20:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -140,
+     "moneyline_home": 120,
+     "spread_away_odds": -115,
+     "spread_home": 2.5,
+     "spread_home_odds": -105
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": {
+     "dogPoints": 2.5,
+     "dogTeam": "DEN",
+     "strength": "strongest",
+     "tease": 10
+    },
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "PASS",
+      "side": null
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "AWAY"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "PASS",
+      "side": null
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_LA_DEN"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "PHI",
+    "export_hash": "d90ee4227406a988c17277a8f8c05e64c3db31fff928da60e39911cb9178ef58",
+    "game_id": "2026_03_PHI_CHI",
+    "home_team": "CHI",
+    "kickoff_time": "2026-09-29T00:15:00Z",
+    "market": {
+     "moneyline_away": -230,
+     "moneyline_home": 190,
+     "spread_away_odds": -110,
+     "spread_home": 5.5,
+     "spread_home_odds": -110
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the NFL tracker (Model 1.0, frozen). This lock was made before the spread sign fix (V1.5), so no spread read is shown for it; the moneyline read is unaffected.",
+     "source_snapshot_time": "2026-09-23T16:55:25.380332+00:00",
+     "status": "locked",
+     "winner_prob": 0.5534122216150671,
+     "winner_side": "CHI"
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "week": 3
+   },
+   "doc_id": "2026_03_PHI_CHI"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "PHI",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5534122216150671,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "e53afa3575886b72e0cd4a4b485209441359fd265b82b5ecf29e9377b6f7c067",
+    "game_id": "2026_03_PHI_CHI",
+    "home_team": "CHI",
+    "kickoff_time": "2026-09-29T00:15:00Z",
+    "locked_at": "2026-09-23T16:55:25.380332+00:00",
+    "market_snapshot": {
+     "moneyline_away": -230,
+     "moneyline_home": 190,
+     "spread_away_odds": -110,
+     "spread_home": 5.5,
+     "spread_home_odds": -110
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "NFL",
+    "spread_read": null,
+    "teaser_signal": null,
+    "tracker_deciders": {
+     "NEW_V2_1_CORRECTED_THRESHOLDS": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "OLD_LAB28_43_HYBRID": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "V3_ML_ONLY_TAU019": {
+      "action": "ML",
+      "side": "HOME"
+     },
+     "V4_BEST_PRICE_ML_ONLY_TAU019": {
+      "action": "ML",
+      "side": "HOME"
+     }
+    },
+    "week": 3
+   },
+   "doc_id": "2026_03_PHI_CHI"
+  }
+ ],
+ "generated_at": "2026-09-24T23:53:39.988847Z",
+ "n_docs": 32,
+ "sport": "NFL"
+}
