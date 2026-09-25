@@ -1,0 +1,1416 @@
+{
+ "docs": [
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "MIN",
+    "export_hash": "3b56363e80d0b5e02b9bcb505434aead91964c2fdd223e4505a53a2441b55734",
+    "game_date": "2026-09-23",
+    "game_id": "SFN202609230",
+    "home_team": "SF",
+    "kickoff_time": "2026-09-23T19:46:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -144,
+     "moneyline_home": 138
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Connor Prielipp vs Cesar Perdomo. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "status": "locked",
+     "winner_prob": 0.5109266159991249,
+     "winner_side": "SF"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "SFN202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "MIN",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5109266159991249,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "830fb3a86ee051f515e0ebeeed672ab4b0c5b51284bd51de7c0028ab85410c8d",
+    "game_date": "2026-09-23",
+    "game_id": "SFN202609230",
+    "home_team": "SF",
+    "kickoff_time": "2026-09-23T19:46:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": -144,
+     "moneyline_home": 138
+    },
+    "outcome": {
+     "away_score": 4,
+     "decision_correct": null,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 2,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "SFN202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "MIL",
+    "export_hash": "afabadd93750a4c06d540ba41e8dd02e4daaa6973ccf0550be5285eb317a2266",
+    "game_date": "2026-09-23",
+    "game_id": "PHI202609230",
+    "home_team": "PHI",
+    "kickoff_time": "2026-09-23T22:41:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -122,
+     "moneyline_home": 113,
+     "spread_away_odds": 144.0,
+     "spread_home": 1.5,
+     "spread_home_odds": -150.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Logan Henderson vs Aaron Nola. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.7289300076741381,
+     "spread_side": "MIL +1.5",
+     "spread_side_team": "MIL",
+     "status": "locked",
+     "winner_prob": 0.55796774630309,
+     "winner_side": "MIL"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "PHI202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "MIL",
+    "decision": {
+     "action": "ML",
+     "prob": 0.55796774630309,
+     "side": "MIL",
+     "tier": "top50"
+    },
+    "export_hash": "2c95ba100907fd35c24835f61d7f87207779c81c373c9784d4a2eb6818504cd3",
+    "game_date": "2026-09-23",
+    "game_id": "PHI202609230",
+    "home_team": "PHI",
+    "kickoff_time": "2026-09-23T22:41:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": -122,
+     "moneyline_home": 113
+    },
+    "outcome": {
+     "away_score": 4,
+     "decision_correct": true,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 1,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": true,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.7289300076741381,
+     "side": "MIL +1.5",
+     "tier": "top25"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "PHI202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "STL",
+    "export_hash": "4a01fc3b9dd2c635ba6a21c722e110c41a8ea9cad8725ce79a667a50fca5c3fd",
+    "game_date": "2026-09-23",
+    "game_id": "PIT202609230",
+    "home_team": "PIT",
+    "kickoff_time": "2026-09-23T22:41:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 127,
+     "moneyline_home": -133,
+     "spread_away_odds": -178.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 170.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Matthew Liberatore vs Lake Bachar. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.6032717703696584,
+     "spread_side": "STL +1.5",
+     "spread_side_team": "STL",
+     "status": "locked",
+     "winner_prob": 0.578818011335355,
+     "winner_side": "PIT"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "PIT202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "STL",
+    "decision": {
+     "action": "ML",
+     "prob": 0.578818011335355,
+     "side": "PIT",
+     "tier": "top50"
+    },
+    "export_hash": "59b7e5b97871f39d61bc5fb7e9562597d937fbb155f469524825c90f8978fa2a",
+    "game_date": "2026-09-23",
+    "game_id": "PIT202609230",
+    "home_team": "PIT",
+    "kickoff_time": "2026-09-23T22:41:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 127,
+     "moneyline_home": -133
+    },
+    "outcome": {
+     "away_score": 5,
+     "decision_correct": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 1,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "PIT202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "TB",
+    "export_hash": "f126f44c6fce18a5de4accdf5898cce59da7d9e394abb981456672742186d5b1",
+    "game_date": "2026-09-23",
+    "game_id": "NYA202609230",
+    "home_team": "NYY",
+    "kickoff_time": "2026-09-23T23:06:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 122,
+     "moneyline_home": -127,
+     "spread_away_odds": -186.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 178.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Mason Englert vs Gerrit Cole. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.6736122215790268,
+     "spread_side": "TB +1.5",
+     "spread_side_team": "TB",
+     "status": "locked",
+     "winner_prob": 0.5020088065885134,
+     "winner_side": "TB"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "NYA202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "TB",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5020088065885134,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "ed88fbf6a6d5f2530f6f1d6e9fb85f27e7b6a1bb5dfbf10a5da7fd0e9a7238c0",
+    "game_date": "2026-09-23",
+    "game_id": "NYA202609230",
+    "home_team": "NYY",
+    "kickoff_time": "2026-09-23T23:06:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 122,
+     "moneyline_home": -127
+    },
+    "outcome": {
+     "away_score": 2,
+     "decision_correct": null,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 9,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": false,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6736122215790268,
+     "side": "TB +1.5",
+     "tier": "top50"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "NYA202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CLE",
+    "export_hash": "fd96cdcb9180bbbb85c9dea0f09c0939b44e52f4e2fc7222b0bad79c28b9c201",
+    "game_date": "2026-09-23",
+    "game_id": "BOS202609230",
+    "home_team": "BOS",
+    "kickoff_time": "2026-09-23T23:11:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 122,
+     "moneyline_home": -127,
+     "spread_away_odds": -186.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 178.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Foster Griffin vs Sonny Gray. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.6340765211904433,
+     "spread_side": "CLE +1.5",
+     "spread_side_team": "CLE",
+     "status": "locked",
+     "winner_prob": 0.548026932838463,
+     "winner_side": "BOS"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "BOS202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CLE",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.548026932838463,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "7886e4ea403595f364f7d9fd0a2ea135659eeedaed56087dd9024bfdedbe57d0",
+    "game_date": "2026-09-23",
+    "game_id": "BOS202609230",
+    "home_team": "BOS",
+    "kickoff_time": "2026-09-23T23:11:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 122,
+     "moneyline_home": -127
+    },
+    "outcome": {
+     "away_score": 0,
+     "decision_correct": null,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 1,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "BOS202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CIN",
+    "export_hash": "7df627ec906a77592d2b191601b42e3dd2f4be191dcfdb246bfa6f9a6939e6b7",
+    "game_date": "2026-09-23",
+    "game_id": "ATL202609230",
+    "home_team": "ATL",
+    "kickoff_time": "2026-09-23T23:16:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 233,
+     "moneyline_home": -245,
+     "spread_away_odds": 104.0,
+     "spread_home": -1.5,
+     "spread_home_odds": -108.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Andrew Abbott vs Chris Sale. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.5097678434527037,
+     "spread_side": "ATL -1.5",
+     "spread_side_team": "ATL",
+     "status": "locked",
+     "winner_prob": 0.68296316712672,
+     "winner_side": "ATL"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "ATL202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CIN",
+    "decision": {
+     "action": "ML",
+     "prob": 0.68296316712672,
+     "side": "ATL",
+     "tier": "top25"
+    },
+    "export_hash": "9d1a44cc942282cf549db962901d0e18fd4c2b3d8f9fcfcf713f734c6226b678",
+    "game_date": "2026-09-23",
+    "game_id": "ATL202609230",
+    "home_team": "ATL",
+    "kickoff_time": "2026-09-23T23:16:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 233,
+     "moneyline_home": -245
+    },
+    "outcome": {
+     "away_score": 2,
+     "decision_correct": true,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 3,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "ATL202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CHW",
+    "export_hash": "25ce0037b08a91640fbb52da6ad8f76c25b8270fcf29fcfb47f3b37c70161bba",
+    "game_date": "2026-09-23",
+    "game_id": "KCA202609230",
+    "home_team": "KC",
+    "kickoff_time": "2026-09-23T23:41:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -113,
+     "moneyline_home": 108,
+     "spread_away_odds": 150.0,
+     "spread_home": 1.5,
+     "spread_home_odds": -156.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Bryan Hudson vs Seth Lugo. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.6957155335935534,
+     "spread_side": "CHW +1.5",
+     "spread_side_team": "CHW",
+     "status": "locked",
+     "winner_prob": 0.5306173560547112,
+     "winner_side": "CHW"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "KCA202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CHW",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5306173560547112,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "f32c004854c3016a18b19144e7867c07944644c9a89003cc73dfb213ec1b1abc",
+    "game_date": "2026-09-23",
+    "game_id": "KCA202609230",
+    "home_team": "KC",
+    "kickoff_time": "2026-09-23T23:41:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": -113,
+     "moneyline_home": 108
+    },
+    "outcome": {
+     "away_score": 4,
+     "decision_correct": null,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 5,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": true,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6957155335935534,
+     "side": "CHW +1.5",
+     "tier": "top25"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "KCA202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "MIA",
+    "export_hash": "16bdf9187cb4b339481a13a0f7acf204b766d19699033a5814d285c939e92280",
+    "game_date": "2026-09-23",
+    "game_id": "CHN202609230",
+    "home_team": "CHC",
+    "kickoff_time": "2026-09-23T23:41:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 156,
+     "moneyline_home": -163,
+     "spread_away_odds": -138.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 133.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Ryan Gusto vs Kevin Gausman. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.5455607286839554,
+     "spread_side": "MIA +1.5",
+     "spread_side_team": "MIA",
+     "status": "locked",
+     "winner_prob": 0.6196563821002825,
+     "winner_side": "CHC"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "CHN202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "MIA",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6196563821002825,
+     "side": "CHC",
+     "tier": "top25"
+    },
+    "export_hash": "3c891cbc4da2d760bf30334868549192c8d53173343fa53e1a4a9d197303e604",
+    "game_date": "2026-09-23",
+    "game_id": "CHN202609230",
+    "home_team": "CHC",
+    "kickoff_time": "2026-09-23T23:41:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 156,
+     "moneyline_home": -163
+    },
+    "outcome": {
+     "away_score": 3,
+     "decision_correct": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 2,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "CHN202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "NYM",
+    "export_hash": "dc58e5bac6541e5c14c99e8b97ed12ab33d941a9ec782eb9000ee656ff365af9",
+    "game_date": "2026-09-23",
+    "game_id": "TEX202609230",
+    "home_team": "TEX",
+    "kickoff_time": "2026-09-24T00:06:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -104,
+     "moneyline_home": 100,
+     "spread_away_odds": 163.0,
+     "spread_home": 1.5,
+     "spread_home_odds": -170.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Nolan McLean vs Cody Bradford. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.6582369332715876,
+     "spread_side": "NYM +1.5",
+     "spread_side_team": "NYM",
+     "status": "locked",
+     "winner_prob": 0.5062628708420017,
+     "winner_side": "TEX"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "TEX202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "NYM",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5062628708420017,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "2358c6292f6334ec52e29369a7eb7a27d81326fb94394a587d109ee4377f72fe",
+    "game_date": "2026-09-23",
+    "game_id": "TEX202609230",
+    "home_team": "TEX",
+    "kickoff_time": "2026-09-24T00:06:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": -104,
+     "moneyline_home": 100
+    },
+    "outcome": {
+     "away_score": 7,
+     "decision_correct": null,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 2,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": true,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6582369332715876,
+     "side": "NYM +1.5",
+     "tier": "top50"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "TEX202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "ARI",
+    "export_hash": "ef826eac5c75651b34ac17b8dfd0f45dbe495be25dd02de52afc9795f5c54154",
+    "game_date": "2026-09-23",
+    "game_id": "COL202609230",
+    "home_team": "COL",
+    "kickoff_time": "2026-09-24T00:41:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -150,
+     "moneyline_home": 144,
+     "spread_away_odds": 100.0,
+     "spread_home": 1.5,
+     "spread_home_odds": -104.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Merrill Kelly vs Mason Adams. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.697893959432059,
+     "spread_side": "ARI +1.5",
+     "spread_side_team": "ARI",
+     "status": "locked",
+     "winner_prob": 0.542746132683622,
+     "winner_side": "ARI"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "COL202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "ARI",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.542746132683622,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "78765d491851b7b3d507025e45cde030b3bda759447dfc86f728b34b95c5fb29",
+    "game_date": "2026-09-23",
+    "game_id": "COL202609230",
+    "home_team": "COL",
+    "kickoff_time": "2026-09-24T00:41:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": -150,
+     "moneyline_home": 144
+    },
+    "outcome": {
+     "away_score": 5,
+     "decision_correct": null,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 3,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": true,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.697893959432059,
+     "side": "ARI +1.5",
+     "tier": "top25"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "COL202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "LAA",
+    "export_hash": "7cf0809c082c10192c4397e5a59cb072c79373d3340072908983ffd613fb292f",
+    "game_date": "2026-09-23",
+    "game_id": "ATH202609230",
+    "home_team": "ATH",
+    "kickoff_time": "2026-09-24T01:41:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -122,
+     "moneyline_home": 117,
+     "spread_away_odds": 127.0,
+     "spread_home": 1.5,
+     "spread_home_odds": -133.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Walbert Ure\u00f1a vs Jeffrey Springs. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.6923080081153781,
+     "spread_side": "LAA +1.5",
+     "spread_side_team": "LAA",
+     "status": "locked",
+     "winner_prob": 0.5236013954776568,
+     "winner_side": "LAA"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "ATH202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "LAA",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5236013954776568,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "427a53bb52b4afe4c4b366cee6a9a510ee0422d7d908880b4273a7cc055de778",
+    "game_date": "2026-09-23",
+    "game_id": "ATH202609230",
+    "home_team": "ATH",
+    "kickoff_time": "2026-09-24T01:41:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": -122,
+     "moneyline_home": 117
+    },
+    "outcome": {
+     "away_score": 3,
+     "decision_correct": null,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 7,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": false,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6923080081153781,
+     "side": "LAA +1.5",
+     "tier": "top25"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "ATH202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "HOU",
+    "export_hash": "85ac39db0edd385e0183230442d234cc40f9136e8bdf113cdbe0056be2fa39b6",
+    "game_date": "2026-09-23",
+    "game_id": "SEA202609230",
+    "home_team": "SEA",
+    "kickoff_time": "2026-09-24T02:11:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 113,
+     "moneyline_home": -117,
+     "spread_away_odds": -186.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 178.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Ethan Pecko vs George Kirby. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.5701553111416795,
+     "spread_side": "HOU +1.5",
+     "spread_side_team": "HOU",
+     "status": "locked",
+     "winner_prob": 0.6023369057438884,
+     "winner_side": "SEA"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "SEA202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "HOU",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6023369057438884,
+     "side": "SEA",
+     "tier": "top25"
+    },
+    "export_hash": "9994e662b8940550937fb9a6bf5f21d6c554775bb6e659ca4116a65ff92ba9db",
+    "game_date": "2026-09-23",
+    "game_id": "SEA202609230",
+    "home_team": "SEA",
+    "kickoff_time": "2026-09-24T02:11:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 113,
+     "moneyline_home": -117
+    },
+    "outcome": {
+     "away_score": 5,
+     "decision_correct": true,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 6,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "SEA202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "SD",
+    "export_hash": "1fe32fcab948dfb3ec31f6d438fd7cfc6f0b50c1a69d8ef63dcbb879ca301180",
+    "game_date": "2026-09-23",
+    "game_id": "LAN202609230",
+    "home_team": "LAD",
+    "kickoff_time": "2026-09-24T02:11:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 194,
+     "moneyline_home": -203,
+     "spread_away_odds": -108.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 104.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE). Probable starters Robbie Ray vs Yoshinobu Yamamoto. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-23T17:45:47.979211+00:00",
+     "spread_prob": 0.5223725395582974,
+     "spread_side": "SD +1.5",
+     "spread_side_team": "SD",
+     "status": "locked",
+     "winner_prob": 0.6491934038445056,
+     "winner_side": "LAD"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "LAN202609230"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "SD",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6491934038445056,
+     "side": "LAD",
+     "tier": "top25"
+    },
+    "export_hash": "1553dd2df75eb1a53476df12621144df20f27e6c53b262840b99daaf96a51fc8",
+    "game_date": "2026-09-23",
+    "game_id": "LAN202609230",
+    "home_team": "LAD",
+    "kickoff_time": "2026-09-24T02:11:00Z",
+    "locked_at": "2026-09-23T17:45:47.979211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 194,
+     "moneyline_home": -203
+    },
+    "outcome": {
+     "away_score": 5,
+     "decision_correct": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 1,
+     "resolved": true,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "LAN202609230"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "MIL",
+    "export_hash": "7a6d59f743b48b07c0c3ad8bcd2042fddf1b6193cf323a43db94dbe9c1e2c22a",
+    "game_date": "2026-09-24",
+    "game_id": "PHI202609240",
+    "home_team": "PHI",
+    "kickoff_time": "2026-09-24T22:06:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 117,
+     "moneyline_home": -122,
+     "spread_away_odds": -178.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 170.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Shane Drohan vs Andrew Painter. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-24T21:56:41.368211+00:00",
+     "spread_prob": 0.6667174732706871,
+     "spread_side": "MIL +1.5",
+     "spread_side_team": "MIL",
+     "status": "locked",
+     "winner_prob": 0.5026443761112596,
+     "winner_side": "MIL"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "PHI202609240"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "MIL",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5026443761112596,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "449c299f1ae75c771bff093d7f89c75303aa80d0ffaef788b915cac81bc959a2",
+    "game_date": "2026-09-24",
+    "game_id": "PHI202609240",
+    "home_team": "PHI",
+    "kickoff_time": "2026-09-24T22:06:00Z",
+    "locked_at": "2026-09-24T21:56:41.368211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 117,
+     "moneyline_home": -122
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6667174732706871,
+     "side": "MIL +1.5",
+     "tier": "top50"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "PHI202609240"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "TB",
+    "export_hash": "440edce9e3272d3fa034db65aa3b1d84dc11e4e9a0e2d48fee314643ac6995ed",
+    "game_date": "2026-09-24",
+    "game_id": "NYA202609240",
+    "home_team": "NYY",
+    "kickoff_time": "2026-09-24T23:06:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 133,
+     "moneyline_home": -138
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Ian Seymour vs Cam Schlittler. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-24T21:56:41.368211+00:00",
+     "status": "locked",
+     "winner_prob": 0.5240003062098573,
+     "winner_side": "NYY"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "NYA202609240"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "TB",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5240003062098573,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "b6634ec4e56302449eb83c8af3a283c0a9a1f81c6a11a3e13ac0672c979061fa",
+    "game_date": "2026-09-24",
+    "game_id": "NYA202609240",
+    "home_team": "NYY",
+    "kickoff_time": "2026-09-24T23:06:00Z",
+    "locked_at": "2026-09-24T21:56:41.368211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 133,
+     "moneyline_home": -138
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "NYA202609240"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CIN",
+    "export_hash": "ab6e11d1509ba7545bfaecad000129623bdc9f3f00cb7448ac773efe84536726",
+    "game_date": "2026-09-24",
+    "game_id": "ATL202609240",
+    "home_team": "ATL",
+    "kickoff_time": "2026-09-24T23:16:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 212,
+     "moneyline_home": -223
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Brady Singer vs Tyler Mahle. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-24T21:56:41.368211+00:00",
+     "status": "locked",
+     "winner_prob": 0.6897453750992792,
+     "winner_side": "ATL"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "ATL202609240"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CIN",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6897453750992792,
+     "side": "ATL",
+     "tier": "top25"
+    },
+    "export_hash": "593ff4493956ea06fec0b1d37f9c39cab2a1c44c279c76d1b8f3084cbc649024",
+    "game_date": "2026-09-24",
+    "game_id": "ATL202609240",
+    "home_team": "ATL",
+    "kickoff_time": "2026-09-24T23:16:00Z",
+    "locked_at": "2026-09-24T21:56:41.368211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 212,
+     "moneyline_home": -223
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "ATL202609240"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "LAA",
+    "export_hash": "f004c2c42766ddc38cf53507bd1d58283f10d77a35385b9531a0d8d1b7842c40",
+    "game_date": "2026-09-24",
+    "game_id": "SEA202609240",
+    "home_team": "SEA",
+    "kickoff_time": "2026-09-25T01:41:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 170,
+     "moneyline_home": -178,
+     "spread_away_odds": -122.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 117.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Grayson Rodriguez vs Bryan Woo. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-24T21:56:41.368211+00:00",
+     "spread_prob": 0.5770378176895564,
+     "spread_side": "LAA +1.5",
+     "spread_side_team": "LAA",
+     "status": "locked",
+     "winner_prob": 0.6058702430219273,
+     "winner_side": "SEA"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "SEA202609240"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "LAA",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6058702430219273,
+     "side": "SEA",
+     "tier": "top25"
+    },
+    "export_hash": "c5f99cda6f8c73bc060bc6af8faebe233cea62c24e3464b647d3de3d152045d6",
+    "game_date": "2026-09-24",
+    "game_id": "SEA202609240",
+    "home_team": "SEA",
+    "kickoff_time": "2026-09-25T01:41:00Z",
+    "locked_at": "2026-09-24T21:56:41.368211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 170,
+     "moneyline_home": -178
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "SEA202609240"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "HOU",
+    "export_hash": "762d08d934d897976b8b9fee9700920dec26245b26a7ea179f833348f256e86d",
+    "game_date": "2026-09-24",
+    "game_id": "ATH202609240",
+    "home_team": "ATH",
+    "kickoff_time": "2026-09-25T01:41:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -163,
+     "moneyline_home": 156,
+     "spread_away_odds": -104.0,
+     "spread_home": 1.5,
+     "spread_home_odds": 100.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Peter Lambert vs Mason Barnett. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-24T21:56:41.368211+00:00",
+     "spread_prob": 0.6902911474145148,
+     "spread_side": "HOU +1.5",
+     "spread_side_team": "HOU",
+     "status": "locked",
+     "winner_prob": 0.5344212193392259,
+     "winner_side": "HOU"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "ATH202609240"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "HOU",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5344212193392259,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "26e5b89f736901639a5b290fabe85cc5590a8761c58c717fcd79d291851baa35",
+    "game_date": "2026-09-24",
+    "game_id": "ATH202609240",
+    "home_team": "ATH",
+    "kickoff_time": "2026-09-25T01:41:00Z",
+    "locked_at": "2026-09-24T21:56:41.368211+00:00",
+    "market_snapshot": {
+     "moneyline_away": -163,
+     "moneyline_home": 156
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6902911474145148,
+     "side": "HOU +1.5",
+     "tier": "top25"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "ATH202609240"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "SD",
+    "export_hash": "1a54f3c2db9a59f15342483900c5d7dfd3adc17923ff2a024c058c0ab7ee2f73",
+    "game_date": "2026-09-24",
+    "game_id": "LAN202609240",
+    "home_team": "LAD",
+    "kickoff_time": "2026-09-25T02:11:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 156,
+     "moneyline_home": -163
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Nick Pivetta vs Tyler Glasnow. Odds from Kalshi (n_books_used=1).",
+     "source_snapshot_time": "2026-09-24T21:56:41.368211+00:00",
+     "status": "locked",
+     "winner_prob": 0.5486672045761559,
+     "winner_side": "LAD"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-09-25T00:22:09.278143Z"
+   },
+   "doc_id": "LAN202609240"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "SD",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5486672045761559,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "4e69040b68bc1e8ff6d3b528bb17c335fdb6c7e54696e74f95debf69b4a47900",
+    "game_date": "2026-09-24",
+    "game_id": "LAN202609240",
+    "home_team": "LAD",
+    "kickoff_time": "2026-09-25T02:11:00Z",
+    "locked_at": "2026-09-24T21:56:41.368211+00:00",
+    "market_snapshot": {
+     "moneyline_away": 156,
+     "moneyline_home": -163
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "LAN202609240"
+  }
+ ],
+ "generated_at": "2026-09-25T00:22:09.278143Z",
+ "n_docs": 38,
+ "sport": "MLB"
+}
