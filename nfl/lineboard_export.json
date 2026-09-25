@@ -25,7 +25,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_ATL_GB"
@@ -40,7 +40,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "d5191bf2ec6b63a21787a48f2f0307a97bfc5c27e5adb649bc95c2eafb0fb795",
+    "export_hash": "45a331a1ed87d2a42f15eed0556e383ddda76ff864446726a282f30d881b3cf4",
     "game_id": "2026_03_ATL_GB",
     "home_team": "GB",
     "kickoff_time": "2026-09-25T00:15:00Z",
@@ -53,10 +53,11 @@
      "spread_home_odds": -110
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 35,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "graded_source": "nflverse final score via the GitHub Actions grader",
+     "home_score": 14,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -111,7 +112,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_SEA_WAS"
@@ -197,7 +198,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_CIN_PIT"
@@ -283,7 +284,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_NYJ_DET"
@@ -369,7 +370,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_KC_MIA"
@@ -455,7 +456,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_NE_JAX"
@@ -541,7 +542,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_HOU_IND"
@@ -632,7 +633,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_CAR_CLE"
@@ -718,7 +719,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_LAC_BUF"
@@ -804,7 +805,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_TEN_NYG"
@@ -895,7 +896,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_MIN_TB"
@@ -986,7 +987,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_ARI_SF"
@@ -1072,7 +1073,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_LV_NO"
@@ -1158,7 +1159,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_BAL_DAL"
@@ -1244,7 +1245,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_LA_DEN"
@@ -1335,7 +1336,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-24T23:53:39.988847Z",
+    "synced_at": "2026-09-25T06:03:26.449391Z",
     "week": 3
    },
    "doc_id": "2026_03_PHI_CHI"
@@ -1397,7 +1398,7 @@
    "doc_id": "2026_03_PHI_CHI"
   }
  ],
- "generated_at": "2026-09-24T23:53:39.988847Z",
+ "generated_at": "2026-09-25T06:03:26.449391Z",
  "n_docs": 32,
  "sport": "NFL"
 }
