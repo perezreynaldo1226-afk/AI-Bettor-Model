@@ -24,7 +24,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "SFN202609230"
   },
@@ -95,7 +95,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "PHI202609230"
   },
@@ -172,7 +172,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "PIT202609230"
   },
@@ -249,7 +249,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "NYA202609230"
   },
@@ -326,7 +326,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "BOS202609230"
   },
@@ -403,7 +403,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "ATL202609230"
   },
@@ -480,7 +480,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "KCA202609230"
   },
@@ -557,7 +557,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "CHN202609230"
   },
@@ -634,7 +634,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "TEX202609230"
   },
@@ -711,7 +711,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "COL202609230"
   },
@@ -788,7 +788,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "ATH202609230"
   },
@@ -865,7 +865,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "SEA202609230"
   },
@@ -942,7 +942,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "LAN202609230"
   },
@@ -1019,7 +1019,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "PHI202609240"
   },
@@ -1090,7 +1090,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "NYA202609240"
   },
@@ -1155,7 +1155,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "ATL202609240"
   },
@@ -1226,7 +1226,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "SEA202609240"
   },
@@ -1240,7 +1240,7 @@
      "side": "SEA",
      "tier": "top25"
     },
-    "export_hash": "c5f99cda6f8c73bc060bc6af8faebe233cea62c24e3464b647d3de3d152045d6",
+    "export_hash": "bd263823e5fdead57f4cc606a9b379815c31ead9455beed5c0b22a9aec1d6591",
     "game_date": "2026-09-24",
     "game_id": "SEA202609240",
     "home_team": "SEA",
@@ -1251,10 +1251,11 @@
      "moneyline_home": -178
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 6,
+     "decision_correct": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 4,
+     "resolved": true,
      "spread_correct": null,
      "spread_decision_correct": null,
      "teaser_correct": null
@@ -1302,7 +1303,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "ATH202609240"
   },
@@ -1316,7 +1317,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "26e5b89f736901639a5b290fabe85cc5590a8761c58c717fcd79d291851baa35",
+    "export_hash": "916877c1c00b65a9d65d5bef1da604086779364330bbd018a2d580bd4fb6e85e",
     "game_date": "2026-09-24",
     "game_id": "ATH202609240",
     "home_team": "ATH",
@@ -1327,12 +1328,13 @@
      "moneyline_home": 156
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 7,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 5,
+     "resolved": true,
      "spread_correct": null,
-     "spread_decision_correct": null,
+     "spread_decision_correct": true,
      "teaser_correct": null
     },
     "season": 2026,
@@ -1372,7 +1374,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-25T03:14:30.830039Z"
+    "synced_at": "2026-09-25T06:19:44.145838Z"
    },
    "doc_id": "LAN202609240"
   },
@@ -1386,7 +1388,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "4e69040b68bc1e8ff6d3b528bb17c335fdb6c7e54696e74f95debf69b4a47900",
+    "export_hash": "01d0667713281879713d299e50dff7f935e0371a776d7ad334fbf17faa8e9259",
     "game_date": "2026-09-24",
     "game_id": "LAN202609240",
     "home_team": "LAD",
@@ -1397,10 +1399,11 @@
      "moneyline_home": -163
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 4,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 2,
+     "resolved": true,
      "spread_correct": null,
      "spread_decision_correct": null,
      "teaser_correct": null
@@ -1413,7 +1416,7 @@
    "doc_id": "LAN202609240"
   }
  ],
- "generated_at": "2026-09-25T03:14:30.830039Z",
+ "generated_at": "2026-09-25T06:19:44.145838Z",
  "n_docs": 38,
  "sport": "MLB"
 }
