@@ -80,7 +80,7 @@ jobs:
         working-directory: nfl
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python3 fetch_week_odds.py --season ${{ steps.feat.outputs.season }} --week ${{ steps.feat.outputs.week }} --out ../NFL_AI_MODEL_1_0/live/sportsbook/WEEK_ODDS_LIVE.csv
+        run: python3 fetch_week_odds_v2.py --season ${{ steps.feat.outputs.season }} --week ${{ steps.feat.outputs.week }} --out ../NFL_AI_MODEL_1_0/live/sportsbook/WEEK_ODDS_LIVE.csv
 
       - name: Lock picks (all four deciders)
         if: steps.mode.outputs.lock == 'true'
