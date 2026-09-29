@@ -31,7 +31,6 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           EVENT_CRON: ${{ github.event.schedule }}
           MANUAL_SPORTS: ${{ github.event.inputs.sports }}
-        working-directory: odds_snapshots
         run: |
           case "$EVENT_CRON" in
             "10 15 * * *"|"30 22 * * *") python3 odds_snapshot_v1.py --sports NBA,MLB ;;
@@ -44,6 +43,6 @@ jobs:
         run: |
           git config user.name "sports-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add odds_snapshots/ODDS_SNAPSHOTS_V1.sqlite3
+          git add ODDS_SNAPSHOTS_V1.sqlite3
           git diff --cached --quiet || git commit -m "Odds snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
