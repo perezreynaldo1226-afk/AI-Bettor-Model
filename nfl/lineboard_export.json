@@ -25,7 +25,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_ATL_GB"
@@ -114,7 +114,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_CAR_CLE"
@@ -211,7 +211,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_CIN_PIT"
@@ -303,7 +303,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_HOU_IND"
@@ -400,7 +400,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_KC_MIA"
@@ -492,7 +492,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_LAC_BUF"
@@ -584,7 +584,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_NE_JAX"
@@ -676,7 +676,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_NYJ_DET"
@@ -768,7 +768,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_SEA_WAS"
@@ -860,7 +860,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_TEN_NYG"
@@ -957,7 +957,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_ARI_SF"
@@ -1049,7 +1049,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_MIN_TB"
@@ -1141,7 +1141,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_BAL_DAL"
@@ -1233,7 +1233,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_LV_NO"
@@ -1325,7 +1325,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_LA_DEN"
@@ -1422,7 +1422,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-28T06:03:58.994599Z",
+    "synced_at": "2026-09-29T06:04:21.261636Z",
     "week": 3
    },
    "doc_id": "2026_03_PHI_CHI"
@@ -1437,7 +1437,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "c5fde7c4782adc0d69047b06bcf8f9f7c9b338a509d8818c67318e700fc7dd6b",
+    "export_hash": "19a9cc8a7a4ce20b13b565321edc45a3c5c93978e4a830667bbf768a82fcc796",
     "game_id": "2026_03_PHI_CHI",
     "home_team": "CHI",
     "kickoff_time": "2026-09-29T00:15:00Z",
@@ -1450,11 +1450,12 @@
      "spread_home_odds": -110
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 7,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
-     "spread_correct": null,
+     "graded_source": "nflverse final score via the GitHub Actions grader",
+     "home_score": 27,
+     "resolved": true,
+     "spread_correct": false,
      "teaser_correct": null
     },
     "season": 2026,
@@ -1487,7 +1488,7 @@
    "doc_id": "2026_03_PHI_CHI"
   }
  ],
- "generated_at": "2026-09-28T06:03:58.994599Z",
+ "generated_at": "2026-09-29T06:04:21.261636Z",
  "n_docs": 32,
  "sport": "NFL"
 }
