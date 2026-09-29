@@ -3,7 +3,8 @@ name: MLB picks and grading
 on:
   schedule:
     - cron: '0 */3 * * *'   # grade every 3 hours
-    - cron: '30 14 * * *'   # lock today's picks once a day, 10:30am ET
+    - cron: '30 14 * * *'   # lock today's picks, 10:30am ET
+    - cron: '0 20 * * *'    # second lock pass, 4pm ET -- catches games whose probable pitchers weren't posted by morning (already-locked games are never re-locked)
   workflow_dispatch: {}      # manual run does both
 
 permissions:
@@ -37,7 +38,7 @@ jobs:
       - name: Decide whether this run locks picks
         id: mode
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "30 14 * * *" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "30 14 * * *" ] || [ "${{ github.event.schedule }}" = "0 20 * * *" ]; then
             echo "lock=true" >> "$GITHUB_OUTPUT"
           else
             echo "lock=false" >> "$GITHUB_OUTPUT"
