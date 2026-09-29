@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 */6 * * *'   # grade every 6 hours
     - cron: '0 17 * * 3'    # lock the coming week once, Wednesdays 1pm ET
+    - cron: '15 16 * * 0'   # Sunday 12:15pm ET: fresh injury report after inactives (grades too; never locks)
   workflow_dispatch:
     inputs:
       lock:
@@ -93,10 +94,16 @@ jobs:
           --odds ../NFL_AI_MODEL_1_0/live/sportsbook/WEEK_ODDS_LIVE.csv
           --season ${{ steps.feat.outputs.season }} --week ${{ steps.feat.outputs.week }}
 
+      - name: Injury report (information only; the model never sees it)
+        if: always()
+        continue-on-error: true   # an injury-feed hiccup must never block grading, locking or the export
+        working-directory: nfl
+        run: python3 injury_report_nfl_v1.py
+
       - name: Export app data for Lineboard
         if: always()
         working-directory: nfl
-        run: python3 export_lineboard_nfl.py
+        run: python3 export_lineboard_nfl_v2.py
 
       - name: Commit and push if the database changed
         if: always()           # keep any grading/locking that succeeded even if a later step failed
@@ -105,5 +112,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add nfl/PROSPECTIVE_TRACKER_V1_1.sqlite3
           if [ -f nfl/lineboard_export.json ]; then git add nfl/lineboard_export.json; fi
+          if [ -f nfl/injury_report.json ]; then git add nfl/injury_report.json; fi
           git diff --cached --quiet || git commit -m "NFL automated run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
