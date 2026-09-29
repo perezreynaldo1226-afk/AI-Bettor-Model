@@ -76,12 +76,12 @@ jobs:
       - name: Lock moneyline picks
         if: steps.odds.outputs.have_games == 'true'
         working-directory: mlb
-        run: python3 mlb_live_tracker_lock_v3.py --odds live/MLB_ODDS_LIVE.csv
+        run: python3 mlb_live_tracker_lock_v4.py --odds live/MLB_ODDS_LIVE.csv
 
       - name: Lock run-line picks
         if: steps.odds.outputs.have_games == 'true'
         working-directory: mlb
-        run: python3 mlb_spread_live_lock_v1.py --odds live/MLB_ODDS_LIVE.csv
+        run: python3 mlb_spread_live_lock_v2.py --odds live/MLB_ODDS_LIVE.csv
 
       - name: Export app data for Lineboard
         if: always()
