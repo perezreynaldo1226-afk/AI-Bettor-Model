@@ -1,0 +1,58 @@
+name: NFL weather totals live test (V1)
+
+# Monitoring only -- no bets. Times are UTC and chosen to cover every NFL kickoff
+# window in both EDT and EST with the 3.5h look-ahead. Runs with no game in the
+# window make no Odds API call (ESPN and open-meteo are free).
+on:
+  schedule:
+    - cron: "37 11 * * *"   # London games
+    - cron: "37 15 * * *"   # 1pm ET slate / Thanksgiving early
+    - cron: "7 19 * * *"    # 4pm ET slate / Black Friday
+    - cron: "37 22 * * *"   # night games
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nfl-weather-totals
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fit frozen model (first run only)
+        run: |
+          if [ ! -f nfl_weather_totals_model_v1.json ]; then
+            pip install -q pandas scikit-learn
+            git clone -q --depth 1 https://github.com/nflverse/nfldata.git /tmp/nfldata
+            python nfl_weather_totals_live_v1.py fit --games /tmp/nfldata/data/games.csv \
+              --source-commit "$(git -C /tmp/nfldata rev-parse HEAD)"
+          else
+            echo "Model present; not refitting."
+          fi
+
+      - name: Grade finished games
+        run: python nfl_weather_totals_live_v1.py grade
+
+      - name: Snapshot games in the next 3.5h
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python nfl_weather_totals_live_v1.py snapshot
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add nfl_weather_totals_model_v1.json WEATHER_TOTALS_LIVE_V1.sqlite3 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "weather totals live v1: $(date -u +%FT%TZ)"
+          git pull --rebase -q || true
+          git push || echo "push failed; next run will retry"
