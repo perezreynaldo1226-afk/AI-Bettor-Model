@@ -98,7 +98,7 @@ jobs:
         if: always()
         continue-on-error: true   # an injury-feed hiccup must never block grading, locking or the export
         working-directory: nfl
-        run: python3 injury_report_nfl_v1.py
+        run: python3 injury_report_nfl_v2.py
 
       - name: Export app data for Lineboard
         if: always()
