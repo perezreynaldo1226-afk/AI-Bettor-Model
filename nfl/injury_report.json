@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T21:28:49.780681Z",
+ "generated_at": "2026-09-30T00:04:02.048234Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -126,7 +126,7 @@
   ],
   "CIN": [
    {
-    "espn_updated": "2026-09-29T19:13Z",
+    "espn_updated": "2026-09-29T23:16Z",
     "injury": "Hamstring",
     "name": "Jalen Davis",
     "pos": "CB",
@@ -190,7 +190,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-09-29T16:45Z",
+    "espn_updated": "2026-09-29T23:51Z",
     "injury": "Hamstring",
     "name": "Cobie Durant",
     "pos": "CB",
@@ -210,7 +210,18 @@
     "status": "Questionable"
    }
   ],
-  "DEN": [],
+  "DEN": [
+   {
+    "espn_updated": "2026-09-29T23:10Z",
+    "injury": "Leg",
+    "name": "Jaylen Waddle",
+    "pos": "WR",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 0.7,
+    "status": "Questionable"
+   }
+  ],
   "DET": [
    {
     "espn_updated": "2026-09-29T01:05Z",
@@ -497,7 +508,7 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-09-29T21:03Z",
+    "espn_updated": "2026-09-29T23:44Z",
     "injury": "Knee - ACL",
     "name": "Brian Burns",
     "pos": "LB",
@@ -563,7 +574,7 @@
   ],
   "PIT": [
    {
-    "espn_updated": "2026-09-28T23:45Z",
+    "espn_updated": "2026-09-29T23:40Z",
     "injury": "Wrist",
     "name": "Jalen Ramsey",
     "pos": "CB",
@@ -693,14 +704,14 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-09-29T16:45Z",
+    "espn_updated": "2026-09-29T23:13Z",
     "injury": "Illness",
     "name": "Nick Cross",
     "pos": "S",
-    "return_date": "2026-10-04",
+    "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.99,
-    "status": "Doubtful"
+    "status": "Out"
    }
   ]
  }

@@ -25,7 +25,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_ATL_GB"
@@ -114,7 +114,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_CAR_CLE"
@@ -211,7 +211,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_CIN_PIT"
@@ -303,7 +303,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_HOU_IND"
@@ -400,7 +400,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_KC_MIA"
@@ -492,7 +492,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_LAC_BUF"
@@ -584,7 +584,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_NE_JAX"
@@ -676,7 +676,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_NYJ_DET"
@@ -768,7 +768,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_SEA_WAS"
@@ -860,7 +860,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_TEN_NYG"
@@ -957,7 +957,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_ARI_SF"
@@ -1049,7 +1049,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_MIN_TB"
@@ -1141,7 +1141,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_BAL_DAL"
@@ -1233,7 +1233,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_LV_NO"
@@ -1325,7 +1325,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_LA_DEN"
@@ -1422,7 +1422,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 3
    },
    "doc_id": "2026_03_PHI_CHI"
@@ -1491,14 +1491,14 @@
    "collection": "slate",
    "data": {
     "away_team": "PIT",
-    "export_hash": "bb6d5e3b20483d23ccbe3ab602a288147d2bb766d2f690d1ba46ce1d9f21ab57",
+    "export_hash": "a92a5e9bb47ee6ce3448517cdfe78b213ac28fc607e3ba2b433df756591e1e92",
     "game_id": "2026_04_PIT_CLE",
     "home_team": "CLE",
     "injury_report": {
-     "as_of": "2026-09-29T21:28:49.780681Z",
+     "as_of": "2026-09-30T00:04:02.048234Z",
      "away": [
       {
-       "espn_updated": "2026-09-28T23:45Z",
+       "espn_updated": "2026-09-29T23:40Z",
        "injury": "Wrist",
        "name": "Jalen Ramsey",
        "pos": "CB",
@@ -1574,7 +1574,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_PIT_CLE"
@@ -1647,11 +1647,11 @@
    "collection": "slate",
    "data": {
     "away_team": "IND",
-    "export_hash": "b9bdb3b92843261cc950092b452cd01bcb4b2df939e6ba85e98adcf045178d32",
+    "export_hash": "8ed7aa37f9a50bcb766a042629bf9c53f59a4351cc735a74706c217564a672e8",
     "game_id": "2026_04_IND_WAS",
     "home_team": "WAS",
     "injury_report": {
-     "as_of": "2026-09-29T21:28:49.780681Z",
+     "as_of": "2026-09-30T00:04:02.048234Z",
      "away": [],
      "home": [
       {
@@ -1665,14 +1665,14 @@
        "status": "Questionable"
       },
       {
-       "espn_updated": "2026-09-29T16:45Z",
+       "espn_updated": "2026-09-29T23:13Z",
        "injury": "Illness",
        "name": "Nick Cross",
        "pos": "S",
-       "return_date": "2026-10-04",
+       "return_date": "2026-10-11",
        "share_basis": "this season",
        "snap_share": 0.99,
-       "status": "Doubtful"
+       "status": "Out"
       }
      ],
      "note": "Information only -- the pick was made by the frozen model and does not account for injuries.",
@@ -1699,7 +1699,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_IND_WAS"
@@ -1767,11 +1767,11 @@
    "collection": "slate",
    "data": {
     "away_team": "ARI",
-    "export_hash": "6c34a864f3cdebe6a5231425ee94daeb1f752b9f8c7b429c9b0bd4ca31eed0a4",
+    "export_hash": "2f1f9219f5b1bdce8494737585c3d549c87f6a30bc8ffc0d19f934dabe3d8a05",
     "game_id": "2026_04_ARI_NYG",
     "home_team": "NYG",
     "injury_report": {
-     "as_of": "2026-09-29T21:28:49.780681Z",
+     "as_of": "2026-09-30T00:04:02.048234Z",
      "away": [
       {
        "espn_updated": "2026-09-23T22:14Z",
@@ -1796,7 +1796,7 @@
        "status": "Injured Reserve"
       },
       {
-       "espn_updated": "2026-09-29T21:03Z",
+       "espn_updated": "2026-09-29T23:44Z",
        "injury": "Knee - ACL",
        "name": "Brian Burns",
        "pos": "LB",
@@ -1850,7 +1850,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_ARI_NYG"
@@ -1923,11 +1923,11 @@
    "collection": "slate",
    "data": {
     "away_team": "DAL",
-    "export_hash": "06b7e80aa4965d6e546486856a2caf7c0c8e8fdacd6b25dd992e3eb31f9e25e5",
+    "export_hash": "002edf6257fee6a8c2dd08a4cb87dc426bd1ea3ba42dabca1ce3d15c4db3e749",
     "game_id": "2026_04_DAL_HOU",
     "home_team": "HOU",
     "injury_report": {
-     "as_of": "2026-09-29T21:28:49.780681Z",
+     "as_of": "2026-09-30T00:04:02.048234Z",
      "away": [
       {
        "espn_updated": "2026-09-28T23:13Z",
@@ -1940,7 +1940,7 @@
        "status": "Out"
       },
       {
-       "espn_updated": "2026-09-29T16:45Z",
+       "espn_updated": "2026-09-29T23:51Z",
        "injury": "Hamstring",
        "name": "Cobie Durant",
        "pos": "CB",
@@ -2016,7 +2016,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_DAL_HOU"
@@ -2182,7 +2182,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_GB_TB"
@@ -2250,15 +2250,15 @@
    "collection": "slate",
    "data": {
     "away_team": "JAX",
-    "export_hash": "03f28e9f921fa5b0956a05c70d0fb9ba5f2325c376d255e8bb079b2d2b15103d",
+    "export_hash": "8a94bc1a444bca84771cfd6eca5b266fb61b65fbfb3b1d71f2656ef331c7059c",
     "game_id": "2026_04_JAX_CIN",
     "home_team": "CIN",
     "injury_report": {
-     "as_of": "2026-09-29T21:28:49.780681Z",
+     "as_of": "2026-09-30T00:04:02.048234Z",
      "away": [],
      "home": [
       {
-       "espn_updated": "2026-09-29T19:13Z",
+       "espn_updated": "2026-09-29T23:16Z",
        "injury": "Hamstring",
        "name": "Jalen Davis",
        "pos": "CB",
@@ -2292,7 +2292,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_JAX_CIN"
@@ -2458,7 +2458,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_LA_PHI"
@@ -2589,7 +2589,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_NE_BUF"
@@ -2730,7 +2730,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_NYJ_CHI"
@@ -2861,7 +2861,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_TEN_BAL"
@@ -2982,7 +2982,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_MIA_MIN"
@@ -3050,12 +3050,23 @@
    "collection": "slate",
    "data": {
     "away_team": "DEN",
-    "export_hash": "9f56aab6f30a7f3705db4f3733b4e079d4b4ed124feab9a35aff4ebf84000361",
+    "export_hash": "b15c00498815e9f2c570061bd621fac55e010f13ef60f3d6dcd1edfa59133c6f",
     "game_id": "2026_04_DEN_SF",
     "home_team": "SF",
     "injury_report": {
-     "as_of": "2026-09-29T21:28:49.780681Z",
-     "away": [],
+     "as_of": "2026-09-30T00:04:02.048234Z",
+     "away": [
+      {
+       "espn_updated": "2026-09-29T23:10Z",
+       "injury": "Leg",
+       "name": "Jaylen Waddle",
+       "pos": "WR",
+       "return_date": "2026-10-04",
+       "share_basis": "this season",
+       "snap_share": 0.7,
+       "status": "Questionable"
+      }
+     ],
      "home": [
       {
        "espn_updated": "2026-09-28T21:16Z",
@@ -3112,7 +3123,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_DEN_SF"
@@ -3268,7 +3279,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_KC_LV"
@@ -3419,7 +3430,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_LAC_SEA"
@@ -3590,7 +3601,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_DET_CAR"
@@ -3700,7 +3711,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-09-29T21:29:02.549236Z",
+    "synced_at": "2026-09-30T00:04:14.436315Z",
     "week": 4
    },
    "doc_id": "2026_04_ATL_NO"
@@ -3765,7 +3776,7 @@
    "doc_id": "2026_04_ATL_NO"
   }
  ],
- "generated_at": "2026-09-29T21:29:02.549236Z",
+ "generated_at": "2026-09-30T00:04:14.436315Z",
  "n_docs": 64,
  "sport": "NFL"
 }
