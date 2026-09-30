@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T06:04:15.329315Z",
+ "generated_at": "2026-09-30T12:05:13.149513Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
