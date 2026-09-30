@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T12:05:13.149513Z",
+ "generated_at": "2026-09-30T17:18:02.988604Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -19,10 +19,10 @@
   "BAL": [
    {
     "espn_updated": "2026-09-29T00:53Z",
-    "injury": "Ankle",
+    "injury": "Lower Leg",
     "name": "Jovaughn Gwyn",
     "pos": "G",
-    "return_date": "2026-11-01",
+    "return_date": "2026-12-13",
     "share_basis": "this season",
     "snap_share": 0.91,
     "status": "Out"
@@ -72,14 +72,14 @@
     "status": "Doubtful"
    },
    {
-    "espn_updated": "2026-09-28T17:24Z",
+    "espn_updated": "2026-09-30T15:25Z",
     "injury": "Quadriceps",
     "name": "Jaycee Horn",
     "pos": "CB",
     "return_date": "2026-11-15",
     "share_basis": "this season",
     "snap_share": 0.87,
-    "status": "Out"
+    "status": "Injured Reserve"
    },
    {
     "espn_updated": "2026-09-28T23:16Z",
@@ -460,7 +460,7 @@
   ],
   "MIA": [
    {
-    "espn_updated": "2026-09-28T19:24Z",
+    "espn_updated": "2026-09-30T16:56Z",
     "injury": "Ankle",
     "name": "Caleb Douglas",
     "pos": "WR",
@@ -550,24 +550,24 @@
   ],
   "NYJ": [
    {
-    "espn_updated": "2026-09-27T19:10Z",
+    "espn_updated": "2026-09-30T16:32Z",
     "injury": "Knee",
     "name": "Dylan Parham",
     "pos": "G",
     "return_date": "2026-10-04",
     "share_basis": "this season",
     "snap_share": 0.86,
-    "status": "Questionable"
+    "status": "Doubtful"
    },
    {
-    "espn_updated": "2026-09-29T16:45Z",
+    "espn_updated": "2026-09-30T16:23Z",
     "injury": "Finger",
     "name": "Adonai Mitchell",
     "pos": "WR",
     "return_date": "2026-10-04",
     "share_basis": "this season",
     "snap_share": 0.75,
-    "status": "Questionable"
+    "status": "Doubtful"
    }
   ],
   "PHI": [
@@ -704,7 +704,7 @@
   ],
   "WAS": [
    {
-    "espn_updated": "2026-09-30T01:41Z",
+    "espn_updated": "2026-09-30T14:09Z",
     "injury": "Elbow",
     "name": "Jayden Daniels",
     "pos": "QB",
