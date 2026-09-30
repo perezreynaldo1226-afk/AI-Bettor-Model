@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T17:18:02.988604Z",
+ "generated_at": "2026-09-30T18:04:43.767219Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -92,7 +92,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-09-28T15:16Z",
+    "espn_updated": "2026-09-30T17:31Z",
     "injury": "Quadriceps",
     "name": "Jalen Coker",
     "pos": "WR",
