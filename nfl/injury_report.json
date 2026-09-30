@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T00:04:02.048234Z",
+ "generated_at": "2026-09-30T06:04:15.329315Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -62,7 +62,7 @@
   ],
   "CAR": [
    {
-    "espn_updated": "2026-09-29T14:07Z",
+    "espn_updated": "2026-09-30T00:52Z",
     "injury": "Elbow",
     "name": "Damien Lewis",
     "pos": "G",
@@ -138,20 +138,20 @@
   ],
   "CLE": [
    {
-    "espn_updated": "2026-09-29T00:02Z",
-    "injury": "Shoulder",
-    "name": "Grant Delpit",
-    "pos": "S",
+    "espn_updated": "2026-09-30T00:34Z",
+    "injury": "Concussion",
+    "name": "Elgton Jenkins",
+    "pos": "C",
     "return_date": "2026-10-01",
     "share_basis": "this season",
     "snap_share": 1.0,
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-09-28T22:19Z",
-    "injury": "Concussion",
-    "name": "Elgton Jenkins",
-    "pos": "C",
+    "espn_updated": "2026-09-29T00:02Z",
+    "injury": "Shoulder",
+    "name": "Grant Delpit",
+    "pos": "S",
     "return_date": "2026-10-01",
     "share_basis": "this season",
     "snap_share": 1.0,
@@ -179,6 +179,16 @@
    }
   ],
   "DAL": [
+   {
+    "espn_updated": "2026-09-30T02:06Z",
+    "injury": "Thumb",
+    "name": "Tyler Smith",
+    "pos": "G",
+    "return_date": "2026-10-08",
+    "share_basis": "last season",
+    "snap_share": 0.98,
+    "status": "Injured Reserve"
+   },
    {
     "espn_updated": "2026-09-28T23:13Z",
     "injury": "Hamstring",
@@ -682,7 +692,7 @@
   ],
   "TEN": [
    {
-    "espn_updated": "2026-09-29T00:40Z",
+    "espn_updated": "2026-09-30T00:57Z",
     "injury": "Ankle",
     "name": "Fernando Carmona",
     "pos": "G",
@@ -694,7 +704,7 @@
   ],
   "WAS": [
    {
-    "espn_updated": "2026-09-29T16:03Z",
+    "espn_updated": "2026-09-30T01:41Z",
     "injury": "Elbow",
     "name": "Jayden Daniels",
     "pos": "QB",
@@ -704,7 +714,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-09-29T23:13Z",
+    "espn_updated": "2026-09-30T02:02Z",
     "injury": "Illness",
     "name": "Nick Cross",
     "pos": "S",
