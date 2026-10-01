@@ -3,699 +3,6 @@
   {
    "collection": "slate",
    "data": {
-    "away_team": "CHC",
-    "export_hash": "edb526151bb7774c16f774a74e76b5a05f8e5fecf70c0b7d59626a1e412b5981",
-    "game_date": "2026-09-25",
-    "game_id": "BOS202609250",
-    "home_team": "BOS",
-    "kickoff_time": "2026-09-25T22:06:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": -108,
-     "moneyline_home": 104,
-     "spread_away_odds": 163.0,
-     "spread_home": 1.5,
-     "spread_home_odds": -170.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters David Peterson vs Brayan Bello. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.6726163016117228,
-     "spread_side": "CHC +1.5",
-     "spread_side_team": "CHC",
-     "status": "locked",
-     "winner_prob": 0.5084696578723061,
-     "winner_side": "BOS"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "BOS202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "CHC",
-    "decision": {
-     "action": "PASS",
-     "prob": 0.5084696578723061,
-     "side": null,
-     "tier": null
-    },
-    "export_hash": "3fc1272f0d56da3d069e4adf0fdb1a2e66b62383a03625d1c5428f079d5cb6b3",
-    "game_date": "2026-09-25",
-    "game_id": "BOS202609250",
-    "home_team": "BOS",
-    "kickoff_time": "2026-09-25T22:06:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": -108,
-     "moneyline_home": 104
-    },
-    "outcome": {
-     "away_score": 0,
-     "decision_correct": null,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 2,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": false,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "COVER",
-     "prob": 0.6726163016117228,
-     "side": "CHC +1.5",
-     "tier": "top50"
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "BOS202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "PIT",
-    "export_hash": "74652fb4fbe400396522046f27130240d60cae186491c1ca330eaf1dd3afbeda",
-    "game_date": "2026-09-25",
-    "game_id": "DET202609250",
-    "home_team": "DET",
-    "kickoff_time": "2026-09-25T22:41:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": -104,
-     "moneyline_home": -104,
-     "spread_away_odds": 163.0,
-     "spread_home": 1.5,
-     "spread_home_odds": -178.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Bubba Chandler vs Jackson Jobe. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.6006780341777522,
-     "spread_side": "PIT +1.5",
-     "spread_side_team": "PIT",
-     "status": "locked",
-     "winner_prob": 0.5841875593530855,
-     "winner_side": "DET"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "DET202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "PIT",
-    "decision": {
-     "action": "ML",
-     "prob": 0.5841875593530855,
-     "side": "DET",
-     "tier": "top50"
-    },
-    "export_hash": "0e1da3972fced3e5bc32007b244bde286140dd5b02a708dba7bc483c9bae8939",
-    "game_date": "2026-09-25",
-    "game_id": "DET202609250",
-    "home_team": "DET",
-    "kickoff_time": "2026-09-25T22:41:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": -104,
-     "moneyline_home": -104
-    },
-    "outcome": {
-     "away_score": 7,
-     "decision_correct": true,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 8,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": null,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "PASS",
-     "prob": null,
-     "side": null,
-     "tier": null
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "DET202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "TB",
-    "export_hash": "0390d4890eee63cae8a4c43154b25e730264c37e3cac9caa026775da39ade128",
-    "game_date": "2026-09-25",
-    "game_id": "PHI202609250",
-    "home_team": "PHI",
-    "kickoff_time": "2026-09-25T22:41:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": 156,
-     "moneyline_home": -163,
-     "spread_away_odds": -156.0,
-     "spread_home": -1.5,
-     "spread_home_odds": 144.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Freddy Peralta vs Cristopher S\u00e1nchez. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.6942814904688277,
-     "spread_side": "TB +1.5",
-     "spread_side_team": "TB",
-     "status": "locked",
-     "winner_prob": 0.5220747481571455,
-     "winner_side": "TB"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "PHI202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "TB",
-    "decision": {
-     "action": "PASS",
-     "prob": 0.5220747481571455,
-     "side": null,
-     "tier": null
-    },
-    "export_hash": "aca44441862bc7e8d21508d1e89ee25608cc373043adec3bc28a6bd2da93a476",
-    "game_date": "2026-09-25",
-    "game_id": "PHI202609250",
-    "home_team": "PHI",
-    "kickoff_time": "2026-09-25T22:41:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": 156,
-     "moneyline_home": -163
-    },
-    "outcome": {
-     "away_score": 2,
-     "decision_correct": null,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 0,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": true,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "COVER",
-     "prob": 0.6942814904688277,
-     "side": "TB +1.5",
-     "tier": "top25"
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "PHI202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "COL",
-    "export_hash": "577129701a698b3c18a017df904e794c1928694c1bc6f7b4101385caaff0f2ae",
-    "game_date": "2026-09-25",
-    "game_id": "CHA202609250",
-    "home_team": "CHW",
-    "kickoff_time": "2026-09-25T23:40:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": 203,
-     "moneyline_home": -213,
-     "spread_away_odds": -104.0,
-     "spread_home": -1.5,
-     "spread_home_odds": 100.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Tomoyuki Sugano vs Sean Burke. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.5757552533199388,
-     "spread_side": "COL +1.5",
-     "spread_side_team": "COL",
-     "status": "locked",
-     "winner_prob": 0.5930517105487433,
-     "winner_side": "CHW"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "CHA202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "COL",
-    "decision": {
-     "action": "ML",
-     "prob": 0.5930517105487433,
-     "side": "CHW",
-     "tier": "top25"
-    },
-    "export_hash": "dca5c8dffdf6f9d2e5ce42f7f72a90b8058c918d1d8b3924fd450c61c1c51228",
-    "game_date": "2026-09-25",
-    "game_id": "CHA202609250",
-    "home_team": "CHW",
-    "kickoff_time": "2026-09-25T23:40:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": 203,
-     "moneyline_home": -213
-    },
-    "outcome": {
-     "away_score": 1,
-     "decision_correct": true,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 6,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": null,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "PASS",
-     "prob": null,
-     "side": null,
-     "tier": null
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "CHA202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "CLE",
-    "export_hash": "7f8997c705a8ec87b878054f702525b8c0527634d806c0ca9ca41b30280bb3eb",
-    "game_date": "2026-09-25",
-    "game_id": "KCA202609250",
-    "home_team": "KC",
-    "kickoff_time": "2026-09-25T23:41:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": -127,
-     "moneyline_home": 122,
-     "spread_away_odds": 133.0,
-     "spread_home": 1.5,
-     "spread_home_odds": -144.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Gavin Williams vs Noah Cameron. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.7439827131761461,
-     "spread_side": "CLE +1.5",
-     "spread_side_team": "CLE",
-     "status": "locked",
-     "winner_prob": 0.572097946299388,
-     "winner_side": "CLE"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "KCA202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "CLE",
-    "decision": {
-     "action": "ML",
-     "prob": 0.572097946299388,
-     "side": "CLE",
-     "tier": "top50"
-    },
-    "export_hash": "f9f3420ea37da2ff124cfef6eea0a50e2d26d67652f1662950403b626294b427",
-    "game_date": "2026-09-25",
-    "game_id": "KCA202609250",
-    "home_team": "KC",
-    "kickoff_time": "2026-09-25T23:41:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": -127,
-     "moneyline_home": 122
-    },
-    "outcome": {
-     "away_score": 12,
-     "decision_correct": true,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 9,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": true,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "COVER",
-     "prob": 0.7439827131761461,
-     "side": "CLE +1.5",
-     "tier": "top25"
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "KCA202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "STL",
-    "export_hash": "5f465b679747d4e9537adfa4b4a78a2fb5cc2be54fd1bd0b5ad14e173e95e317",
-    "game_date": "2026-09-25",
-    "game_id": "MIL202609250",
-    "home_team": "MIL",
-    "kickoff_time": "2026-09-25T23:41:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": 163,
-     "moneyline_home": -170,
-     "spread_away_odds": -133.0,
-     "spread_home": -1.5,
-     "spread_home_odds": 127.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Michael McGreevy vs Robert Gasser. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.5720473526760339,
-     "spread_side": "STL +1.5",
-     "spread_side_team": "STL",
-     "status": "locked",
-     "winner_prob": 0.6050650389903448,
-     "winner_side": "MIL"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "MIL202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "STL",
-    "decision": {
-     "action": "ML",
-     "prob": 0.6050650389903448,
-     "side": "MIL",
-     "tier": "top25"
-    },
-    "export_hash": "1b283b29e0ced2b487ab1f34b8d43f087ad3d2f3c8ad375d416e9faa0ed1f9ee",
-    "game_date": "2026-09-25",
-    "game_id": "MIL202609250",
-    "home_team": "MIL",
-    "kickoff_time": "2026-09-25T23:41:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": 163,
-     "moneyline_home": -170
-    },
-    "outcome": {
-     "away_score": 4,
-     "decision_correct": true,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 8,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": null,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "PASS",
-     "prob": null,
-     "side": null,
-     "tier": null
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "MIL202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "TEX",
-    "export_hash": "4e8e342757b29be39e5b0941062a825135c550d5df9a96bc40c208d26e0e9ba9",
-    "game_date": "2026-09-25",
-    "game_id": "MIN202609250",
-    "home_team": "MIN",
-    "kickoff_time": "2026-09-26T00:11:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": -108,
-     "moneyline_home": 104,
-     "spread_away_odds": 163.0,
-     "spread_home": 1.5,
-     "spread_home_odds": -170.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Jacob deGrom vs Joe Ryan. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.7324227977777928,
-     "spread_side": "TEX +1.5",
-     "spread_side_team": "TEX",
-     "status": "locked",
-     "winner_prob": 0.5531432520196693,
-     "winner_side": "TEX"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "MIN202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "TEX",
-    "decision": {
-     "action": "ML",
-     "prob": 0.5531432520196693,
-     "side": "TEX",
-     "tier": "top50"
-    },
-    "export_hash": "dd61aa8e1704884268d2a08d7fb459df443a253610b3f5b05f47ade18e3f6690",
-    "game_date": "2026-09-25",
-    "game_id": "MIN202609250",
-    "home_team": "MIN",
-    "kickoff_time": "2026-09-26T00:11:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": -108,
-     "moneyline_home": 104
-    },
-    "outcome": {
-     "away_score": 2,
-     "decision_correct": false,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 10,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": false,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "COVER",
-     "prob": 0.7324227977777928,
-     "side": "TEX +1.5",
-     "tier": "top25"
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "MIN202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "HOU",
-    "export_hash": "4521d94472db25933d88e2997ead1c5714f4fdd2b310866afa780ef4dabcd280",
-    "game_date": "2026-09-25",
-    "game_id": "ATH202609250",
-    "home_team": "ATH",
-    "kickoff_time": "2026-09-26T01:41:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": -170,
-     "moneyline_home": 163,
-     "spread_away_odds": 100.0,
-     "spread_home": 1.5,
-     "spread_home_odds": -104.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Hunter Brown vs Jacob Lopez. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.7417516957471622,
-     "spread_side": "HOU +1.5",
-     "spread_side_team": "HOU",
-     "status": "locked",
-     "winner_prob": 0.5818599964257589,
-     "winner_side": "HOU"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "ATH202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "HOU",
-    "decision": {
-     "action": "ML",
-     "prob": 0.5818599964257589,
-     "side": "HOU",
-     "tier": "top50"
-    },
-    "export_hash": "9c594ff22a74a6ad46cdf300b136a8ec45753439214fda3794d40ac45cb8461e",
-    "game_date": "2026-09-25",
-    "game_id": "ATH202609250",
-    "home_team": "ATH",
-    "kickoff_time": "2026-09-26T01:41:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": -170,
-     "moneyline_home": 163
-    },
-    "outcome": {
-     "away_score": 5,
-     "decision_correct": false,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 6,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": true,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "COVER",
-     "prob": 0.7417516957471622,
-     "side": "HOU +1.5",
-     "tier": "top25"
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "ATH202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "LAA",
-    "export_hash": "1df9d47f7bc80dfed1a3f49c7fc01811bd9d351137a9d0afd84c686c14b72d4c",
-    "game_date": "2026-09-25",
-    "game_id": "SEA202609250",
-    "home_team": "SEA",
-    "kickoff_time": "2026-09-26T02:11:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": 108,
-     "moneyline_home": -113,
-     "spread_away_odds": -194.0,
-     "spread_home": -1.5,
-     "spread_home_odds": 186.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Reid Detmers vs Bryce Miller. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-09-25T14:40:14.570763+00:00",
-     "spread_prob": 0.6893120304247252,
-     "spread_side": "LAA +1.5",
-     "spread_side_team": "LAA",
-     "status": "locked",
-     "winner_prob": 0.5117802749424089,
-     "winner_side": "LAA"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
-   },
-   "doc_id": "SEA202609250"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "LAA",
-    "decision": {
-     "action": "PASS",
-     "prob": 0.5117802749424089,
-     "side": null,
-     "tier": null
-    },
-    "export_hash": "8b863983d606ff203b307dbd7149702fb6b52053eb4ee346366928228f773c62",
-    "game_date": "2026-09-25",
-    "game_id": "SEA202609250",
-    "home_team": "SEA",
-    "kickoff_time": "2026-09-26T02:11:00Z",
-    "locked_at": "2026-09-25T14:40:14.570763+00:00",
-    "market_snapshot": {
-     "moneyline_away": 108,
-     "moneyline_home": -113
-    },
-    "outcome": {
-     "away_score": 7,
-     "decision_correct": null,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 5,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": true,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "COVER",
-     "prob": 0.6893120304247252,
-     "side": "LAA +1.5",
-     "tier": "top25"
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "SEA202609250"
-  },
-  {
-   "collection": "slate",
-   "data": {
     "away_team": "NYM",
     "export_hash": "cb8c47f4550c994a31f935e981a0cdaaebfcc81d7d2f3c000ec3ae65fc49e127",
     "game_date": "2026-09-26",
@@ -723,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "WAS202609260"
   },
@@ -800,7 +107,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "TOR202609260"
   },
@@ -877,7 +184,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "SFN202609260"
   },
@@ -954,7 +261,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "MIN202609260"
   },
@@ -1031,7 +338,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "KCA202609260"
   },
@@ -1108,7 +415,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "CHA202609260"
   },
@@ -1185,7 +492,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "MIL202609260"
   },
@@ -1262,7 +569,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "SEA202609260"
   },
@@ -1339,7 +646,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "ATH202609260"
   },
@@ -1416,7 +723,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -1492,7 +799,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "PHI202609270"
   },
@@ -1569,7 +876,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "TOR202609270"
   },
@@ -1646,7 +953,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "SEA202609270"
   },
@@ -1723,7 +1030,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "MIA202609270"
   },
@@ -1800,7 +1107,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "CHA202609270"
   },
@@ -1877,7 +1184,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "MIL202609270"
   },
@@ -1954,7 +1261,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "SDN202609270"
   },
@@ -2031,7 +1338,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "KCA202609270"
   },
@@ -2108,7 +1415,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "MIN202609270"
   },
@@ -2185,7 +1492,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "ATL202609290"
   },
@@ -2262,7 +1569,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "NYA202609290"
   },
@@ -2339,7 +1646,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "SDN202609290"
   },
@@ -2390,7 +1697,7 @@
    "collection": "slate",
    "data": {
     "away_team": "PHI",
-    "export_hash": "ebd172471ca91014959bfb2b46dd2708a3c7d9080df209b9e36c926f3d09c804",
+    "export_hash": "b957cab99bc3cd3bb98b9161a70382504a7b69b175cb58ddad2892b17be2253c",
     "game_date": "2026-09-30",
     "game_id": "ATL202609300",
     "home_team": "ATL",
@@ -2406,18 +1713,6 @@
     "model": {
      "available": true,
      "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Cristopher S\u00e1nchez vs Tyler Mahle. Odds from Kalshi (n_books_used=1).",
-     "series": {
-      "away_wins": 0,
-      "description": "NL Wild Card Series",
-      "fair_price_favored": -482,
-      "favored": "ATL",
-      "favored_prob": 0.8283,
-      "games_in_series": 3,
-      "home_wins": 1,
-      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
-      "p_home_series": 0.8283,
-      "series_game_number": 2
-     },
      "source_snapshot_time": "2026-09-30T14:43:16.920059+00:00",
      "spread_prob": 0.600782551616889,
      "spread_side": "PHI +1.5",
@@ -2428,7 +1723,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "ATL202609300"
   },
@@ -2442,7 +1737,7 @@
      "side": "ATL",
      "tier": "top50"
     },
-    "export_hash": "a96663c13a048d986aa2a460704e8f0f499666a847a4e8e99affdf6c59cf3a12",
+    "export_hash": "63df24b437b74f3a61fa5e57a542f38d7522ec2de7a2b7b2fc27338c2573f28f",
     "game_date": "2026-09-30",
     "game_id": "ATL202609300",
     "home_team": "ATL",
@@ -2453,10 +1748,11 @@
      "moneyline_home": 104
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 4,
+     "decision_correct": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 3,
+     "resolved": true,
      "spread_correct": null,
      "spread_decision_correct": null,
      "teaser_correct": null
@@ -2478,7 +1774,7 @@
    "collection": "slate",
    "data": {
     "away_team": "CHW",
-    "export_hash": "ae26be6605d089d4f8df5009b272f182643b9ce9f3d1b0ce0b25eeb609fd17a7",
+    "export_hash": "cb5bd0202ab8614769b28de5e1e23a814980e729c85683f49a01f531a759d43f",
     "game_date": "2026-09-30",
     "game_id": "HOU202609300",
     "home_team": "HOU",
@@ -2494,18 +1790,6 @@
     "model": {
      "available": true,
      "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Sean Burke vs Hunter Brown. Odds from Kalshi (n_books_used=1).",
-     "series": {
-      "away_wins": 1,
-      "description": "AL Wild Card Series",
-      "fair_price_favored": -185,
-      "favored": "CHW",
-      "favored_prob": 0.6489,
-      "games_in_series": 3,
-      "home_wins": 0,
-      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
-      "p_home_series": 0.3511,
-      "series_game_number": 2
-     },
      "source_snapshot_time": "2026-09-30T14:43:16.920059+00:00",
      "spread_prob": 0.5744969789253764,
      "spread_side": "CHW +1.5",
@@ -2516,7 +1800,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "HOU202609300"
   },
@@ -2604,7 +1888,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "NYA202609300"
   },
@@ -2692,7 +1976,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-09-30T14:43:25.468116Z"
+    "synced_at": "2026-10-01T00:24:01.041691Z"
    },
    "doc_id": "SDN202609300"
   },
@@ -2739,7 +2023,7 @@
    "doc_id": "SDN202609300"
   }
  ],
- "generated_at": "2026-09-30T14:43:25.468116Z",
- "n_docs": 70,
+ "generated_at": "2026-10-01T00:24:01.041691Z",
+ "n_docs": 52,
  "sport": "MLB"
 }
