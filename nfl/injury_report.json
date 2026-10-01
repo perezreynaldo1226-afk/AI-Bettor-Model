@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T06:06:32.568974Z",
+ "generated_at": "2026-10-01T12:06:33.335866Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -894,16 +894,6 @@
    }
   ],
   "PIT": [
-   {
-    "espn_updated": "2026-09-30T19:10Z",
-    "injury": "Back",
-    "name": "Joey Porter Jr.",
-    "pos": "CB",
-    "return_date": "2026-10-11",
-    "share_basis": "last season",
-    "snap_share": 0.94,
-    "status": "Out"
-   },
    {
     "espn_updated": "2026-09-30T19:12Z",
     "injury": "Wrist",
