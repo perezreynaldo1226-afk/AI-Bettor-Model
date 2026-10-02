@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T00:04:08.577797Z",
+ "generated_at": "2026-10-02T06:04:44.779682Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -257,6 +257,16 @@
     "share_basis": "last season",
     "snap_share": 0.94,
     "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-02T04:10Z",
+    "injury": "Knee",
+    "name": "Mason Graham",
+    "pos": "DT",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.65,
+    "status": "Questionable"
    }
   ],
   "DAL": [
@@ -289,16 +299,6 @@
     "share_basis": "this season",
     "snap_share": 0.62,
     "status": "Doubtful"
-   },
-   {
-    "espn_updated": "2026-10-01T20:23Z",
-    "injury": "Back",
-    "name": "Joey Porter Jr.",
-    "pos": "CB",
-    "return_date": "2026-10-04",
-    "share_basis": "last season",
-    "snap_share": 0.94,
-    "status": "Questionable"
    },
    {
     "espn_updated": "2026-10-01T00:02Z",
@@ -376,7 +376,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-09-30T23:44Z",
+    "espn_updated": "2026-10-02T00:03Z",
     "injury": "Concussion",
     "name": "Edgerrin Cooper",
     "pos": "LB",
@@ -396,7 +396,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-09-30T23:51Z",
+    "espn_updated": "2026-10-02T00:11Z",
     "injury": "Shoulder",
     "name": "Lukas Van Ness",
     "pos": "DE",
@@ -588,7 +588,7 @@
   ],
   "LAC": [
    {
-    "espn_updated": "2026-10-01T00:02Z",
+    "espn_updated": "2026-10-02T01:00Z",
     "injury": "Hamstring",
     "name": "Derwin James Jr.",
     "pos": "S",
@@ -674,7 +674,7 @@
   ],
   "MIN": [
    {
-    "espn_updated": "2026-10-01T00:01Z",
+    "espn_updated": "2026-10-02T00:19Z",
     "injury": "Elbow",
     "name": "Blake Cashman",
     "pos": "LB",
@@ -748,20 +748,20 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-01T21:39Z",
+    "espn_updated": "2026-10-02T00:11Z",
     "injury": "Calf",
-    "name": "Kaden Elliss",
-    "pos": "LB",
+    "name": "Julian Blackmon",
+    "pos": "S",
     "return_date": "2026-10-05",
     "share_basis": "this season",
     "snap_share": 1.0,
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-01T21:39Z",
+    "espn_updated": "2026-10-02T00:04Z",
     "injury": "Calf",
-    "name": "Julian Blackmon",
-    "pos": "S",
+    "name": "Kaden Elliss",
+    "pos": "LB",
     "return_date": "2026-10-05",
     "share_basis": "this season",
     "snap_share": 1.0,
@@ -800,6 +800,16 @@
     "status": "Injured Reserve"
    },
    {
+    "espn_updated": "2026-10-02T01:23Z",
+    "injury": "Groin",
+    "name": "Andrew Thomas",
+    "pos": "OT",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 1.0,
+    "status": "Questionable"
+   },
+   {
     "espn_updated": "2026-10-01T23:43Z",
     "injury": "Calf",
     "name": "Tyler Nubin",
@@ -810,17 +820,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-09-30T20:17Z",
-    "injury": "Groin",
-    "name": "Andrew Thomas",
-    "pos": "OT",
-    "return_date": "2026-10-04",
-    "share_basis": "this season",
-    "snap_share": 1.0,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-09-29T16:45Z",
+    "espn_updated": "2026-10-01T23:56Z",
     "injury": "Calf",
     "name": "Deonte Banks",
     "pos": "CB",
@@ -874,7 +874,7 @@
     "status": "Doubtful"
    },
    {
-    "espn_updated": "2026-10-01T00:35Z",
+    "espn_updated": "2026-10-02T00:40Z",
     "injury": "Concussion",
     "name": "Zack Baun",
     "pos": "LB",
@@ -914,7 +914,18 @@
     "status": "Questionable"
    }
   ],
-  "PIT": [],
+  "PIT": [
+   {
+    "espn_updated": "2026-10-02T02:22Z",
+    "injury": "Ankle",
+    "name": "Jamel Dean",
+    "pos": "CB",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.88,
+    "status": "Questionable"
+   }
+  ],
   "SEA": [
    {
     "espn_updated": "2026-09-24T00:52Z",
@@ -937,7 +948,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-01T00:27Z",
+    "espn_updated": "2026-10-02T00:40Z",
     "injury": "Hamstring",
     "name": "Ty Okada",
     "pos": "S",
@@ -979,7 +990,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-01T00:19Z",
+    "espn_updated": "2026-10-02T01:08Z",
     "injury": "Quadriceps",
     "name": "Dre Greenlaw",
     "pos": "LB",
