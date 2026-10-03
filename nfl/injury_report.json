@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T00:04:12.554812Z",
+ "generated_at": "2026-10-03T06:10:10.322122Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -49,7 +49,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-09-29T16:45Z",
+    "espn_updated": "2026-10-03T01:16Z",
     "injury": "Toe",
     "name": "Ronnie Stanley",
     "pos": "OT",
@@ -73,7 +73,7 @@
   ],
   "CAR": [
    {
-    "espn_updated": "2026-10-01T01:00Z",
+    "espn_updated": "2026-10-03T00:58Z",
     "injury": "Elbow",
     "name": "Damien Lewis",
     "pos": "G",
@@ -93,7 +93,7 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-01T01:05Z",
+    "espn_updated": "2026-10-03T01:03Z",
     "injury": "Concussion",
     "name": "Monroe Freeling",
     "pos": "OT",
@@ -135,7 +135,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-02T19:09Z",
+    "espn_updated": "2026-10-03T01:12Z",
     "injury": "Knee",
     "name": "Braxton Jones",
     "pos": "OT",
@@ -254,7 +254,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-02T20:51Z",
+    "espn_updated": "2026-10-03T01:20Z",
     "injury": "Foot",
     "name": "Ben Bartch",
     "pos": "G",
@@ -296,7 +296,7 @@
   ],
   "GB": [
    {
-    "espn_updated": "2026-10-02T19:39Z",
+    "espn_updated": "2026-10-03T01:23Z",
     "injury": "Quadriceps",
     "name": "Jacob Monk",
     "pos": "C",
@@ -326,7 +326,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-01T21:35Z",
+    "espn_updated": "2026-10-03T01:32Z",
     "injury": "Groin",
     "name": "Jager Burton",
     "pos": "C",
@@ -404,7 +404,7 @@
   ],
   "KC": [
    {
-    "espn_updated": "2026-10-02T19:01Z",
+    "espn_updated": "2026-10-03T01:08Z",
     "injury": "Back",
     "name": "Josh Simmons",
     "pos": "OT",
@@ -478,7 +478,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-02T19:25Z",
+    "espn_updated": "2026-10-02T20:41Z",
     "injury": "Foot",
     "name": "Ladd McConkey",
     "pos": "WR",
@@ -632,7 +632,7 @@
   ],
   "NYJ": [
    {
-    "espn_updated": "2026-10-02T14:45Z",
+    "espn_updated": "2026-10-03T00:52Z",
     "injury": "Knee",
     "name": "Dylan Parham",
     "pos": "G",
@@ -684,7 +684,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-02T20:55Z",
+    "espn_updated": "2026-10-03T00:03Z",
     "injury": "Groin",
     "name": "Marcus Epps",
     "pos": "S",
@@ -728,7 +728,7 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-02T00:40Z",
+    "espn_updated": "2026-10-03T00:32Z",
     "injury": "Hamstring",
     "name": "Ty Okada",
     "pos": "S",
@@ -760,7 +760,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-02T01:08Z",
+    "espn_updated": "2026-10-03T00:43Z",
     "injury": "Quadriceps",
     "name": "Dre Greenlaw",
     "pos": "LB",
