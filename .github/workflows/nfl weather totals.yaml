@@ -47,7 +47,7 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python nfl_weather_totals_live_v1.py snapshot
 
-      - name: Commit results
+      - name: Commit results and refresh the app export
         if: always()
         run: |
           git config user.name "github-actions"
@@ -55,4 +55,7 @@ jobs:
           git add nfl_weather_totals_model_v1.json WEATHER_TOTALS_LIVE_V1.sqlite3 2>/dev/null || true
           git diff --cached --quiet || git commit -m "weather totals live v1: $(date -u +%FT%TZ)"
           git pull --rebase -q || true
-          git push || echo "push failed; next run will retry"
+          (cd nfl && python3 export_lineboard_nfl_v3.py) || echo "export failed; picks are still saved"
+          git add nfl/lineboard_export.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "NFL app export with weather picks $(date -u +%FT%TZ)"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
