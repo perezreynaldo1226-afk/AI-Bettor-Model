@@ -103,7 +103,7 @@ jobs:
       - name: Export app data for Lineboard
         if: always()
         working-directory: nfl
-        run: python3 export_lineboard_nfl_v3.py
+        run: python3 export_lineboard_nfl_v5.py
 
       - name: Commit and push if the database changed
         if: always()           # keep any grading/locking that succeeded even if a later step failed

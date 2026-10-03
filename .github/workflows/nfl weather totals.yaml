@@ -47,15 +47,23 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python nfl_weather_totals_live_v1.py snapshot
 
+      - name: Preview upcoming games (not counted)
+        # Evening run previews the next ~36h; manual runs always preview. 1 credit only if games exist.
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '37 22 * * *'
+        continue-on-error: true
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python nfl_weather_totals_preview_v1.py --hours 36
+
       - name: Commit results and refresh the app export
         if: always()
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add nfl_weather_totals_model_v1.json WEATHER_TOTALS_LIVE_V1.sqlite3 2>/dev/null || true
+          for f in nfl_weather_totals_model_v1.json WEATHER_TOTALS_LIVE_V1.sqlite3 WEATHER_TOTALS_PREVIEW_V1.json; do [ -f "$f" ] && git add "$f"; done; true
           git diff --cached --quiet || git commit -m "weather totals live v1: $(date -u +%FT%TZ)"
           git pull --rebase -q || true
-          (cd nfl && python3 export_lineboard_nfl_v3.py) || echo "export failed; picks are still saved"
+          (cd nfl && python3 export_lineboard_nfl_v5.py) || echo "export failed; picks are still saved"
           git add nfl/lineboard_export.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "NFL app export with weather picks $(date -u +%FT%TZ)"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

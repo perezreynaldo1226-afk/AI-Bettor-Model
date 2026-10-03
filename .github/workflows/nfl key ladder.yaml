@@ -1,0 +1,57 @@
+name: NFL key-number ladder (live test)
+
+# KEY_LADDER_LIVE_V1 -- monitoring only, no bets. 2 Odds API credits per NFL game, only when games exist.
+on:
+  schedule:
+    - cron: "30 22 * * 4"   # Thursday night game
+    - cron: "30 13 * * 0"   # Sunday + Monday games
+    - cron: "0 12 * * 2"    # Tuesday: grade only
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: "Snapshot games starting within this many hours"
+        default: "36"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nfl-weather-totals   # same group as the weather test: both write nfl/lineboard_export.json
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Grade finished games
+        continue-on-error: true
+        run: python nfl_key_ladder_live_v1.py grade
+
+      - name: Snapshot ladders
+        if: github.event.schedule != '0 12 * * 2'
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          EVENT_CRON: ${{ github.event.schedule }}
+          HOURS_IN: ${{ github.event.inputs.hours }}
+        run: |
+          H="${HOURS_IN:-36}"
+          if [ "$EVENT_CRON" = "30 22 * * 4" ]; then H=6; fi
+          python nfl_key_ladder_live_v1.py snapshot --hours "$H"
+
+      - name: Commit results and refresh the app export
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          [ -f KEY_LADDER_LIVE_V1.sqlite3 ] && git add KEY_LADDER_LIVE_V1.sqlite3; true
+          git diff --cached --quiet || git commit -m "key ladder live v1: $(date -u +%FT%TZ)"
+          git pull --rebase -q || true
+          (cd nfl && python3 export_lineboard_nfl_v5.py) || echo "export failed; ladder data is still saved"
+          git add nfl/lineboard_export.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "NFL app export with key ladder $(date -u +%FT%TZ)"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
