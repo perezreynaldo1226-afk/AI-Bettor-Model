@@ -1,0 +1,64 @@
+name: NBA preseason trial (not counted)
+
+# Dress rehearsal of the NBA pipeline on preseason games. Never counted, never bets.
+# Stops by itself after the regular season opens (2026-10-20).
+on:
+  schedule:
+    - cron: "30 15 * * *"   # lock new preseason games (next 48h) + grade + export
+    - cron: "10 */6 * * *"  # grade + export only
+  workflow_dispatch: {}      # manual run locks too
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nba-preseason-trial
+  cancel-in-progress: false
+
+jobs:
+  trial:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Only during the preseason
+        id: on
+        run: |
+          if [ "$(date -u +%Y%m%d)" -le 20261020 ]; then echo "go=true" >> "$GITHUB_OUTPUT"; else echo "Preseason is over -- nothing to do."; echo "go=false" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/checkout@v4
+        if: steps.on.outputs.go == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.on.outputs.go == 'true'
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        if: steps.on.outputs.go == 'true'
+        run: pip install certifi pandas numpy scikit-learn
+
+      - name: Put the season files where the scripts expect them
+        if: steps.on.outputs.go == 'true'
+        run: ln -sfn "$GITHUB_WORKSPACE/nba" "$GITHUB_WORKSPACE/data"
+
+      - name: Run the trial
+        if: steps.on.outputs.go == 'true'
+        working-directory: nba
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "30 15 * * *" ]; then
+            python3 nba_preseason_trial_v1.py
+          else
+            python3 nba_preseason_trial_v1.py --grade-only
+          fi
+
+      - name: Commit and push
+        if: always() && steps.on.outputs.go == 'true'
+        run: |
+          git config user.name "sports-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          for f in nba/NBA_PRESEASON_TRIAL_V1.sqlite3 nba/preseason_trial_export.json; do [ -f "$f" ] && git add "$f"; done
+          git diff --cached --quiet && exit 0
+          git commit -m "NBA preseason trial $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done
+          exit 1
