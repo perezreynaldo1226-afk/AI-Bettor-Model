@@ -1,0 +1,153 @@
+{
+ "docs": [
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "UTA",
+    "away_team_name": "Utah Jazz",
+    "espn_event_id": "401914127",
+    "export_hash": "2ed77c8ea58653f217a1a0fdc8b3d96d097f80fd57c0ee0457e5a6e13856eb2c",
+    "game_date": "2026-10-04",
+    "game_id": "NBATRIAL_401914127",
+    "home_team": "DEN",
+    "home_team_name": "Denver Nuggets",
+    "kickoff_time": "2026-10-04T23:00:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": 136,
+     "moneyline_home": -162
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-03T23:12:25Z",
+     "status": "locked",
+     "winner_prob": 0.8641100528217299,
+     "winner_side": "DEN"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401914127"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "UTA",
+    "away_team_name": "Utah Jazz",
+    "decision": {
+     "action": "ML",
+     "prob": 0.8641100528217299,
+     "side": "DEN",
+     "tier": "top25"
+    },
+    "espn_event_id": "401914127",
+    "export_hash": "ccc61ff7ab596346bb2feba7002eb4975f2818d72427d9734098581a8cd2cedf",
+    "game_date": "2026-10-04",
+    "game_id": "NBATRIAL_401914127",
+    "home_team": "DEN",
+    "home_team_name": "Denver Nuggets",
+    "kickoff_time": "2026-10-04T23:00:00Z",
+    "locked_at": "2026-10-03T23:12:25Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": 136,
+     "moneyline_home": -162
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401914127"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "GSW",
+    "away_team_name": "Golden State Warriors",
+    "espn_event_id": "401918010",
+    "export_hash": "a27ff2774c750e6a3d7ab69d2a11c33c2f99963ccc715ecbb98530f1ed0032c7",
+    "game_date": "2026-10-04",
+    "game_id": "NBATRIAL_401918010",
+    "home_team": "LAC",
+    "home_team_name": "LA Clippers",
+    "kickoff_time": "2026-10-04T23:00:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": -148,
+     "moneyline_home": 124
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-03T23:12:25Z",
+     "status": "locked",
+     "winner_prob": 0.6688673455156445,
+     "winner_side": "LAC"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401918010"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "GSW",
+    "away_team_name": "Golden State Warriors",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6688673455156445,
+     "side": "LAC",
+     "tier": "top50"
+    },
+    "espn_event_id": "401918010",
+    "export_hash": "d4244439ee252ea9f49beeba917b8cf507fb20975fa56b30cf7b19c8927a2116",
+    "game_date": "2026-10-04",
+    "game_id": "NBATRIAL_401918010",
+    "home_team": "LAC",
+    "home_team_name": "LA Clippers",
+    "kickoff_time": "2026-10-04T23:00:00Z",
+    "locked_at": "2026-10-03T23:12:25Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": -148,
+     "moneyline_home": 124
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401918010"
+  }
+ ],
+ "generated_at": "2026-10-03T23:12:25Z",
+ "n_docs": 4,
+ "sport": "NBA_TRIAL"
+}
