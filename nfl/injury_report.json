@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T06:10:10.322122Z",
+ "generated_at": "2026-10-03T14:52:18.286567Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -380,14 +380,14 @@
   ],
   "IND": [
    {
-    "espn_updated": "2026-10-02T17:23Z",
+    "espn_updated": "2026-10-03T14:37Z",
     "injury": "Groin",
     "name": "Keenan Allen",
     "pos": "WR",
-    "return_date": "2026-10-04",
+    "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.64,
-    "status": "Questionable"
+    "status": "Out"
    }
   ],
   "JAX": [
@@ -524,7 +524,7 @@
   ],
   "MIN": [
    {
-    "espn_updated": "2026-10-02T18:35Z",
+    "espn_updated": "2026-10-03T13:33Z",
     "injury": "Ankle",
     "name": "Justin Jefferson",
     "pos": "WR",
@@ -836,14 +836,14 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-02T17:06Z",
+    "espn_updated": "2026-10-03T14:42Z",
     "injury": "Hamstring",
     "name": "Terry McLaurin",
     "pos": "WR",
     "return_date": "2026-10-04",
     "share_basis": "this season",
     "snap_share": 0.77,
-    "status": "Questionable"
+    "status": "Doubtful"
    }
   ]
  }
