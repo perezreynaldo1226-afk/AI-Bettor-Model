@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T00:21:18.912077Z"
+    "synced_at": "2026-10-03T18:35:56.278409Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T00:21:18.912077Z"
+    "synced_at": "2026-10-03T18:35:56.278409Z"
    },
    "doc_id": "ATL202609290"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T00:21:18.912077Z"
+    "synced_at": "2026-10-03T18:35:56.278409Z"
    },
    "doc_id": "NYA202609290"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T00:21:18.912077Z"
+    "synced_at": "2026-10-03T18:35:56.278409Z"
    },
    "doc_id": "SDN202609290"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T00:21:18.912077Z"
+    "synced_at": "2026-10-03T18:35:56.278409Z"
    },
    "doc_id": "ATL202609300"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T00:21:18.912077Z"
+    "synced_at": "2026-10-03T18:35:56.278409Z"
    },
    "doc_id": "HOU202609300"
   },
@@ -491,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T00:21:18.912077Z"
+    "synced_at": "2026-10-03T18:35:56.278409Z"
    },
    "doc_id": "NYA202609300"
   },
@@ -568,7 +568,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T00:21:18.912077Z"
+    "synced_at": "2026-10-03T18:35:56.278409Z"
    },
    "doc_id": "SDN202609300"
   },
@@ -614,9 +614,185 @@
     "teaser_signal": null
    },
    "doc_id": "SDN202609300"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "NYY",
+    "export_hash": "ab480fc783525b6affe5102afe93e02d65f5cb44bf313e06f578b5e43b188493",
+    "game_date": "2026-10-03",
+    "game_id": "TBA202610030",
+    "home_team": "TB",
+    "kickoff_time": "2026-10-03T22:31:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 117,
+     "moneyline_home": -127,
+     "spread_away_odds": -178.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 170.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Gerrit Cole vs Drew Rasmussen. Odds from Kalshi (n_books_used=1).",
+     "series": {
+      "away_wins": 0,
+      "description": "AL Division Series",
+      "fair_price_favored": -193,
+      "favored": "TB",
+      "favored_prob": 0.6587,
+      "games_in_series": 5,
+      "home_wins": 0,
+      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
+      "p_home_series": 0.6587,
+      "series_game_number": 1
+     },
+     "source_snapshot_time": "2026-10-03T18:35:49.863689+00:00",
+     "spread_prob": 0.5943018053947979,
+     "spread_side": "NYY +1.5",
+     "spread_side_team": "NYY",
+     "status": "locked",
+     "winner_prob": 0.5863487073227893,
+     "winner_side": "TB"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-10-03T18:35:56.278409Z"
+   },
+   "doc_id": "TBA202610030"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "NYY",
+    "decision": {
+     "action": "ML",
+     "prob": 0.5863487073227893,
+     "side": "TB",
+     "tier": "top25"
+    },
+    "export_hash": "1da05e0edcf1792624ae35acf3419c96f26f73b1031fd38e37c5b02698111939",
+    "game_date": "2026-10-03",
+    "game_id": "TBA202610030",
+    "home_team": "TB",
+    "kickoff_time": "2026-10-03T22:31:00Z",
+    "locked_at": "2026-10-03T18:35:49.863689+00:00",
+    "market_snapshot": {
+     "moneyline_away": 117,
+     "moneyline_home": -127
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "TBA202610030"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "SD",
+    "export_hash": "4524df17e565453c16a88ba0194e0e65a72f5fdd097adcf775cabf6da01bd7bd",
+    "game_date": "2026-10-03",
+    "game_id": "MIL202610030",
+    "home_team": "MIL",
+    "kickoff_time": "2026-10-04T00:30:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 178,
+     "moneyline_home": -186,
+     "spread_away_odds": -122.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 117.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Robbie Ray vs Jacob Misiorowski. Odds from Kalshi (n_books_used=1).",
+     "series": {
+      "away_wins": 0,
+      "description": "NL Division Series",
+      "fair_price_favored": -283,
+      "favored": "MIL",
+      "favored_prob": 0.7387,
+      "games_in_series": 5,
+      "home_wins": 0,
+      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
+      "p_home_series": 0.7387,
+      "series_game_number": 1
+     },
+     "source_snapshot_time": "2026-10-03T18:35:49.863689+00:00",
+     "spread_prob": 0.5238286278701045,
+     "spread_side": "SD +1.5",
+     "spread_side_team": "SD",
+     "status": "locked",
+     "winner_prob": 0.6335359007876843,
+     "winner_side": "MIL"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-10-03T18:35:56.278409Z"
+   },
+   "doc_id": "MIL202610030"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "SD",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6335359007876843,
+     "side": "MIL",
+     "tier": "top25"
+    },
+    "export_hash": "e44a2a4e779c51b5e0aad4a96271cc37bb2f29b90c8f6cec1b10dbbed03297d6",
+    "game_date": "2026-10-03",
+    "game_id": "MIL202610030",
+    "home_team": "MIL",
+    "kickoff_time": "2026-10-04T00:30:00Z",
+    "locked_at": "2026-10-03T18:35:49.863689+00:00",
+    "market_snapshot": {
+     "moneyline_away": 178,
+     "moneyline_home": -186
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "MIL202610030"
   }
  ],
- "generated_at": "2026-10-03T00:21:18.912077Z",
- "n_docs": 16,
+ "generated_at": "2026-10-03T18:35:56.278409Z",
+ "n_docs": 20,
  "sport": "MLB"
 }
