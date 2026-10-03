@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T14:52:18.286567Z",
+ "generated_at": "2026-10-03T21:51:31.006997Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -17,7 +17,7 @@
   ],
   "ATL": [
    {
-    "espn_updated": "2026-10-01T21:25Z",
+    "espn_updated": "2026-10-03T17:10Z",
     "injury": "Hamstring",
     "name": "Divine Deablo",
     "pos": "LB",
@@ -29,14 +29,14 @@
   ],
   "BAL": [
    {
-    "espn_updated": "2026-10-01T00:39Z",
+    "espn_updated": "2026-10-03T20:11Z",
     "injury": "Lower Leg",
     "name": "Jovaughn Gwyn",
     "pos": "G",
     "return_date": "2026-12-13",
     "share_basis": "this season",
     "snap_share": 0.91,
-    "status": "Out"
+    "status": "Injured Reserve"
    },
    {
     "espn_updated": "2026-10-02T17:33Z",
@@ -93,16 +93,6 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-03T01:03Z",
-    "injury": "Concussion",
-    "name": "Monroe Freeling",
-    "pos": "OT",
-    "return_date": "2026-10-04",
-    "share_basis": "this season",
-    "snap_share": 0.97,
-    "status": "Questionable"
-   },
-   {
     "espn_updated": "2026-10-02T16:41Z",
     "injury": "Quadriceps",
     "name": "Jalen Coker",
@@ -139,10 +129,10 @@
     "injury": "Knee",
     "name": "Braxton Jones",
     "pos": "OT",
-    "return_date": "2026-10-11",
+    "return_date": "2026-11-02",
     "share_basis": "this season",
     "snap_share": 0.65,
-    "status": "Out"
+    "status": "Injured Reserve"
    }
   ],
   "CIN": [
@@ -316,16 +306,6 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-02T22:23Z",
-    "injury": "Concussion",
-    "name": "Edgerrin Cooper",
-    "pos": "LB",
-    "return_date": "2026-10-04",
-    "share_basis": "this season",
-    "snap_share": 0.92,
-    "status": "Questionable"
-   },
-   {
     "espn_updated": "2026-10-03T01:32Z",
     "injury": "Groin",
     "name": "Jager Burton",
@@ -490,16 +470,6 @@
   ],
   "LV": [
    {
-    "espn_updated": "2026-09-30T20:49Z",
-    "injury": "Personal",
-    "name": "Aidan O'Connell",
-    "pos": "QB",
-    "return_date": "2026-10-04",
-    "share_basis": "last season",
-    "snap_share": 0.82,
-    "status": "Questionable"
-   },
-   {
     "espn_updated": "2026-10-02T19:51Z",
     "injury": "Groin",
     "name": "Jackson Powers-Johnson",
@@ -546,7 +516,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-09-30T21:14Z",
+    "espn_updated": "2026-10-03T18:27Z",
     "injury": "Chest",
     "name": "Christian Elliss",
     "pos": "LB",
@@ -578,6 +548,16 @@
   ],
   "NO": [
    {
+    "espn_updated": "2026-10-03T18:33Z",
+    "injury": "Calf",
+    "name": "Kaden Elliss",
+    "pos": "LB",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 1.0,
+    "status": "Out"
+   },
+   {
     "espn_updated": "2026-09-26T00:47Z",
     "injury": "Ankle",
     "name": "Kelvin Banks Jr.",
@@ -588,24 +568,14 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-02T23:42Z",
-    "injury": "Calf",
-    "name": "Kaden Elliss",
-    "pos": "LB",
-    "return_date": "2026-10-05",
-    "share_basis": "this season",
-    "snap_share": 1.0,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-10-01T21:39Z",
+    "espn_updated": "2026-10-03T18:43Z",
     "injury": "Ankle",
     "name": "Carl Granderson",
     "pos": "DE",
-    "return_date": "2026-10-05",
+    "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.65,
-    "status": "Questionable"
+    "status": "Out"
    }
   ],
   "NYG": [
