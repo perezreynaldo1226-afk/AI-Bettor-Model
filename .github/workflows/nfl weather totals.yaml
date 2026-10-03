@@ -63,7 +63,7 @@ jobs:
           for f in nfl_weather_totals_model_v1.json WEATHER_TOTALS_LIVE_V1.sqlite3 WEATHER_TOTALS_PREVIEW_V1.json; do [ -f "$f" ] && git add "$f"; done; true
           git diff --cached --quiet || git commit -m "weather totals live v1: $(date -u +%FT%TZ)"
           git pull --rebase -q || true
-          (cd nfl && python3 export_lineboard_nfl_v5.py) || echo "export failed; picks are still saved"
+          (cd nfl && python3 export_lineboard_nfl_v6.py) || echo "export failed; picks are still saved"
           git add nfl/lineboard_export.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "NFL app export with weather picks $(date -u +%FT%TZ)"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

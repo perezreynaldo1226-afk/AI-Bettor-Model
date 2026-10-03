@@ -51,7 +51,7 @@ jobs:
           [ -f KEY_LADDER_LIVE_V1.sqlite3 ] && git add KEY_LADDER_LIVE_V1.sqlite3; true
           git diff --cached --quiet || git commit -m "key ladder live v1: $(date -u +%FT%TZ)"
           git pull --rebase -q || true
-          (cd nfl && python3 export_lineboard_nfl_v5.py) || echo "export failed; ladder data is still saved"
+          (cd nfl && python3 export_lineboard_nfl_v6.py) || echo "export failed; ladder data is still saved"
           git add nfl/lineboard_export.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "NFL app export with key ladder $(date -u +%FT%TZ)"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
