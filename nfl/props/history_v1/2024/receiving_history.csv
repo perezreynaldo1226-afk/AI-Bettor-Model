@@ -1,0 +1,1086 @@
+season,game_id,game_date,week,team_id,team_name,opponent_id,home,player_id,player_name,targets,receptions,receiving_yards,receiving_touchdowns
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,23838,Rashee Rice,9,7,103,0
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,24401,Xavier Worthy,3,2,47,1
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,1214,Noah Gray,3,3,37,0
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,1215,Travis Kelce,4,3,34,0
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,1202,Isiah Pacheco,3,2,33,0
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,1211,Justin Watson,1,1,25,0
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,687,Samaje Perine,2,1,10,0
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,1197,Patrick Mahomes,1,1,2,0
+2024,13186,2024-09-06T00:40,Week 1,17,Kansas City Chiefs,5,1,1209,JuJu Smith-Schuster,1,0,0,0
+2024,13186,2024-09-06T00:40,Week 1,5,Baltimore Ravens,17,0,312,Isaiah Likely,12,9,111,1
+2024,13186,2024-09-06T00:40,Week 1,5,Baltimore Ravens,17,0,300,Rashod Bateman,5,2,53,0
+2024,13186,2024-09-06T00:40,Week 1,5,Baltimore Ravens,17,0,297,Justice Hill,8,6,52,0
+2024,13186,2024-09-06T00:40,Week 1,5,Baltimore Ravens,17,0,18222,Zay Flowers,10,6,37,0
+2024,13186,2024-09-06T00:40,Week 1,5,Baltimore Ravens,17,0,309,Mark Andrews,2,2,14,0
+2024,13186,2024-09-06T00:40,Week 1,5,Baltimore Ravens,17,0,148,Nelson Agholor,1,1,6,0
+2024,13186,2024-09-06T00:40,Week 1,5,Baltimore Ravens,17,0,373,Derrick Henry,2,0,0,0
+2024,13187,2024-09-07T00:15,Week 1,12,Philadelphia Eagles,15,1,838,A.J. Brown,10,5,119,1
+2024,13187,2024-09-07T00:15,Week 1,12,Philadelphia Eagles,15,1,842,DeVonta Smith,8,7,84,0
+2024,13187,2024-09-07T00:15,Week 1,12,Philadelphia Eagles,15,1,846,Dallas Goedert,5,4,31,0
+2024,13187,2024-09-07T00:15,Week 1,12,Philadelphia Eagles,15,1,219,Saquon Barkley,2,2,23,1
+2024,13187,2024-09-07T00:15,Week 1,12,Philadelphia Eagles,15,1,845,Grant Calcaterra,1,1,11,0
+2024,13187,2024-09-07T00:15,Week 1,12,Philadelphia Eagles,15,1,833,Kenneth Gainwell,1,1,10,0
+2024,13187,2024-09-07T00:15,Week 1,12,Philadelphia Eagles,15,1,1268,Jahan Dotson,1,0,0,0
+2024,13187,2024-09-07T00:15,Week 1,12,Philadelphia Eagles,15,1,7533,Johnny Wilson,1,0,0,0
+2024,13187,2024-09-07T00:15,Week 1,15,Green Bay Packers,12,0,12515,Jayden Reed,6,4,138,1
+2024,13187,2024-09-07T00:15,Week 1,15,Green Bay Packers,12,0,1057,Romeo Doubs,7,4,50,0
+2024,13187,2024-09-07T00:15,Week 1,15,Green Bay Packers,12,0,17908,Tucker Kraft,3,2,37,0
+2024,13187,2024-09-07T00:15,Week 1,15,Green Bay Packers,12,0,6,Josh Jacobs,3,2,20,0
+2024,13187,2024-09-07T00:15,Week 1,15,Green Bay Packers,12,0,1063,Christian Watson,5,3,13,1
+2024,13187,2024-09-07T00:15,Week 1,15,Green Bay Packers,12,0,36292,Emanuel Wilson,3,2,2,0
+2024,13187,2024-09-07T00:15,Week 1,15,Green Bay Packers,12,0,25331,Luke Musgrave,2,0,0,0
+2024,13187,2024-09-07T00:15,Week 1,15,Green Bay Packers,12,0,18877,Dontayvion Wicks,3,0,0,0
+2024,13188,2024-09-08T17:00,Week 1,8,Atlanta Falcons,22,1,990,Ray-Ray McCloud III,7,4,52,0
+2024,13188,2024-09-08T17:00,Week 1,8,Atlanta Falcons,22,1,24380,Bijan Robinson,5,5,43,0
+2024,13188,2024-09-08T17:00,Week 1,8,Atlanta Falcons,22,1,549,Kyle Pitts,3,3,26,1
+2024,13188,2024-09-08T17:00,Week 1,8,Atlanta Falcons,22,1,1131,Darnell Mooney,3,1,15,0
+2024,13188,2024-09-08T17:00,Week 1,8,Atlanta Falcons,22,1,542,Drake London,3,2,15,0
+2024,13188,2024-09-08T17:00,Week 1,8,Atlanta Falcons,22,1,999,Charlie Woerner,2,1,4,0
+2024,13188,2024-09-08T17:00,Week 1,22,Pittsburgh Steelers,8,0,1577,George Pickens,7,6,85,0
+2024,13188,2024-09-08T17:00,Week 1,22,Pittsburgh Steelers,8,0,1580,Pat Freiermuth,4,4,27,0
+2024,13188,2024-09-08T17:00,Week 1,22,Pittsburgh Steelers,8,0,1569,Jaylen Warren,2,2,13,0
+2024,13188,2024-09-08T17:00,Week 1,22,Pittsburgh Steelers,8,0,550,MyCole Pruitt,2,1,9,0
+2024,13188,2024-09-08T17:00,Week 1,22,Pittsburgh Steelers,8,0,1565,Najee Harris,2,1,9,0
+2024,13188,2024-09-08T17:00,Week 1,22,Pittsburgh Steelers,8,0,1571,Calvin Austin III,2,1,7,0
+2024,13188,2024-09-08T17:00,Week 1,22,Pittsburgh Steelers,8,0,14507,Darnell Washington,1,1,5,0
+2024,13188,2024-09-08T17:00,Week 1,22,Pittsburgh Steelers,8,0,2237,Van Jefferson,2,1,1,0
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,12502,Keon Coleman,5,4,51,0
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,1431,Khalil Shakir,3,3,42,1
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,1417,James Cook,3,3,32,0
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,12,Mack Hollins,2,2,25,1
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,1434,Dawson Knox,2,1,23,0
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,1210,Marquez Valdes-Scantling,2,1,19,0
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,1274,Curtis Samuel,2,2,15,0
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,8824,Ray Davis,1,1,14,0
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,15004,Dalton Kincaid,2,1,11,0
+2024,13189,2024-09-08T17:00,Week 1,20,Buffalo Bills,11,1,908,Ty Johnson,1,0,0,0
+2024,13189,2024-09-08T17:00,Week 1,11,Arizona Cardinals,20,0,764,Greg Dortch,8,6,47,0
+2024,13189,2024-09-08T17:00,Week 1,11,Arizona Cardinals,20,0,756,James Conner,4,3,33,0
+2024,13189,2024-09-08T17:00,Week 1,11,Arizona Cardinals,20,0,773,Trey McBride,9,5,30,0
+2024,13189,2024-09-08T17:00,Week 1,11,Arizona Cardinals,20,0,13966,Emari Demercado,2,2,26,0
+2024,13189,2024-09-08T17:00,Week 1,11,Arizona Cardinals,20,0,23957,Elijah Higgins,2,2,12,0
+2024,13189,2024-09-08T17:00,Week 1,11,Arizona Cardinals,20,0,23966,Michael Wilson,2,1,5,1
+2024,13189,2024-09-08T17:00,Week 1,11,Arizona Cardinals,20,0,7515,Trey Benson,1,1,5,0
+2024,13189,2024-09-08T17:00,Week 1,11,Arizona Cardinals,20,0,14251,Marvin Harrison Jr.,3,1,4,0
+2024,13190,2024-09-08T17:00,Week 1,16,Chicago Bears,6,1,1353,DJ Moore,8,5,36,0
+2024,13190,2024-09-08T17:00,Week 1,16,Chicago Bears,6,1,2159,Keenan Allen,11,4,29,0
+2024,13190,2024-09-08T17:00,Week 1,16,Chicago Bears,6,1,25552,Rome Odunze,4,1,11,0
+2024,13190,2024-09-08T17:00,Week 1,16,Chicago Bears,6,1,1130,Velus Jones Jr.,1,1,8,0
+2024,13190,2024-09-08T17:00,Week 1,16,Chicago Bears,6,1,2161,DeAndre Carter,2,1,6,0
+2024,13190,2024-09-08T17:00,Week 1,16,Chicago Bears,6,1,1139,Cole Kmet,1,1,4,0
+2024,13190,2024-09-08T17:00,Week 1,16,Chicago Bears,6,1,455,D'Andre Swift,1,0,0,0
+2024,13190,2024-09-08T17:00,Week 1,16,Chicago Bears,6,1,2167,Gerald Everett,1,1,-1,0
+2024,13190,2024-09-08T17:00,Week 1,6,Tennessee Titans,16,0,543,Calvin Ridley,7,3,50,0
+2024,13190,2024-09-08T17:00,Week 1,6,Tennessee Titans,16,0,689,Tyler Boyd,5,3,18,0
+2024,13190,2024-09-08T17:00,Week 1,6,Tennessee Titans,16,0,388,Chigoziem Okonkwo,2,2,15,1
+2024,13190,2024-09-08T17:00,Week 1,6,Tennessee Titans,16,0,2082,Tony Pollard,4,3,12,0
+2024,13190,2024-09-08T17:00,Week 1,6,Tennessee Titans,16,0,1947,Nick Vannett,2,2,11,0
+2024,13190,2024-09-08T17:00,Week 1,6,Tennessee Titans,16,0,22656,Tyjae Spears,4,4,11,0
+2024,13190,2024-09-08T17:00,Week 1,6,Tennessee Titans,16,0,766,DeAndre Hopkins,1,1,8,0
+2024,13190,2024-09-08T17:00,Week 1,6,Tennessee Titans,16,0,376,Treylon Burks,2,1,2,0
+2024,13191,2024-09-08T17:00,Week 1,10,Cincinnati Bengals,3,1,690,Ja'Marr Chase,6,6,62,0
+2024,13191,2024-09-08T17:00,Week 1,10,Cincinnati Bengals,3,1,34175,Andrei Iosivas,6,3,26,0
+2024,13191,2024-09-08T17:00,Week 1,10,Cincinnati Bengals,3,1,237,Tanner Hudson,3,2,18,0
+2024,13191,2024-09-08T17:00,Week 1,10,Cincinnati Bengals,3,1,1799,Mike Gesicki,4,3,18,0
+2024,13191,2024-09-08T17:00,Week 1,10,Cincinnati Bengals,3,1,1420,Zack Moss,4,2,17,0
+2024,13191,2024-09-08T17:00,Week 1,10,Cincinnati Bengals,3,1,7287,Chase Brown,3,3,12,0
+2024,13191,2024-09-08T17:00,Week 1,10,Cincinnati Bengals,3,1,2609,Trenton Irwin,2,1,6,0
+2024,13191,2024-09-08T17:00,Week 1,10,Cincinnati Bengals,3,1,10792,Charlie Jones,1,1,5,0
+2024,13191,2024-09-08T17:00,Week 1,3,New England Patriots,10,0,385,Austin Hooper,4,2,31,0
+2024,13191,2024-09-08T17:00,Week 1,3,New England Patriots,10,0,157,Tyquan Thornton,3,2,27,0
+2024,13191,2024-09-08T17:00,Week 1,3,New England Patriots,10,0,2322,K.J. Osborn,6,3,21,0
+2024,13191,2024-09-08T17:00,Week 1,3,New England Patriots,10,0,161,Hunter Henry,3,2,18,0
+2024,13191,2024-09-08T17:00,Week 1,3,New England Patriots,10,0,22546,Demario Douglas,3,2,12,0
+2024,13191,2024-09-08T17:00,Week 1,3,New England Patriots,10,0,25554,Ja'Lynn Polk,1,1,6,0
+2024,13191,2024-09-08T17:00,Week 1,3,New England Patriots,10,0,145,Rhamondre Stevenson,3,3,6,0
+2024,13192,2024-09-08T17:00,Week 1,21,Indianapolis Colts,26,1,1500,Alec Pierce,3,3,125,1
+2024,13192,2024-09-08T17:00,Week 1,21,Indianapolis Colts,26,1,1497,Ashton Dulin,1,1,54,1
+2024,13192,2024-09-08T17:00,Week 1,21,Indianapolis Colts,26,1,1501,Michael Pittman Jr.,8,4,31,0
+2024,13192,2024-09-08T17:00,Week 1,21,Indianapolis Colts,26,1,14488,Adonai Mitchell,5,1,2,0
+2024,13192,2024-09-08T17:00,Week 1,21,Indianapolis Colts,26,1,1503,Mo Alie-Cox,1,0,0,0
+2024,13192,2024-09-08T17:00,Week 1,21,Indianapolis Colts,26,1,1504,Kylen Granson,1,0,0,0
+2024,13192,2024-09-08T17:00,Week 1,26,Houston Texans,21,0,1860,Nico Collins,8,6,117,0
+2024,13192,2024-09-08T17:00,Week 1,26,Houston Texans,21,0,17320,Nathaniel Dell,7,3,40,0
+2024,13192,2024-09-08T17:00,Week 1,26,Houston Texans,21,0,1426,Stefon Diggs,6,6,33,2
+2024,13192,2024-09-08T17:00,Week 1,26,Houston Texans,21,0,686,Joe Mixon,3,3,19,0
+2024,13192,2024-09-08T17:00,Week 1,26,Houston Texans,21,0,2097,Dalton Schultz,3,3,16,0
+2024,13192,2024-09-08T17:00,Week 1,26,Houston Texans,21,0,1858,Dare Ogunbowale,1,1,3,0
+2024,13192,2024-09-08T17:00,Week 1,26,Houston Texans,21,0,1870,Brevin Jordan,2,1,3,0
+2024,13192,2024-09-08T17:00,Week 1,26,Houston Texans,21,0,19308,Xavier Hutchinson,1,1,3,0
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,1792,Tyreek Hill,12,7,130,1
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,1795,Jaylen Waddle,5,5,109,0
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,14725,Devon Achane,7,7,76,0
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,1787,Raheem Mostert,3,2,10,0
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,162,Jonnu Smith,2,1,7,0
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,30145,Julian Hill,1,1,6,0
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,1802,Durham Smythe,3,0,0,0
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,911,Braxton Berrios,2,0,0,0
+2024,13193,2024-09-08T17:00,Week 1,25,Miami Dolphins,2,1,1788,Alec Ingold,1,0,0,0
+2024,13193,2024-09-08T17:00,Week 1,2,Jacksonville Jaguars,25,0,1425,Gabe Davis,3,3,62,0
+2024,13193,2024-09-08T17:00,Week 1,2,Jacksonville Jaguars,25,0,25771,Brian Thomas Jr.,4,4,47,1
+2024,13193,2024-09-08T17:00,Week 1,2,Jacksonville Jaguars,25,0,82,Christian Kirk,4,1,30,0
+2024,13193,2024-09-08T17:00,Week 1,2,Jacksonville Jaguars,25,0,72,Travis Etienne Jr.,3,2,15,0
+2024,13193,2024-09-08T17:00,Week 1,2,Jacksonville Jaguars,25,0,87,Evan Engram,4,1,5,0
+2024,13193,2024-09-08T17:00,Week 1,2,Jacksonville Jaguars,25,0,10915,Parker Washington,1,1,3,0
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,1938,Rashid Shaheed,5,3,73,1
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,18,Foster Moreau,4,4,43,1
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,1928,Alvin Kamara,5,5,27,0
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,1943,Juwan Johnson,3,2,26,1
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,456,Jamaal Williams,1,1,13,0
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,1937,Chris Olave,2,2,11,0
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,34536,Mason Tipton,1,1,6,0
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,1941,Taysom Hill,2,1,1,0
+2024,13194,2024-09-08T17:00,Week 1,27,New Orleans Saints,19,1,9195,Bub Means,1,0,0,0
+2024,13194,2024-09-08T17:00,Week 1,19,Carolina Panthers,27,0,2325,Adam Thielen,4,3,49,0
+2024,13194,2024-09-08T17:00,Week 1,19,Carolina Panthers,27,0,16964,Jonathan Mingo,5,2,40,0
+2024,13194,2024-09-08T17:00,Week 1,19,Carolina Panthers,27,0,23602,Xavier Legette,7,4,35,0
+2024,13194,2024-09-08T17:00,Week 1,19,Carolina Panthers,27,0,1574,Diontae Johnson,6,2,19,0
+2024,13194,2024-09-08T17:00,Week 1,19,Carolina Panthers,27,0,3288,David Moore,3,1,14,0
+2024,13194,2024-09-08T17:00,Week 1,19,Carolina Panthers,27,0,24409,Ja'Tavion Sanders,1,1,4,0
+2024,13194,2024-09-08T17:00,Week 1,19,Carolina Panthers,27,0,998,Jordan Matthews,1,0,0,0
+2024,13194,2024-09-08T17:00,Week 1,19,Carolina Panthers,27,0,834,Miles Sanders,2,0,0,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,25767,Malik Nabers,7,5,66,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,231,Wan'Dale Robinson,12,6,44,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,234,Darius Slayton,4,3,26,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,10918,Theo Johnson,4,1,18,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,1421,Devin Singletary,5,4,15,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,15347,Eric Gray,1,1,9,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,10802,Tyrone Tracy,3,1,5,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,236,Daniel Bellinger,1,1,3,0
+2024,13195,2024-09-08T17:00,Week 1,4,New York Giants,32,1,9889,Jalin Hyatt,1,0,0,0
+2024,13195,2024-09-08T17:00,Week 1,32,Minnesota Vikings,4,0,2319,Justin Jefferson,6,4,59,1
+2024,13195,2024-09-08T17:00,Week 1,32,Minnesota Vikings,4,0,15923,Jordan Addison,4,3,35,0
+2024,13195,2024-09-08T17:00,Week 1,32,Minnesota Vikings,4,0,313,Josh Oliver,2,2,27,0
+2024,13195,2024-09-08T17:00,Week 1,32,Minnesota Vikings,4,0,2310,Ty Chandler,3,3,25,0
+2024,13195,2024-09-08T17:00,Week 1,32,Minnesota Vikings,4,0,2321,Jalen Nailor,1,1,21,1
+2024,13195,2024-09-08T17:00,Week 1,32,Minnesota Vikings,4,0,1054,Aaron Jones,2,2,15,0
+2024,13195,2024-09-08T17:00,Week 1,32,Minnesota Vikings,4,0,2328,Johnny Mundt,3,2,15,0
+2024,13195,2024-09-08T17:00,Week 1,32,Minnesota Vikings,4,0,2315,C.J. Ham,2,2,11,0
+2024,13196,2024-09-08T20:05,Week 1,30,Los Angeles Chargers,1,1,14485,Ladd McConkey,7,5,39,1
+2024,13196,2024-09-08T20:05,Week 1,30,Los Angeles Chargers,1,1,13985,Quentin Johnston,5,3,38,0
+2024,13196,2024-09-08T20:05,Week 1,30,Los Angeles Chargers,1,1,698,Hayden Hurst,3,2,33,0
+2024,13196,2024-09-08T20:05,Week 1,30,Los Angeles Chargers,1,1,2164,Joshua Palmer,4,2,15,0
+2024,13196,2024-09-08T20:05,Week 1,30,Los Angeles Chargers,1,1,1648,Will Dissly,1,1,13,0
+2024,13196,2024-09-08T20:05,Week 1,30,Los Angeles Chargers,1,1,294,J.K. Dobbins,3,3,4,0
+2024,13196,2024-09-08T20:05,Week 1,30,Los Angeles Chargers,1,1,296,Gus Edwards,1,1,2,0
+2024,13196,2024-09-08T20:05,Week 1,30,Los Angeles Chargers,1,1,25480,Scott Matlock,1,0,0,0
+2024,13196,2024-09-08T20:05,Week 1,1,Las Vegas Raiders,30,0,152,Jakobi Meyers,3,3,61,0
+2024,13196,2024-09-08T20:05,Week 1,1,Las Vegas Raiders,30,0,10,Davante Adams,6,5,59,0
+2024,13196,2024-09-08T20:05,Week 1,1,Las Vegas Raiders,30,0,14497,Brock Bowers,8,6,58,0
+2024,13196,2024-09-08T20:05,Week 1,1,Las Vegas Raiders,30,0,2313,Alexander Mattison,6,4,43,1
+2024,13196,2024-09-08T20:05,Week 1,1,Las Vegas Raiders,30,0,16617,Tre Tucker,3,2,22,0
+2024,13196,2024-09-08T20:05,Week 1,1,Las Vegas Raiders,30,0,16,DJ Turner,1,1,9,0
+2024,13196,2024-09-08T20:05,Week 1,1,Las Vegas Raiders,30,0,14380,Michael Mayer,3,2,3,0
+2024,13196,2024-09-08T20:05,Week 1,1,Las Vegas Raiders,30,0,8,Zamir White,2,2,2,0
+2024,13197,2024-09-08T20:05,Week 1,23,Seattle Seahawks,28,1,1644,Tyler Lockett,7,6,77,0
+2024,13197,2024-09-08T20:05,Week 1,23,Seattle Seahawks,28,1,19529,Zach Charbonnet,3,2,29,1
+2024,13197,2024-09-08T20:05,Week 1,23,Seattle Seahawks,28,1,1645,DK Metcalf,4,3,29,0
+2024,13197,2024-09-08T20:05,Week 1,23,Seattle Seahawks,28,1,14255,Jaxon SmithNjigba,2,2,19,0
+2024,13197,2024-09-08T20:05,Week 1,23,Seattle Seahawks,28,1,1649,Noah Fant,4,2,11,0
+2024,13197,2024-09-08T20:05,Week 1,23,Seattle Seahawks,28,1,1640,Kenneth Walker III,3,2,6,0
+2024,13197,2024-09-08T20:05,Week 1,23,Seattle Seahawks,28,1,1356,Laviska Shenault Jr.,1,1,0,0
+2024,13197,2024-09-08T20:05,Week 1,23,Seattle Seahawks,28,1,1647,Dareke Young,1,0,0,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,463,Josh Reynolds,8,5,45,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,15000,Devaughn Vele,8,8,39,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,2013,Courtland Sutton,12,4,38,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,2018,Greg Dulcich,3,2,12,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,1203,Michael Burton,1,1,3,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,28956,Jaleel McLaughlin,5,5,1,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,1946,Adam Trautman,1,0,0,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,151,Lil'Jordan Humphrey,1,0,0,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,2005,Javonte Williams,2,1,0,0
+2024,13197,2024-09-08T20:05,Week 1,28,Denver Broncos,23,0,15363,Marvin Mims,1,0,0,0
+2024,13198,2024-09-08T20:25,Week 1,9,Cleveland Browns,29,1,630,David Njoku,5,4,44,0
+2024,13198,2024-09-08T20:25,Week 1,9,Cleveland Browns,29,1,1867,Jordan Akins,4,3,27,0
+2024,13198,2024-09-08T20:25,Week 1,9,Cleveland Browns,29,1,2009,Jerry Jeudy,8,3,25,1
+2024,13198,2024-09-08T20:25,Week 1,9,Cleveland Browns,29,1,612,Jerome Ford,7,6,25,0
+2024,13198,2024-09-08T20:25,Week 1,9,Cleveland Browns,29,1,146,Pierre Strong Jr.,3,2,20,0
+2024,13198,2024-09-08T20:25,Week 1,9,Cleveland Browns,29,1,618,Amari Cooper,9,2,16,0
+2024,13198,2024-09-08T20:25,Week 1,9,Cleveland Browns,29,1,916,Elijah Moore,6,3,9,0
+2024,13198,2024-09-08T20:25,Week 1,9,Cleveland Browns,29,1,9896,Cedric Tillman,1,1,3,0
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,2088,CeeDee Lamb,10,5,61,0
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,1862,Brandin Cooks,7,4,40,1
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,23598,Jalen Brooks,1,1,18,0
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,30710,Hunter Luepke,2,2,18,0
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,2094,Jake Ferguson,5,3,15,0
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,2090,Jalen Tolbert,2,1,12,0
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,2080,Ezekiel Elliott,2,2,9,0
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,2079,Rico Dowdle,1,1,6,0
+2024,13198,2024-09-08T20:25,Week 1,29,Dallas Cowboys,9,0,2091,KaVontae Turpin,1,0,0,0
+2024,13199,2024-09-08T20:25,Week 1,24,Tampa Bay Buccaneers,18,1,1719,Chris Godwin,8,8,83,1
+2024,13199,2024-09-08T20:25,Week 1,24,Tampa Bay Buccaneers,18,1,1713,Rachaad White,6,6,75,0
+2024,13199,2024-09-08T20:25,Week 1,24,Tampa Bay Buccaneers,18,1,1716,Mike Evans,6,5,61,2
+2024,13199,2024-09-08T20:25,Week 1,24,Tampa Bay Buccaneers,18,1,25551,Jalen McMillan,3,1,32,1
+2024,13199,2024-09-08T20:25,Week 1,24,Tampa Bay Buccaneers,18,1,6746,Trey Palmer,2,1,19,0
+2024,13199,2024-09-08T20:25,Week 1,24,Tampa Bay Buccaneers,18,1,14602,Bucky Irving,3,2,14,0
+2024,13199,2024-09-08T20:25,Week 1,24,Tampa Bay Buccaneers,18,1,1727,Cade Otton,2,1,5,0
+2024,13199,2024-09-08T20:25,Week 1,18,Washington Commanders,24,0,2153,Austin Ekeler,4,4,52,0
+2024,13199,2024-09-08T20:25,Week 1,18,Washington Commanders,24,0,1265,Brian Robinson Jr.,4,3,49,0
+2024,13199,2024-09-08T20:25,Week 1,18,Washington Commanders,24,0,772,Zach Ertz,4,3,28,0
+2024,13199,2024-09-08T20:25,Week 1,18,Washington Commanders,24,0,2426,Luke McCaffrey,3,3,18,0
+2024,13199,2024-09-08T20:25,Week 1,18,Washington Commanders,24,0,1271,Terry McLaurin,4,2,17,0
+2024,13199,2024-09-08T20:25,Week 1,18,Washington Commanders,24,0,544,Olamide Zaccheaus,3,1,15,0
+2024,13199,2024-09-08T20:25,Week 1,18,Washington Commanders,24,0,1424,Jamison Crowder,1,1,5,0
+2024,13199,2024-09-08T20:25,Week 1,18,Washington Commanders,24,0,1276,John Bates,1,0,0,0
+2024,13201,2024-09-10T00:15,Week 1,14,San Francisco 49ers,13,1,989,Jauan Jennings,5,5,64,0
+2024,13201,2024-09-10T00:15,Week 1,14,San Francisco 49ers,13,1,991,Deebo Samuel,9,5,54,0
+2024,13201,2024-09-10T00:15,Week 1,14,San Francisco 49ers,13,1,986,Kyle Juszczyk,3,2,40,0
+2024,13201,2024-09-10T00:15,Week 1,14,San Francisco 49ers,13,1,996,George Kittle,5,4,40,0
+2024,13201,2024-09-10T00:15,Week 1,14,San Francisco 49ers,13,1,987,Brandon Aiyuk,5,2,28,0
+2024,13201,2024-09-10T00:15,Week 1,14,San Francisco 49ers,13,1,983,Jordan Mason,1,1,5,0
+2024,13201,2024-09-10T00:15,Week 1,14,San Francisco 49ers,13,1,2020,Eric Saubert,1,0,0,0
+2024,13201,2024-09-10T00:15,Week 1,13,New York Jets,14,0,1059,Allen Lazard,9,6,89,2
+2024,13201,2024-09-10T00:15,Week 1,13,New York Jets,14,0,919,Garrett Wilson,11,6,60,0
+2024,13201,2024-09-10T00:15,Week 1,13,New York Jets,14,0,907,Breece Hall,6,5,39,0
+2024,13201,2024-09-10T00:15,Week 1,13,New York Jets,14,0,16252,Braelon Allen,1,1,9,0
+2024,13201,2024-09-10T00:15,Week 1,13,New York Jets,14,0,921,Tyler Conklin,2,1,6,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,14725,Devon Achane,7,7,69,1
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,162,Jonnu Smith,7,6,53,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,1795,Jaylen Waddle,4,4,41,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,1792,Tyreek Hill,6,3,24,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,7882,Grant DuBose,3,1,13,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,985,Jeff Wilson Jr.,2,2,12,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,1802,Durham Smythe,1,1,8,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,1350,Robbie Anderson,4,1,5,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,911,Braxton Berrios,1,0,0,0
+2024,13202,2024-09-13T00:15,Week 2,25,Miami Dolphins,20,1,30145,Julian Hill,2,0,0,0
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,1431,Khalil Shakir,5,5,54,0
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,908,Ty Johnson,2,1,33,0
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,15004,Dalton Kincaid,4,4,33,0
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,1417,James Cook,1,1,17,1
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,1274,Curtis Samuel,2,1,3,0
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,12,Mack Hollins,1,0,0,0
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,1210,Marquez Valdes-Scantling,1,0,0,0
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,12502,Keon Coleman,1,0,0,0
+2024,13202,2024-09-13T00:15,Week 2,20,Buffalo Bills,25,0,8824,Ray Davis,1,1,-1,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,2088,CeeDee Lamb,7,4,90,1
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,2090,Jalen Tolbert,9,6,82,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,15135,Luke Schoonmaker,6,6,43,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,2079,Rico Dowdle,5,4,29,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,1862,Brandin Cooks,2,2,19,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,2080,Ezekiel Elliott,3,2,16,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,23598,Jalen Brooks,3,1,10,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,21904,Deuce Vaughn,1,1,6,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,2091,KaVontae Turpin,4,2,4,0
+2024,13203,2024-09-15T17:00,Week 2,29,Dallas Cowboys,27,1,11756,Brevyn SpannFord,1,0,0,0
+2024,13203,2024-09-15T17:00,Week 2,27,New Orleans Saints,29,0,1938,Rashid Shaheed,4,4,96,1
+2024,13203,2024-09-15T17:00,Week 2,27,New Orleans Saints,29,0,1937,Chris Olave,6,4,81,0
+2024,13203,2024-09-15T17:00,Week 2,27,New Orleans Saints,29,0,1928,Alvin Kamara,3,2,65,1
+2024,13203,2024-09-15T17:00,Week 2,27,New Orleans Saints,29,0,1941,Taysom Hill,1,1,1,0
+2024,13203,2024-09-15T17:00,Week 2,27,New Orleans Saints,29,0,1931,Adam Prentice,1,0,0,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,464,Amon-Ra St. Brown,19,11,119,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,465,Jameson Williams,11,5,79,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,1126,David Montgomery,4,4,35,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,462,Kalif Raymond,4,3,27,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,14098,Jahmyr Gibbs,7,7,22,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,15080,Sione Vaki,1,1,17,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,17786,Sam LaPorta,3,2,13,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,2010,Tim Patrick,3,2,12,0
+2024,13204,2024-09-15T17:00,Week 2,7,Detroit Lions,24,1,461,Tom Kennedy,1,0,0,0
+2024,13204,2024-09-15T17:00,Week 2,24,Tampa Bay Buccaneers,7,0,1719,Chris Godwin,8,7,117,1
+2024,13204,2024-09-15T17:00,Week 2,24,Tampa Bay Buccaneers,7,0,1716,Mike Evans,6,3,42,0
+2024,13204,2024-09-15T17:00,Week 2,24,Tampa Bay Buccaneers,7,0,25551,Jalen McMillan,2,1,21,0
+2024,13204,2024-09-15T17:00,Week 2,24,Tampa Bay Buccaneers,7,0,1713,Rachaad White,1,1,5,0
+2024,13204,2024-09-15T17:00,Week 2,24,Tampa Bay Buccaneers,7,0,1727,Cade Otton,2,0,0,0
+2024,13205,2024-09-15T17:00,Week 2,15,Green Bay Packers,21,1,1057,Romeo Doubs,3,3,62,0
+2024,13205,2024-09-15T17:00,Week 2,15,Green Bay Packers,21,1,18877,Dontayvion Wicks,4,3,26,1
+2024,13205,2024-09-15T17:00,Week 2,15,Green Bay Packers,21,1,17908,Tucker Kraft,2,2,16,0
+2024,13205,2024-09-15T17:00,Week 2,15,Green Bay Packers,21,1,12515,Jayden Reed,2,2,9,0
+2024,13205,2024-09-15T17:00,Week 2,15,Green Bay Packers,21,1,25331,Luke Musgrave,1,1,6,0
+2024,13205,2024-09-15T17:00,Week 2,15,Green Bay Packers,21,1,23591,MarShawn Lloyd,1,1,3,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,1500,Alec Pierce,7,5,56,1
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,1494,Jonathan Taylor,4,2,32,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,14488,Adonai Mitchell,4,1,30,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,1503,Mo Alie-Cox,1,1,22,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,1501,Michael Pittman Jr.,7,3,21,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,1497,Ashton Dulin,2,1,13,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,1507,Andrew Ogletree,2,1,12,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,1504,Kylen Granson,2,1,9,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,836,Trey Sermon,1,1,7,0
+2024,13205,2024-09-15T17:00,Week 2,21,Indianapolis Colts,15,0,1052,Tyler Goodson,1,1,2,0
+2024,13206,2024-09-15T17:00,Week 2,6,Tennessee Titans,13,1,543,Calvin Ridley,6,4,77,1
+2024,13206,2024-09-15T17:00,Week 2,6,Tennessee Titans,13,1,2082,Tony Pollard,6,5,40,0
+2024,13206,2024-09-15T17:00,Week 2,6,Tennessee Titans,13,1,689,Tyler Boyd,5,2,26,0
+2024,13206,2024-09-15T17:00,Week 2,6,Tennessee Titans,13,1,388,Chigoziem Okonkwo,3,3,16,0
+2024,13206,2024-09-15T17:00,Week 2,6,Tennessee Titans,13,1,16624,Josh Whyle,2,2,13,0
+2024,13206,2024-09-15T17:00,Week 2,6,Tennessee Titans,13,1,22656,Tyjae Spears,2,2,11,0
+2024,13206,2024-09-15T17:00,Week 2,6,Tennessee Titans,13,1,766,DeAndre Hopkins,2,1,9,0
+2024,13206,2024-09-15T17:00,Week 2,6,Tennessee Titans,13,1,376,Treylon Burks,1,0,0,0
+2024,13206,2024-09-15T17:00,Week 2,13,New York Jets,6,0,919,Garrett Wilson,6,4,57,0
+2024,13206,2024-09-15T17:00,Week 2,13,New York Jets,6,0,907,Breece Hall,8,7,52,1
+2024,13206,2024-09-15T17:00,Week 2,13,New York Jets,6,0,16252,Braelon Allen,4,2,23,1
+2024,13206,2024-09-15T17:00,Week 2,13,New York Jets,6,0,2166,Mike Williams,1,1,19,0
+2024,13206,2024-09-15T17:00,Week 2,13,New York Jets,6,0,1059,Allen Lazard,4,2,11,0
+2024,13206,2024-09-15T17:00,Week 2,13,New York Jets,6,0,921,Tyler Conklin,2,1,10,0
+2024,13206,2024-09-15T17:00,Week 2,13,New York Jets,6,0,6389,Malachi Corley,1,1,4,0
+2024,13206,2024-09-15T17:00,Week 2,13,New York Jets,6,0,922,Jeremy Ruckert,3,0,0,0
+2024,13207,2024-09-15T17:00,Week 2,32,Minnesota Vikings,14,1,2319,Justin Jefferson,7,4,133,1
+2024,13207,2024-09-15T17:00,Week 2,32,Minnesota Vikings,14,1,2321,Jalen Nailor,4,3,54,1
+2024,13207,2024-09-15T17:00,Week 2,32,Minnesota Vikings,14,1,1054,Aaron Jones,6,5,36,0
+2024,13207,2024-09-15T17:00,Week 2,32,Minnesota Vikings,14,1,1793,Trent Sherfield,2,1,17,0
+2024,13207,2024-09-15T17:00,Week 2,32,Minnesota Vikings,14,1,2241,Brandon Powell,2,2,16,0
+2024,13207,2024-09-15T17:00,Week 2,32,Minnesota Vikings,14,1,2328,Johnny Mundt,3,2,12,0
+2024,13207,2024-09-15T17:00,Week 2,14,San Francisco 49ers,32,0,991,Deebo Samuel,10,8,110,0
+2024,13207,2024-09-15T17:00,Week 2,14,San Francisco 49ers,32,0,996,George Kittle,8,7,76,1
+2024,13207,2024-09-15T17:00,Week 2,14,San Francisco 49ers,32,0,987,Brandon Aiyuk,5,4,43,0
+2024,13207,2024-09-15T17:00,Week 2,14,San Francisco 49ers,32,0,989,Jauan Jennings,4,2,37,0
+2024,13207,2024-09-15T17:00,Week 2,14,San Francisco 49ers,32,0,2020,Eric Saubert,2,2,26,0
+2024,13207,2024-09-15T17:00,Week 2,14,San Francisco 49ers,32,0,986,Kyle Juszczyk,5,3,19,0
+2024,13207,2024-09-15T17:00,Week 2,14,San Francisco 49ers,32,0,1861,Chris Conley,1,1,4,0
+2024,13207,2024-09-15T17:00,Week 2,14,San Francisco 49ers,32,0,983,Jordan Mason,1,1,4,0
+2024,13209,2024-09-15T17:00,Week 2,18,Washington Commanders,4,1,772,Zach Ertz,4,4,62,0
+2024,13209,2024-09-15T17:00,Week 2,18,Washington Commanders,4,1,2083,Noah Brown,3,3,56,0
+2024,13209,2024-09-15T17:00,Week 2,18,Washington Commanders,4,1,2153,Austin Ekeler,3,3,47,0
+2024,13209,2024-09-15T17:00,Week 2,18,Washington Commanders,4,1,1271,Terry McLaurin,8,6,22,0
+2024,13209,2024-09-15T17:00,Week 2,18,Washington Commanders,4,1,1267,Dyami Brown,4,2,17,0
+2024,13209,2024-09-15T17:00,Week 2,18,Washington Commanders,4,1,544,Olamide Zaccheaus,3,3,14,0
+2024,13209,2024-09-15T17:00,Week 2,18,Washington Commanders,4,1,1276,John Bates,1,1,5,0
+2024,13209,2024-09-15T17:00,Week 2,18,Washington Commanders,4,1,1265,Brian Robinson Jr.,3,1,3,0
+2024,13209,2024-09-15T17:00,Week 2,4,New York Giants,18,0,25767,Malik Nabers,18,10,127,1
+2024,13209,2024-09-15T17:00,Week 2,4,New York Giants,18,0,234,Darius Slayton,4,3,33,0
+2024,13209,2024-09-15T17:00,Week 2,4,New York Giants,18,0,231,Wan'Dale Robinson,4,2,18,1
+2024,13209,2024-09-15T17:00,Week 2,4,New York Giants,18,0,1421,Devin Singletary,1,1,0,0
+2024,13210,2024-09-15T17:00,Week 2,19,Carolina Panthers,30,1,1364,Tommy Tremble,4,3,23,0
+2024,13210,2024-09-15T17:00,Week 2,19,Carolina Panthers,30,1,2325,Adam Thielen,3,2,20,0
+2024,13210,2024-09-15T17:00,Week 2,19,Carolina Panthers,30,1,1574,Diontae Johnson,6,3,15,0
+2024,13210,2024-09-15T17:00,Week 2,19,Carolina Panthers,30,1,1346,Chuba Hubbard,5,4,12,0
+2024,13210,2024-09-15T17:00,Week 2,19,Carolina Panthers,30,1,24409,Ja'Tavion Sanders,2,2,8,0
+2024,13210,2024-09-15T17:00,Week 2,19,Carolina Panthers,30,1,834,Miles Sanders,3,3,5,0
+2024,13210,2024-09-15T17:00,Week 2,19,Carolina Panthers,30,1,16964,Jonathan Mingo,2,1,1,0
+2024,13210,2024-09-15T17:00,Week 2,19,Carolina Panthers,30,1,3288,David Moore,1,0,0,0
+2024,13210,2024-09-15T17:00,Week 2,30,Los Angeles Chargers,19,0,13985,Quentin Johnston,6,5,51,2
+2024,13210,2024-09-15T17:00,Week 2,30,Los Angeles Chargers,19,0,1648,Will Dissly,3,3,29,0
+2024,13210,2024-09-15T17:00,Week 2,30,Los Angeles Chargers,19,0,14485,Ladd McConkey,4,2,26,0
+2024,13210,2024-09-15T17:00,Week 2,30,Los Angeles Chargers,19,0,2164,Joshua Palmer,2,2,19,0
+2024,13210,2024-09-15T17:00,Week 2,30,Los Angeles Chargers,19,0,698,Hayden Hurst,2,1,5,0
+2024,13210,2024-09-15T17:00,Week 2,30,Los Angeles Chargers,19,0,2021,Eric Tomlinson,1,0,0,0
+2024,13210,2024-09-15T17:00,Week 2,30,Los Angeles Chargers,19,0,294,J.K. Dobbins,1,1,0,0
+2024,13211,2024-09-15T17:00,Week 2,2,Jacksonville Jaguars,9,1,25771,Brian Thomas Jr.,4,2,94,0
+2024,13211,2024-09-15T17:00,Week 2,2,Jacksonville Jaguars,9,1,10921,Brenton Strange,6,3,65,0
+2024,13211,2024-09-15T17:00,Week 2,2,Jacksonville Jaguars,9,1,1425,Gabe Davis,7,3,43,0
+2024,13211,2024-09-15T17:00,Week 2,2,Jacksonville Jaguars,9,1,88,Luke Farrell,2,2,13,0
+2024,13211,2024-09-15T17:00,Week 2,2,Jacksonville Jaguars,9,1,72,Travis Etienne Jr.,4,3,6,0
+2024,13211,2024-09-15T17:00,Week 2,2,Jacksonville Jaguars,9,1,10915,Parker Washington,1,0,0,0
+2024,13211,2024-09-15T17:00,Week 2,2,Jacksonville Jaguars,9,1,82,Christian Kirk,3,1,-1,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,2009,Jerry Jeudy,6,5,73,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,916,Elijah Moore,8,6,44,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,617,David Bell,3,3,27,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,618,Amari Cooper,8,3,11,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,1867,Jordan Akins,1,1,10,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,146,Pierre Strong Jr.,2,1,10,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,1345,D'Onta Foreman,1,1,9,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,9896,Cedric Tillman,2,1,2,0
+2024,13211,2024-09-15T17:00,Week 2,9,Cleveland Browns,2,0,612,Jerome Ford,2,1,0,0
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,18222,Zay Flowers,11,7,91,1
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,309,Mark Andrews,5,4,51,0
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,300,Rashod Bateman,4,3,40,0
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,312,Isaiah Likely,3,2,26,0
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,148,Nelson Agholor,3,1,13,0
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,373,Derrick Henry,1,1,12,0
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,297,Justice Hill,2,2,10,0
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,311,Charlie Kolar,1,1,4,0
+2024,13212,2024-09-15T17:00,Week 2,5,Baltimore Ravens,1,1,299,Patrick Ricard,1,0,0,0
+2024,13212,2024-09-15T17:00,Week 2,1,Las Vegas Raiders,5,0,10,Davante Adams,12,9,110,1
+2024,13212,2024-09-15T17:00,Week 2,1,Las Vegas Raiders,5,0,14497,Brock Bowers,9,9,98,0
+2024,13212,2024-09-15T17:00,Week 2,1,Las Vegas Raiders,5,0,152,Jakobi Meyers,5,4,29,0
+2024,13212,2024-09-15T17:00,Week 2,1,Las Vegas Raiders,5,0,8,Zamir White,4,3,14,0
+2024,13212,2024-09-15T17:00,Week 2,1,Las Vegas Raiders,5,0,16617,Tre Tucker,2,2,13,0
+2024,13212,2024-09-15T17:00,Week 2,1,Las Vegas Raiders,5,0,14380,Michael Mayer,1,1,11,0
+2024,13212,2024-09-15T17:00,Week 2,1,Las Vegas Raiders,5,0,3,Ameer Abdullah,2,2,1,0
+2024,13212,2024-09-15T17:00,Week 2,1,Las Vegas Raiders,5,0,626,Harrison Bryant,1,0,0,0
+2024,13213,2024-09-15T20:05,Week 2,11,Arizona Cardinals,31,1,14251,Marvin Harrison Jr.,8,4,130,2
+2024,13213,2024-09-15T20:05,Week 2,11,Arizona Cardinals,31,1,773,Trey McBride,6,6,67,0
+2024,13213,2024-09-15T20:05,Week 2,11,Arizona Cardinals,31,1,23966,Michael Wilson,2,2,31,0
+2024,13213,2024-09-15T20:05,Week 2,11,Arizona Cardinals,31,1,23957,Elijah Higgins,1,1,18,1
+2024,13213,2024-09-15T20:05,Week 2,11,Arizona Cardinals,31,1,764,Greg Dortch,2,2,11,0
+2024,13213,2024-09-15T20:05,Week 2,11,Arizona Cardinals,31,1,7515,Trey Benson,1,1,7,0
+2024,13213,2024-09-15T20:05,Week 2,11,Arizona Cardinals,31,1,756,James Conner,1,1,2,0
+2024,13213,2024-09-15T20:05,Week 2,31,Los Angeles Rams,11,0,305,Demarcus Robinson,4,2,50,0
+2024,13213,2024-09-15T20:05,Week 2,31,Los Angeles Rams,11,0,2235,Tutu Atwell,4,3,48,0
+2024,13213,2024-09-15T20:05,Week 2,31,Los Angeles Rams,11,0,2239,Cooper Kupp,6,4,37,0
+2024,13213,2024-09-15T20:05,Week 2,31,Los Angeles Rams,11,0,2234,Kyren Williams,5,4,27,0
+2024,13213,2024-09-15T20:05,Week 2,31,Los Angeles Rams,11,0,24400,Jordan Whittington,2,2,22,0
+2024,13213,2024-09-15T20:05,Week 2,31,Los Angeles Rams,11,0,1864,Tyler Johnson,3,2,20,0
+2024,13213,2024-09-15T20:05,Week 2,31,Los Angeles Rams,11,0,1650,Colby Parkinson,2,1,12,0
+2024,13213,2024-09-15T20:05,Week 2,31,Los Angeles Rams,11,0,2233,Ronnie Rivers,1,1,0,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,463,Josh Reynolds,5,4,93,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,151,Lil'Jordan Humphrey,5,4,50,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,2005,Javonte Williams,5,5,48,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,2013,Courtland Sutton,4,1,26,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,2018,Greg Dulcich,8,3,16,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,15363,Marvin Mims,2,1,10,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,292,Tyler Badie,1,1,2,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,1203,Michael Burton,1,1,1,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,23613,Nate Adkins,1,0,0,0
+2024,13214,2024-09-15T20:25,Week 2,28,Denver Broncos,22,1,14613,Troy Franklin,1,0,0,0
+2024,13214,2024-09-15T20:25,Week 2,22,Pittsburgh Steelers,28,0,1580,Pat Freiermuth,4,4,39,0
+2024,13214,2024-09-15T20:25,Week 2,22,Pittsburgh Steelers,28,0,1577,George Pickens,4,2,29,0
+2024,13214,2024-09-15T20:25,Week 2,22,Pittsburgh Steelers,28,0,1569,Jaylen Warren,2,2,19,0
+2024,13214,2024-09-15T20:25,Week 2,22,Pittsburgh Steelers,28,0,2237,Van Jefferson,3,2,14,0
+2024,13214,2024-09-15T20:25,Week 2,22,Pittsburgh Steelers,28,0,1571,Calvin Austin III,2,1,6,0
+2024,13214,2024-09-15T20:25,Week 2,22,Pittsburgh Steelers,28,0,14507,Darnell Washington,1,1,5,1
+2024,13214,2024-09-15T20:25,Week 2,22,Pittsburgh Steelers,28,0,1565,Najee Harris,2,1,5,0
+2024,13215,2024-09-15T20:25,Week 2,17,Kansas City Chiefs,10,1,23838,Rashee Rice,6,5,75,1
+2024,13215,2024-09-15T20:25,Week 2,17,Kansas City Chiefs,10,1,1211,Justin Watson,2,2,22,0
+2024,13215,2024-09-15T20:25,Week 2,17,Kansas City Chiefs,10,1,1202,Isiah Pacheco,5,5,21,0
+2024,13215,2024-09-15T20:25,Week 2,17,Kansas City Chiefs,10,1,24401,Xavier Worthy,4,2,17,0
+2024,13215,2024-09-15T20:25,Week 2,17,Kansas City Chiefs,10,1,14004,Jared Wiley,1,1,7,0
+2024,13215,2024-09-15T20:25,Week 2,17,Kansas City Chiefs,10,1,1215,Travis Kelce,3,1,5,0
+2024,13215,2024-09-15T20:25,Week 2,17,Kansas City Chiefs,10,1,687,Samaje Perine,1,1,3,0
+2024,13215,2024-09-15T20:25,Week 2,17,Kansas City Chiefs,10,1,15386,Wanya Morris,1,1,1,1
+2024,13215,2024-09-15T20:25,Week 2,10,Cincinnati Bengals,17,0,1799,Mike Gesicki,9,7,91,0
+2024,13215,2024-09-15T20:25,Week 2,10,Cincinnati Bengals,17,0,14109,Jermaine Burton,2,1,47,0
+2024,13215,2024-09-15T20:25,Week 2,10,Cincinnati Bengals,17,0,690,Ja'Marr Chase,5,4,35,0
+2024,13215,2024-09-15T20:25,Week 2,10,Cincinnati Bengals,17,0,15125,Erick All,4,4,32,0
+2024,13215,2024-09-15T20:25,Week 2,10,Cincinnati Bengals,17,0,699,Drew Sample,3,3,28,0
+2024,13215,2024-09-15T20:25,Week 2,10,Cincinnati Bengals,17,0,1420,Zack Moss,1,1,13,0
+2024,13215,2024-09-15T20:25,Week 2,10,Cincinnati Bengals,17,0,34175,Andrei Iosivas,4,2,7,2
+2024,13215,2024-09-15T20:25,Week 2,10,Cincinnati Bengals,17,0,2609,Trenton Irwin,6,1,5,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,1860,Nico Collins,10,8,135,1
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,1426,Stefon Diggs,6,4,37,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,686,Joe Mixon,5,3,25,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,2097,Dalton Schultz,3,2,21,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,1858,Dare Ogunbowale,2,2,20,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,14265,Cade Stover,1,1,18,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,1870,Brevin Jordan,1,1,4,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,2229,Cam Akers,1,1,3,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,19308,Xavier Hutchinson,1,0,0,0
+2024,13216,2024-09-16T00:20,Week 2,26,Houston Texans,16,1,17320,Nathaniel Dell,4,1,-3,0
+2024,13216,2024-09-16T00:20,Week 2,16,Chicago Bears,26,0,1353,DJ Moore,10,6,53,0
+2024,13216,2024-09-16T00:20,Week 2,16,Chicago Bears,26,0,25552,Rome Odunze,5,2,33,0
+2024,13216,2024-09-16T00:20,Week 2,16,Chicago Bears,26,0,2161,DeAndre Carter,4,3,32,0
+2024,13216,2024-09-16T00:20,Week 2,16,Chicago Bears,26,0,1139,Cole Kmet,5,4,27,0
+2024,13216,2024-09-16T00:20,Week 2,16,Chicago Bears,26,0,455,D'Andre Swift,5,4,24,0
+2024,13216,2024-09-16T00:20,Week 2,16,Chicago Bears,26,0,1125,Khalil Herbert,2,2,4,0
+2024,13216,2024-09-16T00:20,Week 2,16,Chicago Bears,26,0,2167,Gerald Everett,3,2,1,0
+2024,13217,2024-09-17T00:15,Week 2,12,Philadelphia Eagles,8,1,842,DeVonta Smith,10,7,76,1
+2024,13217,2024-09-17T00:15,Week 2,12,Philadelphia Eagles,8,1,846,Dallas Goedert,4,3,38,0
+2024,13217,2024-09-17T00:15,Week 2,12,Philadelphia Eagles,8,1,840,Britain Covey,6,6,23,0
+2024,13217,2024-09-17T00:15,Week 2,12,Philadelphia Eagles,8,1,219,Saquon Barkley,5,4,21,0
+2024,13217,2024-09-17T00:15,Week 2,12,Philadelphia Eagles,8,1,845,Grant Calcaterra,2,2,19,0
+2024,13217,2024-09-17T00:15,Week 2,12,Philadelphia Eagles,8,1,1268,Jahan Dotson,1,1,6,0
+2024,13217,2024-09-17T00:15,Week 2,12,Philadelphia Eagles,8,1,7533,Johnny Wilson,1,0,0,0
+2024,13217,2024-09-17T00:15,Week 2,8,Atlanta Falcons,12,0,1131,Darnell Mooney,7,3,88,1
+2024,13217,2024-09-17T00:15,Week 2,8,Atlanta Falcons,12,0,542,Drake London,7,6,54,1
+2024,13217,2024-09-17T00:15,Week 2,8,Atlanta Falcons,12,0,990,Ray-Ray McCloud III,5,3,42,0
+2024,13217,2024-09-17T00:15,Week 2,8,Atlanta Falcons,12,0,24380,Bijan Robinson,5,4,25,0
+2024,13217,2024-09-17T00:15,Week 2,8,Atlanta Falcons,12,0,549,Kyle Pitts,4,3,20,0
+2024,13217,2024-09-17T00:15,Week 2,8,Atlanta Falcons,12,0,529,Tyler Allgeier,1,1,12,0
+2024,13218,2024-09-20T00:15,Week 3,13,New York Jets,3,1,921,Tyler Conklin,6,5,93,0
+2024,13218,2024-09-20T00:15,Week 3,13,New York Jets,3,1,1059,Allen Lazard,3,3,48,1
+2024,13218,2024-09-20T00:15,Week 3,13,New York Jets,3,1,2166,Mike Williams,4,3,34,0
+2024,13218,2024-09-20T00:15,Week 3,13,New York Jets,3,1,919,Garrett Wilson,9,5,33,1
+2024,13218,2024-09-20T00:15,Week 3,13,New York Jets,3,1,907,Breece Hall,5,4,29,0
+2024,13218,2024-09-20T00:15,Week 3,13,New York Jets,3,1,28326,Xavier Gipson,2,2,16,0
+2024,13218,2024-09-20T00:15,Week 3,13,New York Jets,3,1,922,Jeremy Ruckert,2,2,15,0
+2024,13218,2024-09-20T00:15,Week 3,13,New York Jets,3,1,16252,Braelon Allen,3,3,13,0
+2024,13218,2024-09-20T00:15,Week 3,3,New England Patriots,13,0,22546,Demario Douglas,9,7,69,0
+2024,13218,2024-09-20T00:15,Week 3,3,New England Patriots,13,0,385,Austin Hooper,4,1,19,0
+2024,13218,2024-09-20T00:15,Week 3,3,New England Patriots,13,0,25554,Ja'Lynn Polk,2,2,13,0
+2024,13218,2024-09-20T00:15,Week 3,3,New England Patriots,13,0,161,Hunter Henry,3,2,9,0
+2024,13218,2024-09-20T00:15,Week 3,3,New England Patriots,13,0,1262,Antonio Gibson,3,3,8,0
+2024,13218,2024-09-20T00:15,Week 3,3,New England Patriots,13,0,25759,Kayshon Boutte,2,1,2,0
+2024,13218,2024-09-20T00:15,Week 3,3,New England Patriots,13,0,157,Tyquan Thornton,1,0,0,0
+2024,13219,2024-09-22T17:00,Week 3,9,Cleveland Browns,4,1,618,Amari Cooper,12,7,86,2
+2024,13219,2024-09-22T17:00,Week 3,9,Cleveland Browns,4,1,612,Jerome Ford,4,3,33,0
+2024,13219,2024-09-22T17:00,Week 3,9,Cleveland Browns,4,1,1867,Jordan Akins,7,4,29,0
+2024,13219,2024-09-22T17:00,Week 3,9,Cleveland Browns,4,1,2009,Jerry Jeudy,7,4,27,0
+2024,13219,2024-09-22T17:00,Week 3,9,Cleveland Browns,4,1,916,Elijah Moore,3,2,17,0
+2024,13219,2024-09-22T17:00,Week 3,9,Cleveland Browns,4,1,9896,Cedric Tillman,2,1,4,0
+2024,13219,2024-09-22T17:00,Week 3,4,New York Giants,9,0,25767,Malik Nabers,12,8,78,2
+2024,13219,2024-09-22T17:00,Week 3,4,New York Giants,9,0,231,Wan'Dale Robinson,8,7,61,0
+2024,13219,2024-09-22T17:00,Week 3,4,New York Giants,9,0,1421,Devin Singletary,4,4,43,0
+2024,13219,2024-09-22T17:00,Week 3,4,New York Giants,9,0,236,Daniel Bellinger,1,1,17,0
+2024,13219,2024-09-22T17:00,Week 3,4,New York Giants,9,0,10802,Tyrone Tracy,2,2,17,0
+2024,13219,2024-09-22T17:00,Week 3,4,New York Giants,9,0,10918,Theo Johnson,3,1,13,0
+2024,13219,2024-09-22T17:00,Week 3,4,New York Giants,9,0,234,Darius Slayton,2,1,7,0
+2024,13219,2024-09-22T17:00,Week 3,4,New York Giants,9,0,9889,Jalin Hyatt,1,0,0,0
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,766,DeAndre Hopkins,7,6,73,1
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,22656,Tyjae Spears,4,4,54,0
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,16624,Josh Whyle,5,4,43,0
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,689,Tyler Boyd,4,3,33,0
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,388,Chigoziem Okonkwo,2,2,15,0
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,2082,Tony Pollard,4,3,15,0
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,1947,Nick Vannett,2,2,9,1
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,543,Calvin Ridley,3,1,9,0
+2024,13220,2024-09-22T17:00,Week 3,6,Tennessee Titans,15,1,376,Treylon Burks,3,1,9,0
+2024,13220,2024-09-22T17:00,Week 3,15,Green Bay Packers,6,0,1063,Christian Watson,2,2,67,0
+2024,13220,2024-09-22T17:00,Week 3,15,Green Bay Packers,6,0,12515,Jayden Reed,6,4,50,0
+2024,13220,2024-09-22T17:00,Week 3,15,Green Bay Packers,6,0,36292,Emanuel Wilson,2,2,35,1
+2024,13220,2024-09-22T17:00,Week 3,15,Green Bay Packers,6,0,17908,Tucker Kraft,3,2,24,0
+2024,13220,2024-09-22T17:00,Week 3,15,Green Bay Packers,6,0,1057,Romeo Doubs,2,1,18,0
+2024,13220,2024-09-22T17:00,Week 3,15,Green Bay Packers,6,0,6,Josh Jacobs,1,1,5,0
+2024,13220,2024-09-22T17:00,Week 3,15,Green Bay Packers,6,0,25331,Luke Musgrave,1,1,3,0
+2024,13220,2024-09-22T17:00,Week 3,15,Green Bay Packers,6,0,18877,Dontayvion Wicks,2,0,0,0
+2024,13221,2024-09-22T17:00,Week 3,21,Indianapolis Colts,16,1,1500,Alec Pierce,2,1,44,0
+2024,13221,2024-09-22T17:00,Week 3,21,Indianapolis Colts,16,1,1504,Kylen Granson,1,1,40,0
+2024,13221,2024-09-22T17:00,Week 3,21,Indianapolis Colts,16,1,1501,Michael Pittman Jr.,5,4,36,0
+2024,13221,2024-09-22T17:00,Week 3,21,Indianapolis Colts,16,1,1494,Jonathan Taylor,2,1,25,0
+2024,13221,2024-09-22T17:00,Week 3,21,Indianapolis Colts,16,1,8006,Josh Downs,5,3,22,0
+2024,13221,2024-09-22T17:00,Week 3,21,Indianapolis Colts,16,1,1503,Mo Alie-Cox,1,0,0,0
+2024,13221,2024-09-22T17:00,Week 3,21,Indianapolis Colts,16,1,1497,Ashton Dulin,1,0,0,0
+2024,13221,2024-09-22T17:00,Week 3,21,Indianapolis Colts,16,1,14488,Adonai Mitchell,1,0,0,0
+2024,13221,2024-09-22T17:00,Week 3,16,Chicago Bears,21,0,25552,Rome Odunze,11,6,112,1
+2024,13221,2024-09-22T17:00,Week 3,16,Chicago Bears,21,0,1139,Cole Kmet,11,10,97,1
+2024,13221,2024-09-22T17:00,Week 3,16,Chicago Bears,21,0,1353,DJ Moore,10,8,78,0
+2024,13221,2024-09-22T17:00,Week 3,16,Chicago Bears,21,0,24378,Roschon Johnson,5,4,32,0
+2024,13221,2024-09-22T17:00,Week 3,16,Chicago Bears,21,0,455,D'Andre Swift,4,2,22,0
+2024,13221,2024-09-22T17:00,Week 3,16,Chicago Bears,21,0,2161,DeAndre Carter,6,3,22,0
+2024,13221,2024-09-22T17:00,Week 3,16,Chicago Bears,21,0,2167,Gerald Everett,1,0,0,0
+2024,13222,2024-09-22T17:00,Week 3,32,Minnesota Vikings,26,1,2319,Justin Jefferson,8,6,81,1
+2024,13222,2024-09-22T17:00,Week 3,32,Minnesota Vikings,26,1,1054,Aaron Jones,6,5,46,1
+2024,13222,2024-09-22T17:00,Week 3,32,Minnesota Vikings,26,1,2321,Jalen Nailor,4,3,31,1
+2024,13222,2024-09-22T17:00,Week 3,32,Minnesota Vikings,26,1,2241,Brandon Powell,2,1,13,0
+2024,13222,2024-09-22T17:00,Week 3,32,Minnesota Vikings,26,1,1793,Trent Sherfield,1,1,8,0
+2024,13222,2024-09-22T17:00,Week 3,32,Minnesota Vikings,26,1,2328,Johnny Mundt,3,1,2,1
+2024,13222,2024-09-22T17:00,Week 3,32,Minnesota Vikings,26,1,313,Josh Oliver,1,0,0,0
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,1426,Stefon Diggs,12,10,94,0
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,1860,Nico Collins,10,4,86,0
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,17320,Nathaniel Dell,6,5,62,0
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,1858,Dare Ogunbowale,2,2,28,0
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,384,Robert Woods,2,2,18,0
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,2097,Dalton Schultz,5,2,11,0
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,2229,Cam Akers,3,1,8,1
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,147,J.J. Taylor,2,2,0,0
+2024,13222,2024-09-22T17:00,Week 3,26,Houston Texans,32,0,19308,Xavier Hutchinson,1,0,0,0
+2024,13223,2024-09-22T17:00,Week 3,27,New Orleans Saints,12,1,1937,Chris Olave,6,6,86,1
+2024,13223,2024-09-22T17:00,Week 3,27,New Orleans Saints,12,1,1928,Alvin Kamara,3,3,40,0
+2024,13223,2024-09-22T17:00,Week 3,27,New Orleans Saints,12,1,34536,Mason Tipton,3,2,11,0
+2024,13223,2024-09-22T17:00,Week 3,27,New Orleans Saints,12,1,1796,Cedrick Wilson Jr.,1,1,3,0
+2024,13223,2024-09-22T17:00,Week 3,27,New Orleans Saints,12,1,18,Foster Moreau,2,1,2,0
+2024,13223,2024-09-22T17:00,Week 3,27,New Orleans Saints,12,1,456,Jamaal Williams,3,1,0,0
+2024,13223,2024-09-22T17:00,Week 3,27,New Orleans Saints,12,1,1938,Rashid Shaheed,5,0,0,0
+2024,13223,2024-09-22T17:00,Week 3,12,Philadelphia Eagles,27,0,846,Dallas Goedert,11,10,170,0
+2024,13223,2024-09-22T17:00,Week 3,12,Philadelphia Eagles,27,0,842,DeVonta Smith,10,7,79,0
+2024,13223,2024-09-22T17:00,Week 3,12,Philadelphia Eagles,27,0,1495,Parris Campbell,2,2,13,0
+2024,13223,2024-09-22T17:00,Week 3,12,Philadelphia Eagles,27,0,833,Kenneth Gainwell,3,2,12,0
+2024,13223,2024-09-22T17:00,Week 3,12,Philadelphia Eagles,27,0,840,Britain Covey,1,1,11,0
+2024,13223,2024-09-22T17:00,Week 3,12,Philadelphia Eagles,27,0,7533,Johnny Wilson,2,1,9,0
+2024,13223,2024-09-22T17:00,Week 3,12,Philadelphia Eagles,27,0,219,Saquon Barkley,4,4,9,0
+2024,13223,2024-09-22T17:00,Week 3,12,Philadelphia Eagles,27,0,1268,Jahan Dotson,3,2,8,0
+2024,13224,2024-09-22T17:00,Week 3,22,Pittsburgh Steelers,30,1,1571,Calvin Austin III,5,4,95,1
+2024,13224,2024-09-22T17:00,Week 3,22,Pittsburgh Steelers,30,1,1577,George Pickens,7,5,57,0
+2024,13224,2024-09-22T17:00,Week 3,22,Pittsburgh Steelers,30,1,1580,Pat Freiermuth,5,4,33,0
+2024,13224,2024-09-22T17:00,Week 3,22,Pittsburgh Steelers,30,1,1721,Scotty Miller,2,2,31,0
+2024,13224,2024-09-22T17:00,Week 3,22,Pittsburgh Steelers,30,1,1565,Najee Harris,5,5,16,0
+2024,13224,2024-09-22T17:00,Week 3,22,Pittsburgh Steelers,30,1,532,Cordarrelle Patterson,5,3,15,0
+2024,13224,2024-09-22T17:00,Week 3,22,Pittsburgh Steelers,30,1,1582,Connor Heyward,1,1,2,0
+2024,13224,2024-09-22T17:00,Week 3,22,Pittsburgh Steelers,30,1,1569,Jaylen Warren,1,1,-4,0
+2024,13224,2024-09-22T17:00,Week 3,30,Los Angeles Chargers,22,0,13985,Quentin Johnston,2,2,44,1
+2024,13224,2024-09-22T17:00,Week 3,30,Los Angeles Chargers,22,0,14485,Ladd McConkey,6,3,44,0
+2024,13224,2024-09-22T17:00,Week 3,30,Los Angeles Chargers,22,0,1648,Will Dissly,3,3,19,0
+2024,13224,2024-09-22T17:00,Week 3,30,Los Angeles Chargers,22,0,2085,Simi Fehoko,3,1,17,0
+2024,13224,2024-09-22T17:00,Week 3,30,Los Angeles Chargers,22,0,698,Hayden Hurst,2,2,15,0
+2024,13224,2024-09-22T17:00,Week 3,30,Los Angeles Chargers,22,0,294,J.K. Dobbins,3,3,10,0
+2024,13225,2024-09-22T17:00,Week 3,24,Tampa Bay Buccaneers,28,1,1719,Chris Godwin,9,6,53,1
+2024,13225,2024-09-22T17:00,Week 3,24,Tampa Bay Buccaneers,28,1,1727,Cade Otton,8,7,47,0
+2024,13225,2024-09-22T17:00,Week 3,24,Tampa Bay Buccaneers,28,1,1713,Rachaad White,6,5,18,0
+2024,13225,2024-09-22T17:00,Week 3,24,Tampa Bay Buccaneers,28,1,1716,Mike Evans,3,2,17,0
+2024,13225,2024-09-22T17:00,Week 3,24,Tampa Bay Buccaneers,28,1,14602,Bucky Irving,3,3,14,0
+2024,13225,2024-09-22T17:00,Week 3,24,Tampa Bay Buccaneers,28,1,10807,Payne Durham,1,1,8,0
+2024,13225,2024-09-22T17:00,Week 3,24,Tampa Bay Buccaneers,28,1,25551,Jalen McMillan,1,1,6,0
+2024,13225,2024-09-22T17:00,Week 3,24,Tampa Bay Buccaneers,28,1,6746,Trey Palmer,1,0,0,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,2013,Courtland Sutton,11,7,68,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,151,Lil'Jordan Humphrey,8,6,37,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,463,Josh Reynolds,2,2,36,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,2005,Javonte Williams,4,4,29,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,1946,Adam Trautman,1,1,13,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,14613,Troy Franklin,5,2,11,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,15363,Marvin Mims,1,1,9,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,28956,Jaleel McLaughlin,1,1,7,0
+2024,13225,2024-09-22T17:00,Week 3,28,Denver Broncos,24,0,23613,Nate Adkins,1,1,6,0
+2024,13226,2024-09-22T20:05,Week 3,1,Las Vegas Raiders,19,1,16617,Tre Tucker,9,7,96,1
+2024,13226,2024-09-22T20:05,Week 3,1,Las Vegas Raiders,19,1,152,Jakobi Meyers,9,7,62,1
+2024,13226,2024-09-22T20:05,Week 3,1,Las Vegas Raiders,19,1,14497,Brock Bowers,4,3,41,0
+2024,13226,2024-09-22T20:05,Week 3,1,Las Vegas Raiders,19,1,10,Davante Adams,9,4,40,0
+2024,13226,2024-09-22T20:05,Week 3,1,Las Vegas Raiders,19,1,2313,Alexander Mattison,3,3,37,0
+2024,13226,2024-09-22T20:05,Week 3,1,Las Vegas Raiders,19,1,3,Ameer Abdullah,2,2,13,0
+2024,13226,2024-09-22T20:05,Week 3,1,Las Vegas Raiders,19,1,14380,Michael Mayer,3,1,7,0
+2024,13226,2024-09-22T20:05,Week 3,19,Carolina Panthers,1,0,1574,Diontae Johnson,14,8,122,1
+2024,13226,2024-09-22T20:05,Week 3,19,Carolina Panthers,1,0,1346,Chuba Hubbard,5,5,55,1
+2024,13226,2024-09-22T20:05,Week 3,19,Carolina Panthers,1,0,23602,Xavier Legette,3,2,42,0
+2024,13226,2024-09-22T20:05,Week 3,19,Carolina Panthers,1,0,2325,Adam Thielen,5,3,40,1
+2024,13226,2024-09-22T20:05,Week 3,19,Carolina Panthers,1,0,1364,Tommy Tremble,3,3,29,0
+2024,13226,2024-09-22T20:05,Week 3,19,Carolina Panthers,1,0,16964,Jonathan Mingo,4,3,18,0
+2024,13226,2024-09-22T20:05,Week 3,19,Carolina Panthers,1,0,834,Miles Sanders,2,2,13,0
+2024,13226,2024-09-22T20:05,Week 3,19,Carolina Panthers,1,0,24409,Ja'Tavion Sanders,1,0,0,0
+2024,13227,2024-09-22T20:05,Week 3,23,Seattle Seahawks,25,1,1645,DK Metcalf,6,4,104,1
+2024,13227,2024-09-22T20:05,Week 3,23,Seattle Seahawks,25,1,1649,Noah Fant,6,6,60,0
+2024,13227,2024-09-22T20:05,Week 3,23,Seattle Seahawks,25,1,1644,Tyler Lockett,8,5,46,0
+2024,13227,2024-09-22T20:05,Week 3,23,Seattle Seahawks,25,1,14255,Jaxon SmithNjigba,3,3,39,0
+2024,13227,2024-09-22T20:05,Week 3,23,Seattle Seahawks,25,1,19529,Zach Charbonnet,4,3,16,0
+2024,13227,2024-09-22T20:05,Week 3,23,Seattle Seahawks,25,1,13756,AJ Barner,3,3,13,0
+2024,13227,2024-09-22T20:05,Week 3,23,Seattle Seahawks,25,1,1868,Pharaoh Brown,2,1,9,0
+2024,13227,2024-09-22T20:05,Week 3,23,Seattle Seahawks,25,1,1356,Laviska Shenault Jr.,1,1,2,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,1792,Tyreek Hill,5,3,40,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,1641,Dee Eskridge,1,1,30,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,14725,Devon Achane,5,3,28,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,1795,Jaylen Waddle,5,4,26,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,30145,Julian Hill,2,2,24,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,162,Jonnu Smith,3,2,18,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,1788,Alec Ingold,3,3,16,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,1802,Durham Smythe,2,1,3,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,1798,Tanner Conner,2,1,1,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,911,Braxton Berrios,1,0,0,0
+2024,13227,2024-09-22T20:05,Week 3,25,Miami Dolphins,23,0,1791,Erik Ezukanma,2,0,0,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,2094,Jake Ferguson,11,6,95,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,2088,CeeDee Lamb,7,4,67,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,2091,KaVontae Turpin,3,3,51,1
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,2090,Jalen Tolbert,5,3,42,1
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,30710,Hunter Luepke,3,2,41,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,23598,Jalen Brooks,3,1,24,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,2079,Rico Dowdle,5,3,24,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,1862,Brandin Cooks,6,2,16,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,21904,Deuce Vaughn,2,1,8,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,2080,Ezekiel Elliott,2,1,6,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,15135,Luke Schoonmaker,2,1,5,0
+2024,13228,2024-09-22T20:25,Week 3,29,Dallas Cowboys,5,1,2108,Tyler Smith,1,1,0,0
+2024,13228,2024-09-22T20:25,Week 3,5,Baltimore Ravens,29,0,148,Nelson Agholor,1,1,56,0
+2024,13228,2024-09-22T20:25,Week 3,5,Baltimore Ravens,29,0,311,Charlie Kolar,1,1,30,0
+2024,13228,2024-09-22T20:25,Week 3,5,Baltimore Ravens,29,0,300,Rashod Bateman,4,3,28,1
+2024,13228,2024-09-22T20:25,Week 3,5,Baltimore Ravens,29,0,373,Derrick Henry,1,1,23,0
+2024,13228,2024-09-22T20:25,Week 3,5,Baltimore Ravens,29,0,297,Justice Hill,2,2,21,0
+2024,13228,2024-09-22T20:25,Week 3,5,Baltimore Ravens,29,0,18222,Zay Flowers,4,3,20,0
+2024,13228,2024-09-22T20:25,Week 3,5,Baltimore Ravens,29,0,312,Isaiah Likely,1,1,4,0
+2024,13228,2024-09-22T20:25,Week 3,5,Baltimore Ravens,29,0,309,Mark Andrews,1,0,0,0
+2024,13229,2024-09-22T20:25,Week 3,31,Los Angeles Rams,14,1,2235,Tutu Atwell,5,4,93,0
+2024,13229,2024-09-22T20:25,Week 3,31,Los Angeles Rams,14,1,305,Demarcus Robinson,4,1,32,0
+2024,13229,2024-09-22T20:25,Week 3,31,Los Angeles Rams,14,1,24400,Jordan Whittington,3,3,28,0
+2024,13229,2024-09-22T20:25,Week 3,31,Los Angeles Rams,14,1,2234,Kyren Williams,2,2,27,1
+2024,13229,2024-09-22T20:25,Week 3,31,Los Angeles Rams,14,1,1650,Colby Parkinson,5,3,21,0
+2024,13229,2024-09-22T20:25,Week 3,31,Los Angeles Rams,14,1,1864,Tyler Johnson,4,3,20,0
+2024,13229,2024-09-22T20:25,Week 3,14,San Francisco 49ers,31,0,989,Jauan Jennings,12,11,175,3
+2024,13229,2024-09-22T20:25,Week 3,14,San Francisco 49ers,31,0,987,Brandon Aiyuk,10,5,48,0
+2024,13229,2024-09-22T20:25,Week 3,14,San Francisco 49ers,31,0,2020,Eric Saubert,2,2,41,0
+2024,13229,2024-09-22T20:25,Week 3,14,San Francisco 49ers,31,0,15108,Ronnie Bell,3,1,12,0
+2024,13229,2024-09-22T20:25,Week 3,14,San Francisco 49ers,31,0,983,Jordan Mason,2,2,11,0
+2024,13229,2024-09-22T20:25,Week 3,14,San Francisco 49ers,31,0,986,Kyle Juszczyk,1,1,6,0
+2024,13229,2024-09-22T20:25,Week 3,14,San Francisco 49ers,31,0,1000,Jake Brendel,0,0,2,0
+2024,13229,2024-09-22T20:25,Week 3,14,San Francisco 49ers,31,0,13549,Dominick Puni,0,0,-3,0
+2024,13230,2024-09-22T20:25,Week 3,11,Arizona Cardinals,7,1,14251,Marvin Harrison Jr.,11,5,64,1
+2024,13230,2024-09-22T20:25,Week 3,11,Arizona Cardinals,7,1,23966,Michael Wilson,9,8,64,0
+2024,13230,2024-09-22T20:25,Week 3,11,Arizona Cardinals,7,1,764,Greg Dortch,6,3,35,0
+2024,13230,2024-09-22T20:25,Week 3,11,Arizona Cardinals,7,1,773,Trey McBride,6,3,25,0
+2024,13230,2024-09-22T20:25,Week 3,11,Arizona Cardinals,7,1,23957,Elijah Higgins,1,1,11,0
+2024,13230,2024-09-22T20:25,Week 3,11,Arizona Cardinals,7,1,756,James Conner,1,1,8,0
+2024,13230,2024-09-22T20:25,Week 3,7,Detroit Lions,11,0,464,Amon-Ra St. Brown,8,7,75,1
+2024,13230,2024-09-22T20:25,Week 3,7,Detroit Lions,11,0,17786,Sam LaPorta,2,2,36,0
+2024,13230,2024-09-22T20:25,Week 3,7,Detroit Lions,11,0,469,Brock Wright,5,4,34,0
+2024,13230,2024-09-22T20:25,Week 3,7,Detroit Lions,11,0,14098,Jahmyr Gibbs,0,0,20,1
+2024,13230,2024-09-22T20:25,Week 3,7,Detroit Lions,11,0,1126,David Montgomery,3,3,17,0
+2024,13230,2024-09-22T20:25,Week 3,7,Detroit Lions,11,0,465,Jameson Williams,3,1,9,0
+2024,13230,2024-09-22T20:25,Week 3,7,Detroit Lions,11,0,2010,Tim Patrick,1,1,8,0
+2024,13231,2024-09-23T00:20,Week 3,8,Atlanta Falcons,17,1,542,Drake London,9,6,67,1
+2024,13231,2024-09-23T00:20,Week 3,8,Atlanta Falcons,17,1,1131,Darnell Mooney,8,8,66,0
+2024,13231,2024-09-23T00:20,Week 3,8,Atlanta Falcons,17,1,549,Kyle Pitts,5,2,59,0
+2024,13231,2024-09-23T00:20,Week 3,8,Atlanta Falcons,17,1,24380,Bijan Robinson,2,2,21,0
+2024,13231,2024-09-23T00:20,Week 3,8,Atlanta Falcons,17,1,990,Ray-Ray McCloud III,3,2,17,0
+2024,13231,2024-09-23T00:20,Week 3,17,Kansas City Chiefs,8,0,23838,Rashee Rice,14,12,110,1
+2024,13231,2024-09-23T00:20,Week 3,17,Kansas City Chiefs,8,0,1215,Travis Kelce,5,4,30,0
+2024,13231,2024-09-23T00:20,Week 3,17,Kansas City Chiefs,8,0,1209,JuJu Smith-Schuster,3,2,17,1
+2024,13231,2024-09-23T00:20,Week 3,17,Kansas City Chiefs,8,0,24401,Xavier Worthy,4,2,17,0
+2024,13231,2024-09-23T00:20,Week 3,17,Kansas City Chiefs,8,0,687,Samaje Perine,4,3,15,0
+2024,13231,2024-09-23T00:20,Week 3,17,Kansas City Chiefs,8,0,1211,Justin Watson,2,1,13,0
+2024,13231,2024-09-23T00:20,Week 3,17,Kansas City Chiefs,8,0,1214,Noah Gray,2,1,13,0
+2024,13231,2024-09-23T00:20,Week 3,17,Kansas City Chiefs,8,0,10009,Carson Steele,2,1,2,0
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,1431,Khalil Shakir,6,6,72,1
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,1417,James Cook,5,4,48,0
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,15004,Dalton Kincaid,5,3,41,1
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,908,Ty Johnson,3,3,28,1
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,12502,Keon Coleman,1,1,24,1
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,1274,Curtis Samuel,3,3,22,0
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,12,Mack Hollins,2,1,16,0
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,1210,Marquez Valdes-Scantling,2,1,7,0
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,1434,Dawson Knox,2,1,7,0
+2024,13232,2024-09-23T23:30,Week 3,20,Buffalo Bills,2,1,8824,Ray Davis,1,1,1,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,82,Christian Kirk,10,8,79,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,25771,Brian Thomas Jr.,9,5,48,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,1425,Gabe Davis,6,2,18,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,10915,Parker Washington,3,2,18,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,72,Travis Etienne Jr.,6,4,17,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,10921,Brenton Strange,5,2,12,1
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,1067,Josiah Deguara,1,1,8,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,88,Luke Farrell,2,1,1,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,614,D'Ernest Johnson,1,0,0,0
+2024,13232,2024-09-23T23:30,Week 3,2,Jacksonville Jaguars,20,0,302,Devin Duvernay,1,1,-1,0
+2024,13233,2024-09-24T00:15,Week 3,10,Cincinnati Bengals,18,1,690,Ja'Marr Chase,7,6,118,2
+2024,13233,2024-09-24T00:15,Week 3,10,Cincinnati Bengals,18,1,34175,Andrei Iosivas,7,5,52,1
+2024,13233,2024-09-24T00:15,Week 3,10,Cincinnati Bengals,18,1,1799,Mike Gesicki,5,4,47,0
+2024,13233,2024-09-24T00:15,Week 3,10,Cincinnati Bengals,18,1,691,Tee Higgins,6,3,39,0
+2024,13233,2024-09-24T00:15,Week 3,10,Cincinnati Bengals,18,1,1420,Zack Moss,6,5,39,0
+2024,13233,2024-09-24T00:15,Week 3,10,Cincinnati Bengals,18,1,15125,Erick All,4,4,22,0
+2024,13233,2024-09-24T00:15,Week 3,10,Cincinnati Bengals,18,1,7287,Chase Brown,3,2,7,0
+2024,13233,2024-09-24T00:15,Week 3,18,Washington Commanders,10,0,1271,Terry McLaurin,6,4,100,1
+2024,13233,2024-09-24T00:15,Week 3,18,Washington Commanders,10,0,2426,Luke McCaffrey,3,3,44,0
+2024,13233,2024-09-24T00:15,Week 3,18,Washington Commanders,10,0,772,Zach Ertz,5,5,38,0
+2024,13233,2024-09-24T00:15,Week 3,18,Washington Commanders,10,0,2083,Noah Brown,3,3,29,0
+2024,13233,2024-09-24T00:15,Week 3,18,Washington Commanders,10,0,2153,Austin Ekeler,2,2,22,0
+2024,13233,2024-09-24T00:15,Week 3,18,Washington Commanders,10,0,1267,Dyami Brown,2,2,16,0
+2024,13233,2024-09-24T00:15,Week 3,18,Washington Commanders,10,0,1265,Brian Robinson Jr.,1,1,4,0
+2024,13233,2024-09-24T00:15,Week 3,18,Washington Commanders,10,0,1593,Trent Scott,1,1,1,1
+2024,13234,2024-09-27T00:15,Week 4,4,New York Giants,29,1,25767,Malik Nabers,15,12,115,0
+2024,13234,2024-09-27T00:15,Week 4,4,New York Giants,29,1,231,Wan'Dale Robinson,14,11,71,0
+2024,13234,2024-09-27T00:15,Week 4,4,New York Giants,29,1,234,Darius Slayton,5,3,56,0
+2024,13234,2024-09-27T00:15,Week 4,4,New York Giants,29,1,10802,Tyrone Tracy,1,1,19,0
+2024,13234,2024-09-27T00:15,Week 4,4,New York Giants,29,1,1421,Devin Singletary,1,1,14,0
+2024,13234,2024-09-27T00:15,Week 4,4,New York Giants,29,1,10918,Theo Johnson,1,1,6,0
+2024,13234,2024-09-27T00:15,Week 4,4,New York Giants,29,1,9889,Jalin Hyatt,1,0,0,0
+2024,13234,2024-09-27T00:15,Week 4,29,Dallas Cowboys,4,0,2088,CeeDee Lamb,8,7,98,1
+2024,13234,2024-09-27T00:15,Week 4,29,Dallas Cowboys,4,0,2094,Jake Ferguson,7,7,49,0
+2024,13234,2024-09-27T00:15,Week 4,29,Dallas Cowboys,4,0,2090,Jalen Tolbert,3,3,24,0
+2024,13234,2024-09-27T00:15,Week 4,29,Dallas Cowboys,4,0,1862,Brandin Cooks,4,1,16,0
+2024,13234,2024-09-27T00:15,Week 4,29,Dallas Cowboys,4,0,2079,Rico Dowdle,1,1,15,1
+2024,13234,2024-09-27T00:15,Week 4,29,Dallas Cowboys,4,0,30710,Hunter Luepke,2,2,14,0
+2024,13234,2024-09-27T00:15,Week 4,29,Dallas Cowboys,4,0,2080,Ezekiel Elliott,1,1,5,0
+2024,13235,2024-09-29T17:00,Week 4,8,Atlanta Falcons,27,1,542,Drake London,12,6,64,0
+2024,13235,2024-09-29T17:00,Week 4,8,Atlanta Falcons,27,1,1131,Darnell Mooney,6,3,56,0
+2024,13235,2024-09-29T17:00,Week 4,8,Atlanta Falcons,27,1,990,Ray-Ray McCloud III,7,6,52,0
+2024,13235,2024-09-29T17:00,Week 4,8,Atlanta Falcons,27,1,24380,Bijan Robinson,4,4,46,0
+2024,13235,2024-09-29T17:00,Week 4,8,Atlanta Falcons,27,1,529,Tyler Allgeier,2,2,20,0
+2024,13235,2024-09-29T17:00,Week 4,8,Atlanta Falcons,27,1,549,Kyle Pitts,3,0,0,0
+2024,13235,2024-09-29T17:00,Week 4,27,New Orleans Saints,8,0,1937,Chris Olave,10,8,87,0
+2024,13235,2024-09-29T17:00,Week 4,27,New Orleans Saints,8,0,1938,Rashid Shaheed,11,8,83,0
+2024,13235,2024-09-29T17:00,Week 4,27,New Orleans Saints,8,0,1928,Alvin Kamara,9,7,42,0
+2024,13235,2024-09-29T17:00,Week 4,27,New Orleans Saints,8,0,1943,Juwan Johnson,3,2,13,0
+2024,13235,2024-09-29T17:00,Week 4,27,New Orleans Saints,8,0,456,Jamaal Williams,2,2,8,0
+2024,13235,2024-09-29T17:00,Week 4,27,New Orleans Saints,8,0,34536,Mason Tipton,1,1,6,0
+2024,13236,2024-09-29T17:00,Week 4,16,Chicago Bears,31,1,455,D'Andre Swift,7,7,72,0
+2024,13236,2024-09-29T17:00,Week 4,16,Chicago Bears,31,1,1139,Cole Kmet,3,3,34,0
+2024,13236,2024-09-29T17:00,Week 4,16,Chicago Bears,31,1,1353,DJ Moore,6,3,22,1
+2024,13236,2024-09-29T17:00,Week 4,16,Chicago Bears,31,1,2159,Keenan Allen,3,3,19,0
+2024,13236,2024-09-29T17:00,Week 4,16,Chicago Bears,31,1,25552,Rome Odunze,3,1,10,0
+2024,13236,2024-09-29T17:00,Week 4,31,Los Angeles Rams,16,0,2235,Tutu Atwell,6,4,82,0
+2024,13236,2024-09-29T17:00,Week 4,31,Los Angeles Rams,16,0,24400,Jordan Whittington,8,6,62,0
+2024,13236,2024-09-29T17:00,Week 4,31,Los Angeles Rams,16,0,305,Demarcus Robinson,3,2,37,0
+2024,13236,2024-09-29T17:00,Week 4,31,Los Angeles Rams,16,0,1650,Colby Parkinson,7,4,33,0
+2024,13236,2024-09-29T17:00,Week 4,31,Los Angeles Rams,16,0,2234,Kyren Williams,4,4,10,0
+2024,13236,2024-09-29T17:00,Week 4,31,Los Angeles Rams,16,0,1864,Tyler Johnson,1,0,0,0
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,12515,Jayden Reed,8,7,139,1
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,18877,Dontayvion Wicks,13,5,78,2
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,17908,Tucker Kraft,9,6,53,1
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,1057,Romeo Doubs,8,4,39,0
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,2735,Bo Melton,3,1,28,0
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,6,Josh Jacobs,6,4,27,0
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,25331,Luke Musgrave,3,3,13,0
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,16960,Malik Heath,2,2,12,0
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,1063,Christian Watson,1,0,0,0
+2024,13237,2024-09-29T17:00,Week 4,15,Green Bay Packers,32,1,36292,Emanuel Wilson,1,0,0,0
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,2319,Justin Jefferson,8,6,85,1
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,15923,Jordan Addison,4,3,72,1
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,1054,Aaron Jones,5,4,46,0
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,2321,Jalen Nailor,2,1,31,0
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,2328,Johnny Mundt,2,2,15,0
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,313,Josh Oliver,2,2,10,1
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,1793,Trent Sherfield,1,1,8,0
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,2310,Ty Chandler,1,1,8,0
+2024,13237,2024-09-29T17:00,Week 4,32,Minnesota Vikings,15,0,2241,Brandon Powell,2,0,0,0
+2024,13238,2024-09-29T17:00,Week 4,21,Indianapolis Colts,22,1,1501,Michael Pittman Jr.,9,6,113,0
+2024,13238,2024-09-29T17:00,Week 4,21,Indianapolis Colts,22,1,8006,Josh Downs,9,8,82,1
+2024,13238,2024-09-29T17:00,Week 4,21,Indianapolis Colts,22,1,1494,Jonathan Taylor,4,3,20,0
+2024,13238,2024-09-29T17:00,Week 4,21,Indianapolis Colts,22,1,1507,Andrew Ogletree,1,1,15,1
+2024,13238,2024-09-29T17:00,Week 4,21,Indianapolis Colts,22,1,1500,Alec Pierce,2,1,9,0
+2024,13238,2024-09-29T17:00,Week 4,21,Indianapolis Colts,22,1,14488,Adonai Mitchell,3,0,0,0
+2024,13238,2024-09-29T17:00,Week 4,22,Pittsburgh Steelers,21,0,1577,George Pickens,11,7,113,0
+2024,13238,2024-09-29T17:00,Week 4,22,Pittsburgh Steelers,21,0,1580,Pat Freiermuth,7,5,57,1
+2024,13238,2024-09-29T17:00,Week 4,22,Pittsburgh Steelers,21,0,1565,Najee Harris,6,3,54,0
+2024,13238,2024-09-29T17:00,Week 4,22,Pittsburgh Steelers,21,0,14507,Darnell Washington,2,2,31,0
+2024,13238,2024-09-29T17:00,Week 4,22,Pittsburgh Steelers,21,0,2237,Van Jefferson,3,2,21,0
+2024,13238,2024-09-29T17:00,Week 4,22,Pittsburgh Steelers,21,0,532,Cordarrelle Patterson,2,2,19,0
+2024,13238,2024-09-29T17:00,Week 4,22,Pittsburgh Steelers,21,0,1571,Calvin Austin III,1,1,17,0
+2024,13239,2024-09-29T17:00,Week 4,13,New York Jets,28,1,2166,Mike Williams,5,4,67,0
+2024,13239,2024-09-29T17:00,Week 4,13,New York Jets,28,1,1059,Allen Lazard,8,5,58,0
+2024,13239,2024-09-29T17:00,Week 4,13,New York Jets,28,1,919,Garrett Wilson,8,5,41,0
+2024,13239,2024-09-29T17:00,Week 4,13,New York Jets,28,1,921,Tyler Conklin,8,4,17,0
+2024,13239,2024-09-29T17:00,Week 4,13,New York Jets,28,1,907,Breece Hall,5,2,14,0
+2024,13239,2024-09-29T17:00,Week 4,13,New York Jets,28,1,16252,Braelon Allen,1,1,12,0
+2024,13239,2024-09-29T17:00,Week 4,13,New York Jets,28,1,922,Jeremy Ruckert,2,2,10,0
+2024,13239,2024-09-29T17:00,Week 4,13,New York Jets,28,1,28326,Xavier Gipson,4,1,6,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,2013,Courtland Sutton,9,3,60,1
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,1203,Michael Burton,1,1,3,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,2005,Javonte Williams,3,2,3,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,463,Josh Reynolds,2,0,0,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,151,Lil'Jordan Humphrey,1,0,0,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,2018,Greg Dulcich,1,0,0,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,23613,Nate Adkins,1,1,0,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,28956,Jaleel McLaughlin,1,1,0,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,14613,Troy Franklin,4,2,-2,0
+2024,13239,2024-09-29T17:00,Week 4,28,Denver Broncos,13,0,292,Tyler Badie,2,2,-4,0
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,1716,Mike Evans,14,8,94,1
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,1719,Chris Godwin,9,6,69,0
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,1727,Cade Otton,9,6,52,0
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,232,Sterling Shepard,5,3,51,0
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,1713,Rachaad White,3,2,35,0
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,6746,Trey Palmer,3,3,26,1
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,24631,Sean Tucker,1,1,14,0
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,14602,Bucky Irving,2,1,6,0
+2024,13240,2024-09-29T17:00,Week 4,24,Tampa Bay Buccaneers,12,1,46372,Kameron Johnson,1,0,0,0
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,846,Dallas Goedert,8,7,62,0
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,219,Saquon Barkley,4,2,32,0
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,845,Grant Calcaterra,2,1,26,0
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,1495,Parris Campbell,4,4,17,1
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,1268,Jahan Dotson,4,2,11,0
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,3460,John Ross,2,1,6,0
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,849,Jack Stoll,2,1,4,0
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,833,Kenneth Gainwell,1,0,0,0
+2024,13240,2024-09-29T17:00,Week 4,12,Philadelphia Eagles,24,0,7533,Johnny Wilson,2,0,0,0
+2024,13241,2024-09-29T17:00,Week 4,19,Carolina Panthers,10,1,1574,Diontae Johnson,13,7,83,1
+2024,13241,2024-09-29T17:00,Week 4,19,Carolina Panthers,10,1,23602,Xavier Legette,10,6,66,1
+2024,13241,2024-09-29T17:00,Week 4,19,Carolina Panthers,10,1,16964,Jonathan Mingo,5,3,24,0
+2024,13241,2024-09-29T17:00,Week 4,19,Carolina Panthers,10,1,1346,Chuba Hubbard,4,4,17,0
+2024,13241,2024-09-29T17:00,Week 4,19,Carolina Panthers,10,1,24409,Ja'Tavion Sanders,2,2,16,0
+2024,13241,2024-09-29T17:00,Week 4,19,Carolina Panthers,10,1,834,Miles Sanders,4,3,14,0
+2024,13241,2024-09-29T17:00,Week 4,19,Carolina Panthers,10,1,526,Feleipe Franks,1,0,0,0
+2024,13241,2024-09-29T17:00,Week 4,19,Carolina Panthers,10,1,27550,Jalen Coker,1,0,0,0
+2024,13241,2024-09-29T17:00,Week 4,10,Cincinnati Bengals,19,0,690,Ja'Marr Chase,6,3,85,1
+2024,13241,2024-09-29T17:00,Week 4,10,Cincinnati Bengals,19,0,691,Tee Higgins,10,6,60,0
+2024,13241,2024-09-29T17:00,Week 4,10,Cincinnati Bengals,19,0,34175,Andrei Iosivas,1,1,29,0
+2024,13241,2024-09-29T17:00,Week 4,10,Cincinnati Bengals,19,0,15125,Erick All,4,4,28,0
+2024,13241,2024-09-29T17:00,Week 4,10,Cincinnati Bengals,19,0,1420,Zack Moss,4,4,27,1
+2024,13241,2024-09-29T17:00,Week 4,10,Cincinnati Bengals,19,0,7287,Chase Brown,3,2,12,0
+2024,13241,2024-09-29T17:00,Week 4,10,Cincinnati Bengals,19,0,699,Drew Sample,1,1,0,0
+2024,13241,2024-09-29T17:00,Week 4,10,Cincinnati Bengals,19,0,1799,Mike Gesicki,1,1,-9,0
+2024,13242,2024-09-29T17:00,Week 4,26,Houston Texans,2,1,1860,Nico Collins,15,12,151,1
+2024,13242,2024-09-29T17:00,Week 4,26,Houston Texans,2,1,1426,Stefon Diggs,9,5,69,0
+2024,13242,2024-09-29T17:00,Week 4,26,Houston Texans,2,1,1858,Dare Ogunbowale,4,4,47,1
+2024,13242,2024-09-29T17:00,Week 4,26,Houston Texans,2,1,2097,Dalton Schultz,5,3,34,0
+2024,13242,2024-09-29T17:00,Week 4,26,Houston Texans,2,1,14265,Cade Stover,1,1,27,0
+2024,13242,2024-09-29T17:00,Week 4,26,Houston Texans,2,1,384,Robert Woods,3,1,10,0
+2024,13242,2024-09-29T17:00,Week 4,26,Houston Texans,2,1,1865,John Metchie III,1,1,7,0
+2024,13242,2024-09-29T17:00,Week 4,26,Houston Texans,2,1,147,J.J. Taylor,1,0,0,0
+2024,13242,2024-09-29T17:00,Week 4,2,Jacksonville Jaguars,26,0,25771,Brian Thomas Jr.,9,6,86,1
+2024,13242,2024-09-29T17:00,Week 4,2,Jacksonville Jaguars,26,0,82,Christian Kirk,12,7,61,1
+2024,13242,2024-09-29T17:00,Week 4,2,Jacksonville Jaguars,26,0,10921,Brenton Strange,3,3,19,0
+2024,13242,2024-09-29T17:00,Week 4,2,Jacksonville Jaguars,26,0,72,Travis Etienne Jr.,2,1,10,0
+2024,13242,2024-09-29T17:00,Week 4,2,Jacksonville Jaguars,26,0,88,Luke Farrell,1,0,0,0
+2024,13242,2024-09-29T17:00,Week 4,2,Jacksonville Jaguars,26,0,1425,Gabe Davis,5,1,-2,0
+2024,13242,2024-09-29T17:00,Week 4,2,Jacksonville Jaguars,26,0,69,Trevor Lawrence,0,0,-5,0
+2024,13243,2024-09-29T20:05,Week 4,11,Arizona Cardinals,18,1,14251,Marvin Harrison Jr.,6,5,45,1
+2024,13243,2024-09-29T20:05,Week 4,11,Arizona Cardinals,18,1,23966,Michael Wilson,7,3,38,0
+2024,13243,2024-09-29T20:05,Week 4,11,Arizona Cardinals,18,1,764,Greg Dortch,4,4,38,0
+2024,13243,2024-09-29T20:05,Week 4,11,Arizona Cardinals,18,1,23957,Elijah Higgins,3,2,12,0
+2024,13243,2024-09-29T20:05,Week 4,11,Arizona Cardinals,18,1,756,James Conner,1,1,9,0
+2024,13243,2024-09-29T20:05,Week 4,11,Arizona Cardinals,18,1,13966,Emari Demercado,1,1,0,0
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,544,Olamide Zaccheaus,6,6,85,0
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,1271,Terry McLaurin,10,7,52,1
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,2083,Noah Brown,4,3,26,0
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,772,Zach Ertz,3,3,22,0
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,2426,Luke McCaffrey,1,1,17,0
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,1265,Brian Robinson Jr.,3,3,12,0
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,1276,John Bates,1,1,9,0
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,1567,Jeremy McNichols,1,1,6,0
+2024,13243,2024-09-29T20:05,Week 4,18,Washington Commanders,11,0,1267,Dyami Brown,1,1,4,0
+2024,13244,2024-09-29T20:05,Week 4,14,San Francisco 49ers,3,1,989,Jauan Jennings,6,3,88,0
+2024,13244,2024-09-29T20:05,Week 4,14,San Francisco 49ers,3,1,991,Deebo Samuel,5,3,58,0
+2024,13244,2024-09-29T20:05,Week 4,14,San Francisco 49ers,3,1,987,Brandon Aiyuk,5,2,48,0
+2024,13244,2024-09-29T20:05,Week 4,14,San Francisco 49ers,3,1,996,George Kittle,4,4,45,1
+2024,13244,2024-09-29T20:05,Week 4,14,San Francisco 49ers,3,1,983,Jordan Mason,3,2,37,0
+2024,13244,2024-09-29T20:05,Week 4,14,San Francisco 49ers,3,1,986,Kyle Juszczyk,1,1,12,0
+2024,13244,2024-09-29T20:05,Week 4,14,San Francisco 49ers,3,1,1861,Chris Conley,2,0,0,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,1262,Antonio Gibson,4,3,67,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,25554,Ja'Lynn Polk,7,3,30,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,145,Rhamondre Stevenson,5,4,19,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,385,Austin Hooper,2,2,13,1
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,22546,Demario Douglas,3,3,13,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,161,Hunter Henry,3,2,12,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,25759,Kayshon Boutte,1,1,11,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,2322,K.J. Osborn,5,1,3,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,73,JaMycal Hasty,1,0,0,0
+2024,13244,2024-09-29T20:05,Week 4,3,New England Patriots,14,0,157,Tyquan Thornton,1,0,0,0
+2024,13245,2024-09-29T20:25,Week 4,1,Las Vegas Raiders,9,1,152,Jakobi Meyers,10,5,49,0
+2024,13245,2024-09-29T20:25,Week 4,1,Las Vegas Raiders,9,1,16617,Tre Tucker,6,5,41,0
+2024,13245,2024-09-29T20:25,Week 4,1,Las Vegas Raiders,9,1,626,Harrison Bryant,2,2,21,0
+2024,13245,2024-09-29T20:25,Week 4,1,Las Vegas Raiders,9,1,14497,Brock Bowers,3,2,19,0
+2024,13245,2024-09-29T20:25,Week 4,1,Las Vegas Raiders,9,1,16,DJ Turner,1,0,0,0
+2024,13245,2024-09-29T20:25,Week 4,1,Las Vegas Raiders,9,1,2313,Alexander Mattison,1,0,0,0
+2024,13245,2024-09-29T20:25,Week 4,1,Las Vegas Raiders,9,1,8,Zamir White,1,0,0,0
+2024,13245,2024-09-29T20:25,Week 4,9,Cleveland Browns,1,0,2009,Jerry Jeudy,9,6,72,0
+2024,13245,2024-09-29T20:25,Week 4,9,Cleveland Browns,1,0,618,Amari Cooper,8,4,35,0
+2024,13245,2024-09-29T20:25,Week 4,9,Cleveland Browns,1,0,612,Jerome Ford,7,7,27,0
+2024,13245,2024-09-29T20:25,Week 4,9,Cleveland Browns,1,0,9442,Blake Whiteheart,3,3,13,1
+2024,13245,2024-09-29T20:25,Week 4,9,Cleveland Browns,1,0,916,Elijah Moore,1,1,11,0
+2024,13245,2024-09-29T20:25,Week 4,9,Cleveland Browns,1,0,1867,Jordan Akins,2,1,10,0
+2024,13245,2024-09-29T20:25,Week 4,9,Cleveland Browns,1,0,1345,D'Onta Foreman,1,1,5,0
+2024,13245,2024-09-29T20:25,Week 4,9,Cleveland Browns,1,0,304,James Proche II,1,1,3,0
+2024,13246,2024-09-29T20:25,Week 4,30,Los Angeles Chargers,17,1,14485,Ladd McConkey,7,5,67,1
+2024,13246,2024-09-29T20:25,Week 4,30,Los Angeles Chargers,17,1,2164,Joshua Palmer,4,3,36,0
+2024,13246,2024-09-29T20:25,Week 4,30,Los Angeles Chargers,17,1,294,J.K. Dobbins,4,3,30,0
+2024,13246,2024-09-29T20:25,Week 4,30,Los Angeles Chargers,17,1,1648,Will Dissly,3,2,24,0
+2024,13246,2024-09-29T20:25,Week 4,30,Los Angeles Chargers,17,1,13985,Quentin Johnston,5,1,9,0
+2024,13246,2024-09-29T20:25,Week 4,30,Los Angeles Chargers,17,1,25480,Scott Matlock,1,1,7,0
+2024,13246,2024-09-29T20:25,Week 4,30,Los Angeles Chargers,17,1,698,Hayden Hurst,3,1,6,0
+2024,13246,2024-09-29T20:25,Week 4,17,Kansas City Chiefs,30,0,1215,Travis Kelce,9,7,89,0
+2024,13246,2024-09-29T20:25,Week 4,17,Kansas City Chiefs,30,0,24401,Xavier Worthy,4,3,73,1
+2024,13246,2024-09-29T20:25,Week 4,17,Kansas City Chiefs,30,0,1214,Noah Gray,4,4,40,0
+2024,13246,2024-09-29T20:25,Week 4,17,Kansas City Chiefs,30,0,1211,Justin Watson,3,2,27,0
+2024,13246,2024-09-29T20:25,Week 4,17,Kansas City Chiefs,30,0,613,Kareem Hunt,3,2,16,0
+2024,13246,2024-09-29T20:25,Week 4,17,Kansas City Chiefs,30,0,1207,Skyy Moore,2,0,0,0
+2024,13246,2024-09-29T20:25,Week 4,17,Kansas City Chiefs,30,0,10009,Carson Steele,3,1,0,0
+2024,13247,2024-09-30T00:20,Week 4,5,Baltimore Ravens,20,1,297,Justice Hill,6,6,78,1
+2024,13247,2024-09-30T00:20,Week 4,5,Baltimore Ravens,20,1,312,Isaiah Likely,2,1,26,0
+2024,13247,2024-09-30T00:20,Week 4,5,Baltimore Ravens,20,1,300,Rashod Bateman,1,1,23,0
+2024,13247,2024-09-30T00:20,Week 4,5,Baltimore Ravens,20,1,373,Derrick Henry,3,3,10,1
+2024,13247,2024-09-30T00:20,Week 4,5,Baltimore Ravens,20,1,18222,Zay Flowers,2,1,10,0
+2024,13247,2024-09-30T00:20,Week 4,5,Baltimore Ravens,20,1,148,Nelson Agholor,3,2,10,0
+2024,13247,2024-09-30T00:20,Week 4,5,Baltimore Ravens,20,1,309,Mark Andrews,1,0,0,0
+2024,13247,2024-09-30T00:20,Week 4,20,Buffalo Bills,5,0,1431,Khalil Shakir,5,4,62,0
+2024,13247,2024-09-30T00:20,Week 4,20,Buffalo Bills,5,0,12502,Keon Coleman,4,3,51,0
+2024,13247,2024-09-30T00:20,Week 4,20,Buffalo Bills,5,0,15004,Dalton Kincaid,7,5,47,0
+2024,13247,2024-09-30T00:20,Week 4,20,Buffalo Bills,5,0,1417,James Cook,1,1,9,0
+2024,13247,2024-09-30T00:20,Week 4,20,Buffalo Bills,5,0,1274,Curtis Samuel,2,2,8,0
+2024,13247,2024-09-30T00:20,Week 4,20,Buffalo Bills,5,0,12,Mack Hollins,6,1,5,0
+2024,13247,2024-09-30T00:20,Week 4,20,Buffalo Bills,5,0,1210,Marquez Valdes-Scantling,1,0,0,0
+2024,13247,2024-09-30T00:20,Week 4,20,Buffalo Bills,5,0,1434,Dawson Knox,1,1,0,0
+2024,13248,2024-09-30T23:30,Week 4,25,Miami Dolphins,6,1,1795,Jaylen Waddle,6,4,36,0
+2024,13248,2024-09-30T23:30,Week 4,25,Miami Dolphins,6,1,1792,Tyreek Hill,7,4,23,0
+2024,13248,2024-09-30T23:30,Week 4,25,Miami Dolphins,6,1,1798,Tanner Conner,2,2,15,0
+2024,13248,2024-09-30T23:30,Week 4,25,Miami Dolphins,6,1,14725,Devon Achane,3,3,14,0
+2024,13248,2024-09-30T23:30,Week 4,25,Miami Dolphins,6,1,6622,Malik Washington,1,1,8,0
+2024,13248,2024-09-30T23:30,Week 4,25,Miami Dolphins,6,1,162,Jonnu Smith,1,0,0,0
+2024,13248,2024-09-30T23:30,Week 4,25,Miami Dolphins,6,1,9884,Jaylen Wright,1,0,0,0
+2024,13248,2024-09-30T23:30,Week 4,6,Tennessee Titans,25,0,766,DeAndre Hopkins,4,2,31,0
+2024,13248,2024-09-30T23:30,Week 4,6,Tennessee Titans,25,0,689,Tyler Boyd,2,2,31,0
+2024,13248,2024-09-30T23:30,Week 4,6,Tennessee Titans,25,0,2082,Tony Pollard,2,2,20,0
+2024,13248,2024-09-30T23:30,Week 4,6,Tennessee Titans,25,0,376,Treylon Burks,1,1,13,0
+2024,13248,2024-09-30T23:30,Week 4,6,Tennessee Titans,25,0,543,Calvin Ridley,3,1,5,0
+2024,13248,2024-09-30T23:30,Week 4,6,Tennessee Titans,25,0,16624,Josh Whyle,1,1,5,0
+2024,13248,2024-09-30T23:30,Week 4,6,Tennessee Titans,25,0,388,Chigoziem Okonkwo,3,1,5,0
+2024,13248,2024-09-30T23:30,Week 4,6,Tennessee Titans,25,0,22656,Tyjae Spears,2,2,0,0
+2024,13249,2024-10-01T00:15,Week 4,7,Detroit Lions,23,1,465,Jameson Williams,2,2,80,1
+2024,13249,2024-10-01T00:15,Week 4,7,Detroit Lions,23,1,17786,Sam LaPorta,4,4,53,0
+2024,13249,2024-10-01T00:15,Week 4,7,Detroit Lions,23,1,2010,Tim Patrick,2,2,52,0
+2024,13249,2024-10-01T00:15,Week 4,7,Detroit Lions,23,1,464,Amon-Ra St. Brown,6,6,45,1
+2024,13249,2024-10-01T00:15,Week 4,7,Detroit Lions,23,1,1126,David Montgomery,1,1,40,0
+2024,13249,2024-10-01T00:15,Week 4,7,Detroit Lions,23,1,469,Brock Wright,2,2,13,0
+2024,13249,2024-10-01T00:15,Week 4,7,Detroit Lions,23,1,462,Kalif Raymond,1,1,9,0
+2024,13249,2024-10-01T00:15,Week 4,7,Detroit Lions,23,1,449,Jared Goff,1,1,7,1
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,1645,DK Metcalf,12,7,104,0
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,1644,Tyler Lockett,9,5,61,0
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,14255,Jaxon SmithNjigba,12,8,51,0
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,19529,Zach Charbonnet,5,5,39,0
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,1640,Kenneth Walker III,5,4,36,0
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,19540,Jake Bobo,3,3,30,0
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,13756,AJ Barner,2,2,27,1
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,1649,Noah Fant,2,2,26,0
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,1356,Laviska Shenault Jr.,1,1,18,0
+2024,13249,2024-10-01T00:15,Week 4,23,Seattle Seahawks,7,0,1868,Pharaoh Brown,2,1,3,0
+2024,13251,2024-10-06T13:30,Week 5,32,Minnesota Vikings,13,1,2319,Justin Jefferson,14,6,92,0
+2024,13251,2024-10-06T13:30,Week 5,32,Minnesota Vikings,13,1,15923,Jordan Addison,8,3,36,0
+2024,13251,2024-10-06T13:30,Week 5,32,Minnesota Vikings,13,1,2328,Johnny Mundt,2,2,31,0
+2024,13251,2024-10-06T13:30,Week 5,32,Minnesota Vikings,13,1,1054,Aaron Jones,1,1,24,0
+2024,13251,2024-10-06T13:30,Week 5,32,Minnesota Vikings,13,1,1786,Myles Gaskin,1,1,11,0
+2024,13251,2024-10-06T13:30,Week 5,32,Minnesota Vikings,13,1,2310,Ty Chandler,2,2,9,0
+2024,13251,2024-10-06T13:30,Week 5,13,New York Jets,32,0,919,Garrett Wilson,22,13,101,1
+2024,13251,2024-10-06T13:30,Week 5,13,New York Jets,32,0,921,Tyler Conklin,9,6,55,0
+2024,13251,2024-10-06T13:30,Week 5,13,New York Jets,32,0,1059,Allen Lazard,10,4,34,1
+2024,13251,2024-10-06T13:30,Week 5,13,New York Jets,32,0,2166,Mike Williams,4,2,25,0
+2024,13251,2024-10-06T13:30,Week 5,13,New York Jets,32,0,16252,Braelon Allen,2,1,15,0
+2024,13251,2024-10-06T13:30,Week 5,13,New York Jets,32,0,907,Breece Hall,4,3,14,0
+2024,13252,2024-10-06T17:00,Week 5,16,Chicago Bears,19,1,1353,DJ Moore,8,5,105,2
+2024,13252,2024-10-06T17:00,Week 5,16,Chicago Bears,19,1,1139,Cole Kmet,4,3,57,0
+2024,13252,2024-10-06T17:00,Week 5,16,Chicago Bears,19,1,455,D'Andre Swift,2,2,47,0
+2024,13252,2024-10-06T17:00,Week 5,16,Chicago Bears,19,1,25552,Rome Odunze,6,5,40,0
+2024,13252,2024-10-06T17:00,Week 5,16,Chicago Bears,19,1,2159,Keenan Allen,6,3,33,0
+2024,13252,2024-10-06T17:00,Week 5,16,Chicago Bears,19,1,2167,Gerald Everett,2,2,22,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,27550,Jalen Coker,4,4,68,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,16964,Jonathan Mingo,5,2,37,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,834,Miles Sanders,3,2,27,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,1574,Diontae Johnson,6,3,23,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,3288,David Moore,3,2,13,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,24409,Ja'Tavion Sanders,5,3,13,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,23602,Xavier Legette,1,1,8,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,1364,Tommy Tremble,2,1,7,0
+2024,13252,2024-10-06T17:00,Week 5,19,Carolina Panthers,16,0,1346,Chuba Hubbard,4,4,-2,0
+2024,13254,2024-10-06T17:00,Week 5,3,New England Patriots,25,1,22546,Demario Douglas,9,6,59,0
+2024,13254,2024-10-06T17:00,Week 5,3,New England Patriots,25,1,25759,Kayshon Boutte,2,2,34,0
+2024,13254,2024-10-06T17:00,Week 5,3,New England Patriots,25,1,161,Hunter Henry,4,2,32,0
+2024,13254,2024-10-06T17:00,Week 5,3,New England Patriots,25,1,25554,Ja'Lynn Polk,6,1,13,0
+2024,13254,2024-10-06T17:00,Week 5,3,New England Patriots,25,1,385,Austin Hooper,3,1,9,0
+2024,13254,2024-10-06T17:00,Week 5,3,New England Patriots,25,1,149,Kendrick Bourne,1,1,6,0
+2024,13254,2024-10-06T17:00,Week 5,3,New England Patriots,25,1,1262,Antonio Gibson,1,1,4,0
+2024,13254,2024-10-06T17:00,Week 5,3,New England Patriots,25,1,145,Rhamondre Stevenson,4,4,3,0
+2024,13254,2024-10-06T17:00,Week 5,25,Miami Dolphins,3,0,1792,Tyreek Hill,9,6,69,0
+2024,13254,2024-10-06T17:00,Week 5,25,Miami Dolphins,3,0,162,Jonnu Smith,8,5,62,0
+2024,13254,2024-10-06T17:00,Week 5,25,Miami Dolphins,3,0,1795,Jaylen Waddle,8,4,46,0
+2024,13254,2024-10-06T17:00,Week 5,25,Miami Dolphins,3,0,1787,Raheem Mostert,2,2,18,0
+2024,13254,2024-10-06T17:00,Week 5,25,Miami Dolphins,3,0,3451,Odell Beckham Jr.,2,0,0,0
+2024,13254,2024-10-06T17:00,Week 5,25,Miami Dolphins,3,0,1802,Durham Smythe,1,0,0,0
+2024,13254,2024-10-06T17:00,Week 5,25,Miami Dolphins,3,0,14725,Devon Achane,1,1,-1,0
+2024,13255,2024-10-06T17:00,Week 5,18,Washington Commanders,9,1,1271,Terry McLaurin,8,4,112,0
+2024,13255,2024-10-06T17:00,Week 5,18,Washington Commanders,9,1,1267,Dyami Brown,2,2,57,1
+2024,13255,2024-10-06T17:00,Week 5,18,Washington Commanders,9,1,2153,Austin Ekeler,2,2,30,0
+2024,13255,2024-10-06T17:00,Week 5,18,Washington Commanders,9,1,2426,Luke McCaffrey,3,3,19,0
+2024,13255,2024-10-06T17:00,Week 5,18,Washington Commanders,9,1,544,Olamide Zaccheaus,3,1,10,0
+2024,13255,2024-10-06T17:00,Week 5,18,Washington Commanders,9,1,772,Zach Ertz,8,2,10,0
+2024,13255,2024-10-06T17:00,Week 5,18,Washington Commanders,9,1,23965,Brycen Tremayne,1,1,-2,0
+2024,13255,2024-10-06T17:00,Week 5,9,Cleveland Browns,18,0,618,Amari Cooper,10,4,60,0
+2024,13255,2024-10-06T17:00,Week 5,9,Cleveland Browns,18,0,1867,Jordan Akins,3,3,22,1
+2024,13255,2024-10-06T17:00,Week 5,9,Cleveland Browns,18,0,1345,D'Onta Foreman,1,1,16,0
+2024,13255,2024-10-06T17:00,Week 5,9,Cleveland Browns,18,0,2009,Jerry Jeudy,3,1,16,0
+2024,13255,2024-10-06T17:00,Week 5,9,Cleveland Browns,18,0,630,David Njoku,3,1,14,0
+2024,13255,2024-10-06T17:00,Week 5,9,Cleveland Browns,18,0,916,Elijah Moore,4,3,11,0
+2024,13255,2024-10-06T17:00,Week 5,9,Cleveland Browns,18,0,612,Jerome Ford,3,3,2,0
+2024,13255,2024-10-06T17:00,Week 5,9,Cleveland Browns,18,0,146,Pierre Strong Jr.,1,0,0,0
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,25771,Brian Thomas Jr.,8,5,122,1
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,82,Christian Kirk,4,4,88,0
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,72,Travis Etienne Jr.,7,6,43,0
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,1425,Gabe Davis,4,3,38,0
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,21566,Tank Bigsby,1,1,28,0
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,10921,Brenton Strange,4,4,24,1
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,88,Luke Farrell,2,2,17,0
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,614,D'Ernest Johnson,3,2,9,0
+2024,13256,2024-10-06T17:00,Week 5,2,Jacksonville Jaguars,21,1,1067,Josiah Deguara,1,1,2,0
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,1500,Alec Pierce,3,3,134,1
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,8006,Josh Downs,12,9,69,0
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,14488,Adonai Mitchell,7,4,38,0
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,1503,Mo Alie-Cox,4,2,37,1
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,1501,Michael Pittman Jr.,8,5,37,1
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,1052,Tyler Goodson,3,3,31,0
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,836,Trey Sermon,6,6,25,0
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,16050,Will Mallory,1,1,7,0
+2024,13256,2024-10-06T17:00,Week 5,21,Indianapolis Colts,2,0,1507,Andrew Ogletree,1,1,5,0
+2024,13257,2024-10-06T17:00,Week 5,26,Houston Texans,20,1,1426,Stefon Diggs,8,6,82,0
+2024,13257,2024-10-06T17:00,Week 5,26,Houston Texans,20,1,1860,Nico Collins,2,2,78,1
+2024,13257,2024-10-06T17:00,Week 5,26,Houston Texans,20,1,1858,Dare Ogunbowale,7,6,57,0
+2024,13257,2024-10-06T17:00,Week 5,26,Houston Texans,20,1,17320,Nathaniel Dell,4,4,38,0
+2024,13257,2024-10-06T17:00,Week 5,26,Houston Texans,20,1,2097,Dalton Schultz,6,4,34,0
+2024,13257,2024-10-06T17:00,Week 5,26,Houston Texans,20,1,19308,Xavier Hutchinson,3,2,31,0
+2024,13257,2024-10-06T17:00,Week 5,26,Houston Texans,20,1,14265,Cade Stover,2,2,6,0
+2024,13257,2024-10-06T17:00,Week 5,26,Houston Texans,20,1,2229,Cam Akers,3,2,5,0
+2024,13257,2024-10-06T17:00,Week 5,20,Buffalo Bills,26,0,12502,Keon Coleman,5,1,49,1
+2024,13257,2024-10-06T17:00,Week 5,20,Buffalo Bills,26,0,15004,Dalton Kincaid,6,2,34,0
+2024,13257,2024-10-06T17:00,Week 5,20,Buffalo Bills,26,0,12,Mack Hollins,6,2,27,0
+2024,13257,2024-10-06T17:00,Week 5,20,Buffalo Bills,26,0,1417,James Cook,3,2,17,0
+2024,13257,2024-10-06T17:00,Week 5,20,Buffalo Bills,26,0,8824,Ray Davis,2,1,4,0
+2024,13257,2024-10-06T17:00,Week 5,20,Buffalo Bills,26,0,1210,Marquez Valdes-Scantling,3,0,0,0
+2024,13257,2024-10-06T17:00,Week 5,20,Buffalo Bills,26,0,1274,Curtis Samuel,4,1,0,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,2005,Javonte Williams,6,5,50,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,151,Lil'Jordan Humphrey,2,2,48,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,2013,Courtland Sutton,5,2,32,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,14613,Troy Franklin,2,1,20,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,1946,Adam Trautman,1,1,19,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,463,Josh Reynolds,2,1,9,1
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,23613,Nate Adkins,1,1,8,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,15363,Marvin Mims,1,1,7,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,1203,Michael Burton,1,1,5,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,1944,Lucas Krull,1,1,5,0
+2024,13258,2024-10-06T20:05,Week 5,28,Denver Broncos,1,1,28956,Jaleel McLaughlin,4,3,3,1
+2024,13258,2024-10-06T20:05,Week 5,1,Las Vegas Raiders,28,0,14497,Brock Bowers,12,8,97,1
+2024,13258,2024-10-06T20:05,Week 5,1,Las Vegas Raiders,28,0,152,Jakobi Meyers,9,6,72,0
+2024,13258,2024-10-06T20:05,Week 5,1,Las Vegas Raiders,28,0,2313,Alexander Mattison,3,2,23,0
+2024,13258,2024-10-06T20:05,Week 5,1,Las Vegas Raiders,28,0,16617,Tre Tucker,5,2,18,0
+2024,13258,2024-10-06T20:05,Week 5,1,Las Vegas Raiders,28,0,16,DJ Turner,4,1,12,0
+2024,13258,2024-10-06T20:05,Week 5,1,Las Vegas Raiders,28,0,3,Ameer Abdullah,3,3,9,0
+2024,13259,2024-10-06T20:05,Week 5,14,San Francisco 49ers,11,1,987,Brandon Aiyuk,12,8,147,0
+2024,13259,2024-10-06T20:05,Week 5,14,San Francisco 49ers,11,1,996,George Kittle,12,8,64,1
+2024,13259,2024-10-06T20:05,Week 5,14,San Francisco 49ers,11,1,989,Jauan Jennings,4,1,13,0
+2024,13259,2024-10-06T20:05,Week 5,14,San Francisco 49ers,11,1,991,Deebo Samuel,3,1,11,0
+2024,13259,2024-10-06T20:05,Week 5,14,San Francisco 49ers,11,1,983,Jordan Mason,1,1,9,0
+2024,13259,2024-10-06T20:05,Week 5,11,Arizona Cardinals,14,0,23966,Michael Wilson,6,5,78,0
+2024,13259,2024-10-06T20:05,Week 5,11,Arizona Cardinals,14,0,773,Trey McBride,9,6,53,0
+2024,13259,2024-10-06T20:05,Week 5,11,Arizona Cardinals,14,0,14251,Marvin Harrison Jr.,7,2,36,0
+2024,13259,2024-10-06T20:05,Week 5,11,Arizona Cardinals,14,0,756,James Conner,3,2,14,0
+2024,13259,2024-10-06T20:05,Week 5,11,Arizona Cardinals,14,0,764,Greg Dortch,2,1,7,0
+2024,13259,2024-10-06T20:05,Week 5,11,Arizona Cardinals,14,0,7318,Tip Reiman,1,1,5,0
+2024,13259,2024-10-06T20:05,Week 5,11,Arizona Cardinals,14,0,23957,Elijah Higgins,1,1,2,1
+2024,13259,2024-10-06T20:05,Week 5,11,Arizona Cardinals,14,0,13966,Emari Demercado,1,1,0,0
