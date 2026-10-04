@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T03:02:50.186358Z",
+ "generated_at": "2026-10-04T11:12:41.109029Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -30,7 +30,7 @@
   "BAL": [
    {
     "espn_updated": "2026-10-04T00:38Z",
-    "injury": "Lower Leg",
+    "injury": "Ankle",
     "name": "Jovaughn Gwyn",
     "pos": "G",
     "return_date": "2026-12-13",
@@ -416,6 +416,16 @@
     "status": "Injured Reserve"
    },
    {
+    "espn_updated": "2026-10-04T07:36Z",
+    "injury": "Groin",
+    "name": "Josaiah Stewart",
+    "pos": "LB",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 0.67,
+    "status": "Questionable"
+   },
+   {
     "espn_updated": "2026-10-02T19:41Z",
     "injury": "Shoulder - AC Joint",
     "name": "Colby Parkinson",
@@ -474,7 +484,7 @@
     "injury": "Groin",
     "name": "Jackson Powers-Johnson",
     "pos": "G",
-    "return_date": "2026-10-04",
+    "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.98,
     "status": "Out"
@@ -750,6 +760,16 @@
     "share_basis": "this season",
     "snap_share": 0.62,
     "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-04T06:43Z",
+    "injury": "Personal",
+    "name": "Jacob Parrish",
+    "pos": "CB",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 0.66,
+    "status": "Questionable"
    }
   ],
   "TEN": [
@@ -803,7 +823,7 @@
     "return_date": "2026-10-04",
     "share_basis": "this season",
     "snap_share": 0.77,
-    "status": "Doubtful"
+    "status": "Questionable"
    }
   ]
  }
