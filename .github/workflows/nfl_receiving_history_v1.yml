@@ -1,0 +1,53 @@
+name: NFL receiving history collection
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: Historical NFL season
+        type: choice
+        required: true
+        default: '2024'
+        options:
+          - '2024'
+          - '2023'
+          - '2022'
+permissions:
+  contents: write
+concurrency:
+  group: nfl-receiving-history
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Collect up to 70 games and keep quota reserve
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+          NFL_SEASON: ${{ inputs.season }}
+        run: python3 nfl/props/collect_receiving_history_v1.py --season "$NFL_SEASON"
+      - name: Save collected progress
+        if: always()
+        run: |
+          git config user.name "sports-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add nfl/props/history_v1/
+          if ! git diff --cached --quiet; then
+            git commit -m "Collect historical NFL receiving statistics"
+            git pull --rebase origin "${{ github.event.repository.default_branch }}"
+            git push origin "HEAD:${{ github.event.repository.default_branch }}"
+          fi
+      - name: Download receiving data and report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nfl-receiving-history-${{ inputs.season }}
+          path: nfl/props/history_v1/
+          retention-days: 30
+          if-no-files-found: warn
