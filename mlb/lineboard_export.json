@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "ATL202609290"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "NYA202609290"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "SDN202609290"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "ATL202609300"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "HOU202609300"
   },
@@ -491,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "NYA202609300"
   },
@@ -568,7 +568,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "SDN202609300"
   },
@@ -619,7 +619,7 @@
    "collection": "slate",
    "data": {
     "away_team": "NYY",
-    "export_hash": "ab480fc783525b6affe5102afe93e02d65f5cb44bf313e06f578b5e43b188493",
+    "export_hash": "041b75b6435318345eda9c7d9402057a218d011a2036fb7073646be9e6dbc893",
     "game_date": "2026-10-03",
     "game_id": "TBA202610030",
     "home_team": "TB",
@@ -635,18 +635,6 @@
     "model": {
      "available": true,
      "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Gerrit Cole vs Drew Rasmussen. Odds from Kalshi (n_books_used=1).",
-     "series": {
-      "away_wins": 0,
-      "description": "AL Division Series",
-      "fair_price_favored": -193,
-      "favored": "TB",
-      "favored_prob": 0.6587,
-      "games_in_series": 5,
-      "home_wins": 0,
-      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
-      "p_home_series": 0.6587,
-      "series_game_number": 1
-     },
      "source_snapshot_time": "2026-10-03T18:35:49.863689+00:00",
      "spread_prob": 0.5943018053947979,
      "spread_side": "NYY +1.5",
@@ -657,7 +645,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -671,7 +659,7 @@
      "side": "TB",
      "tier": "top25"
     },
-    "export_hash": "1da05e0edcf1792624ae35acf3419c96f26f73b1031fd38e37c5b02698111939",
+    "export_hash": "52a64f283cdb5d2cd48d94aadc3f59e4f5c4ae2b386211b52e848185b341018e",
     "game_date": "2026-10-03",
     "game_id": "TBA202610030",
     "home_team": "TB",
@@ -682,10 +670,11 @@
      "moneyline_home": -127
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 0,
+     "decision_correct": true,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 1,
+     "resolved": true,
      "spread_correct": null,
      "spread_decision_correct": null,
      "teaser_correct": null
@@ -745,7 +734,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-03T18:35:56.278409Z"
+    "synced_at": "2026-10-04T02:36:34.072016Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -792,7 +781,7 @@
    "doc_id": "MIL202610030"
   }
  ],
- "generated_at": "2026-10-03T18:35:56.278409Z",
+ "generated_at": "2026-10-04T02:36:34.072016Z",
  "n_docs": 20,
  "sport": "MLB"
 }
