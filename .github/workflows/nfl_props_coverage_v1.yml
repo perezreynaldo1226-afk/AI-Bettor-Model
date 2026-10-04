@@ -1,0 +1,38 @@
+name: NFL player props coverage check
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: NFL season to check for player statistics
+        default: '2026'
+        required: true
+        type: choice
+        options:
+          - '2026'
+          - '2025'
+permissions:
+  contents: read
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check receptions odds and player statistics
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ODDSPAPI_API_KEY: ${{ secrets.ODDSPAPI_API_KEY }}
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+          NFL_SEASON: ${{ inputs.season }}
+        run: python3 nfl/props/coverage_probe_v1.py --season "$NFL_SEASON"
+      - name: Downloadable coverage report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nfl-props-coverage
+          path: props_probe/
+          retention-days: 14
+          if-no-files-found: warn
