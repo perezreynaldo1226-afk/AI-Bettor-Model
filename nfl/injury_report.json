@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T21:51:31.006997Z",
+ "generated_at": "2026-10-04T03:02:50.186358Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -29,7 +29,7 @@
   ],
   "BAL": [
    {
-    "espn_updated": "2026-10-03T20:11Z",
+    "espn_updated": "2026-10-04T00:38Z",
     "injury": "Lower Leg",
     "name": "Jovaughn Gwyn",
     "pos": "G",
@@ -125,7 +125,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-03T01:12Z",
+    "espn_updated": "2026-10-04T01:02Z",
     "injury": "Knee",
     "name": "Braxton Jones",
     "pos": "OT",
@@ -348,8 +348,8 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-09-30T21:55Z",
-    "injury": "Calf",
+    "espn_updated": "2026-10-03T22:33Z",
+    "injury": "Knee",
     "name": "Jake Hansen",
     "pos": "LB",
     "return_date": "2026-10-04",
@@ -687,16 +687,6 @@
    }
   ],
   "SEA": [
-   {
-    "espn_updated": "2026-09-24T00:52Z",
-    "injury": "Knee",
-    "name": "Anthony Bradford",
-    "pos": "G",
-    "return_date": "2026-10-25",
-    "share_basis": "this season",
-    "snap_share": 1.0,
-    "status": "Injured Reserve"
-   },
    {
     "espn_updated": "2026-10-03T00:32Z",
     "injury": "Hamstring",
