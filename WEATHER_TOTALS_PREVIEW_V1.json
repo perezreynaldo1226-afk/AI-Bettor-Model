@@ -1,25 +1,6 @@
 {
  "counted": false,
- "games": [
-  {
-   "away": "Atlanta Falcons",
-   "ev_over": 0.01226518749949912,
-   "ev_under": -0.0756960048888825,
-   "game_id": "401872979",
-   "home": "New Orleans Saints",
-   "indoor": true,
-   "kickoff_utc": "2026-10-06T00:15:00Z",
-   "over_odds": 101.0,
-   "p_over": 0.5036145211440295,
-   "pick": "PASS",
-   "pick_odds": null,
-   "temp_f": null,
-   "total_line": 48.5,
-   "under_odds": -116.0,
-   "venue": "Caesars Superdome",
-   "wind_mph": null
-  }
- ],
- "generated_utc": "2026-10-04T22:47:37Z",
+ "games": [],
+ "generated_utc": "2026-10-05T22:47:32Z",
  "model_sha": "588945bd0e37bc265f23776d7f015901e33f3c5827ff99900f09f0f62c14f8a5"
 }
