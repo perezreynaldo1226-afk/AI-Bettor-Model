@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-05T00:24:14.426031Z"
+    "synced_at": "2026-10-05T14:44:24.286919Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-05T00:24:14.426031Z"
+    "synced_at": "2026-10-05T14:44:24.286919Z"
    },
    "doc_id": "ATL202609300"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-05T00:24:14.426031Z"
+    "synced_at": "2026-10-05T14:44:24.286919Z"
    },
    "doc_id": "HOU202609300"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-05T00:24:14.426031Z"
+    "synced_at": "2026-10-05T14:44:24.286919Z"
    },
    "doc_id": "NYA202609300"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-05T00:24:14.426031Z"
+    "synced_at": "2026-10-05T14:44:24.286919Z"
    },
    "doc_id": "SDN202609300"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-05T00:24:14.426031Z"
+    "synced_at": "2026-10-05T14:44:24.286919Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -491,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-05T00:24:14.426031Z"
+    "synced_at": "2026-10-05T14:44:24.286919Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -537,9 +537,185 @@
     "teaser_signal": null
    },
    "doc_id": "MIL202610030"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CHW",
+    "export_hash": "c921e7339fee492d9c240f215d62f6dde3146ad0b3caa89656cee8e78396c5f4",
+    "game_date": "2026-10-05",
+    "game_id": "CLE202610050",
+    "home_team": "CLE",
+    "kickoff_time": "2026-10-05T21:10:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 138,
+     "moneyline_home": -144,
+     "spread_away_odds": -163.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 156.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Anthony Kay vs Gavin Williams. Odds from Kalshi (n_books_used=1).",
+     "series": {
+      "away_wins": 1,
+      "description": "AL Division Series",
+      "fair_price_favored": -102,
+      "favored": "CLE",
+      "favored_prob": 0.5054,
+      "games_in_series": 5,
+      "home_wins": 0,
+      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
+      "p_home_series": 0.5054,
+      "series_game_number": 2
+     },
+     "source_snapshot_time": "2026-10-05T14:44:17.249291+00:00",
+     "spread_prob": 0.5461724648447437,
+     "spread_side": "CHW +1.5",
+     "spread_side_team": "CHW",
+     "status": "locked",
+     "winner_prob": 0.6173332668963831,
+     "winner_side": "CLE"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-10-05T14:44:24.286919Z"
+   },
+   "doc_id": "CLE202610050"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CHW",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6173332668963831,
+     "side": "CLE",
+     "tier": "top25"
+    },
+    "export_hash": "c7703c044ad564cd206e3d5d79048131684e15a3bb3d6fe72cbc04306b8f5641",
+    "game_date": "2026-10-05",
+    "game_id": "CLE202610050",
+    "home_team": "CLE",
+    "kickoff_time": "2026-10-05T21:10:00Z",
+    "locked_at": "2026-10-05T14:44:17.249291+00:00",
+    "market_snapshot": {
+     "moneyline_away": 138,
+     "moneyline_home": -144
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "CLE202610050"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "NYY",
+    "export_hash": "925a72e1bc2f1d2531713c5487b420b1628e92f0b653287ede8f7ea88896669f",
+    "game_date": "2026-10-05",
+    "game_id": "TBA202610050",
+    "home_team": "TB",
+    "kickoff_time": "2026-10-06T00:00:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -113,
+     "moneyline_home": 108,
+     "spread_away_odds": 150.0,
+     "spread_home": 1.5,
+     "spread_home_odds": -156.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Cam Schlittler vs Freddy Peralta. Odds from Kalshi (n_books_used=1).",
+     "series": {
+      "away_wins": 0,
+      "description": "AL Division Series",
+      "fair_price_favored": -256,
+      "favored": "TB",
+      "favored_prob": 0.7192,
+      "games_in_series": 5,
+      "home_wins": 1,
+      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
+      "p_home_series": 0.7192,
+      "series_game_number": 2
+     },
+     "source_snapshot_time": "2026-10-05T14:44:17.249291+00:00",
+     "spread_prob": 0.6625957227070716,
+     "spread_side": "NYY +1.5",
+     "spread_side_team": "NYY",
+     "status": "locked",
+     "winner_prob": 0.5215940239945273,
+     "winner_side": "TB"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-10-05T14:44:24.286919Z"
+   },
+   "doc_id": "TBA202610050"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "NYY",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5215940239945273,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "4e421688cb25266025e5ae18722c8d3bf25fa2c0e20e91ee58c76428a2b63f4b",
+    "game_date": "2026-10-05",
+    "game_id": "TBA202610050",
+    "home_team": "TB",
+    "kickoff_time": "2026-10-06T00:00:00Z",
+    "locked_at": "2026-10-05T14:44:17.249291+00:00",
+    "market_snapshot": {
+     "moneyline_away": -113,
+     "moneyline_home": 108
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6625957227070716,
+     "side": "NYY +1.5",
+     "tier": "top50"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "TBA202610050"
   }
  ],
- "generated_at": "2026-10-05T00:24:14.426031Z",
- "n_docs": 14,
+ "generated_at": "2026-10-05T14:44:24.286919Z",
+ "n_docs": 18,
  "sport": "MLB"
 }
