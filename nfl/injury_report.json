@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-04T20:59:39.037096Z",
+ "generated_at": "2026-10-05T00:04:00.679700Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
   "ARI": [
    {
-    "espn_updated": "2026-10-04T20:35Z",
+    "espn_updated": "2026-10-04T21:01Z",
     "injury": "Biceps",
     "name": "Paris Johnson Jr.",
     "pos": "OT",
@@ -49,7 +49,7 @@
   ],
   "BAL": [
    {
-    "espn_updated": "2026-10-04T20:37Z",
+    "espn_updated": "2026-10-04T21:10Z",
     "injury": "Ankle",
     "name": "Lamar Jackson",
     "pos": "QB",
@@ -87,6 +87,16 @@
     "share_basis": "this season",
     "snap_share": 0.91,
     "status": "Questionable"
+   },
+   {
+    "espn_updated": "2026-10-04T21:22Z",
+    "injury": "Toe",
+    "name": "Ronnie Stanley",
+    "pos": "OT",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.9,
+    "status": "Questionable"
    }
   ],
   "BUF": [
@@ -113,7 +123,7 @@
   ],
   "CAR": [
    {
-    "espn_updated": "2026-10-03T00:58Z",
+    "espn_updated": "2026-10-04T23:01Z",
     "injury": "Elbow",
     "name": "Damien Lewis",
     "pos": "G",
@@ -133,14 +143,14 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-04T11:26Z",
+    "espn_updated": "2026-10-04T23:00Z",
     "injury": "Quadriceps",
     "name": "Jalen Coker",
     "pos": "WR",
-    "return_date": "2026-10-04",
+    "return_date": "2026-10-18",
     "share_basis": "this season",
     "snap_share": 0.65,
-    "status": "Questionable"
+    "status": "Out"
    }
   ],
   "CHI": [
@@ -281,7 +291,28 @@
     "status": "Out"
    }
   ],
-  "DEN": [],
+  "DEN": [
+   {
+    "espn_updated": "2026-10-04T22:52Z",
+    "injury": "Ribs",
+    "name": "Riley Moss",
+    "pos": "CB",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.99,
+    "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-04T23:12Z",
+    "injury": "Ankle",
+    "name": "Pat Bryant",
+    "pos": "WR",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 0.65,
+    "status": "Questionable"
+   }
+  ],
   "DET": [
    {
     "espn_updated": "2026-10-02T16:17Z",
@@ -294,7 +325,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-03T01:20Z",
+    "espn_updated": "2026-10-04T23:05Z",
     "injury": "Foot",
     "name": "Ben Bartch",
     "pos": "G",
@@ -322,16 +353,6 @@
     "share_basis": "this season",
     "snap_share": 0.65,
     "status": "Injured Reserve"
-   },
-   {
-    "espn_updated": "2026-10-02T23:23Z",
-    "injury": "Ribs",
-    "name": "D.J. Reed",
-    "pos": "CB",
-    "return_date": "2026-10-04",
-    "share_basis": "this season",
-    "snap_share": 0.96,
-    "status": "Questionable"
    }
   ],
   "GB": [
@@ -474,7 +495,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-04T20:49Z",
+    "espn_updated": "2026-10-04T22:05Z",
     "injury": "Hamstring",
     "name": "Rashee Rice",
     "pos": "WR",
@@ -536,6 +557,46 @@
     "share_basis": "this season",
     "snap_share": 0.69,
     "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-04T22:35Z",
+    "injury": "Foot",
+    "name": "Ladd McConkey",
+    "pos": "WR",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.61,
+    "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-04T23:28Z",
+    "injury": "Ankle",
+    "name": "Rashawn Slater",
+    "pos": "OT",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 1.0,
+    "status": "Questionable"
+   },
+   {
+    "espn_updated": "2026-10-04T22:33Z",
+    "injury": "Neck",
+    "name": "Joe Alt",
+    "pos": "OT",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 1.0,
+    "status": "Questionable"
+   },
+   {
+    "espn_updated": "2026-10-04T23:31Z",
+    "injury": "Head",
+    "name": "Trevor Penning",
+    "pos": "G",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 0.71,
+    "status": "Questionable"
    }
   ],
   "LV": [
@@ -590,6 +651,16 @@
     "share_basis": "last season",
     "snap_share": 0.89,
     "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-04T21:13Z",
+    "injury": "Knee",
+    "name": "Dante Trader Jr.",
+    "pos": "S",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 0.75,
+    "status": "Questionable"
    }
   ],
   "MIN": [
@@ -604,11 +675,21 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-04T20:33Z",
+    "espn_updated": "2026-10-04T22:39Z",
+    "injury": "Head",
+    "name": "Christian Darrisaw",
+    "pos": "OT",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 1.0,
+    "status": "Questionable"
+   },
+   {
+    "espn_updated": "2026-10-04T21:09Z",
     "injury": "Knee",
     "name": "Donovan Jackson",
     "pos": "G",
-    "return_date": "2026-10-04",
+    "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 1.0,
     "status": "Questionable"
@@ -754,7 +835,7 @@
   ],
   "PHI": [
    {
-    "espn_updated": "2026-10-04T16:08Z",
+    "espn_updated": "2026-10-04T21:48Z",
     "injury": "Personal",
     "name": "Lane Johnson",
     "pos": "OT",
@@ -836,6 +917,16 @@
     "share_basis": "last season",
     "snap_share": 0.68,
     "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-04T23:26Z",
+    "injury": "Ankle",
+    "name": "Leonard Williams",
+    "pos": "DT",
+    "return_date": "2026-10-04",
+    "share_basis": "this season",
+    "snap_share": 0.73,
+    "status": "Questionable"
    }
   ],
   "SF": [
