@@ -44,7 +44,7 @@
      "tier": "top25"
     },
     "espn_event_id": "401914127",
-    "export_hash": "ccc61ff7ab596346bb2feba7002eb4975f2818d72427d9734098581a8cd2cedf",
+    "export_hash": "12d3acdc130ea6eb445bcaa8eecb82d7eaf004747bbf398abd69edd56afaf812",
     "game_date": "2026-10-04",
     "game_id": "NBATRIAL_401914127",
     "home_team": "DEN",
@@ -57,10 +57,10 @@
      "moneyline_home": -162
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 109,
+     "decision_correct": false,
+     "home_score": 97,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -117,7 +117,7 @@
      "tier": "top50"
     },
     "espn_event_id": "401918010",
-    "export_hash": "d4244439ee252ea9f49beeba917b8cf507fb20975fa56b30cf7b19c8927a2116",
+    "export_hash": "ac6fc3261b10c60af550ae52c6274de684b33e83d36a7abe553515dd825b1732",
     "game_date": "2026-10-04",
     "game_id": "NBATRIAL_401918010",
     "home_team": "LAC",
@@ -130,10 +130,10 @@
      "moneyline_home": 124
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 101,
+     "decision_correct": true,
+     "home_score": 104,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -512,7 +512,7 @@
    "doc_id": "NBATRIAL_401898716"
   }
  ],
- "generated_at": "2026-10-05T00:36:47Z",
+ "generated_at": "2026-10-05T06:38:15Z",
  "n_docs": 14,
  "sport": "NBA_TRIAL"
 }
