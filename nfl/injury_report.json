@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T12:05:32.827375Z",
+ "generated_at": "2026-10-05T18:06:22.604178Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -49,7 +49,7 @@
   ],
   "BAL": [
    {
-    "espn_updated": "2026-10-04T21:10Z",
+    "espn_updated": "2026-10-05T13:52Z",
     "injury": "Ankle",
     "name": "Lamar Jackson",
     "pos": "QB",
@@ -165,11 +165,11 @@
   ],
   "CHI": [
    {
-    "espn_updated": "2026-10-04T15:34Z",
+    "espn_updated": "2026-10-05T16:30Z",
     "injury": "Hamstring",
     "name": "Caleb Williams",
     "pos": "QB",
-    "return_date": "2026-10-11",
+    "return_date": "2026-10-18",
     "share_basis": "this season",
     "snap_share": 0.93,
     "status": "Out"
@@ -303,7 +303,7 @@
   ],
   "DEN": [
    {
-    "espn_updated": "2026-10-04T22:52Z",
+    "espn_updated": "2026-10-04T22:27Z",
     "injury": "Ribs",
     "name": "Riley Moss",
     "pos": "CB",
@@ -367,14 +367,14 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-04T20:39Z",
+    "espn_updated": "2026-10-05T17:23Z",
     "injury": "Achilles",
     "name": "Edgerrin Cooper",
     "pos": "LB",
-    "return_date": "2026-10-11",
+    "return_date": "2027-02-15",
     "share_basis": "this season",
     "snap_share": 0.82,
-    "status": "Doubtful"
+    "status": "Out"
    },
    {
     "espn_updated": "2026-09-28T18:16Z",
@@ -529,6 +529,16 @@
   ],
   "LAC": [
    {
+    "espn_updated": "2026-10-05T16:40Z",
+    "injury": "Ankle",
+    "name": "Rashawn Slater",
+    "pos": "OT",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.96,
+    "status": "Doubtful"
+   },
+   {
     "espn_updated": "2026-10-04T19:25Z",
     "injury": "Hamstring",
     "name": "Derwin James Jr.",
@@ -549,16 +559,6 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-04T23:28Z",
-    "injury": "Ankle",
-    "name": "Rashawn Slater",
-    "pos": "OT",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 0.96,
-    "status": "Questionable"
-   },
-   {
     "espn_updated": "2026-10-04T22:33Z",
     "injury": "Neck",
     "name": "Joe Alt",
@@ -570,7 +570,7 @@
    },
    {
     "espn_updated": "2026-10-04T23:31Z",
-    "injury": "Head",
+    "injury": "Concussion",
     "name": "Trevor Penning",
     "pos": "G",
     "return_date": "2026-10-11",
@@ -687,7 +687,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-04T19:01Z",
+    "espn_updated": "2026-10-05T15:49Z",
     "injury": "Calf",
     "name": "Mack Hollins",
     "pos": "WR",
@@ -835,7 +835,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-04T19:48Z",
+    "espn_updated": "2026-10-05T14:20Z",
     "injury": "Knee",
     "name": "Quinyon Mitchell",
     "pos": "CB",
@@ -957,7 +957,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-04T16:28Z",
+    "espn_updated": "2026-10-05T16:58Z",
     "injury": "Knee - MCL",
     "name": "Marcus Mariota",
     "pos": "QB",
