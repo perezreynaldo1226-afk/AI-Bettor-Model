@@ -190,7 +190,7 @@
      "tier": "top25"
     },
     "espn_event_id": "401898388",
-    "export_hash": "9026edf45f8dd0feff12c689c91faa56c819cfbd7e72d183dc04a0a5590fa9f3",
+    "export_hash": "d3648451ebd16075c2e95dac355180c157b73951e7d4e5f5faab86822d52123a",
     "game_date": "2026-10-05",
     "game_id": "NBATRIAL_401898388",
     "home_team": "ATL",
@@ -203,10 +203,10 @@
      "moneyline_home": -180
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 132,
+     "decision_correct": false,
+     "home_score": 123,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -263,7 +263,7 @@
      "tier": "top25"
     },
     "espn_event_id": "401908947",
-    "export_hash": "ca17cccf9d2a5102715fa7275e98309f3711771029fd79cfc8b04c2d68f9c574",
+    "export_hash": "d921568471a7cc8133d22b96088fd1848440ae25555fbc1530761e4d3bdd2165",
     "game_date": "2026-10-05",
     "game_id": "NBATRIAL_401908947",
     "home_team": "DET",
@@ -276,10 +276,10 @@
      "moneyline_home": -148
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 107,
+     "decision_correct": true,
+     "home_score": 109,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -336,7 +336,7 @@
      "tier": null
     },
     "espn_event_id": "401914101",
-    "export_hash": "46c13647f5ecd8688fb3e2394ad9761f27c2313a1364b5b91afd831683e182ef",
+    "export_hash": "c66011decc3eabe5a7f7b8073314d4c4cb1a1359b4d3beff30f20ec5fc1d2fc3",
     "game_date": "2026-10-05",
     "game_id": "NBATRIAL_401914101",
     "home_team": "PHI",
@@ -349,10 +349,10 @@
      "moneyline_home": -122
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 97,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "home_score": 120,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -409,7 +409,7 @@
      "tier": null
     },
     "espn_event_id": "401914102",
-    "export_hash": "dd66c1130da52471bb76891028131340be7a671ea47a07728b97659eb41e70f6",
+    "export_hash": "4c49ee117fb2964591d484b1fb10d2c60bbcfcd08a1b0d34d8cc4739fc155ad4",
     "game_date": "2026-10-06",
     "game_id": "NBATRIAL_401914102",
     "home_team": "MIL",
@@ -422,10 +422,10 @@
      "moneyline_home": 140
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 116,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "home_score": 97,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -482,7 +482,7 @@
      "tier": "top25"
     },
     "espn_event_id": "401898716",
-    "export_hash": "a8c4fc53f51f3adf2b76eee35a70353977c4dfdda2a9053b0372e919cf38e5c3",
+    "export_hash": "2cde915dba66653eff678809bdd0dd1823d9d801b238f282bb02a268f5ebc83d",
     "game_date": "2026-10-06",
     "game_id": "NBATRIAL_401898716",
     "home_team": "SAC",
@@ -495,10 +495,10 @@
      "moneyline_home": 142
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 127,
+     "decision_correct": true,
+     "home_score": 103,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -731,7 +731,7 @@
    "doc_id": "NBATRIAL_401914128"
   }
  ],
- "generated_at": "2026-10-06T00:37:37Z",
+ "generated_at": "2026-10-06T06:33:12Z",
  "n_docs": 20,
  "sport": "NBA_TRIAL"
 }
