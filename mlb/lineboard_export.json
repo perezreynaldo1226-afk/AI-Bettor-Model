@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T00:24:52.427305Z"
+    "synced_at": "2026-10-06T03:16:08.570411Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T00:24:52.427305Z"
+    "synced_at": "2026-10-06T03:16:08.570411Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T00:24:52.427305Z"
+    "synced_at": "2026-10-06T03:16:08.570411Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T00:24:52.427305Z"
+    "synced_at": "2026-10-06T03:16:08.570411Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -311,7 +311,7 @@
    "collection": "slate",
    "data": {
     "away_team": "NYY",
-    "export_hash": "925a72e1bc2f1d2531713c5487b420b1628e92f0b653287ede8f7ea88896669f",
+    "export_hash": "3ae2c94db3d935f8b3594e363977d6d039b9f94ca4808c77a8c7138d5ea46089",
     "game_date": "2026-10-05",
     "game_id": "TBA202610050",
     "home_team": "TB",
@@ -327,18 +327,6 @@
     "model": {
      "available": true,
      "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Cam Schlittler vs Freddy Peralta. Odds from Kalshi (n_books_used=1).",
-     "series": {
-      "away_wins": 0,
-      "description": "AL Division Series",
-      "fair_price_favored": -256,
-      "favored": "TB",
-      "favored_prob": 0.7192,
-      "games_in_series": 5,
-      "home_wins": 1,
-      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
-      "p_home_series": 0.7192,
-      "series_game_number": 2
-     },
      "source_snapshot_time": "2026-10-05T14:44:17.249291+00:00",
      "spread_prob": 0.6625957227070716,
      "spread_side": "NYY +1.5",
@@ -349,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T00:24:52.427305Z"
+    "synced_at": "2026-10-06T03:16:08.570411Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -396,7 +384,7 @@
    "doc_id": "TBA202610050"
   }
  ],
- "generated_at": "2026-10-06T00:24:52.427305Z",
+ "generated_at": "2026-10-06T03:16:08.570411Z",
  "n_docs": 10,
  "sport": "MLB"
 }
