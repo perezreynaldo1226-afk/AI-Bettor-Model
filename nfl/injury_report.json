@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T12:05:19.719759Z",
+ "generated_at": "2026-10-06T18:03:59.346643Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -59,7 +59,7 @@
   ],
   "BAL": [
    {
-    "espn_updated": "2026-10-05T20:57Z",
+    "espn_updated": "2026-10-06T13:11Z",
     "injury": "Ankle",
     "name": "Lamar Jackson",
     "pos": "QB",
@@ -415,7 +415,7 @@
     "injury": "Hamstring",
     "name": "Arden Key",
     "pos": "DE",
-    "return_date": "2026-10-18",
+    "return_date": "2026-10-25",
     "share_basis": "this season",
     "snap_share": 0.65,
     "status": "Out"
@@ -876,7 +876,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-05T22:23Z",
+    "espn_updated": "2026-10-05T16:58Z",
     "injury": "Knee - MCL",
     "name": "Marcus Mariota",
     "pos": "QB",
