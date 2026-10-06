@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T03:16:08.570411Z"
+    "synced_at": "2026-10-06T06:20:21.064701Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T03:16:08.570411Z"
+    "synced_at": "2026-10-06T06:20:21.064701Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T03:16:08.570411Z"
+    "synced_at": "2026-10-06T06:20:21.064701Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T03:16:08.570411Z"
+    "synced_at": "2026-10-06T06:20:21.064701Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T03:16:08.570411Z"
+    "synced_at": "2026-10-06T06:20:21.064701Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -351,7 +351,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "4e421688cb25266025e5ae18722c8d3bf25fa2c0e20e91ee58c76428a2b63f4b",
+    "export_hash": "03bd091c24d108c1086669ee208fffeaeea42d34cfa0fe68d5f61db00fdd6c36",
     "game_date": "2026-10-05",
     "game_id": "TBA202610050",
     "home_team": "TB",
@@ -362,12 +362,13 @@
      "moneyline_home": 108
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 2,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 5,
+     "resolved": true,
      "spread_correct": null,
-     "spread_decision_correct": null,
+     "spread_decision_correct": false,
      "teaser_correct": null
     },
     "season": 2026,
@@ -384,7 +385,7 @@
    "doc_id": "TBA202610050"
   }
  ],
- "generated_at": "2026-10-06T03:16:08.570411Z",
+ "generated_at": "2026-10-06T06:20:21.064701Z",
  "n_docs": 10,
  "sport": "MLB"
 }
