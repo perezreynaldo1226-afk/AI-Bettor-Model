@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T06:19:50.253383Z"
+    "synced_at": "2026-10-07T14:42:29.019810Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T06:19:50.253383Z"
+    "synced_at": "2026-10-07T14:42:29.019810Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T06:19:50.253383Z"
+    "synced_at": "2026-10-07T14:42:29.019810Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T06:19:50.253383Z"
+    "synced_at": "2026-10-07T14:42:29.019810Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T06:19:50.253383Z"
+    "synced_at": "2026-10-07T14:42:29.019810Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T06:19:50.253383Z"
+    "synced_at": "2026-10-07T14:42:29.019810Z"
    },
    "doc_id": "ATL202610060"
   },
@@ -491,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T06:19:50.253383Z"
+    "synced_at": "2026-10-07T14:42:29.019810Z"
    },
    "doc_id": "SDN202610060"
   },
@@ -537,9 +537,273 @@
     "teaser_signal": null
    },
    "doc_id": "SDN202610060"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CLE",
+    "export_hash": "1a72ac642fa677acbc4414aa4473dbaa22ed97f0face96c6afb526481ec89e1e",
+    "game_date": "2026-10-07",
+    "game_id": "CHA202610070",
+    "home_team": "CHW",
+    "kickoff_time": "2026-10-07T20:00:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 104,
+     "moneyline_home": -108,
+     "spread_away_odds": 178.0,
+     "spread_home": 1.5,
+     "spread_home_odds": -186.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Daniel Espino vs Sean Newcomb. Odds from Kalshi (n_books_used=1).",
+     "series": {
+      "away_wins": 0,
+      "description": "AL Division Series",
+      "fair_price_favored": -1003,
+      "favored": "CHW",
+      "favored_prob": 0.9094,
+      "games_in_series": 5,
+      "home_wins": 2,
+      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
+      "p_home_series": 0.9094,
+      "series_game_number": 3
+     },
+     "source_snapshot_time": "2026-10-07T14:42:20.852496+00:00",
+     "spread_prob": 0.6048356798706704,
+     "spread_side": "CLE +1.5",
+     "spread_side_team": "CLE",
+     "status": "locked",
+     "winner_prob": 0.5508151088211966,
+     "winner_side": "CHW"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-10-07T14:42:29.019810Z"
+   },
+   "doc_id": "CHA202610070"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CLE",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5508151088211966,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "e3498c835e21dbb73ac8f4cc4048bcf416c5bf023c3ae97f7117e8823cb4da66",
+    "game_date": "2026-10-07",
+    "game_id": "CHA202610070",
+    "home_team": "CHW",
+    "kickoff_time": "2026-10-07T20:00:00Z",
+    "locked_at": "2026-10-07T14:42:20.852496+00:00",
+    "market_snapshot": {
+     "moneyline_away": 104,
+     "moneyline_home": -108
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "CHA202610070"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "LAD",
+    "export_hash": "e97dd3bef3420c366cc5d24efd13788171e83104405316c7134f88fa8598810d",
+    "game_date": "2026-10-07",
+    "game_id": "ATL202610070",
+    "home_team": "ATL",
+    "kickoff_time": "2026-10-07T22:10:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": -138,
+     "moneyline_home": 133,
+     "spread_away_odds": 127.0,
+     "spread_home": 1.5,
+     "spread_home_odds": -133.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Tyler Glasnow vs Tyler Mahle. Odds from Kalshi (n_books_used=1).",
+     "series": {
+      "away_wins": 2,
+      "description": "NL Division Series",
+      "fair_price_favored": -337,
+      "favored": "LAD",
+      "favored_prob": 0.7714,
+      "games_in_series": 5,
+      "home_wins": 1,
+      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
+      "p_home_series": 0.2286,
+      "series_game_number": 4
+     },
+     "source_snapshot_time": "2026-10-07T14:42:20.852496+00:00",
+     "spread_prob": 0.6893616253401551,
+     "spread_side": "LAD +1.5",
+     "spread_side_team": "LAD",
+     "status": "locked",
+     "winner_prob": 0.5218328548877,
+     "winner_side": "LAD"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-10-07T14:42:29.019810Z"
+   },
+   "doc_id": "ATL202610070"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "LAD",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5218328548877,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "3a96425816e9e46200c2436d449cb38cc9ad29a997b821d900c25e360a439be7",
+    "game_date": "2026-10-07",
+    "game_id": "ATL202610070",
+    "home_team": "ATL",
+    "kickoff_time": "2026-10-07T22:10:00Z",
+    "locked_at": "2026-10-07T14:42:20.852496+00:00",
+    "market_snapshot": {
+     "moneyline_away": -138,
+     "moneyline_home": 133
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6893616253401551,
+     "side": "LAD +1.5",
+     "tier": "top25"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "ATL202610070"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "TB",
+    "export_hash": "5065046404531ca784a4c7096a2e9db6dfb50a2489ed730d790b8c409ec1565e",
+    "game_date": "2026-10-07",
+    "game_id": "NYA202610070",
+    "home_team": "NYY",
+    "kickoff_time": "2026-10-08T00:00:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 150,
+     "moneyline_home": -156,
+     "spread_away_odds": -150.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 144.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Nick Martinez vs Max Fried. Odds from Kalshi (n_books_used=1).",
+     "series": {
+      "away_wins": 2,
+      "description": "AL Division Series",
+      "fair_price_favored": -604,
+      "favored": "TB",
+      "favored_prob": 0.858,
+      "games_in_series": 5,
+      "home_wins": 0,
+      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
+      "p_home_series": 0.142,
+      "series_game_number": 3
+     },
+     "source_snapshot_time": "2026-10-07T14:42:20.852496+00:00",
+     "spread_prob": 0.6410490668190258,
+     "spread_side": "TB +1.5",
+     "spread_side_team": "TB",
+     "status": "locked",
+     "winner_prob": 0.5217017898738048,
+     "winner_side": "NYY"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-10-07T14:42:29.019810Z"
+   },
+   "doc_id": "NYA202610070"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "TB",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5217017898738048,
+     "side": null,
+     "tier": null
+    },
+    "export_hash": "ffa170b7584102d57f9d2cd0373e9522b815061149cbd33aa7d4629d8ec6280f",
+    "game_date": "2026-10-07",
+    "game_id": "NYA202610070",
+    "home_team": "NYY",
+    "kickoff_time": "2026-10-08T00:00:00Z",
+    "locked_at": "2026-10-07T14:42:20.852496+00:00",
+    "market_snapshot": {
+     "moneyline_away": 150,
+     "moneyline_home": -156
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "COVER",
+     "prob": 0.6410490668190258,
+     "side": "TB +1.5",
+     "tier": "top50"
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "NYA202610070"
   }
  ],
- "generated_at": "2026-10-07T06:19:50.253383Z",
- "n_docs": 14,
+ "generated_at": "2026-10-07T14:42:29.019810Z",
+ "n_docs": 20,
  "sport": "MLB"
 }
