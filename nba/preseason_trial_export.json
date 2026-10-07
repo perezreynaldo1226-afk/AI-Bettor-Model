@@ -555,7 +555,7 @@
      "tier": "top25"
     },
     "espn_event_id": "401901820",
-    "export_hash": "744c79175b7bf8892fab91ce065f0ddeefa0700902520f067563b9d5d3ef360c",
+    "export_hash": "bceb38a9fb802b532c24183804ddb2f3efe474d871a439ad727aa17ea78f3b4d",
     "game_date": "2026-10-06",
     "game_id": "NBATRIAL_401901820",
     "home_team": "CHA",
@@ -568,10 +568,10 @@
      "moneyline_home": -192
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 124,
+     "decision_correct": false,
+     "home_score": 90,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -628,7 +628,7 @@
      "tier": "top25"
     },
     "espn_event_id": "401898389",
-    "export_hash": "8f2644a4b873c2c10cafd15ff794d1c05e4625b92bb1a811c8bcedac99341a75",
+    "export_hash": "7c5b8fcd71d0dbdf164186fc9d5d4a8a4f9e54aab039bbc5ef3835037ee4aec1",
     "game_date": "2026-10-07",
     "game_id": "NBATRIAL_401898389",
     "home_team": "OKC",
@@ -641,10 +641,10 @@
      "moneyline_home": -278
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 116,
+     "decision_correct": false,
+     "home_score": 110,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -701,7 +701,7 @@
      "tier": "top25"
     },
     "espn_event_id": "401914128",
-    "export_hash": "7ac75a3407ab2e2c08abcaf756795ea2290890eb314463bab24efd89a5bf96da",
+    "export_hash": "d44be724866c6b3b2c7330d85784d97647d8e628a61abf19147a66096f4adeee",
     "game_date": "2026-10-07",
     "game_id": "NBATRIAL_401914128",
     "home_team": "UTA",
@@ -714,10 +714,10 @@
      "moneyline_home": -105
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 117,
+     "decision_correct": true,
+     "home_score": 106,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -774,7 +774,7 @@
      "tier": "top50"
     },
     "espn_event_id": "401898390",
-    "export_hash": "030e2ee44d6709159232646dd9c9e3932ca8b2b61879dad6cefe0ba5239f7bd2",
+    "export_hash": "ec162f0399ce9c7499ad8a032c8eb85f66c2ed1112296688cc4a86b0f04a2c93",
     "game_date": "2026-10-07",
     "game_id": "NBATRIAL_401898390",
     "home_team": "GSW",
@@ -787,10 +787,10 @@
      "moneyline_home": -166
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 98,
+     "decision_correct": false,
+     "home_score": 124,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -1023,7 +1023,7 @@
    "doc_id": "NBATRIAL_401908939"
   }
  ],
- "generated_at": "2026-10-07T00:38:11Z",
+ "generated_at": "2026-10-07T06:32:23Z",
  "n_docs": 28,
  "sport": "NBA_TRIAL"
 }
