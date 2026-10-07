@@ -1,6 +1,25 @@
 {
  "counted": false,
- "games": [],
- "generated_utc": "2026-10-06T22:47:36Z",
+ "games": [
+  {
+   "away": "Tampa Bay Buccaneers",
+   "ev_over": -0.03882479164318636,
+   "ev_under": -0.023375113542686066,
+   "game_id": "401872980",
+   "home": "Dallas Cowboys",
+   "indoor": true,
+   "kickoff_utc": "2026-10-09T00:15:00Z",
+   "over_odds": -115.0,
+   "p_over": 0.5141169719117841,
+   "pick": "PASS",
+   "pick_odds": null,
+   "temp_f": null,
+   "total_line": 47.5,
+   "under_odds": 101.0,
+   "venue": "AT&T Stadium",
+   "wind_mph": null
+  }
+ ],
+ "generated_utc": "2026-10-07T22:49:11Z",
  "model_sha": "588945bd0e37bc265f23776d7f015901e33f3c5827ff99900f09f0f62c14f8a5"
 }
