@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T03:16:34.678867Z"
+    "synced_at": "2026-10-07T06:19:50.253383Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T03:16:34.678867Z"
+    "synced_at": "2026-10-07T06:19:50.253383Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T03:16:34.678867Z"
+    "synced_at": "2026-10-07T06:19:50.253383Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T03:16:34.678867Z"
+    "synced_at": "2026-10-07T06:19:50.253383Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T03:16:34.678867Z"
+    "synced_at": "2026-10-07T06:19:50.253383Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T03:16:34.678867Z"
+    "synced_at": "2026-10-07T06:19:50.253383Z"
    },
    "doc_id": "ATL202610060"
   },
@@ -465,7 +465,7 @@
    "collection": "slate",
    "data": {
     "away_team": "MIL",
-    "export_hash": "f42da9e8f918ef6dca2ed54a37e7cf1fb7fdad30264f63dc40bcb5c97b3820df",
+    "export_hash": "cb2441cbacb452a907a89152b3934542be54f45889db4b68bda3e71d004051d3",
     "game_date": "2026-10-06",
     "game_id": "SDN202610060",
     "home_team": "SD",
@@ -481,18 +481,6 @@
     "model": {
      "available": true,
      "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Dustin May vs Nick Pivetta. Odds from Kalshi (n_books_used=1).",
-     "series": {
-      "away_wins": 2,
-      "description": "NL Division Series",
-      "fair_price_favored": -648,
-      "favored": "MIL",
-      "favored_prob": 0.8663,
-      "games_in_series": 5,
-      "home_wins": 0,
-      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
-      "p_home_series": 0.1337,
-      "series_game_number": 3
-     },
      "source_snapshot_time": "2026-10-06T14:41:24.442919+00:00",
      "spread_prob": 0.6469577205224972,
      "spread_side": "MIL +1.5",
@@ -503,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T03:16:34.678867Z"
+    "synced_at": "2026-10-07T06:19:50.253383Z"
    },
    "doc_id": "SDN202610060"
   },
@@ -517,7 +505,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "d17f6e207a01d964c94824c730baa089c8534157c4666fec0dd669024e17c763",
+    "export_hash": "8435ea09ff5c8788766d656de209cb9abd65538ea33609c8cfd4d8bf411f9c78",
     "game_date": "2026-10-06",
     "game_id": "SDN202610060",
     "home_team": "SD",
@@ -528,12 +516,13 @@
      "moneyline_home": -127
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 3,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 4,
+     "resolved": true,
      "spread_correct": null,
-     "spread_decision_correct": null,
+     "spread_decision_correct": true,
      "teaser_correct": null
     },
     "season": 2026,
@@ -550,7 +539,7 @@
    "doc_id": "SDN202610060"
   }
  ],
- "generated_at": "2026-10-07T03:16:34.678867Z",
+ "generated_at": "2026-10-07T06:19:50.253383Z",
  "n_docs": 14,
  "sport": "MLB"
 }
