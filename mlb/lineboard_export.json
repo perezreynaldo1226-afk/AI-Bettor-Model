@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T14:41:31.035149Z"
+    "synced_at": "2026-10-07T03:16:34.678867Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T14:41:31.035149Z"
+    "synced_at": "2026-10-07T03:16:34.678867Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T14:41:31.035149Z"
+    "synced_at": "2026-10-07T03:16:34.678867Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T14:41:31.035149Z"
+    "synced_at": "2026-10-07T03:16:34.678867Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T14:41:31.035149Z"
+    "synced_at": "2026-10-07T03:16:34.678867Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -388,7 +388,7 @@
    "collection": "slate",
    "data": {
     "away_team": "LAD",
-    "export_hash": "20a273280ebbbde7c89bbcadfe16e57ed770fbf4fbe439d44afe768b54919d66",
+    "export_hash": "97e1faea9005cf32f467d03dff9cd3c9b5b2508d361792b3b00cce3b6a277c74",
     "game_date": "2026-10-06",
     "game_id": "ATL202610060",
     "home_team": "ATL",
@@ -404,18 +404,6 @@
     "model": {
      "available": true,
      "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Yoshinobu Yamamoto vs Chris Sale. Odds from Kalshi (n_books_used=1).",
-     "series": {
-      "away_wins": 1,
-      "description": "NL Division Series",
-      "fair_price_favored": -111,
-      "favored": "ATL",
-      "favored_prob": 0.5266,
-      "games_in_series": 5,
-      "home_wins": 1,
-      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
-      "p_home_series": 0.5266,
-      "series_game_number": 3
-     },
      "source_snapshot_time": "2026-10-06T14:41:24.442919+00:00",
      "spread_prob": 0.6597368729670313,
      "spread_side": "LAD +1.5",
@@ -426,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T14:41:31.035149Z"
+    "synced_at": "2026-10-07T03:16:34.678867Z"
    },
    "doc_id": "ATL202610060"
   },
@@ -440,7 +428,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "02eeec0cc09846b8b89392d2a2cb41216232861405a0fd9916adab22bef24493",
+    "export_hash": "1c1627acd9828f2f0fd311836bcb11547e763c93f2f171b2b9d2b423c4e3be7e",
     "game_date": "2026-10-06",
     "game_id": "ATL202610060",
     "home_team": "ATL",
@@ -451,12 +439,13 @@
      "moneyline_home": 100
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 3,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 1,
+     "resolved": true,
      "spread_correct": null,
-     "spread_decision_correct": null,
+     "spread_decision_correct": true,
      "teaser_correct": null
     },
     "season": 2026,
@@ -514,7 +503,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-06T14:41:31.035149Z"
+    "synced_at": "2026-10-07T03:16:34.678867Z"
    },
    "doc_id": "SDN202610060"
   },
@@ -561,7 +550,7 @@
    "doc_id": "SDN202610060"
   }
  ],
- "generated_at": "2026-10-06T14:41:31.035149Z",
+ "generated_at": "2026-10-07T03:16:34.678867Z",
  "n_docs": 14,
  "sport": "MLB"
 }
