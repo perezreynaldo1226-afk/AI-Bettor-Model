@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T12:06:33.148244Z",
+ "generated_at": "2026-10-07T17:22:59.115253Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -153,7 +153,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-06T18:21Z",
+    "espn_updated": "2026-10-07T14:53Z",
     "injury": "Quadriceps",
     "name": "Jalen Coker",
     "pos": "WR",
@@ -243,7 +243,7 @@
     "injury": "Back",
     "name": "Dillon Gabriel",
     "pos": "QB",
-    "return_date": "2026-10-11",
+    "return_date": "2026-10-18",
     "share_basis": "last season",
     "snap_share": 0.56,
     "status": "Injured Reserve"
@@ -593,7 +593,7 @@
   ],
   "MIA": [
    {
-    "espn_updated": "2026-10-06T18:21Z",
+    "espn_updated": "2026-10-07T16:49Z",
     "injury": "Ankle",
     "name": "Caleb Douglas",
     "pos": "WR",
@@ -692,7 +692,7 @@
   "NYG": [],
   "NYJ": [
    {
-    "espn_updated": "2026-10-06T18:21Z",
+    "espn_updated": "2026-10-07T16:54Z",
     "injury": "Finger",
     "name": "Adonai Mitchell",
     "pos": "WR",
@@ -732,16 +732,6 @@
     "share_basis": "this season",
     "snap_share": 0.6,
     "status": "Doubtful"
-   },
-   {
-    "espn_updated": "2026-10-06T01:31Z",
-    "injury": "Concussion",
-    "name": "Cam Jurgens",
-    "pos": "C",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 1.0,
-    "status": "Questionable"
    },
    {
     "espn_updated": "2026-10-06T18:21Z",
@@ -872,11 +862,21 @@
     "share_basis": "this season",
     "snap_share": 0.67,
     "status": "Injured Reserve"
+   },
+   {
+    "espn_updated": "2026-10-07T16:31Z",
+    "injury": "Concussion",
+    "name": "Amani Hooker",
+    "pos": "S",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.99,
+    "status": "Questionable"
    }
   ],
   "WAS": [
    {
-    "espn_updated": "2026-10-05T16:58Z",
+    "espn_updated": "2026-10-07T16:33Z",
     "injury": "Knee - MCL",
     "name": "Marcus Mariota",
     "pos": "QB",
@@ -916,7 +916,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-06T18:21Z",
+    "espn_updated": "2026-10-07T16:39Z",
     "injury": "Hamstring",
     "name": "Terry McLaurin",
     "pos": "WR",
