@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-07T00:04:30.726368Z",
+ "generated_at": "2026-10-07T06:04:31.957801Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
   "ARI": [
    {
-    "espn_updated": "2026-10-06T00:46Z",
+    "espn_updated": "2026-10-07T00:29Z",
     "injury": "Biceps",
     "name": "Paris Johnson Jr.",
     "pos": "OT",
@@ -429,6 +429,16 @@
     "share_basis": "this season",
     "snap_share": 0.64,
     "status": "Questionable"
+   },
+   {
+    "espn_updated": "2026-10-07T02:45Z",
+    "injury": "Undisclosed",
+    "name": "Jaylon Carlies",
+    "pos": "LB",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.6,
+    "status": "Questionable"
    }
   ],
   "JAX": [
@@ -508,6 +518,16 @@
    }
   ],
   "LAC": [
+   {
+    "espn_updated": "2026-10-07T00:23Z",
+    "injury": "Undisclosed",
+    "name": "Branson Taylor",
+    "pos": "G",
+    "return_date": "2026-10-11",
+    "share_basis": "last season",
+    "snap_share": 1.0,
+    "status": "Injured Reserve"
+   },
    {
     "espn_updated": "2026-10-05T23:24Z",
     "injury": "Ankle",
@@ -595,7 +615,7 @@
   ],
   "MIN": [
    {
-    "espn_updated": "2026-10-06T00:30Z",
+    "espn_updated": "2026-10-07T00:34Z",
     "injury": "Knee - Meniscus",
     "name": "Donovan Jackson",
     "pos": "G",
