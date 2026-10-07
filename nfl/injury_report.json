@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T17:22:59.115253Z",
+ "generated_at": "2026-10-07T18:05:28.803987Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -49,7 +49,7 @@
   ],
   "BAL": [
    {
-    "espn_updated": "2026-10-06T20:50Z",
+    "espn_updated": "2026-10-07T17:19Z",
     "injury": "Ankle",
     "name": "Lamar Jackson",
     "pos": "QB",
@@ -207,7 +207,7 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-05T19:16Z",
+    "espn_updated": "2026-10-07T17:21Z",
     "injury": "Groin",
     "name": "Tee Higgins",
     "pos": "WR",
@@ -227,7 +227,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-04T18:47Z",
+    "espn_updated": "2026-10-07T17:45Z",
     "injury": "Concussion",
     "name": "Ja'Marr Chase",
     "pos": "WR",
@@ -886,7 +886,7 @@
     "status": "Doubtful"
    },
    {
-    "espn_updated": "2026-10-06T18:21Z",
+    "espn_updated": "2026-10-07T17:36Z",
     "injury": "Elbow",
     "name": "Jayden Daniels",
     "pos": "QB",
