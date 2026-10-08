@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "ATL202610060"
   },
@@ -491,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "SDN202610060"
   },
@@ -542,7 +542,7 @@
    "collection": "slate",
    "data": {
     "away_team": "CLE",
-    "export_hash": "1a72ac642fa677acbc4414aa4473dbaa22ed97f0face96c6afb526481ec89e1e",
+    "export_hash": "93209e34dbc0bf49912da1201c87ac2fd5c017d4e87f29f30cf5745acbbd871a",
     "game_date": "2026-10-07",
     "game_id": "CHA202610070",
     "home_team": "CHW",
@@ -558,18 +558,6 @@
     "model": {
      "available": true,
      "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Daniel Espino vs Sean Newcomb. Odds from Kalshi (n_books_used=1).",
-     "series": {
-      "away_wins": 0,
-      "description": "AL Division Series",
-      "fair_price_favored": -1003,
-      "favored": "CHW",
-      "favored_prob": 0.9094,
-      "games_in_series": 5,
-      "home_wins": 2,
-      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
-      "p_home_series": 0.9094,
-      "series_game_number": 3
-     },
      "source_snapshot_time": "2026-10-07T14:42:20.852496+00:00",
      "spread_prob": 0.6048356798706704,
      "spread_side": "CLE +1.5",
@@ -580,7 +568,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "CHA202610070"
   },
@@ -594,7 +582,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "e3498c835e21dbb73ac8f4cc4048bcf416c5bf023c3ae97f7117e8823cb4da66",
+    "export_hash": "87f717800ee138a289bdf01e2b8dc453616efc91e3b0e152e3eccc26103bfa56",
     "game_date": "2026-10-07",
     "game_id": "CHA202610070",
     "home_team": "CHW",
@@ -605,10 +593,11 @@
      "moneyline_home": -108
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 9,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 3,
+     "resolved": true,
      "spread_correct": null,
      "spread_decision_correct": null,
      "teaser_correct": null
@@ -668,7 +657,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "ATL202610070"
   },
@@ -756,7 +745,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-07T14:42:29.019810Z"
+    "synced_at": "2026-10-08T00:23:56.266907Z"
    },
    "doc_id": "NYA202610070"
   },
@@ -803,7 +792,7 @@
    "doc_id": "NYA202610070"
   }
  ],
- "generated_at": "2026-10-07T14:42:29.019810Z",
+ "generated_at": "2026-10-08T00:23:56.266907Z",
  "n_docs": 20,
  "sport": "MLB"
 }
