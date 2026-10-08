@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T12:06:13.873642Z",
+ "generated_at": "2026-10-08T18:04:51.466158Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -59,7 +59,7 @@
   ],
   "BAL": [
    {
-    "espn_updated": "2026-10-07T21:15Z",
+    "espn_updated": "2026-10-08T17:09Z",
     "injury": "Ankle",
     "name": "Lamar Jackson",
     "pos": "QB",
@@ -185,7 +185,7 @@
   ],
   "CHI": [
    {
-    "espn_updated": "2026-10-05T21:13Z",
+    "espn_updated": "2026-10-08T14:28Z",
     "injury": "Hamstring",
     "name": "Caleb Williams",
     "pos": "QB",
@@ -287,7 +287,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-07T20:38Z",
+    "espn_updated": "2026-10-08T17:53Z",
     "injury": "Groin",
     "name": "Tee Higgins",
     "pos": "WR",
@@ -317,16 +317,6 @@
     "share_basis": "last season",
     "snap_share": 0.56,
     "status": "Injured Reserve"
-   },
-   {
-    "espn_updated": "2026-10-08T00:38Z",
-    "injury": "Concussion",
-    "name": "Elgton Jenkins",
-    "pos": "C",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 1.0,
-    "status": "Questionable"
    },
    {
     "espn_updated": "2026-10-07T20:51Z",
@@ -981,7 +971,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-07T19:26Z",
+    "espn_updated": "2026-10-08T17:43Z",
     "injury": "Knee",
     "name": "Malik Nabers",
     "pos": "WR",
@@ -1023,7 +1013,7 @@
     "status": "Doubtful"
    },
    {
-    "espn_updated": "2026-10-07T16:54Z",
+    "espn_updated": "2026-10-08T17:23Z",
     "injury": "Finger",
     "name": "Adonai Mitchell",
     "pos": "WR",
@@ -1107,6 +1097,16 @@
   ],
   "PIT": [
    {
+    "espn_updated": "2026-10-08T15:52Z",
+    "injury": "Foot",
+    "name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "return_date": "2026-10-18",
+    "share_basis": "this season",
+    "snap_share": 0.78,
+    "status": "Out"
+   },
+   {
     "espn_updated": "2026-10-04T13:10Z",
     "injury": "Ankle",
     "name": "Jamel Dean",
@@ -1124,16 +1124,6 @@
     "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.99,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-10-07T20:16Z",
-    "injury": "Foot",
-    "name": "Michael Pittman Jr.",
-    "pos": "WR",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 0.78,
     "status": "Questionable"
    }
   ],
@@ -1257,7 +1247,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-07T16:39Z",
+    "espn_updated": "2026-10-08T16:30Z",
     "injury": "Hamstring",
     "name": "Terry McLaurin",
     "pos": "WR",
