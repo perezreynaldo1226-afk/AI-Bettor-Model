@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "TBA202610030"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "MIL202610030"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "ATL202610060"
   },
@@ -491,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "SDN202610060"
   },
@@ -568,7 +568,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "CHA202610070"
   },
@@ -645,7 +645,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "ATL202610070"
   },
@@ -722,7 +722,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T03:16:16.434977Z"
+    "synced_at": "2026-10-08T06:22:17.570441Z"
    },
    "doc_id": "NYA202610070"
   },
@@ -736,7 +736,7 @@
      "side": null,
      "tier": null
     },
-    "export_hash": "ffa170b7584102d57f9d2cd0373e9522b815061149cbd33aa7d4629d8ec6280f",
+    "export_hash": "d53b09adfa5d47d615e4943ccf18f91c82c9b7156ce07ca8873ef029a8b05a00",
     "game_date": "2026-10-07",
     "game_id": "NYA202610070",
     "home_team": "NYY",
@@ -747,12 +747,13 @@
      "moneyline_home": -156
     },
     "outcome": {
-     "away_score": null,
+     "away_score": 4,
      "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 3,
+     "resolved": true,
      "spread_correct": null,
-     "spread_decision_correct": null,
+     "spread_decision_correct": true,
      "teaser_correct": null
     },
     "season": 2026,
@@ -769,7 +770,7 @@
    "doc_id": "NYA202610070"
   }
  ],
- "generated_at": "2026-10-08T03:16:16.434977Z",
+ "generated_at": "2026-10-08T06:22:17.570441Z",
  "n_docs": 20,
  "sport": "MLB"
 }
