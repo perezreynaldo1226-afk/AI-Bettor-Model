@@ -1167,9 +1167,447 @@
     "trial_label": "PRESEASON TRIAL (not counted)"
    },
    "doc_id": "NBATRIAL_401914129"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "BOS",
+    "away_team_name": "Boston Celtics",
+    "espn_event_id": "401898392",
+    "export_hash": "5364e4f4d2a12cc64f072b8d0dd04b114f42f001d64cb69d07489b687e0d2448",
+    "game_date": "2026-10-08",
+    "game_id": "NBATRIAL_401898392",
+    "home_team": "CLE",
+    "home_team_name": "Cleveland Cavaliers",
+    "kickoff_time": "2026-10-08T23:00:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": -162,
+     "moneyline_home": 136
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-08T15:44:42Z",
+     "status": "locked",
+     "winner_prob": 0.5955383018939127,
+     "winner_side": "BOS"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401898392"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "BOS",
+    "away_team_name": "Boston Celtics",
+    "decision": {
+     "action": "PASS",
+     "prob": 0.5955383018939127,
+     "side": null,
+     "tier": null
+    },
+    "espn_event_id": "401898392",
+    "export_hash": "ab50c32b77265336f10011231e4fbe57d201a7b2ad5fdfc737b9bd6019c54422",
+    "game_date": "2026-10-08",
+    "game_id": "NBATRIAL_401898392",
+    "home_team": "CLE",
+    "home_team_name": "Cleveland Cavaliers",
+    "kickoff_time": "2026-10-08T23:00:00Z",
+    "locked_at": "2026-10-08T15:44:42Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": -162,
+     "moneyline_home": 136
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401898392"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "NOP",
+    "away_team_name": "New Orleans Pelicans",
+    "espn_event_id": "401898393",
+    "export_hash": "66e61157486e44ce84127b4390921ec42904122e9c46d2ab93b3782df9d1a57d",
+    "game_date": "2026-10-08",
+    "game_id": "NBATRIAL_401898393",
+    "home_team": "MIA",
+    "home_team_name": "Miami Heat",
+    "kickoff_time": "2026-10-08T23:30:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": 240,
+     "moneyline_home": -298
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-08T15:44:42Z",
+     "status": "locked",
+     "winner_prob": 0.6895933650500911,
+     "winner_side": "MIA"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401898393"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "NOP",
+    "away_team_name": "New Orleans Pelicans",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6895933650500911,
+     "side": "MIA",
+     "tier": "top25"
+    },
+    "espn_event_id": "401898393",
+    "export_hash": "5b63885faac1dd0bfb4cac67bcaae8b4ec0ec7dd4c2c4bb34256488d7c8f8732",
+    "game_date": "2026-10-08",
+    "game_id": "NBATRIAL_401898393",
+    "home_team": "MIA",
+    "home_team_name": "Miami Heat",
+    "kickoff_time": "2026-10-08T23:30:00Z",
+    "locked_at": "2026-10-08T15:44:42Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": 240,
+     "moneyline_home": -298
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401898393"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "PHI",
+    "away_team_name": "Philadelphia 76ers",
+    "espn_event_id": "401901823",
+    "export_hash": "2c570927bdc5846bf7a58462c5e9e5290a1a8a4fbcb7160bac149709204d7be8",
+    "game_date": "2026-10-08",
+    "game_id": "NBATRIAL_401901823",
+    "home_team": "BKN",
+    "home_team_name": "Brooklyn Nets",
+    "kickoff_time": "2026-10-08T23:30:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": -290,
+     "moneyline_home": 235
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-08T15:44:42Z",
+     "status": "locked",
+     "winner_prob": 0.7286125030607872,
+     "winner_side": "PHI"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401901823"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "PHI",
+    "away_team_name": "Philadelphia 76ers",
+    "decision": {
+     "action": "ML",
+     "prob": 0.7286125030607872,
+     "side": "PHI",
+     "tier": "top25"
+    },
+    "espn_event_id": "401901823",
+    "export_hash": "b08cbf266d5a19676b5e2e16089c53ad994fd07d1d637d709b5bfde186484814",
+    "game_date": "2026-10-08",
+    "game_id": "NBATRIAL_401901823",
+    "home_team": "BKN",
+    "home_team_name": "Brooklyn Nets",
+    "kickoff_time": "2026-10-08T23:30:00Z",
+    "locked_at": "2026-10-08T15:44:42Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": -290,
+     "moneyline_home": 235
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401901823"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "WAS",
+    "away_team_name": "Washington Wizards",
+    "espn_event_id": "401906508",
+    "export_hash": "b1110f6eb43c9b0eed526039a521286eb813026acdbb73f9dd53816b6615c7ed",
+    "game_date": "2026-10-08",
+    "game_id": "NBATRIAL_401906508",
+    "home_team": "NYK",
+    "home_team_name": "New York Knicks",
+    "kickoff_time": "2026-10-08T23:30:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": 210,
+     "moneyline_home": -258
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-08T15:44:42Z",
+     "status": "locked",
+     "winner_prob": 0.8338905023251759,
+     "winner_side": "NYK"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401906508"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "WAS",
+    "away_team_name": "Washington Wizards",
+    "decision": {
+     "action": "ML",
+     "prob": 0.8338905023251759,
+     "side": "NYK",
+     "tier": "top25"
+    },
+    "espn_event_id": "401906508",
+    "export_hash": "ae02a5a924962612680223103c6b96af227bada953da0dd346d37dbeaff3d7e3",
+    "game_date": "2026-10-08",
+    "game_id": "NBATRIAL_401906508",
+    "home_team": "NYK",
+    "home_team_name": "New York Knicks",
+    "kickoff_time": "2026-10-08T23:30:00Z",
+    "locked_at": "2026-10-08T15:44:42Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": 210,
+     "moneyline_home": -258
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401906508"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "ATL",
+    "away_team_name": "Atlanta Hawks",
+    "espn_event_id": "401898394",
+    "export_hash": "0e7f9d10dd24305c7b2bd6ead568cb84dbbe35af4ca55cd4eb6ded074a94df8b",
+    "game_date": "2026-10-09",
+    "game_id": "NBATRIAL_401898394",
+    "home_team": "SAS",
+    "home_team_name": "San Antonio Spurs",
+    "kickoff_time": "2026-10-09T00:00:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": 260,
+     "moneyline_home": -325
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-08T15:44:42Z",
+     "status": "locked",
+     "winner_prob": 0.6735353442760309,
+     "winner_side": "SAS"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401898394"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "ATL",
+    "away_team_name": "Atlanta Hawks",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6735353442760309,
+     "side": "SAS",
+     "tier": "top50"
+    },
+    "espn_event_id": "401898394",
+    "export_hash": "8cd48f0495a6ef75206cc1559a7d72b1690e4d30db7e8b26520d7d1bb2b32fcd",
+    "game_date": "2026-10-09",
+    "game_id": "NBATRIAL_401898394",
+    "home_team": "SAS",
+    "home_team_name": "San Antonio Spurs",
+    "kickoff_time": "2026-10-09T00:00:00Z",
+    "locked_at": "2026-10-08T15:44:42Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": 260,
+     "moneyline_home": -325
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401898394"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "SAC",
+    "away_team_name": "Sacramento Kings",
+    "espn_event_id": "401898717",
+    "export_hash": "170359227fe7786133cf810832906fbc474089ef97db95dc717f90be4bf0b904",
+    "game_date": "2026-10-09",
+    "game_id": "NBATRIAL_401898717",
+    "home_team": "LAL",
+    "home_team_name": "Los Angeles Lakers",
+    "kickoff_time": "2026-10-09T02:30:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": 350,
+     "moneyline_home": -455
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-08T15:44:42Z",
+     "status": "locked",
+     "winner_prob": 0.7550912347367985,
+     "winner_side": "LAL"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401898717"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "SAC",
+    "away_team_name": "Sacramento Kings",
+    "decision": {
+     "action": "ML",
+     "prob": 0.7550912347367985,
+     "side": "LAL",
+     "tier": "top25"
+    },
+    "espn_event_id": "401898717",
+    "export_hash": "b45566c4ba3f968b551f841b58d11c83802be380adb9f52594d45a202523d804",
+    "game_date": "2026-10-09",
+    "game_id": "NBATRIAL_401898717",
+    "home_team": "LAL",
+    "home_team_name": "Los Angeles Lakers",
+    "kickoff_time": "2026-10-09T02:30:00Z",
+    "locked_at": "2026-10-08T15:44:42Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": 350,
+     "moneyline_home": -455
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401898717"
   }
  ],
- "generated_at": "2026-10-08T12:35:39Z",
- "n_docs": 32,
+ "generated_at": "2026-10-08T15:44:42Z",
+ "n_docs": 44,
  "sport": "NBA_TRIAL"
 }
