@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
+    "synced_at": "2026-10-09T00:26:41.931506Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -79,160 +79,6 @@
   {
    "collection": "slate",
    "data": {
-    "away_team": "NYY",
-    "export_hash": "041b75b6435318345eda9c7d9402057a218d011a2036fb7073646be9e6dbc893",
-    "game_date": "2026-10-03",
-    "game_id": "TBA202610030",
-    "home_team": "TB",
-    "kickoff_time": "2026-10-03T22:31:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": 117,
-     "moneyline_home": -127,
-     "spread_away_odds": -178.0,
-     "spread_home": -1.5,
-     "spread_home_odds": 170.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Gerrit Cole vs Drew Rasmussen. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-10-03T18:35:49.863689+00:00",
-     "spread_prob": 0.5943018053947979,
-     "spread_side": "NYY +1.5",
-     "spread_side_team": "NYY",
-     "status": "locked",
-     "winner_prob": 0.5863487073227893,
-     "winner_side": "TB"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
-   },
-   "doc_id": "TBA202610030"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "NYY",
-    "decision": {
-     "action": "ML",
-     "prob": 0.5863487073227893,
-     "side": "TB",
-     "tier": "top25"
-    },
-    "export_hash": "52a64f283cdb5d2cd48d94aadc3f59e4f5c4ae2b386211b52e848185b341018e",
-    "game_date": "2026-10-03",
-    "game_id": "TBA202610030",
-    "home_team": "TB",
-    "kickoff_time": "2026-10-03T22:31:00Z",
-    "locked_at": "2026-10-03T18:35:49.863689+00:00",
-    "market_snapshot": {
-     "moneyline_away": 117,
-     "moneyline_home": -127
-    },
-    "outcome": {
-     "away_score": 0,
-     "decision_correct": true,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 1,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": null,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "PASS",
-     "prob": null,
-     "side": null,
-     "tier": null
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "TBA202610030"
-  },
-  {
-   "collection": "slate",
-   "data": {
-    "away_team": "SD",
-    "export_hash": "b3e394bd396bd6d620546fd0d52b86562bef3a11cc0b8636aff5c8d20691c2c1",
-    "game_date": "2026-10-03",
-    "game_id": "MIL202610030",
-    "home_team": "MIL",
-    "kickoff_time": "2026-10-04T00:30:00Z",
-    "market": {
-     "book": "Kalshi",
-     "moneyline_away": 178,
-     "moneyline_home": -186,
-     "spread_away_odds": -122.0,
-     "spread_home": -1.5,
-     "spread_home_odds": 117.0
-    },
-    "model": {
-     "available": true,
-     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Robbie Ray vs Jacob Misiorowski. Odds from Kalshi (n_books_used=1).",
-     "source_snapshot_time": "2026-10-03T18:35:49.863689+00:00",
-     "spread_prob": 0.5238286278701045,
-     "spread_side": "SD +1.5",
-     "spread_side_team": "SD",
-     "status": "locked",
-     "winner_prob": 0.6335359007876843,
-     "winner_side": "MIL"
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
-   },
-   "doc_id": "MIL202610030"
-  },
-  {
-   "collection": "decisions",
-   "data": {
-    "away_team": "SD",
-    "decision": {
-     "action": "ML",
-     "prob": 0.6335359007876843,
-     "side": "MIL",
-     "tier": "top25"
-    },
-    "export_hash": "329f10dd155aa076a761f41bed7fa610167cd8bf1d05bccf42b547c0a0f51307",
-    "game_date": "2026-10-03",
-    "game_id": "MIL202610030",
-    "home_team": "MIL",
-    "kickoff_time": "2026-10-04T00:30:00Z",
-    "locked_at": "2026-10-03T18:35:49.863689+00:00",
-    "market_snapshot": {
-     "moneyline_away": 178,
-     "moneyline_home": -186
-    },
-    "outcome": {
-     "away_score": 2,
-     "decision_correct": true,
-     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
-     "home_score": 3,
-     "resolved": true,
-     "spread_correct": null,
-     "spread_decision_correct": null,
-     "teaser_correct": null
-    },
-    "season": 2026,
-    "sport": "MLB",
-    "spread_decision": {
-     "action": "PASS",
-     "prob": null,
-     "side": null,
-     "tier": null
-    },
-    "spread_read": null,
-    "teaser_signal": null
-   },
-   "doc_id": "MIL202610030"
-  },
-  {
-   "collection": "slate",
-   "data": {
     "away_team": "CHW",
     "export_hash": "3f4a8d873adf17d332cb4ff65e44e50ec893183b56a2a1c56cd5bcf97d32df95",
     "game_date": "2026-10-05",
@@ -260,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
+    "synced_at": "2026-10-09T00:26:41.931506Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -337,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
+    "synced_at": "2026-10-09T00:26:41.931506Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -414,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
+    "synced_at": "2026-10-09T00:26:41.931506Z"
    },
    "doc_id": "ATL202610060"
   },
@@ -491,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
+    "synced_at": "2026-10-09T00:26:41.931506Z"
    },
    "doc_id": "SDN202610060"
   },
@@ -568,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
+    "synced_at": "2026-10-09T00:26:41.931506Z"
    },
    "doc_id": "CHA202610070"
   },
@@ -645,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
+    "synced_at": "2026-10-09T00:26:41.931506Z"
    },
    "doc_id": "ATL202610070"
   },
@@ -722,7 +568,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-08T06:22:17.570441Z"
+    "synced_at": "2026-10-09T00:26:41.931506Z"
    },
    "doc_id": "NYA202610070"
   },
@@ -770,7 +616,7 @@
    "doc_id": "NYA202610070"
   }
  ],
- "generated_at": "2026-10-08T06:22:17.570441Z",
- "n_docs": 20,
+ "generated_at": "2026-10-09T00:26:41.931506Z",
+ "n_docs": 16,
  "sport": "MLB"
 }
