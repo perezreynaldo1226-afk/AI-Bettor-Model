@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T12:05:48.693896Z",
+ "generated_at": "2026-10-09T18:05:08.245141Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -25,14 +25,14 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-08T00:46Z",
+    "espn_updated": "2026-10-09T17:49Z",
     "injury": "Knee",
     "name": "Andrew Wingard",
     "pos": "S",
-    "return_date": "2026-10-11",
+    "return_date": "2026-10-18",
     "share_basis": "this season",
     "snap_share": 0.76,
-    "status": "Questionable"
+    "status": "Out"
    },
    {
     "espn_updated": "2026-10-08T23:20Z",
@@ -69,14 +69,14 @@
   ],
   "BAL": [
    {
-    "espn_updated": "2026-10-08T17:09Z",
+    "espn_updated": "2026-10-09T17:34Z",
     "injury": "Ankle",
     "name": "Lamar Jackson",
     "pos": "QB",
-    "return_date": "2026-10-11",
+    "return_date": "2026-10-18",
     "share_basis": "this season",
     "snap_share": 0.88,
-    "status": "Questionable"
+    "status": "Out"
    },
    {
     "espn_updated": "2026-10-07T21:23Z",
@@ -267,7 +267,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T20:52Z",
+    "espn_updated": "2026-10-09T16:27Z",
     "injury": "Groin",
     "name": "Tee Higgins",
     "pos": "WR",
@@ -287,7 +287,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T20:33Z",
+    "espn_updated": "2026-10-09T16:29Z",
     "injury": "Concussion",
     "name": "Ja'Marr Chase",
     "pos": "WR",
@@ -361,7 +361,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-09T03:01Z",
+    "espn_updated": "2026-10-09T12:44Z",
     "injury": "Quadriceps",
     "name": "CeeDee Lamb",
     "pos": "WR",
@@ -781,7 +781,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T21:31Z",
+    "espn_updated": "2026-10-09T16:37Z",
     "injury": "Ankle",
     "name": "Ashton Jeanty",
     "pos": "RB",
@@ -803,7 +803,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T18:17Z",
+    "espn_updated": "2026-10-09T15:12Z",
     "injury": "Ankle",
     "name": "Caleb Douglas",
     "pos": "WR",
@@ -855,7 +855,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T21:37Z",
+    "espn_updated": "2026-10-09T17:09Z",
     "injury": "Hamstring",
     "name": "Jordan Addison",
     "pos": "WR",
@@ -875,7 +875,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T21:32Z",
+    "espn_updated": "2026-10-09T17:08Z",
     "injury": "Ankle",
     "name": "Justin Jefferson",
     "pos": "WR",
@@ -887,6 +887,36 @@
   ],
   "NE": [
    {
+    "espn_updated": "2026-10-09T00:01Z",
+    "injury": "Shoulder",
+    "name": "Christian Gonzalez",
+    "pos": "CB",
+    "return_date": "2026-10-18",
+    "share_basis": "this season",
+    "snap_share": 0.95,
+    "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-08T23:51Z",
+    "injury": "Neck",
+    "name": "Carlton Davis III",
+    "pos": "CB",
+    "return_date": "2026-10-18",
+    "share_basis": "this season",
+    "snap_share": 0.95,
+    "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-09T17:14Z",
+    "injury": "Calf",
+    "name": "Mack Hollins",
+    "pos": "WR",
+    "return_date": "2026-10-18",
+    "share_basis": "this season",
+    "snap_share": 0.65,
+    "status": "Out"
+   },
+   {
     "espn_updated": "2026-10-07T21:54Z",
     "injury": "Chest",
     "name": "Christian Elliss",
@@ -894,26 +924,6 @@
     "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.97,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-10-09T00:01Z",
-    "injury": "Shoulder",
-    "name": "Christian Gonzalez",
-    "pos": "CB",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 0.95,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-10-08T23:51Z",
-    "injury": "Neck",
-    "name": "Carlton Davis III",
-    "pos": "CB",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 0.95,
     "status": "Questionable"
    },
    {
@@ -934,16 +944,6 @@
     "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.89,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-10-08T19:20Z",
-    "injury": "Calf",
-    "name": "Mack Hollins",
-    "pos": "WR",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 0.65,
     "status": "Questionable"
    }
   ],
@@ -1001,7 +1001,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T20:20Z",
+    "espn_updated": "2026-10-09T17:34Z",
     "injury": "Knee",
     "name": "Malik Nabers",
     "pos": "WR",
@@ -1033,24 +1033,24 @@
   ],
   "NYJ": [
    {
-    "espn_updated": "2026-10-08T00:29Z",
+    "espn_updated": "2026-10-09T14:52Z",
     "injury": "Knee",
     "name": "Dylan Parham",
     "pos": "G",
-    "return_date": "2026-10-11",
+    "return_date": "2026-10-18",
     "share_basis": "this season",
     "snap_share": 0.86,
-    "status": "Doubtful"
+    "status": "Out"
    },
    {
-    "espn_updated": "2026-10-08T17:23Z",
+    "espn_updated": "2026-10-09T15:09Z",
     "injury": "Finger",
     "name": "Adonai Mitchell",
     "pos": "WR",
-    "return_date": "2026-10-11",
+    "return_date": "2026-10-18",
     "share_basis": "this season",
     "snap_share": 0.75,
-    "status": "Doubtful"
+    "status": "Out"
    },
    {
     "espn_updated": "2026-10-07T23:07Z",
@@ -1075,6 +1075,16 @@
     "status": "Questionable"
    },
    {
+    "espn_updated": "2026-10-09T15:34Z",
+    "injury": "Hamstring",
+    "name": "DeVonta Smith",
+    "pos": "WR",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.94,
+    "status": "Questionable"
+   },
+   {
     "espn_updated": "2026-10-09T00:23Z",
     "injury": "Knee",
     "name": "Jihaad Campbell",
@@ -1085,27 +1095,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T21:05Z",
-    "injury": "Hamstring",
-    "name": "DeVonta Smith",
-    "pos": "WR",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 0.94,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-10-09T00:31Z",
-    "injury": "Knee",
-    "name": "Quinyon Mitchell",
-    "pos": "CB",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 0.86,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-10-08T21:10Z",
+    "espn_updated": "2026-10-09T15:02Z",
     "injury": "Hamstring",
     "name": "Dontayvion Wicks",
     "pos": "WR",
@@ -1122,6 +1112,16 @@
     "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.75,
+    "status": "Questionable"
+   },
+   {
+    "espn_updated": "2026-10-08T00:27Z",
+    "injury": "Groin",
+    "name": "Marcus Epps",
+    "pos": "S",
+    "return_date": "2026-10-11",
+    "share_basis": "this season",
+    "snap_share": 0.63,
     "status": "Questionable"
    }
   ],
@@ -1203,11 +1203,11 @@
   ],
   "TB": [
    {
-    "espn_updated": "2026-10-08T22:48Z",
+    "espn_updated": "2026-10-09T15:18Z",
     "injury": "Thumb",
     "name": "Baker Mayfield",
     "pos": "QB",
-    "return_date": "2026-10-25",
+    "return_date": "2026-10-18",
     "share_basis": "this season",
     "snap_share": 0.98,
     "status": "Out"
@@ -1255,16 +1255,6 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T21:01Z",
-    "injury": "Back",
-    "name": "Carnell Tate",
-    "pos": "WR",
-    "return_date": "2026-10-11",
-    "share_basis": "this season",
-    "snap_share": 0.84,
-    "status": "Questionable"
-   },
-   {
     "espn_updated": "2026-10-08T20:59Z",
     "injury": "Knee",
     "name": "Gunnar Helm",
@@ -1307,7 +1297,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-08T16:30Z",
+    "espn_updated": "2026-10-09T16:58Z",
     "injury": "Hamstring",
     "name": "Terry McLaurin",
     "pos": "WR",
