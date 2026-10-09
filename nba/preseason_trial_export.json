@@ -1605,9 +1605,82 @@
     "trial_label": "PRESEASON TRIAL (not counted)"
    },
    "doc_id": "NBATRIAL_401898717"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "MEM",
+    "away_team_name": "Memphis Grizzlies",
+    "espn_event_id": "401908940",
+    "export_hash": "fc110666e1fd08e63115368274f4551d256f280162b2f7afd9a205c3a8c5dd3b",
+    "game_date": "2026-10-10",
+    "game_id": "NBATRIAL_401908940",
+    "home_team": "CHI",
+    "home_team_name": "Chicago Bulls",
+    "kickoff_time": "2026-10-10T00:00:00Z",
+    "market": {
+     "book": "DraftKings",
+     "moneyline_away": 120,
+     "moneyline_home": -142
+    },
+    "model": {
+     "available": true,
+     "note": "PRESEASON TRIAL -- pipeline dress rehearsal, never counted. Preseason starters play limited minutes and the model uses last season's final 10 games, so these picks say nothing about the model's real accuracy.",
+     "source_snapshot_time": "2026-10-09T15:43:57Z",
+     "status": "locked",
+     "winner_prob": 0.6771062513312467,
+     "winner_side": "CHI"
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401908940"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "MEM",
+    "away_team_name": "Memphis Grizzlies",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6771062513312467,
+     "side": "CHI",
+     "tier": "top50"
+    },
+    "espn_event_id": "401908940",
+    "export_hash": "2e0d37eaad0a4a0edea01759f76c5ad3e0b7f33fa6295766d1fa794c650e9995",
+    "game_date": "2026-10-10",
+    "game_id": "NBATRIAL_401908940",
+    "home_team": "CHI",
+    "home_team_name": "Chicago Bulls",
+    "kickoff_time": "2026-10-10T00:00:00Z",
+    "locked_at": "2026-10-09T15:43:57Z",
+    "market_snapshot": {
+     "book": "DraftKings",
+     "moneyline_away": 120,
+     "moneyline_home": -142
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2027,
+    "sport": "NBA",
+    "spread_read": null,
+    "teaser_signal": null,
+    "trial": true,
+    "trial_label": "PRESEASON TRIAL (not counted)"
+   },
+   "doc_id": "NBATRIAL_401908940"
   }
  ],
- "generated_at": "2026-10-09T12:32:32Z",
- "n_docs": 44,
+ "generated_at": "2026-10-09T15:43:57Z",
+ "n_docs": 46,
  "sport": "NBA_TRIAL"
 }
