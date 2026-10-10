@@ -56,7 +56,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_PIT_CLE"
@@ -198,7 +198,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_IND_WAS"
@@ -354,7 +354,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_ARI_NYG"
@@ -541,7 +541,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_DAL_HOU"
@@ -708,7 +708,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_GB_TB"
@@ -850,7 +850,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_JAX_CIN"
@@ -1112,7 +1112,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_LA_PHI"
@@ -1340,7 +1340,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_NE_BUF"
@@ -1595,7 +1595,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_NYJ_CHI"
@@ -1840,7 +1840,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_TEN_BAL"
@@ -2055,7 +2055,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "weather_total": {
      "book": "Pinnacle",
      "ev": 0.081,
@@ -2211,7 +2211,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_DEN_SF"
@@ -2357,7 +2357,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_KC_LV"
@@ -2584,7 +2584,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_LAC_SEA"
@@ -2849,7 +2849,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "weather_total": {
      "book": "Pinnacle",
      "ev": 0.0259,
@@ -3034,7 +3034,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 4
    },
    "doc_id": "2026_04_ATL_NO"
@@ -3215,7 +3215,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 5
    },
    "doc_id": "2026_05_TB_DAL"
@@ -3302,7 +3302,7 @@
    "collection": "slate",
    "data": {
     "away_team": "PHI",
-    "export_hash": "39816b73540fcf975fda27923d85b23442a6905ffe150c579939412cc472619a",
+    "export_hash": "e3efc5ea77618cf74a42c4f39d5d42a48ad1b6770561c15cdbb283b210e79aad",
     "game_id": "2026_05_PHI_JAX",
     "home_team": "JAX",
     "injury_report": {
@@ -3375,7 +3375,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": -0.0325,
+     "forecast_temp_f": 57.9,
+     "forecast_wind_mph": 5.8,
+     "indoor": false,
+     "line": 41.5,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_PHI_JAX"
@@ -3443,7 +3456,7 @@
    "collection": "slate",
    "data": {
     "away_team": "CHI",
-    "export_hash": "9f8032cc29a313cff35357bbf1a3df9a5e873fead34591a7eef2ad577e0e4598",
+    "export_hash": "822bc61d7aa8e41a5261112bbbf35e6aa6cac4d09d8828eb8a995ee07e1fdfb4",
     "game_id": "2026_05_CHI_GB",
     "home_team": "GB",
     "injury_report": {
@@ -3546,7 +3559,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": 0.059,
+     "forecast_temp_f": 73.5,
+     "forecast_wind_mph": 12.9,
+     "indoor": false,
+     "line": 46.0,
+     "odds": 102,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "under",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_CHI_GB"
@@ -3619,7 +3645,7 @@
    "collection": "slate",
    "data": {
     "away_team": "CIN",
-    "export_hash": "4aadf6d551f035bef049dcfaaa7c3289daf52839893903cdc4b3ed710c7b2604",
+    "export_hash": "5b5d34ef7b759c909027830b0cbecb90360d3d61ab4d0399a99552dff5eb1710",
     "game_id": "2026_05_CIN_MIA",
     "home_team": "MIA",
     "injury_report": {
@@ -3702,7 +3728,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": 0.0001,
+     "forecast_temp_f": 86.9,
+     "forecast_wind_mph": 5.7,
+     "indoor": false,
+     "line": 43.5,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_CIN_MIA"
@@ -3770,7 +3809,7 @@
    "collection": "slate",
    "data": {
     "away_team": "CLE",
-    "export_hash": "18bdf92e4fb0e08465222dec8307664d6a9dbbb56c2c65646d74fe8f61ffb66b",
+    "export_hash": "f4ef9f6bb5ee01721c997857426ca522ff637bf0da569447224c44f452975113",
     "game_id": "2026_05_CLE_NYJ",
     "home_team": "NYJ",
     "injury_report": {
@@ -3843,7 +3882,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": -0.0014,
+     "forecast_temp_f": 64.4,
+     "forecast_wind_mph": 10.3,
+     "indoor": false,
+     "line": 40.0,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_CLE_NYJ"
@@ -3916,7 +3968,7 @@
    "collection": "slate",
    "data": {
     "away_team": "HOU",
-    "export_hash": "177bf049a69ed19ec0b775da7de7aa07e067f147181197f5e592cf8cc9356aa7",
+    "export_hash": "7ac89243cc1153ca2bd44e4d31b087f90863e9c4e09ab38f15eddca632282607",
     "game_id": "2026_05_HOU_TEN",
     "home_team": "TEN",
     "injury_report": {
@@ -3980,6 +4032,14 @@
      "source": "ESPN injury feed + nflverse snap counts"
     },
     "kickoff_time": "2026-10-11T17:00:00Z",
+    "lowtotal_dog": {
+     "odds": -110,
+     "point": 7.5,
+     "preview": true,
+     "team": "TEN",
+     "test": "PREVIEW (not counted)",
+     "total_line": 37.5
+    },
     "market": {
      "moneyline_away": -375,
      "moneyline_home": 300,
@@ -3999,7 +4059,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": -0.0176,
+     "forecast_temp_f": 64.5,
+     "forecast_wind_mph": 11.7,
+     "indoor": false,
+     "line": 37.5,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_HOU_TEN"
@@ -4067,7 +4140,7 @@
    "collection": "slate",
    "data": {
     "away_team": "IND",
-    "export_hash": "c0e4a981fd2dbeeeb1fb311bfdd8e317ae829378b978a4c7648f6f5cb4e0ab69",
+    "export_hash": "12a17b8e5d79fd8e5da2de848ebd533c93f59290af93d85ce48082a7c2de79c4",
     "game_id": "2026_05_IND_PIT",
     "home_team": "PIT",
     "injury_report": {
@@ -4190,7 +4263,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": 0.0125,
+     "forecast_temp_f": 60.7,
+     "forecast_wind_mph": 9.7,
+     "indoor": false,
+     "line": 43.5,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_IND_PIT"
@@ -4263,7 +4349,7 @@
    "collection": "slate",
    "data": {
     "away_team": "LV",
-    "export_hash": "8ed5173015803a72679d715f099fc6255b95e09b6d311b65de5ff78b48feab0c",
+    "export_hash": "abeb03ad124888bb4690fb4e20739da1a7f7e80fdd3603acafbbf3908bb1e8ab",
     "game_id": "2026_05_LV_NE",
     "home_team": "NE",
     "injury_report": {
@@ -4366,7 +4452,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": 0.012,
+     "forecast_temp_f": 62.4,
+     "forecast_wind_mph": 8.8,
+     "indoor": false,
+     "line": 45.0,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_LV_NE"
@@ -4434,7 +4533,7 @@
    "collection": "slate",
    "data": {
     "away_team": "MIN",
-    "export_hash": "9386ff2b93a41e04ab78809f8a71b4398ad266e6235fb27f7bb5d6ec84dae5ca",
+    "export_hash": "a431ac64fea7df2afc41079f157ab272505d15f8db9af89017495f741361ec24",
     "game_id": "2026_05_MIN_NO",
     "home_team": "NO",
     "injury_report": {
@@ -4537,7 +4636,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": 0.0671,
+     "forecast_temp_f": null,
+     "forecast_wind_mph": null,
+     "indoor": true,
+     "line": 42.0,
+     "odds": 100,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "over",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_MIN_NO"
@@ -4610,7 +4722,7 @@
    "collection": "slate",
    "data": {
     "away_team": "NYG",
-    "export_hash": "291d833d26be9a4ba030d1c265ad43435d087ae5b4ff7ae4045bdcef1b447d92",
+    "export_hash": "ebc19376583d75645064d836efdcce6d7e44aee81b9a2643d6f2bae61c92c286",
     "game_id": "2026_05_NYG_WAS",
     "home_team": "WAS",
     "injury_report": {
@@ -4682,7 +4794,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": -0.0238,
+     "forecast_temp_f": 67.6,
+     "forecast_wind_mph": 11.9,
+     "indoor": false,
+     "line": 42.0,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_NYG_WAS"
@@ -4750,7 +4875,7 @@
    "collection": "slate",
    "data": {
     "away_team": "DEN",
-    "export_hash": "f1099c410d786c2c161e823d557d4604a1bd805119e8c368fd83c9e42466a271",
+    "export_hash": "96ca7a47e20024279ac331931cf66e6007e56b505058db646236c4caa534a9e8",
     "game_id": "2026_05_DEN_LAC",
     "home_team": "LAC",
     "injury_report": {
@@ -4853,7 +4978,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": 0.0078,
+     "forecast_temp_f": 65.0,
+     "forecast_wind_mph": 10.9,
+     "indoor": false,
+     "line": 41.5,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_DEN_LAC"
@@ -4921,7 +5059,7 @@
    "collection": "slate",
    "data": {
     "away_team": "DET",
-    "export_hash": "76d3e0c766d87f855da5bb24fcb9fe26ccb44b155ae38a06eb2b673e1a107ea6",
+    "export_hash": "9100a5feac0d07237e2c61ad339d5acb5acb4a4ffb25ee6707002f9a3a0e3e83",
     "game_id": "2026_05_DET_ARI",
     "home_team": "ARI",
     "injury_report": {
@@ -5034,7 +5172,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": -0.0042,
+     "forecast_temp_f": null,
+     "forecast_wind_mph": null,
+     "indoor": true,
+     "line": 54.5,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_DET_ARI"
@@ -5102,7 +5253,7 @@
    "collection": "slate",
    "data": {
     "away_team": "SF",
-    "export_hash": "7db4a492eb9c725b94d0fecd672e68d99ee9255d1eb77cd95f0089c7b3daa76c",
+    "export_hash": "c3d640f7a6c4b47143fa2942f8aa89c7f83fd38ff14955f93270515b2e70af0d",
     "game_id": "2026_05_SF_SEA",
     "home_team": "SEA",
     "injury_report": {
@@ -5164,7 +5315,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": 0.0223,
+     "forecast_temp_f": 58.1,
+     "forecast_wind_mph": 9.0,
+     "indoor": false,
+     "line": 46.0,
+     "odds": -107,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "under",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_SF_SEA"
@@ -5232,7 +5396,7 @@
    "collection": "slate",
    "data": {
     "away_team": "BAL",
-    "export_hash": "a5a25c4b2ef8edc5b7abed130b90149046f5cad0be3ba8ac8fb6162b960f6a7e",
+    "export_hash": "0f805d443ea056b90f12c7ac62a5205d3a3481c1a3937345388378f1cef6d97b",
     "game_id": "2026_05_BAL_ATL",
     "home_team": "ATL",
     "injury_report": {
@@ -5325,7 +5489,20 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
+    "weather_total": {
+     "book": "Pinnacle",
+     "ev": -0.0012,
+     "forecast_temp_f": null,
+     "forecast_wind_mph": null,
+     "indoor": true,
+     "line": 43.0,
+     "odds": null,
+     "preview": true,
+     "preview_generated_utc": "2026-10-10T22:48:16Z",
+     "side": "pass",
+     "test": "PREVIEW (not counted)"
+    },
     "week": 5
    },
    "doc_id": "2026_05_BAL_ATL"
@@ -5466,7 +5643,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T18:03:05.740651Z",
+    "synced_at": "2026-10-10T22:49:01.668993Z",
     "week": 5
    },
    "doc_id": "2026_05_BUF_LA"
@@ -5531,7 +5708,7 @@
    "doc_id": "2026_05_BUF_LA"
   }
  ],
- "generated_at": "2026-10-10T18:03:05.740651Z",
+ "generated_at": "2026-10-10T22:49:01.668993Z",
  "n_docs": 62,
  "sport": "NFL"
 }
