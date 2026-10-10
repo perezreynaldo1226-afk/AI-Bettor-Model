@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T12:03:37.384019Z",
+ "generated_at": "2026-10-10T18:03:05.003924Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -32,6 +32,16 @@
     "return_date": "2026-10-18",
     "share_basis": "this season",
     "snap_share": 0.76,
+    "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-10T15:35Z",
+    "injury": "Coach's Decision",
+    "name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "return_date": "2026-10-18",
+    "share_basis": "this season",
+    "snap_share": 0.74,
     "status": "Out"
    },
    {
@@ -313,7 +323,7 @@
   ],
   "DEN": [
    {
-    "espn_updated": "2026-10-08T23:41Z",
+    "espn_updated": "2026-10-10T16:16Z",
     "injury": "Ribs",
     "name": "Riley Moss",
     "pos": "CB",
@@ -431,14 +441,24 @@
   ],
   "IND": [
    {
-    "espn_updated": "2026-10-06T19:13Z",
+    "espn_updated": "2026-10-10T15:55Z",
+    "injury": "Knee",
+    "name": "Darius Slayton",
+    "pos": "WR",
+    "return_date": "2026-10-18",
+    "share_basis": "last season",
+    "snap_share": 0.81,
+    "status": "Out"
+   },
+   {
+    "espn_updated": "2026-10-10T17:51Z",
     "injury": "Hamstring",
     "name": "Arden Key",
     "pos": "DE",
-    "return_date": "2026-10-25",
+    "return_date": "2026-11-08",
     "share_basis": "this season",
     "snap_share": 0.65,
-    "status": "Out"
+    "status": "Injured Reserve"
    },
    {
     "espn_updated": "2026-10-10T02:08Z",
@@ -458,16 +478,6 @@
     "return_date": "2026-10-11",
     "share_basis": "this season",
     "snap_share": 0.84,
-    "status": "Questionable"
-   },
-   {
-    "espn_updated": "2026-10-09T21:06Z",
-    "injury": "Knee",
-    "name": "Darius Slayton",
-    "pos": "WR",
-    "return_date": "2026-10-11",
-    "share_basis": "last season",
-    "snap_share": 0.81,
     "status": "Questionable"
    },
    {
@@ -675,7 +685,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-09T18:11Z",
+    "espn_updated": "2026-10-09T17:08Z",
     "injury": "Ankle",
     "name": "Justin Jefferson",
     "pos": "WR",
@@ -804,7 +814,7 @@
   ],
   "PHI": [
    {
-    "espn_updated": "2026-10-09T20:18Z",
+    "espn_updated": "2026-10-09T15:34Z",
     "injury": "Hamstring",
     "name": "DeVonta Smith",
     "pos": "WR",
