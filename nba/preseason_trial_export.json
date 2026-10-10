@@ -1650,7 +1650,7 @@
      "tier": "top50"
     },
     "espn_event_id": "401908940",
-    "export_hash": "2e0d37eaad0a4a0edea01759f76c5ad3e0b7f33fa6295766d1fa794c650e9995",
+    "export_hash": "7511ed2948cd6150776b207207d326ac35d5a9cc89f905ba4eb67bf7cf2cf674",
     "game_date": "2026-10-10",
     "game_id": "NBATRIAL_401908940",
     "home_team": "CHI",
@@ -1663,10 +1663,10 @@
      "moneyline_home": -142
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 104,
+     "decision_correct": false,
+     "home_score": 100,
+     "resolved": true,
      "spread_correct": null,
      "teaser_correct": null
     },
@@ -1680,7 +1680,7 @@
    "doc_id": "NBATRIAL_401908940"
   }
  ],
- "generated_at": "2026-10-10T00:38:14Z",
+ "generated_at": "2026-10-10T06:31:44Z",
  "n_docs": 46,
  "sport": "NBA_TRIAL"
 }
