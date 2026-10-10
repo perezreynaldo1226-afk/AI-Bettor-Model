@@ -1,0 +1,34 @@
+{
+  "registration_id": "NFL_COMPARISON_EXPERIMENTAL_V1",
+  "status": "PROPOSED until this file is committed to the repository. The commit time is the registration time; it must be earlier than start_deadline_utc. After that, nothing in this file, rule.json, the three members or data/features.csv may change; any change starts EXPERIMENTAL_V2.",
+  "rule_file": "nfl_comparison/rule.json",
+  "rule_sha256": "cbc03ae90efa92ef776c67e9622834f669ee8fa90b04125387787ae66bef1f39",
+  "training_data_file": "nfl_comparison/data/features.csv",
+  "training_data_sha256": "3ac3bfdeb50ba914eb97ac03387f7452138cf245b86c961cdc91a7b129e19e46",
+  "members": [
+    "BASELINE_LR",
+    "STRONG_REG_LR",
+    "TREE_CHALLENGER"
+  ],
+  "member_training": "Each member is fitted at every lock on data/features.csv rows from seasons strictly before the prediction season (2018-2025 for the 2026 season); no 2026 games are used; ties excluded. Fixed hyperparameters in comparison/research.py.",
+  "runtime": "Live forecasts are fitted inside the NFL lock workflow (grade_nfl.yml) with its pinned environment: Python 3.13, pandas 2.3.3, numpy 2.5.3, scikit-learn 1.9.1. The research results in results/ were produced with scikit-learn 1.8, so live tree probabilities may differ slightly from a research re-run. Every lock_runs row records the versions used; any change of these pins is reported next to the results.",
+  "reference_models_logged_not_in_rule": [
+    "MODEL_1_0_FROZEN (deployed winner model, probability copied from the same lock run's tracker row)"
+  ],
+  "start_deadline_utc": "2026-10-14T17:00:00Z",
+  "first_eligible_lock": "The scheduled Wednesday NFL lock at or after start_deadline_utc (2026 Week 6). Only games whose comparison records were appended at or after that lock count. Weeks 1-5 of 2026 and all historical seasons are excluded from this evaluation.",
+  "prediction_deadline": "deadline_utc = prediction_timestamp_utc = the time the comparison step runs inside the lock workflow, after the official Model 1.0 lock and the injury report, before every included kickoff. Manual re-locks append NEW records; the evaluation uses the LAST record per game appended before kickoff (all records are kept).",
+  "price_selection": "For each game, among books in the v3 odds file (hardrockbet_fl, kalshi) with both moneyline sides present: the one with the most recent provider quote (snapshot_time); ties broken alphabetically. Quote age = deadline - snapshot_time; the rule PASSes when the quote is unknown, future-dated or older than 30 minutes.",
+  "eligibility": "INELIGIBLE_QB if, in nfl/injury_report.json generated in the same run, a QB of either team has a status matching ^(out|injured reserve|doubtful|physically unable|suspension|reserve|non-football) (case-insensitive; the same expression the app uses for its QB SKIP). UNKNOWN if the injury report is missing or older than 24 hours. Otherwise ELIGIBLE. Only ELIGIBLE games can produce an ML decision.",
+  "primary_metrics": [
+    "Log loss and Brier of SIMPLE_AVERAGE vs BASELINE_LR, vs MODEL_1_0_FROZEN and vs the de-vigged price used at the deadline, on the same games (all logged games, eligible or not).",
+    "Rule decisions: count, W-L-P, units and ROI at the logged price, flat 1 unit, settled from final scores; reported separately from the forecast scores."
+  ],
+  "minimum_sample_before_any_conclusion": "No conclusion before the end of the 2026 regular season. Report a 95% cluster bootstrap by week for every comparison.",
+  "not_allowed": [
+    "Changing weights or thresholds based on results.",
+    "Adding the old 2026 Week 1-5 games or historical seasons as evidence for this rule.",
+    "Treating agreement between the three members (same features) as independent confirmation."
+  ],
+  "no_bets_placed": "This registration evaluates forecasts and a hypothetical rule. Nothing is staked or placed automatically."
+}

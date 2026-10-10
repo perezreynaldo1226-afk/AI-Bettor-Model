@@ -1,0 +1,8 @@
+{
+  "version": "EXPERIMENTAL_V1",
+  "members": ["BASELINE_LR", "STRONG_REG_LR", "TREE_CHALLENGER"],
+  "min_ev": 0.05,
+  "max_age_minutes": 30,
+  "combination": "simple_average",
+  "status": "Research default only. No prospective evaluation registered yet."
+}

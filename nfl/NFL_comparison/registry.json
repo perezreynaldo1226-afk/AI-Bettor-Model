@@ -1,0 +1,40 @@
+[
+ {
+  "model": "BASELINE_LR",
+  "status": "available_research",
+  "description": "Chronological refit of Model 1.0 architecture; deployed artifact unchanged."
+ },
+ {
+  "model": "STRONG_REG_LR",
+  "status": "available_research",
+  "description": "Original challenger: stronger regularization on identical features."
+ },
+ {
+  "model": "TREE_CHALLENGER",
+  "status": "available_research",
+  "description": "Original challenger: shallow histogram gradient boosting on identical features."
+ },
+ {
+  "model": "ShamgarBN/nfl-bet-engine",
+  "status": "runner_ready_not_executed",
+  "commit": "9aa4326c96d6aa5d771b7b68be8226d9f96a7023",
+  "license": "MIT (LICENSE present at inspected commit; HEAD unchanged on 2026-10-09)",
+  "reason": "Cannot run in the integration sandbox (no Python 3.13 LightGBM/DuckDB; package index blocked). Reproduction path: workflow nfl_external_bet_engine_v1.yml (manual) runs the repo's own locked environment at the exact commit and exports all-game probabilities through external/runners/nfl_bet_engine_export_v1.py.",
+  "audit": "Static audit 2026-10-09 (EXTERNAL_AUDIT_ADDENDUM_2026_10_09.md): closing spread/total/moneyline are model inputs; lookahead, ol_continuity, qb_form, qb_tier, injuries, star_players, surface_weather and officiating features use information not available before kickoff; refit is per season; isotonic calibrators are fit on pooled out-of-fold predictions and are not applied.",
+  "variants": {
+   "EXT_NFL_BET_ENGINE_SAFE": "those groups dropped + lookahead.build no-op; reference only until independent reproduction and leakage validation are completed",
+   "EXT_NFL_BET_ENGINE_AS_IS": "unchanged repo; reference only, never ranked"
+  },
+  "live_member": false,
+  "next_step": "Owner runs the workflow once; results land in nfl_comparison/external/results/. Any live use would be a NEW registered version, never a change to EXPERIMENTAL_V1."
+ },
+ {
+  "model": "moiz-manzoor/nfl-game-predictor",
+  "status": "unavailable_license_unconfirmed",
+  "commit": "8677d3851cf923829e0dab214ba0f0bcbc522d4b",
+  "license": "No LICENSE file at HEAD 8677d3851cf9 (re-checked 2026-10-09)",
+  "reason": "Public code is not permission to copy or run it inside this project. Blocked until the author grants a license; a draft request is in EXTERNAL_AUDIT_ADDENDUM_2026_10_09.md.",
+  "audit": "README discloses regularization tuned on reported test periods and limited feature leakage checks.",
+  "live_member": false
+ }
+]
