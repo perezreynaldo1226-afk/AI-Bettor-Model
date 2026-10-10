@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-09T00:26:41.931506Z"
+    "synced_at": "2026-10-10T14:40:43.288424Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-09T00:26:41.931506Z"
+    "synced_at": "2026-10-10T14:40:43.288424Z"
    },
    "doc_id": "CLE202610050"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-09T00:26:41.931506Z"
+    "synced_at": "2026-10-10T14:40:43.288424Z"
    },
    "doc_id": "TBA202610050"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-09T00:26:41.931506Z"
+    "synced_at": "2026-10-10T14:40:43.288424Z"
    },
    "doc_id": "ATL202610060"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-09T00:26:41.931506Z"
+    "synced_at": "2026-10-10T14:40:43.288424Z"
    },
    "doc_id": "SDN202610060"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-09T00:26:41.931506Z"
+    "synced_at": "2026-10-10T14:40:43.288424Z"
    },
    "doc_id": "CHA202610070"
   },
@@ -491,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-09T00:26:41.931506Z"
+    "synced_at": "2026-10-10T14:40:43.288424Z"
    },
    "doc_id": "ATL202610070"
   },
@@ -568,7 +568,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-09T00:26:41.931506Z"
+    "synced_at": "2026-10-10T14:40:43.288424Z"
    },
    "doc_id": "NYA202610070"
   },
@@ -614,9 +614,97 @@
     "teaser_signal": null
    },
    "doc_id": "NYA202610070"
+  },
+  {
+   "collection": "slate",
+   "data": {
+    "away_team": "CHW",
+    "export_hash": "8c4d6462f8dc9cf73474361c8313212c3389498623b58b1a628c97cf2090d9dc",
+    "game_date": "2026-10-10",
+    "game_id": "CLE202610100",
+    "home_team": "CLE",
+    "kickoff_time": "2026-10-11T00:01:00Z",
+    "market": {
+     "book": "Kalshi",
+     "moneyline_away": 127,
+     "moneyline_home": -133,
+     "spread_away_odds": -178.0,
+     "spread_home": -1.5,
+     "spread_home_odds": 170.0
+    },
+    "model": {
+     "available": true,
+     "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Sean Burke vs Gavin Williams. Odds from Kalshi (n_books_used=1).",
+     "series": {
+      "away_wins": 2,
+      "description": "AL Division Series",
+      "fair_price_favored": -170,
+      "favored": "CLE",
+      "favored_prob": 0.629,
+      "games_in_series": 5,
+      "home_wins": 2,
+      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
+      "p_home_series": 0.629,
+      "series_game_number": 5
+     },
+     "source_snapshot_time": "2026-10-10T14:40:39.482715+00:00",
+     "spread_prob": 0.5282391997097328,
+     "spread_side": "CHW +1.5",
+     "spread_side_team": "CHW",
+     "status": "locked",
+     "winner_prob": 0.6289602819301159,
+     "winner_side": "CLE"
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "synced_at": "2026-10-10T14:40:43.288424Z"
+   },
+   "doc_id": "CLE202610100"
+  },
+  {
+   "collection": "decisions",
+   "data": {
+    "away_team": "CHW",
+    "decision": {
+     "action": "ML",
+     "prob": 0.6289602819301159,
+     "side": "CLE",
+     "tier": "top25"
+    },
+    "export_hash": "7598d6a796d2c4bf65175d6468f121d0f3c93fac2a1954a9c3252c39e17f6d26",
+    "game_date": "2026-10-10",
+    "game_id": "CLE202610100",
+    "home_team": "CLE",
+    "kickoff_time": "2026-10-11T00:01:00Z",
+    "locked_at": "2026-10-10T14:40:39.482715+00:00",
+    "market_snapshot": {
+     "moneyline_away": 127,
+     "moneyline_home": -133
+    },
+    "outcome": {
+     "away_score": null,
+     "decision_correct": null,
+     "home_score": null,
+     "resolved": false,
+     "spread_correct": null,
+     "spread_decision_correct": null,
+     "teaser_correct": null
+    },
+    "season": 2026,
+    "sport": "MLB",
+    "spread_decision": {
+     "action": "PASS",
+     "prob": null,
+     "side": null,
+     "tier": null
+    },
+    "spread_read": null,
+    "teaser_signal": null
+   },
+   "doc_id": "CLE202610100"
   }
  ],
- "generated_at": "2026-10-09T00:26:41.931506Z",
- "n_docs": 16,
+ "generated_at": "2026-10-10T14:40:43.288424Z",
+ "n_docs": 18,
  "sport": "MLB"
 }
