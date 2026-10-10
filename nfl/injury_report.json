@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T06:04:14.610820Z",
+ "generated_at": "2026-10-10T12:03:37.384019Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -550,7 +550,7 @@
   "LAC": [
    {
     "espn_updated": "2026-10-07T00:23Z",
-    "injury": "Undisclosed",
+    "injury": "Neck",
     "name": "Branson Taylor",
     "pos": "G",
     "return_date": "2026-10-11",

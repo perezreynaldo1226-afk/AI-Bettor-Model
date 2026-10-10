@@ -56,7 +56,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_PIT_CLE"
@@ -198,7 +198,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_IND_WAS"
@@ -354,7 +354,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_ARI_NYG"
@@ -541,7 +541,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_DAL_HOU"
@@ -708,7 +708,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_GB_TB"
@@ -850,7 +850,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_JAX_CIN"
@@ -1112,7 +1112,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_LA_PHI"
@@ -1340,7 +1340,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_NE_BUF"
@@ -1595,7 +1595,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_NYJ_CHI"
@@ -1840,7 +1840,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_TEN_BAL"
@@ -2055,7 +2055,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "weather_total": {
      "book": "Pinnacle",
      "ev": 0.081,
@@ -2211,7 +2211,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_DEN_SF"
@@ -2357,7 +2357,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_KC_LV"
@@ -2584,7 +2584,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_LAC_SEA"
@@ -2849,7 +2849,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "weather_total": {
      "book": "Pinnacle",
      "ev": 0.0259,
@@ -3034,7 +3034,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 4
    },
    "doc_id": "2026_04_ATL_NO"
@@ -3215,7 +3215,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_TB_DAL"
@@ -3375,7 +3375,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_PHI_JAX"
@@ -3546,7 +3546,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_CHI_GB"
@@ -3702,7 +3702,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_CIN_MIA"
@@ -3843,7 +3843,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_CLE_NYJ"
@@ -3999,7 +3999,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_HOU_TEN"
@@ -4190,7 +4190,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_IND_PIT"
@@ -4366,7 +4366,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_LV_NE"
@@ -4537,7 +4537,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_MIN_NO"
@@ -4682,7 +4682,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_NYG_WAS"
@@ -4750,11 +4750,11 @@
    "collection": "slate",
    "data": {
     "away_team": "DEN",
-    "export_hash": "66c5878c3f8a7a9d4c0eada152222f3f25e11e276e05b545a33cba83dee85c6c",
+    "export_hash": "aed8838e6e48ae03e2d591ca996c0c7f640d7f54a5d7a8184cd468cc7e6eea65",
     "game_id": "2026_05_DEN_LAC",
     "home_team": "LAC",
     "injury_report": {
-     "as_of": "2026-10-10T06:04:14.610820Z",
+     "as_of": "2026-10-10T12:03:37.384019Z",
      "away": [
       {
        "espn_updated": "2026-10-08T23:41Z",
@@ -4770,7 +4770,7 @@
      "home": [
       {
        "espn_updated": "2026-10-07T00:23Z",
-       "injury": "Undisclosed",
+       "injury": "Neck",
        "name": "Branson Taylor",
        "pos": "G",
        "return_date": "2026-10-11",
@@ -4853,7 +4853,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_DEN_LAC"
@@ -5024,7 +5024,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_DET_ARI"
@@ -5154,7 +5154,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_SF_SEA"
@@ -5315,7 +5315,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_BAL_ATL"
@@ -5456,7 +5456,7 @@
     },
     "season": 2026,
     "sport": "NFL",
-    "synced_at": "2026-10-10T06:04:15.830217Z",
+    "synced_at": "2026-10-10T12:03:39.146084Z",
     "week": 5
    },
    "doc_id": "2026_05_BUF_LA"
@@ -5521,7 +5521,7 @@
    "doc_id": "2026_05_BUF_LA"
   }
  ],
- "generated_at": "2026-10-10T06:04:15.830217Z",
+ "generated_at": "2026-10-10T12:03:39.146084Z",
  "n_docs": 62,
  "sport": "NFL"
 }
