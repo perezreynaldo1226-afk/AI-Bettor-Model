@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T00:04:16.445375Z",
+ "generated_at": "2026-10-11T06:05:05.217304Z",
  "rule": "key = avg snap share >= 60% (QB >= 50%) in games played; every status except Active",
  "source": "ESPN injury feed + nflverse snap counts",
  "teams": {
@@ -15,7 +15,7 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-10T21:14Z",
+    "espn_updated": "2026-10-11T03:58Z",
     "injury": "Ankle",
     "name": "Isaiah Adams",
     "pos": "G",
@@ -388,7 +388,7 @@
   ],
   "HOU": [
    {
-    "espn_updated": "2026-10-09T00:59Z",
+    "espn_updated": "2026-10-11T03:19Z",
     "injury": "Foot",
     "name": "Braden Smith",
     "pos": "OT",
@@ -516,7 +516,7 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-09T00:29Z",
+    "espn_updated": "2026-10-11T02:14Z",
     "injury": "Hip",
     "name": "Quentin Lake",
     "pos": "S",
@@ -578,7 +578,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-10T02:19Z",
+    "espn_updated": "2026-10-11T03:33Z",
     "injury": "Concussion",
     "name": "Trevor Penning",
     "pos": "G",
@@ -748,7 +748,7 @@
     "status": "Questionable"
    },
    {
-    "espn_updated": "2026-10-10T20:49Z",
+    "espn_updated": "2026-10-11T01:36Z",
     "injury": "Illness",
     "name": "Nathan Shepherd",
     "pos": "DT",
@@ -954,7 +954,7 @@
     "status": "Out"
    },
    {
-    "espn_updated": "2026-10-10T01:26Z",
+    "espn_updated": "2026-10-11T01:02Z",
     "injury": "Ankle",
     "name": "Trey Amos",
     "pos": "CB",
@@ -964,7 +964,7 @@
     "status": "Injured Reserve"
    },
    {
-    "espn_updated": "2026-10-10T00:04Z",
+    "espn_updated": "2026-10-11T00:32Z",
     "injury": "Hamstring",
     "name": "Terry McLaurin",
     "pos": "WR",
