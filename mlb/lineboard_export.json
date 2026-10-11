@@ -30,7 +30,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-11T00:24:09.091735Z"
+    "synced_at": "2026-10-11T03:16:12.102253Z"
    },
    "doc_id": "NYA202609270"
   },
@@ -106,7 +106,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-11T00:24:09.091735Z"
+    "synced_at": "2026-10-11T03:16:12.102253Z"
    },
    "doc_id": "ATL202610060"
   },
@@ -183,7 +183,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-11T00:24:09.091735Z"
+    "synced_at": "2026-10-11T03:16:12.102253Z"
    },
    "doc_id": "SDN202610060"
   },
@@ -260,7 +260,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-11T00:24:09.091735Z"
+    "synced_at": "2026-10-11T03:16:12.102253Z"
    },
    "doc_id": "CHA202610070"
   },
@@ -337,7 +337,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-11T00:24:09.091735Z"
+    "synced_at": "2026-10-11T03:16:12.102253Z"
    },
    "doc_id": "ATL202610070"
   },
@@ -414,7 +414,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-11T00:24:09.091735Z"
+    "synced_at": "2026-10-11T03:16:12.102253Z"
    },
    "doc_id": "NYA202610070"
   },
@@ -465,7 +465,7 @@
    "collection": "slate",
    "data": {
     "away_team": "CHW",
-    "export_hash": "8c4d6462f8dc9cf73474361c8313212c3389498623b58b1a628c97cf2090d9dc",
+    "export_hash": "af56ea8d40f587183b946f2da1e186a1526959b4f59ef06839287ad670f557e7",
     "game_date": "2026-10-10",
     "game_id": "CLE202610100",
     "home_team": "CLE",
@@ -481,18 +481,6 @@
     "model": {
      "available": true,
      "note": "Locked pregame by the tracker (MLB_MODEL_C_V1_10FEAT_LIVE_V3_REGSEASON_ONLY). Probable starters Sean Burke vs Gavin Williams. Odds from Kalshi (n_books_used=1).",
-     "series": {
-      "away_wins": 2,
-      "description": "AL Division Series",
-      "fair_price_favored": -170,
-      "favored": "CLE",
-      "favored_prob": 0.629,
-      "games_in_series": 5,
-      "home_wins": 2,
-      "method": "per-game model probability for this game applied to every remaining game; information only, not a validated pick",
-      "p_home_series": 0.629,
-      "series_game_number": 5
-     },
      "source_snapshot_time": "2026-10-10T14:40:39.482715+00:00",
      "spread_prob": 0.5282391997097328,
      "spread_side": "CHW +1.5",
@@ -503,7 +491,7 @@
     },
     "season": 2026,
     "sport": "MLB",
-    "synced_at": "2026-10-11T00:24:09.091735Z"
+    "synced_at": "2026-10-11T03:16:12.102253Z"
    },
    "doc_id": "CLE202610100"
   },
@@ -517,7 +505,7 @@
      "side": "CLE",
      "tier": "top25"
     },
-    "export_hash": "7598d6a796d2c4bf65175d6468f121d0f3c93fac2a1954a9c3252c39e17f6d26",
+    "export_hash": "9dbe05c080d50d025a729a9e960e65cfe8f1d5cd7f69852e1c261a8a0dc60eb8",
     "game_date": "2026-10-10",
     "game_id": "CLE202610100",
     "home_team": "CLE",
@@ -528,10 +516,11 @@
      "moneyline_home": -133
     },
     "outcome": {
-     "away_score": null,
-     "decision_correct": null,
-     "home_score": null,
-     "resolved": false,
+     "away_score": 0,
+     "decision_correct": true,
+     "graded_source": "statsapi.mlb.com final score via the GitHub Actions graders",
+     "home_score": 2,
+     "resolved": true,
      "spread_correct": null,
      "spread_decision_correct": null,
      "teaser_correct": null
@@ -550,7 +539,7 @@
    "doc_id": "CLE202610100"
   }
  ],
- "generated_at": "2026-10-11T00:24:09.091735Z",
+ "generated_at": "2026-10-11T03:16:12.102253Z",
  "n_docs": 14,
  "sport": "MLB"
 }
